@@ -1,76 +1,478 @@
-name: Check Jobs
+# Job Tracker Config - ROBOTICS / MECHANICAL / MEDICAL-DEVICE profile
+# ====================================================================
+#
+# Same engine as the DS/AI version - only this file differs.
+# Targets robotics, mechanical, mechatronics, controls, embedded, and
+# medical-device R&D roles for an early-career / new-grad candidate.
+#
+# Companies marked `enabled: false` need their ATS values verified.
+# Use `python -m src.verify "Company Name"` to test before enabling.
 
-on:
-  schedule:
-    - cron: '7,22,37,52 * * * *'   # ~every 15 min, offset from the top of the hour for reliability
-  workflow_dispatch:               # allow manual triggering from the Actions tab
-    inputs:
-      seed:
-        description: 'Seed mode: mark all current jobs as seen without alerting (use on first run)'
-        type: boolean
-        default: false
-      dry_run:
-        description: 'Dry run: do not send Telegram messages'
-        type: boolean
-        default: false
+max_workers: 12
 
-# Required to commit the updated state.json back to the repo
-permissions:
-  contents: write
+# ---------------- FILTER ----------------
+filter:
+  min_score: 3
+  require_location_match: true
 
-# Only one run at a time; queue (don't cancel) so state commits don't collide
-concurrency:
-  group: check-jobs
-  cancel-in-progress: false
+  include_keywords:
+    # Robotics core
+    - robotics engineer
+    - robotics software
+    - robot
+    - ros
+    - ros 2
+    - motion planning
+    - manipulation
+    - perception engineer
+    - autonomy
+    - autonomous
+    - mechatronics
+    - controls engineer
+    - control systems
+    - actuation
+    # Mechanical
+    - mechanical engineer
+    - mechanical design
+    - design engineer
+    - product development engineer
+    - r&d engineer
+    - research and development
+    - fea
+    - dfm
+    # Embedded / systems / sensors
+    - embedded systems
+    - embedded software
+    - firmware
+    - sensor integration
+    - sensor systems
+    - systems engineer
+    - integration engineer
+    - hardware engineer
+    # Test / reliability / automation
+    - test engineer
+    - hardware test
+    - reliability engineer
+    - automation engineer
+    - manufacturing engineer
+    - applications engineer
+    - field engineer
+    - field robotics
+    # Medical device / surgical / wearable
+    - medical device
+    - medical robotics
+    - surgical robotics
+    - wearable
+    - rehabilitation
+    - imaging hardware
 
-jobs:
-  check:
-    runs-on: ubuntu-latest
-    timeout-minutes: 8
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 1
+  exclude_keywords:
+    # Seniority disqualifiers (matched as whole words in title)
+    - senior
+    - sr
+    - staff
+    - principal
+    - lead
+    - director
+    - manager
+    - vp
+    - head of
+    - chief
+    - fellow
+    # Wrong job families
+    - sales
+    - account executive
+    - recruiter
+    - intern
+    - internship
+    - technician          # often non-degreed shop roles; remove if you want these
+    - marketing
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-          cache: 'pip'
+  # International-student safety net: disqualify roles that require
+  # US citizenship / clearance / ITAR (common in aerospace & defense).
+  # These usually appear in the description, so we check ANYWHERE.
+  hard_exclude_anywhere:
+    - security clearance
+    - active clearance
+    - ts/sci
+    - secret clearance
+    - top secret
+    - must be a u.s. citizen
+    - u.s. citizenship is required
+    - us citizenship is required
+    - u.s. citizenship required
+    - itar
+    - export control
 
-      - name: Install dependencies
-        run: pip install -r requirements.txt
+  level_signals_positive:
+    - new grad
+    - new graduate
+    - university grad
+    - university graduate
+    - early career
+    - early-career
+    - entry level
+    - entry-level
+    - associate engineer
+    - "0-2 years"
+    - "0 to 2 years"
+    - "1-2 years"
+    - "2026"
+    - "2027"
+    - masters
+    - "master's"
+    - recent graduate
+    - rotational
+    - graduate program
 
-      - name: Run job tracker
-        env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID:   ${{ secrets.TELEGRAM_CHAT_ID }}
-          LOG_LEVEL: INFO
-        run: |
-          ARGS=""
-          if [ "${{ inputs.seed }}" = "true" ]; then ARGS="$ARGS --seed"; fi
-          if [ "${{ inputs.dry_run }}" = "true" ]; then ARGS="$ARGS --dry-run"; fi
-          python -m src.main $ARGS
+  locations:
+    - united states
+    - usa
+    - "u.s."
+    - " us "
+    - " us,"
+    - remote
+    - new york
+    - "ny,"
+    - " ny "
+    - new jersey
+    - "nj,"
+    - california
+    - "ca,"
+    - san francisco
+    - bay area
+    - sunnyvale
+    - santa clara
+    - san jose
+    - mountain view
+    - palo alto
+    - boston
+    - cambridge
+    - "ma,"
+    - waltham
+    - seattle
+    - redmond
+    - "wa,"
+    - austin
+    - "tx,"
+    - pittsburgh
+    - "pa,"
+    - minneapolis
+    - minnesota
+    - "mn,"        # Medtronic
+    - michigan
+    - "mi,"        # Stryker
+    - indiana
+    - "in,"        # Zimmer Biomet
+    - colorado
+    - "co,"
+    - oregon
+    - "or,"        # Agility Robotics
 
-      - name: Commit updated state
-        run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add state.json
-          if git diff --quiet --staged; then
-            echo "No state changes."
-            exit 0
-          fi
-          git commit -m "chore: update state [skip ci]"
-          for attempt in 1 2 3 4 5; do
-            if git push; then
-              echo "Push succeeded on attempt $attempt."
-              exit 0
-            fi
-            echo "Push rejected (attempt $attempt) — pulling latest and retrying..."
-            git pull --rebase --autostash -X ours origin main || git rebase --abort
-            sleep 2
-          done
-          echo "Failed to push after 5 attempts."
-          exit 1
+# ---------------- COMPANIES ----------------
+companies:
+
+  # ===== TIER 1: MEDICAL DEVICE (strongest fit) =====
+  - name: Medtronic
+    fetcher: workday
+    host: medtronic.wd1.myworkdayjobs.com
+    tenant: medtronic
+    site: MedtronicCareers
+    enabled: true              # VERIFIED
+
+  - name: Stryker
+    fetcher: workday
+    host: stryker.wd1.myworkdayjobs.com
+    tenant: stryker
+    site: StrykerCareers
+    enabled: true              # VERIFIED
+
+  - name: Philips
+    fetcher: workday
+    host: philips.wd3.myworkdayjobs.com
+    tenant: philips
+    site: jobs-and-careers
+    enabled: false             # host VERIFIED, site name needs checking
+
+  - name: Intuitive Surgical
+    fetcher: greenhouse
+    slug: intuitivesurgical
+    enabled: false             # NOTE: uses careers.intuitive.com (custom). Needs a custom fetcher.
+
+  - name: Johnson & Johnson MedTech
+    fetcher: workday
+    host: jnj.wd5.myworkdayjobs.com
+    tenant: jnj
+    site: jnjcareers
+    enabled: false             # VERIFY site
+
+  - name: Boston Scientific
+    fetcher: workday
+    host: bostonscientific.wd5.myworkdayjobs.com
+    tenant: bostonscientific
+    site: Boston_Scientific_Careers
+    enabled: false             # VERIFY
+
+  - name: Zimmer Biomet
+    fetcher: workday
+    host: zimmerbiomet.wd5.myworkdayjobs.com
+    tenant: zimmerbiomet
+    site: Zimmer_Biomet_Careers
+    enabled: false             # VERIFY
+
+  - name: GE HealthCare
+    fetcher: workday
+    host: gehealthcare.wd5.myworkdayjobs.com
+    tenant: gehealthcare
+    site: GEHealthCare_Careers
+    enabled: false             # VERIFY
+
+  - name: Siemens Healthineers
+    fetcher: workday
+    host: siemens.wd3.myworkdayjobs.com
+    tenant: siemens
+    site: SHS_Careers
+    enabled: false             # VERIFY (may use SuccessFactors, not Workday)
+
+  - name: BD (Becton Dickinson)
+    fetcher: workday
+    host: bd.wd1.myworkdayjobs.com
+    tenant: bd
+    site: BD_External_Careers
+    enabled: false             # VERIFY
+
+  # ===== TIER 2: ROBOTICS COMPANIES =====
+  - name: Amazon Robotics
+    fetcher: amazon
+    search_query: robotics
+    enabled: true              # uses amazon.jobs; filter catches robotics roles
+
+  - name: Boston Dynamics
+    fetcher: greenhouse
+    slug: bostondynamics
+    enabled: true              # best-guess slug; verify if it errors
+
+  - name: Agility Robotics
+    fetcher: greenhouse
+    slug: agilityrobotics
+    enabled: true
+
+  - name: Apptronik
+    fetcher: greenhouse
+    slug: apptronik
+    enabled: true
+
+  - name: Covariant
+    fetcher: greenhouse
+    slug: covariant
+    enabled: true
+
+  - name: Figure AI
+    fetcher: ashby
+    slug: figure
+    enabled: false             # VERIFY ats + slug
+
+  - name: Collaborative Robotics
+    fetcher: ashby
+    slug: collaborativerobotics
+    enabled: false             # VERIFY
+
+  - name: Intrinsic
+    fetcher: greenhouse
+    slug: intrinsic
+    enabled: false             # Alphabet co; VERIFY (may route through Google)
+
+  - name: Dexterity AI
+    fetcher: greenhouse
+    slug: dexterity
+    enabled: false             # VERIFY
+
+  - name: Path Robotics
+    fetcher: greenhouse
+    slug: pathrobotics
+    enabled: false             # VERIFY
+
+  # ===== TIER 3: AUTONOMOUS VEHICLES / DRONES =====
+  - name: Waymo
+    fetcher: greenhouse
+    slug: waymo
+    enabled: true
+
+  - name: Zoox
+    fetcher: greenhouse
+    slug: zoox
+    enabled: true
+
+  - name: Skydio
+    fetcher: greenhouse
+    slug: skydio
+    enabled: true              # VERIFIED
+
+  - name: Shield AI
+    fetcher: greenhouse
+    slug: shieldai
+    enabled: true
+
+  - name: Anduril
+    fetcher: greenhouse
+    slug: andurilindustries
+    enabled: true              # best-guess slug
+
+  - name: Zipline
+    fetcher: lever
+    slug: zipline
+    enabled: true              # best-guess (Zipline uses Lever)
+
+  - name: Applied Intuition
+    fetcher: ashby
+    slug: applied-intuition
+    enabled: false             # VERIFY
+
+  - name: Aurora
+    fetcher: greenhouse
+    slug: aurorainnovation
+    enabled: false             # VERIFY slug
+
+  - name: Latitude AI
+    fetcher: greenhouse
+    slug: latitudeai
+    enabled: false             # VERIFY
+
+  - name: Tesla
+    fetcher: greenhouse
+    slug: tesla
+    enabled: false             # NOTE: Tesla uses custom careers site; needs a custom fetcher
+
+  # ===== TIER 4: INDUSTRIAL AUTOMATION (mostly custom/SuccessFactors) =====
+  - name: Rockwell Automation
+    fetcher: workday
+    host: rockwellautomation.wd1.myworkdayjobs.com
+    tenant: rockwellautomation
+    site: External_Rockwell_Careers
+    enabled: false             # VERIFY
+
+  - name: ABB
+    fetcher: workday
+    host: abb.wd3.myworkdayjobs.com
+    tenant: abb
+    site: ABB_Careers
+    enabled: false             # VERIFY (likely custom)
+
+  - name: FANUC America
+    fetcher: greenhouse
+    slug: fanucamerica
+    enabled: false             # VERIFY (likely custom)
+
+  - name: Universal Robots
+    fetcher: greenhouse
+    slug: universalrobots
+    enabled: false             # VERIFY
+
+  # ===== TIER 5: BIG TECH (robotics/embedded teams) =====
+  - name: NVIDIA
+    fetcher: workday
+    host: nvidia.wd5.myworkdayjobs.com
+    tenant: nvidia
+    site: NVIDIAExternalCareerSite
+    enabled: true              # VERIFIED
+
+  - name: Apple
+    fetcher: apple
+    search_query: robotics
+    enabled: true
+
+  - name: Qualcomm
+    fetcher: workday
+    host: qualcomm.wd5.myworkdayjobs.com
+    tenant: qualcomm
+    site: External
+    enabled: false             # VERIFY
+
+  - name: Intel
+    fetcher: workday
+    host: intel.wd1.myworkdayjobs.com
+    tenant: intel
+    site: External
+    enabled: false             # VERIFY
+
+  - name: Garmin
+    fetcher: greenhouse
+    slug: garmin
+    enabled: false             # VERIFY (likely custom)
+
+  - name: Logitech
+    fetcher: workday
+    host: logitech.wd5.myworkdayjobs.com
+    tenant: logitech
+    site: Logitech
+    enabled: false             # VERIFY
+
+  # ===== TIER 6: MECHANICAL / PRODUCT / MANUFACTURING =====
+  - name: Formlabs
+    fetcher: greenhouse
+    slug: formlabs
+    enabled: true
+
+  - name: Carbon
+    fetcher: greenhouse
+    slug: carbon
+    enabled: false             # VERIFY
+
+  - name: Desktop Metal
+    fetcher: greenhouse
+    slug: desktopmetal
+    enabled: false             # VERIFY
+
+  - name: Protolabs
+    fetcher: greenhouse
+    slug: protolabs
+    enabled: false             # VERIFY
+
+  - name: Stratasys
+    fetcher: greenhouse
+    slug: stratasys
+    enabled: false             # VERIFY
+
+  - name: Autodesk
+    fetcher: workday
+    host: autodesk.wd1.myworkdayjobs.com
+    tenant: autodesk
+    site: Ext
+    enabled: false             # VERIFY
+
+  - name: PTC
+    fetcher: workday
+    host: ptc.wd5.myworkdayjobs.com
+    tenant: ptc
+    site: External
+    enabled: false             # VERIFY
+
+  # ===== TIER 7: AEROSPACE / DEFENSE =====
+  # NOTE: Many of these require US citizenship/clearance - the hard_exclude_anywhere
+  # filter above will auto-drop clearance/ITAR roles. Sponsorship is rare here.
+  - name: SpaceX
+    fetcher: greenhouse
+    slug: spacex
+    enabled: false             # NOTE: custom site; also mostly US-citizen-only
+
+  - name: Blue Origin
+    fetcher: greenhouse
+    slug: blueorigin
+    enabled: false             # VERIFY; clearance filter will help
+
+  - name: Anduril (Defense)
+    fetcher: greenhouse
+    slug: andurilindustries
+    enabled: false             # duplicate of Tier 3 Anduril; keep one
+
+  - name: AeroVironment
+    fetcher: workday
+    host: avav.wd1.myworkdayjobs.com
+    tenant: avav
+    site: AeroVironment_Careers
+    enabled: false             # VERIFY; clearance filter will help
+
+  - name: Honeybee Robotics
+    fetcher: greenhouse
+    slug: honeybeerobotics
+    enabled: false             # VERIFY
