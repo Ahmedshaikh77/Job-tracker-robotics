@@ -1040,6 +1040,20 @@
       "title": " Human-Robot Interaction Applied Scientist , Fauna",
       "url": "https://www.amazon.jobs/en/jobs/10433731/human-robot-interaction-applied-scientist-fauna"
     },
+    "Amazon:10433813": {
+      "alerted": false,
+      "first_seen": "2026-05-28T23:43:50.801589+00:00",
+      "location": "San Francisco, California, USA",
+      "title": "Senior Safety & Embedded Software Engineer, Personal Robotics Group",
+      "url": "https://www.amazon.jobs/en/jobs/10433813/senior-safety-embedded-software-engineer-personal-robotics-group"
+    },
+    "Amazon:10433814": {
+      "alerted": false,
+      "first_seen": "2026-05-28T23:43:50.801499+00:00",
+      "location": "San Francisco, California, USA",
+      "title": "Senior Embedded SoC Developer , Personal Robotics Group",
+      "url": "https://www.amazon.jobs/en/jobs/10433814/senior-embedded-soc-developer-personal-robotics-group"
+    },
     "Anduril:4159543007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.742648+00:00",
@@ -14893,6 +14907,13 @@
       "title": "Staff Software Engineer, Production Solutions",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5149209007?gh_jid=5149209007"
     },
+    "Anduril:5149231007": {
+      "alerted": false,
+      "first_seen": "2026-05-28T23:43:50.802644+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Product Quality Engineering",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5149231007?gh_jid=5149231007"
+    },
     "Anduril:5149261007": {
       "alerted": false,
       "first_seen": "2026-05-28T20:27:11.358800+00:00",
@@ -14934,6 +14955,13 @@
       "location": "Costa Mesa, California, United States",
       "title": "Senior Recruiter, Reliability & System Safety Engineering ",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5149450007?gh_jid=5149450007"
+    },
+    "Anduril:5149530007": {
+      "alerted": false,
+      "first_seen": "2026-05-28T23:43:50.803222+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Systems Engineer (DOORS/Requirements/DO-178) ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5149530007?gh_jid=5149530007"
     },
     "Apptronik:5677396004": {
       "alerted": false,
@@ -16818,6 +16846,13 @@
       "title": "Clinical Consultant II, Enabling Technologies - Manhasset, NY",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Long-Island-New-York-United-States-of-America/Clinical-Consultant-II--Enabling-Technologies---Manhasset--NY_R61531-1"
     },
+    "Medtronic:R62832": {
+      "alerted": false,
+      "first_seen": "2026-05-28T23:43:50.801859+00:00",
+      "location": "2 Locations",
+      "title": "Senior IT Manager - Enterprise Integrations and Operations",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Senior-IT-Manager---Enterprise-Integrations-and-Operations_R62832-1"
+    },
     "Medtronic:R63130": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.745752+00:00",
@@ -17588,6 +17623,20 @@
       "title": "Sr Electrical Engineer",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Sr-Electrical-Engineer_R68332-1"
     },
+    "Medtronic:R68336": {
+      "alerted": false,
+      "first_seen": "2026-05-28T23:43:50.801953+00:00",
+      "location": "6 Locations",
+      "title": "Cardiac Rhythm Management - Sales Training Excellence Program",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Boston-Massachusetts-United-States-of-America/Cardiac-Rhythm-Management---Sales-Training-Excellence-Program_R68336-1"
+    },
+    "Medtronic:R68361": {
+      "alerted": false,
+      "first_seen": "2026-05-28T23:43:50.801903+00:00",
+      "location": "Tucson, Arizona, United States of America",
+      "title": "Sales Representative II, Spine - Tucson, AZ",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Tucson-Arizona-United-States-of-America/Sales-Representative-II--Spine---Tucson--AZ_R68361-1"
+    },
     "Medtronic:R68378": {
       "alerted": false,
       "first_seen": "2026-05-28T20:27:11.360347+00:00",
@@ -17805,6 +17854,13 @@
       "title": "HR Business Partner",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/HR-Business-Partner_JR2009299"
     },
+    "NVIDIA:JR2009899": {
+      "alerted": false,
+      "first_seen": "2026-05-28T23:43:50.801682+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior VLSI Methodology Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-VLSI-Library-Methodology-Engineer_JR2009899-1"
+    },
     "NVIDIA:JR2009959": {
       "alerted": false,
       "first_seen": "2026-05-28T11:49:50.780869+00:00",
@@ -17832,6 +17888,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Senior System Software Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer_JR2011064"
+    },
+    "NVIDIA:JR2011154": {
+      "alerted": false,
+      "first_seen": "2026-05-28T23:43:50.801641+00:00",
+      "location": "3 Locations",
+      "title": "Senior Software Engineer, Developer Tools for Cloud",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Redmond/Senior-Software-Engineer--Developer-Tools-for-Cloud_JR2011154"
     },
     "NVIDIA:JR2011390": {
       "alerted": false,
@@ -18042,6 +18105,13 @@
       "location": "2 Locations",
       "title": "Manager, Distinguished Engineer - DGX Systems Software",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--Distinguished-Engineer---DGX-Systems-Software_JR2016463"
+    },
+    "NVIDIA:JR2016675": {
+      "alerted": false,
+      "first_seen": "2026-05-28T23:43:50.801718+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Materials Manager",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Materials-Manager_JR2016675"
     },
     "NVIDIA:JR2016751": {
       "alerted": false,
@@ -18526,6 +18596,13 @@
       "title": "Reliability Engineer (m/w/d) Instandhaltung, Medizintechnik",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Schnkirchen-Germany/Reliability-Engineer--m-w-d--Instandhaltung--Medizintechnik_R559169"
     },
+    "Stryker:R559727": {
+      "alerted": false,
+      "first_seen": "2026-05-28T23:43:50.801762+00:00",
+      "location": "Los Angeles, California",
+      "title": "Regional Supervisor - Inland Empire/OC, CA",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Los-Angeles-California/Regional-Supervisor---Inland-Empire-OC--CA_R559727"
+    },
     "Stryker:R560450": {
       "alerted": false,
       "first_seen": "2026-05-28T11:49:50.779131+00:00",
@@ -18833,6 +18910,13 @@
       "location": "Brisbane, Australia",
       "title": "Associate Kit Assembler",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Brisbane-Australia/Associate-Kit-Assembler_R565836-1"
+    },
+    "Stryker:R565880": {
+      "alerted": false,
+      "first_seen": "2026-05-28T23:43:50.801808+00:00",
+      "location": "Firenze, Italy",
+      "title": "Product Support Specialist  - Toscana e Umbria",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Firenze-Italy/Product-Support-Specialist----Toscana-e-Umbria_R565880-1"
     },
     "Stryker:R565915": {
       "alerted": false,
