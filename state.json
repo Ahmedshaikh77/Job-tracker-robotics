@@ -14963,6 +14963,20 @@
       "title": "Senior Systems Engineer (DOORS/Requirements/DO-178) ",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5149530007?gh_jid=5149530007"
     },
+    "Anduril:5149586007": {
+      "alerted": false,
+      "first_seen": "2026-05-29T01:34:54.033329+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Technical Recruiter, Hardware",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5149586007?gh_jid=5149586007"
+    },
+    "Anduril:5149598007": {
+      "alerted": false,
+      "first_seen": "2026-05-29T01:34:54.032651+00:00",
+      "location": "Atlanta, Georgia, United States",
+      "title": "Senior Technical Recruiter, Hardware",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5149598007?gh_jid=5149598007"
+    },
     "Apptronik:5677396004": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.731515+00:00",
@@ -17105,6 +17119,13 @@
       "title": "Principal EP Mapping Specialist - CAS",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Los-Angeles-California-United-States-of-America/Principal-Affera-Mapping-Specialist---CAS_R66198-1"
     },
+    "Medtronic:R66219": {
+      "alerted": false,
+      "first_seen": "2026-05-29T01:34:54.033665+00:00",
+      "location": "Petaling Jaya, Selangor, Malaysia",
+      "title": "Clinical Specialist, Cardiac Rhythm Management",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Petaling-Jaya-Selangor-Malaysia/Clinical-Specialist--Cardiac-Rhythm-Management_R66219-1"
+    },
     "Medtronic:R66245": {
       "alerted": false,
       "first_seen": "2026-05-28T17:59:57.300593+00:00",
@@ -17973,6 +17994,20 @@
       "title": "Manager, Next-Gen AI Cluster Validation",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--Next-Gen-AI-Cluster-Validation_JR2013580"
     },
+    "NVIDIA:JR2013676": {
+      "alerted": false,
+      "first_seen": "2026-05-29T01:34:54.033571+00:00",
+      "location": "2 Locations",
+      "title": "NCX Engineer, AI Accelerator",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NCX-Engineer--AI-Accelerator_JR2013676"
+    },
+    "NVIDIA:JR2013687": {
+      "alerted": false,
+      "first_seen": "2026-05-29T01:34:54.033432+00:00",
+      "location": "2 Locations",
+      "title": "Senior Software R&D Engineer, VLSI Physical Design",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-R-D-Engineer--VLSI-Physical-Design_JR2013687"
+    },
     "NVIDIA:JR2013758": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.745706+00:00",
@@ -17993,6 +18028,13 @@
       "location": "Germany, Remote",
       "title": "System Software Integration Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Remote/System-Software-Integration-Engineer_JR2014316"
+    },
+    "NVIDIA:JR2014351": {
+      "alerted": false,
+      "first_seen": "2026-05-29T01:34:54.033383+00:00",
+      "location": "2 Locations",
+      "title": "Senior Software R&D Engineer, Digital Logic Synthesis",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-R-D-Engineer--Digital-Logic-Synthesis_JR2014351"
     },
     "NVIDIA:JR2014509": {
       "alerted": false,
@@ -18168,6 +18210,13 @@
       "location": "3 Locations",
       "title": "Senior Solutions Architect, Generative AI - AI Models and Systems at NVAITC",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Remote/Senior-Solutions-Architect--Generative-AI---AI-Models-and-Systems-at-NVAITC_JR2017602"
+    },
+    "NVIDIA:JR2017635": {
+      "alerted": false,
+      "first_seen": "2026-05-29T01:34:54.033486+00:00",
+      "location": "6 Locations",
+      "title": "Engineering Manager, Inference Benchmarking \u2014 AI Perf",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Engineering-Manager--Inference-Benchmarking---AI-Perf_JR2017635"
     },
     "NVIDIA:JR2017642": {
       "alerted": false,
@@ -18414,6 +18463,13 @@
       "title": "AI Workload and Networking Research Architect",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/AI-Workload-and-Networking-Research-Architect_JR2018707"
     },
+    "NVIDIA:JR2018760": {
+      "alerted": false,
+      "first_seen": "2026-05-29T01:34:54.033618+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Technical Product Manager, Accelerated Computing",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Product-Manager--Accelerated-Computing_JR2018760"
+    },
     "NVIDIA:JR2018782": {
       "alerted": false,
       "first_seen": "2026-05-28T11:49:50.780583+00:00",
@@ -18497,6 +18553,13 @@
       "location": "5 Locations",
       "title": "Senior Datacenter Performance Model Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Datacenter-Performance-Model-Engineer_JR2018874"
+    },
+    "NVIDIA:JR2018875": {
+      "alerted": false,
+      "first_seen": "2026-05-29T01:34:54.033529+00:00",
+      "location": "5 Locations",
+      "title": "Senior Software Engineer, Agentic Systems",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Agentic-Systems_JR2018875"
     },
     "NVIDIA:JR2018887": {
       "alerted": false,
@@ -21388,6 +21451,13 @@
       "location": "San Francisco, CA USA",
       "title": "Fleet Readiness Vendor / Preferred Partners Manager",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=7851976"
+    },
+    "Waymo:7852026": {
+      "alerted": false,
+      "first_seen": "2026-05-29T01:34:54.031871+00:00",
+      "location": "London, United Kingdom",
+      "title": "International Operations Safety & Readiness Manager",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=7852026"
     },
     "Waymo:7852082": {
       "alerted": false,
