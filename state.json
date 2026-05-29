@@ -1012,6 +1012,13 @@
       "title": "Applied Scientist, AWS Neuron Science team",
       "url": "https://www.amazon.jobs/en/jobs/10432388/applied-scientist-aws-neuron-science-team"
     },
+    "Amazon:10432407": {
+      "alerted": false,
+      "first_seen": "2026-05-29T09:32:16.664455+00:00",
+      "location": "Bengaluru, Karnataka, IND",
+      "title": "Manager, Applied Science, Amazon Phamarcy",
+      "url": "https://www.amazon.jobs/en/jobs/10432407/manager-applied-science-amazon-phamarcy"
+    },
     "Amazon:10432497": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.733120+00:00",
@@ -16853,6 +16860,13 @@
       "title": "Innovation Specialist for LATAM",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mexico-City-Distrito-Federal-Mexico/Innovation-Specialist-for-LATAM_R60149"
     },
+    "Medtronic:R60212": {
+      "alerted": false,
+      "first_seen": "2026-05-29T09:32:16.665296+00:00",
+      "location": "Warsaw, Mazowieckie, Poland",
+      "title": "Sales Representative - Pozna\u0144 (Northern and Western Poland)",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Warsaw-Mazowieckie-Poland/Sales-Representative---Northern-and-Western-Poland_R60212-1"
+    },
     "Medtronic:R60761": {
       "alerted": false,
       "first_seen": "2026-05-28T17:59:57.300516+00:00",
@@ -16894,6 +16908,13 @@
       "location": "Melbourne, Victoria, Australia",
       "title": "Senior Distribution Supervisor",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Melbourne-Victoria-Australia/Senior-Distribution-Supervisor_R63130-1"
+    },
+    "Medtronic:R63322": {
+      "alerted": false,
+      "first_seen": "2026-05-29T09:32:16.665499+00:00",
+      "location": "Tokyo, Tokyo, Japan",
+      "title": "Sr Clinical Specialist",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Tokyo-Tokyo-Japan/Senior-Clinical-Specialist--CST---Tokyo-_R63322-2"
     },
     "Medtronic:R63386": {
       "alerted": false,
@@ -16992,6 +17013,13 @@
       "location": "Long Island, New York, United States of America",
       "title": "Executive Robotic Stapling Specialist - (Nassau / Suffolk County)",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Long-Island-New-York-United-States-of-America/Executive-Robotic-Stapling-Specialist----Nassau---Soffolk-County-_R65023"
+    },
+    "Medtronic:R65135": {
+      "alerted": false,
+      "first_seen": "2026-05-29T09:32:16.665216+00:00",
+      "location": "Galway, County Galway, Ireland",
+      "title": "Senior Systems Engineer",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Galway-County-Galway-Ireland/Senior-Systems-Engineer_R65135-1"
     },
     "Medtronic:R65295": {
       "alerted": false,
@@ -17217,6 +17245,13 @@
       "title": "Area Sales Manager, ENT - Dayton/Lima, OH",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Dayton-Ohio-United-States-of-America/Area-Sales-Manager--ENT---Dayton-Lima--OH_R66542"
     },
+    "Medtronic:R66671": {
+      "alerted": false,
+      "first_seen": "2026-05-29T09:32:16.665176+00:00",
+      "location": "Seoul, Seoul, Korea",
+      "title": "Therapy Sales Specialist, Cardiac Rhythm Management",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Seoul-Seoul-Korea/Therapy-Sales-Specialist--Cardiac-Rhythm-Management_R66671"
+    },
     "Medtronic:R66692": {
       "alerted": false,
       "first_seen": "2026-05-28T20:27:11.360462+00:00",
@@ -17406,12 +17441,33 @@
       "title": "Customer Service Representative IV in Order Validation Team",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Warsaw-Mazowieckie-Poland/Customer-Service-Representative-IV-in-Order-Validation-Team_R67465-1"
     },
+    "Medtronic:R67476": {
+      "alerted": false,
+      "first_seen": "2026-05-29T09:32:16.665672+00:00",
+      "location": "7 Locations",
+      "title": "Sr CDS Ecosystem  Marketing Manager",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/London-London-United-Kingdom/Sr-CDS-Ecosystem--Marketing-Manager_R67476-1"
+    },
     "Medtronic:R67555": {
       "alerted": false,
       "first_seen": "2026-05-28T17:59:57.300315+00:00",
       "location": "North Haven, Connecticut, United States of America",
       "title": "Inventory Clerk I, First Shift",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/North-Haven-Connecticut-United-States-of-America/Inventory-Clerk-I--First-Shift_R67555-1"
+    },
+    "Medtronic:R67598": {
+      "alerted": false,
+      "first_seen": "2026-05-29T09:32:16.665462+00:00",
+      "location": "Seoul, Seoul, Korea",
+      "title": "Sales Representative, Ear Nose Throat (ENT)",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Seoul-Seoul-Korea/Sales-Representative--Ear-Nose-Throat--ENT-_R67598-1"
+    },
+    "Medtronic:R67639": {
+      "alerted": false,
+      "first_seen": "2026-05-29T09:32:16.665549+00:00",
+      "location": "Seoul, Seoul, Korea",
+      "title": "Sales Representative I, Transcatheter Aortic Valve Implantation (TAVI)",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Seoul-Seoul-Korea/Sales-Representative-I--Transcatheter-Aortic-Valve-Implantation--TAVI-_R67639-1"
     },
     "Medtronic:R67662": {
       "alerted": false,
@@ -17476,6 +17532,13 @@
       "title": "Senior Auditor",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Heerlen-Limburg-Netherlands/Senior-Auditor_R67755-1"
     },
+    "Medtronic:R67863": {
+      "alerted": false,
+      "first_seen": "2026-05-29T09:32:16.665732+00:00",
+      "location": "Mounds View, Minnesota, United States of America",
+      "title": "Sr. Engineering Program Manager (Sphere-360 Catheter Launch & Lifecycle Execution), Mounds View, MN",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Sr-Engineering-Program-Manager--Mounds-View--MN_R67863-1"
+    },
     "Medtronic:R67878": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.745784+00:00",
@@ -17524,6 +17587,13 @@
       "location": "Kulim, Kedah, Malaysia",
       "title": "Sr Equipment Engineer (Mfg.)",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Kulim-Kedah-Malaysia/Sr-Equipment-Engineer--Mfg-_R68014-1"
+    },
+    "Medtronic:R68026": {
+      "alerted": false,
+      "first_seen": "2026-05-29T09:32:16.665337+00:00",
+      "location": "Galway, County Galway, Ireland",
+      "title": "Strategic Sourcing Specialist",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Galway-County-Galway-Ireland/Strategic-Sourcing-Specialist_R68026-1"
     },
     "Medtronic:R68030": {
       "alerted": false,
@@ -17616,6 +17686,13 @@
       "title": "Engineering Intern",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Changzhou-Jiangsu-China/Engineering-Intern_R68181-1"
     },
+    "Medtronic:R68203": {
+      "alerted": false,
+      "first_seen": "2026-05-29T09:32:16.665631+00:00",
+      "location": "Thiruvananthapuram, Kerala, India",
+      "title": "Sales Representative  III",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Thiruvananthapuram-Kerala-India/Sales-Representative--III_R68203-1"
+    },
     "Medtronic:R68213": {
       "alerted": false,
       "first_seen": "2026-05-28T14:56:52.832703+00:00",
@@ -17693,6 +17770,13 @@
       "title": "Assembler I",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Ho-Chi-Minh-City-Ho-Chi-Minh-City-Vietnam/Assembler-I_R68311-1"
     },
+    "Medtronic:R68316": {
+      "alerted": false,
+      "first_seen": "2026-05-29T09:32:16.665383+00:00",
+      "location": "Shanghai, Shanghai, China",
+      "title": "SHAPE_PVH_Technical Sales Representative_Shanghai",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Shanghai-Shanghai-China/SHAPE-PVH-Technical-Sales-Representative-Shanghai_R68316-1"
+    },
     "Medtronic:R68332": {
       "alerted": false,
       "first_seen": "2026-05-28T20:27:11.360595+00:00",
@@ -17714,12 +17798,26 @@
       "title": "Sales Representative II, Spine - Tucson, AZ",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Tucson-Arizona-United-States-of-America/Sales-Representative-II--Spine---Tucson--AZ_R68361-1"
     },
+    "Medtronic:R68367": {
+      "alerted": false,
+      "first_seen": "2026-05-29T09:32:16.665593+00:00",
+      "location": "2 Locations",
+      "title": "AiBLE Strategic Sales Representative - Phoenix, AZ",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Phoenix-Arizona-United-States-of-America/AiBLE-Strategic-Sales-Representative---Phoenix--AZ_R68367"
+    },
     "Medtronic:R68378": {
       "alerted": false,
       "first_seen": "2026-05-28T20:27:11.360347+00:00",
       "location": "Little Rock, Arkansas, United States of America",
       "title": "Cardiac Rhythm Management Clinical Specialist - Little Rock,",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Little-Rock-Arkansas-United-States-of-America/Cardiac-Rhythm-Management-Clinical-Specialist---Little-Rock-_R68378-1"
+    },
+    "Medtronic:R68420": {
+      "alerted": false,
+      "first_seen": "2026-05-29T09:32:16.665420+00:00",
+      "location": "Cambridge, Cambridgeshire, United Kingdom",
+      "title": "Sales Representative",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Cambridge-Cambridgeshire-United-Kingdom/Sales-Representative_R68420-1"
     },
     "NVIDIA:JR1978573": {
       "alerted": false,
@@ -17888,6 +17986,13 @@
       "location": "3 Locations",
       "title": "Senior C++ and Build Engineer - DC System Software",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-IL-Champaign/Senior-C---and-Build-Engineer---DC-System-Software_JR2006966-1"
+    },
+    "NVIDIA:JR2007455": {
+      "alerted": false,
+      "first_seen": "2026-05-29T09:32:16.664996+00:00",
+      "location": "India, Pune",
+      "title": "Senior Engineer, Backend",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Pune/Senior-Engineer--Backend_JR2007455"
     },
     "NVIDIA:JR2007807": {
       "alerted": false,
@@ -18589,6 +18694,13 @@
       "title": "Senior Software Engineer, DGX Cloud Production Engineering",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--DGX-Cloud-Production-Engineering_JR2018817"
     },
+    "NVIDIA:JR2018837": {
+      "alerted": false,
+      "first_seen": "2026-05-29T09:32:16.665084+00:00",
+      "location": "India, Bengaluru",
+      "title": "Senior System Software Engineer - Tegra MODS",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-System-Software-Engineer---Tegra-MODS_JR2018837"
+    },
     "NVIDIA:JR2018839": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.745676+00:00",
@@ -18602,6 +18714,13 @@
       "location": "2 Locations",
       "title": "AI Computing Architect",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Computing-Architect_JR2018848"
+    },
+    "NVIDIA:JR2018859": {
+      "alerted": false,
+      "first_seen": "2026-05-29T09:32:16.665039+00:00",
+      "location": "2 Locations",
+      "title": "HR Specialist - New College Grad 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Wuerselen/HR-Specialist---New-College-Grad-2026_JR2018859"
     },
     "NVIDIA:JR2018874": {
       "alerted": false,
@@ -18645,12 +18764,26 @@
       "title": "Senior System Software Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer_JR2018913"
     },
+    "NVIDIA:JR2018929": {
+      "alerted": false,
+      "first_seen": "2026-05-29T09:32:16.665129+00:00",
+      "location": "India, Bengaluru",
+      "title": "Technical Program Manager, Functional Safety software",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Technical-Program-Manager--Functional-Safety-software_JR2018929"
+    },
     "NVIDIA:JR2018937": {
       "alerted": false,
       "first_seen": "2026-05-28T17:59:57.300750+00:00",
       "location": "Israel, Yokneam",
       "title": "Physical Design Signoff CAD Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Physical-Design-Signoff-CAD-Engineer_JR2018937"
+    },
+    "NVIDIA:JR2018963": {
+      "alerted": false,
+      "first_seen": "2026-05-29T09:32:16.664955+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Technical Program Manager - Enterprise Software",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Program-Manager---Enterprise-Software_JR2018963"
     },
     "Stryker:R498593": {
       "alerted": false,
@@ -18680,6 +18813,13 @@
       "title": "Marketing Associate - Events",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/St-Leonards-Australia/Graduate-Marketing-Associate---Events_R554071"
     },
+    "Stryker:R555910": {
+      "alerted": false,
+      "first_seen": "2026-05-29T09:32:16.664737+00:00",
+      "location": "Gurugram, India",
+      "title": "Intern FY 2026-27",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Gurugram-India/Intern-FY-2026-27_R555910"
+    },
     "Stryker:R555929": {
       "alerted": false,
       "first_seen": "2026-05-28T11:49:50.778649+00:00",
@@ -18694,12 +18834,33 @@
       "title": "Senior Manager, Quality Assurance",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cork-Ireland/Senior-Manager--Quality-Assurance_R556168"
     },
+    "Stryker:R556652": {
+      "alerted": false,
+      "first_seen": "2026-05-29T09:32:16.664522+00:00",
+      "location": "2 Locations",
+      "title": "Pricing Manager - Southern Europe",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Madrid-Spain/Pricing-Manager---Southern-Europe_R556652"
+    },
+    "Stryker:R556673": {
+      "alerted": false,
+      "first_seen": "2026-05-29T09:32:16.664614+00:00",
+      "location": "Sch\u00f6nkirchen, Germany",
+      "title": "Senior Manager (m/w/d) EHS",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Schnkirchen-Germany/Senior-Manager--m-w-d--EHS_R556673"
+    },
     "Stryker:R557200": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.741253+00:00",
       "location": "Paris, France",
       "title": "Assistant Technique de bloc op\u00e9ratoire - Paris Ouest (H/F)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Paris-France/IBODE---Infirmier-re--de-Bloc---H-F----Ouest-Parisien---Normandie_R557200-1"
+    },
+    "Stryker:R557619": {
+      "alerted": false,
+      "first_seen": "2026-05-29T09:32:16.664861+00:00",
+      "location": "Tuttlingen, Germany",
+      "title": "Senior Sourcing Manager (m/f/d) Tuttlingen",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tuttlingen-Germany/Senior-Sourcing-Manager-Communication-Sustaining--m-w-d--Tuttlingen_R557619"
     },
     "Stryker:R558871": {
       "alerted": false,
@@ -18743,6 +18904,13 @@
       "title": "Sales Representative - Phoenix, AZ - Sustainability Solutions",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Phoenix-Arizona/Sales-Representative---Phoenix--AZ---Sustainability-Solutions_R560777"
     },
+    "Stryker:R561027": {
+      "alerted": false,
+      "first_seen": "2026-05-29T09:32:16.664699+00:00",
+      "location": "2 Locations",
+      "title": "Senior Demand Planner",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Amsterdam-Netherlands/Senior-Demand-Planner_R561027"
+    },
     "Stryker:R561035": {
       "alerted": false,
       "first_seen": "2026-05-28T17:59:57.289372+00:00",
@@ -18763,6 +18931,13 @@
       "location": "8 Locations",
       "title": "Director, Compliance Business Enablement (Remote)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Trenton-New-Jersey/Director--Compliance-Business-Enablement--Remote-_R561129"
+    },
+    "Stryker:R561273": {
+      "alerted": false,
+      "first_seen": "2026-05-29T09:32:16.664910+00:00",
+      "location": "5 Locations",
+      "title": "Site Finance Manager (m/f/d) Advanced Medical Balloons (AMB)",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Waghaeusel-Germany/Site-Finance-Manager--m-f-d--Advanced-Medical-Balloons--AMB-_R561273"
     },
     "Stryker:R561450": {
       "alerted": false,
@@ -18974,6 +19149,13 @@
       "title": "Engineering Intern",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Suzhou-China/Intern_R565557"
     },
+    "Stryker:R565558": {
+      "alerted": false,
+      "first_seen": "2026-05-29T09:32:16.664777+00:00",
+      "location": "Gurugram, India",
+      "title": "Project engineer Quality",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Gurugram-India/Project-engineer-Quality_R565558-1"
+    },
     "Stryker:R565580": {
       "alerted": false,
       "first_seen": "2026-05-28T11:49:50.778902+00:00",
@@ -19128,6 +19310,13 @@
       "title": "Associate Manager, Clinical Specialists",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Philadelphia-Pennsylvania/Associate-Manager--Clinical-Specialists_R566174-1"
     },
+    "Stryker:R566175": {
+      "alerted": false,
+      "first_seen": "2026-05-29T09:32:16.664570+00:00",
+      "location": "Taikoo Shing, 12 Taikoo Wan Road",
+      "title": "Associate Finance Manager, Hong Kong",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Taikoo-Shing-12-Taikoo-Wan-Road/Associate-Finance-Manager--Hong-Kong_R566175"
+    },
     "Stryker:R566217": {
       "alerted": false,
       "first_seen": "2026-05-28T20:27:11.355061+00:00",
@@ -19198,6 +19387,13 @@
       "title": "Territory Manager, Visualization Shutoken",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tokyo-Japan/Territory-Manager--Visualization-Shutoken_R566328-1"
     },
+    "Stryker:R566339": {
+      "alerted": false,
+      "first_seen": "2026-05-29T09:32:16.664661+00:00",
+      "location": "4 Locations",
+      "title": "Stock Controller \u00e1rea Barcelona o Andaluc\u00eda",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Barcelona-Spain/Stock-Controller-rea-Barcelona-o-Andaluca_R566339-1"
+    },
     "Stryker:R566352": {
       "alerted": false,
       "first_seen": "2026-05-29T05:55:01.789571+00:00",
@@ -19267,6 +19463,13 @@
       "location": "Missouri, Virtual Address",
       "title": "OnSite Specialist - Springfield, MO",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Missouri-Virtual-Address/OnSite-Specialist---Springfield--MO_R566553"
+    },
+    "Stryker:R566595": {
+      "alerted": false,
+      "first_seen": "2026-05-29T09:32:16.664816+00:00",
+      "location": "St Leonards, Australia",
+      "title": "Team Lead - Planning",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/St-Leonards-Australia/Team-Lead---Planning_R566595"
     },
     "Waymo:6367980": {
       "alerted": false,
