@@ -1068,6 +1068,13 @@
       "title": "Business Intel Engineer - I, Amazon Robotics, Amazon Robotics, Global Operations - Artificial Intelligence (GO-AI) ",
       "url": "https://www.amazon.jobs/en/jobs/10434946/business-intel-engineer-i-amazon-robotics-amazon-robotics-global-operations-artificial-intelligence-go-ai"
     },
+    "Amazon:10435065": {
+      "alerted": false,
+      "first_seen": "2026-05-29T23:53:20.129494+00:00",
+      "location": "San Francisco, California, USA",
+      "title": "Member of Technical Staff - Research Engineer, Frontier AI Robotics",
+      "url": "https://www.amazon.jobs/en/jobs/10435065/member-of-technical-staff-research-engineer-frontier-ai-robotics"
+    },
     "Anduril:4159543007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.742648+00:00",
@@ -5533,6 +5540,13 @@
       "location": "Costa Mesa, California, United States",
       "title": "Global Sourcing Manager, Mechanical",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5039956007?gh_jid=5039956007"
+    },
+    "Anduril:5039983007": {
+      "alerted": false,
+      "first_seen": "2026-05-29T23:53:20.130254+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Planning Program Manager",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5039983007?gh_jid=5039983007"
     },
     "Anduril:5039999007": {
       "alerted": false,
@@ -15194,6 +15208,13 @@
       "title": "Electrical Engineer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5150520007?gh_jid=5150520007"
     },
+    "Anduril:5150568007": {
+      "alerted": false,
+      "first_seen": "2026-05-29T23:53:20.130926+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Technical Security Systems Architecture Manager",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5150568007?gh_jid=5150568007"
+    },
     "Anduril:5150700007": {
       "alerted": false,
       "first_seen": "2026-05-29T21:17:21.034785+00:00",
@@ -15207,6 +15228,13 @@
       "location": "Fort Collins, Colorado, United States",
       "title": "Technical Program Manager - Radar",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5150729007?gh_jid=5150729007"
+    },
+    "Anduril:5150753007": {
+      "alerted": false,
+      "first_seen": "2026-05-29T23:53:20.131560+00:00",
+      "location": "Washington, District of Columbia, United States",
+      "title": "Technical Security Systems Architecture Manager",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5150753007?gh_jid=5150753007"
     },
     "Apptronik:5677396004": {
       "alerted": false,
@@ -18750,6 +18778,13 @@
       "title": "Clinical Specialist Pelvic Health-  Tulsa, OK",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mobile-Alabama-United-States-of-America/Clinical-Specialist-Pelvic-Health---Tulsa--OK_R68396-1"
     },
+    "Medtronic:R68397": {
+      "alerted": false,
+      "first_seen": "2026-05-29T23:53:20.129536+00:00",
+      "location": "San Francisco, California, United States of America",
+      "title": "EP Mapping Specialist, CAS",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/San-Francisco-California-United-States-of-America/EP-Mapping-Specialist--CAS_R68397-1"
+    },
     "Medtronic:R68402": {
       "alerted": false,
       "first_seen": "2026-05-29T19:05:59.394495+00:00",
@@ -18889,6 +18924,13 @@
       "location": "5 Locations",
       "title": "Senior Software Architect - Deep Learning and HPC Communications",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Architect---Deep-Learning-and-HPC-Communications_JR2001099-1"
+    },
+    "NVIDIA:JR2001755": {
+      "alerted": false,
+      "first_seen": "2026-05-29T23:53:20.129581+00:00",
+      "location": "Taiwan, Hsinchu",
+      "title": "Manager, Product Quality Engineering",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Manager--Product-Quality-Engineering_JR2001755-1"
     },
     "NVIDIA:JR2002026": {
       "alerted": false,
@@ -22151,6 +22193,13 @@
       "location": "Mountain View, CA, USA; San Francisco, CA, USA",
       "title": "Senior Software Engineer, Simulation, Vehicle & Autonomous Driving Realism",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=7540809"
+    },
+    "Waymo:7543520": {
+      "alerted": false,
+      "first_seen": "2026-05-29T23:53:20.129396+00:00",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
+      "title": "Software Engineer, Statistical Evaluation and Sampling",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=7543520"
     },
     "Waymo:7545007": {
       "alerted": false,
