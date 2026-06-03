@@ -1187,6 +1187,13 @@
       "title": "SDE, AI Infrastructure,  AFT AI",
       "url": "https://www.amazon.jobs/en/jobs/10437843/sde-ai-infrastructure-aft-ai"
     },
+    "Amazon:10438036": {
+      "alerted": false,
+      "first_seen": "2026-06-03T00:10:01.134612+00:00",
+      "location": "Bellevue, Washington, USA",
+      "title": "Senior Software Development Engineer",
+      "url": "https://www.amazon.jobs/en/jobs/10438036/senior-software-development-engineer"
+    },
     "Anduril:4159543007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.742648+00:00",
@@ -14746,6 +14753,13 @@
       "title": "Senior Mission Software Engineer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5145542007?gh_jid=5145542007"
     },
+    "Anduril:5145567007": {
+      "alerted": false,
+      "first_seen": "2026-06-03T00:10:01.143339+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Systems Administrator",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5145567007?gh_jid=5145567007"
+    },
     "Anduril:5145671007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.744921+00:00",
@@ -15488,6 +15502,13 @@
       "title": "Senior Manufacturing Quality Engineer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5149974007?gh_jid=5149974007"
     },
+    "Anduril:5150080007": {
+      "alerted": false,
+      "first_seen": "2026-06-03T00:10:01.144089+00:00",
+      "location": "Waltham, Massachusetts, United States",
+      "title": "Software Engineer, Robotics Tracking and Fusion",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5150080007?gh_jid=5150080007"
+    },
     "Anduril:5150279007": {
       "alerted": false,
       "first_seen": "2026-05-29T19:05:59.384576+00:00",
@@ -15796,6 +15817,13 @@
       "title": "Logistics Program Manager",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5151840007?gh_jid=5151840007"
     },
+    "Anduril:5151887007": {
+      "alerted": false,
+      "first_seen": "2026-06-03T00:10:01.142756+00:00",
+      "location": "Ashville, Ohio, United States",
+      "title": "Senior System Administrator",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5151887007?gh_jid=5151887007"
+    },
     "Anduril:5151954007": {
       "alerted": false,
       "first_seen": "2026-06-01T20:38:50.670443+00:00",
@@ -15830,6 +15858,13 @@
       "location": "Seattle, Washington, United States",
       "title": "Staff Software Engineer, Production Solutions",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5152095007?gh_jid=5152095007"
+    },
+    "Anduril:5152185007": {
+      "alerted": false,
+      "first_seen": "2026-06-03T00:10:01.146116+00:00",
+      "location": "Ashville, Ohio, United States",
+      "title": "System Administrator",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5152185007?gh_jid=5152185007"
     },
     "Anduril:5152196007": {
       "alerted": false,
@@ -16026,6 +16061,104 @@
       "location": "Irvine, California, United States",
       "title": "Staff Product Manager, Surveillance Tower",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5153208007?gh_jid=5153208007"
+    },
+    "Anduril:5153463007": {
+      "alerted": false,
+      "first_seen": "2026-06-03T00:10:01.146746+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Technical Program Manager, Mission Autonomy",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5153463007?gh_jid=5153463007"
+    },
+    "Anduril:5153507007": {
+      "alerted": false,
+      "first_seen": "2026-06-03T00:10:01.140708+00:00",
+      "location": "Waltham, Massachusetts, United States",
+      "title": "Senior Software Engineer, Robotics Tracking and Fusion",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5153507007?gh_jid=5153507007"
+    },
+    "Anduril:5153542007": {
+      "alerted": false,
+      "first_seen": "2026-06-03T00:10:01.147342+00:00",
+      "location": "Washington, District of Columbia, United States",
+      "title": "Technical Program Manager, Mission Autonomy",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5153542007?gh_jid=5153542007"
+    },
+    "Anduril:5153748007": {
+      "alerted": false,
+      "first_seen": "2026-06-03T00:10:01.135531+00:00",
+      "location": "Lexington, Massachusetts, United States",
+      "title": "Camera Test Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5153748007?gh_jid=5153748007"
+    },
+    "Anduril:5153773007": {
+      "alerted": false,
+      "first_seen": "2026-06-03T00:10:01.142158+00:00",
+      "location": "Washington, District of Columbia, United States",
+      "title": "Senior Software Engineer, Robotics Tracking and Fusion",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5153773007?gh_jid=5153773007"
+    },
+    "Anduril:5153774007": {
+      "alerted": false,
+      "first_seen": "2026-06-03T00:10:01.141426+00:00",
+      "location": "Fort Collins, Colorado, United States",
+      "title": "Senior Software Engineer, Robotics Tracking and Fusion",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5153774007?gh_jid=5153774007"
+    },
+    "Anduril:5153777007": {
+      "alerted": false,
+      "first_seen": "2026-06-03T00:10:01.139302+00:00",
+      "location": "Denver, Colorado, United States",
+      "title": "Senior Compensation Partner, Manufacturing",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5153777007?gh_jid=5153777007"
+    },
+    "Anduril:5153783007": {
+      "alerted": false,
+      "first_seen": "2026-06-03T00:10:01.137974+00:00",
+      "location": "Ashville, Ohio, United States",
+      "title": "Senior Compensation Partner, Manufacturing",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5153783007?gh_jid=5153783007"
+    },
+    "Anduril:5153784007": {
+      "alerted": false,
+      "first_seen": "2026-06-03T00:10:01.145527+00:00",
+      "location": "Washington, District of Columbia, United States",
+      "title": "Software Engineer, Robotics Tracking and Fusion",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5153784007?gh_jid=5153784007"
+    },
+    "Anduril:5153787007": {
+      "alerted": false,
+      "first_seen": "2026-06-03T00:10:01.138627+00:00",
+      "location": "Remote",
+      "title": "Senior Compensation Partner, Manufacturing",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5153787007?gh_jid=5153787007"
+    },
+    "Anduril:5153788007": {
+      "alerted": false,
+      "first_seen": "2026-06-03T00:10:01.144817+00:00",
+      "location": "Fort Collins, Colorado, United States",
+      "title": "Software Engineer, Robotics Tracking and Fusion",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5153788007?gh_jid=5153788007"
+    },
+    "Anduril:5153789007": {
+      "alerted": false,
+      "first_seen": "2026-06-03T00:10:01.136616+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Production Recruiting Lead, Connected Warfare",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5153789007?gh_jid=5153789007"
+    },
+    "Anduril:5153791007": {
+      "alerted": false,
+      "first_seen": "2026-06-03T00:10:01.137322+00:00",
+      "location": "Seattle, Washington, United States",
+      "title": "Production Recruiting Lead, Connected Warfare",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5153791007?gh_jid=5153791007"
+    },
+    "Anduril:5153798007": {
+      "alerted": false,
+      "first_seen": "2026-06-03T00:10:01.139967+00:00",
+      "location": "Washington, District of Columbia, United States",
+      "title": "Senior Compensation Partner, Manufacturing",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5153798007?gh_jid=5153798007"
     },
     "Apptronik:5677396004": {
       "alerted": false,
@@ -19163,6 +19296,13 @@
       "title": "Area Sales Manager, ENT - Santa Rosa/San Rafael/Napa, CA (North CA)",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Santa-Rosa-California-United-States-of-America/Area-Sales-Manager--ENT---Santa-Rosa-San-Rafael-Napa--CA--North-CA-_R66544-1"
     },
+    "Medtronic:R66553": {
+      "alerted": false,
+      "first_seen": "2026-06-03T00:10:01.147440+00:00",
+      "location": "4 Locations",
+      "title": "District Sales Manager, ENT - Great Plains",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Kansas-City-Kansas-United-States-of-America/District-Sales-Manager--ENT---Great-Plains_R66553-3"
+    },
     "Medtronic:R66554": {
       "alerted": false,
       "first_seen": "2026-06-02T20:12:26.542432+00:00",
@@ -19365,6 +19505,27 @@
       "location": "Lafayette, Colorado, United States of America",
       "title": "Executive Administrative Assistant - Acute Care and Monitoring",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Executive-Administrative-Assistant---Acute-Care-and-Monitoring_R67020-1"
+    },
+    "Medtronic:R67024": {
+      "alerted": false,
+      "first_seen": "2026-06-03T00:10:01.147488+00:00",
+      "location": "Mexico City, Distrito Federal, Mexico",
+      "title": "Regulatory Affairs Specialist Ciudad de M\u00e9xico",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mexico-City-Distrito-Federal-Mexico/Regulatory-Affairs-Specialist-Ciudad-de-Mxico_R67024-1"
+    },
+    "Medtronic:R67026": {
+      "alerted": false,
+      "first_seen": "2026-06-03T00:10:01.147580+00:00",
+      "location": "Lima, Lima, Peru",
+      "title": "Regulatory Affairs Specialist / Per\u00fa, Lima",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lima-Lima-Peru/Regulatory-Affairs-Specialist---Per--Lima_R67026-1"
+    },
+    "Medtronic:R67027": {
+      "alerted": false,
+      "first_seen": "2026-06-03T00:10:01.147626+00:00",
+      "location": "Buenos Aires, Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+      "title": "Regulatory Affairs Specialist/ Argentina",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Buenos-Aires-Ciudad-Autnoma-de-Buenos-Aires-Argentina/Regulatory-Affairs-Specialist--Argentina_R67027-1"
     },
     "Medtronic:R67074": {
       "alerted": false,
@@ -20416,6 +20577,20 @@
       "title": "Associate EP Mapping Specialist, CAS - Milwaukee, WI",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Milwaukee-Wisconsin-United-States-of-America/Associate-EP-Mapping-Specialist--CAS---Milwaukee--WI_R68290-2"
     },
+    "Medtronic:R68296": {
+      "alerted": false,
+      "first_seen": "2026-06-03T00:10:01.147829+00:00",
+      "location": "2 Locations",
+      "title": "Associate Sales Representative, CST - Louisville, KY /Nashville, TN",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Nashville-Tennessee-United-States-of-America/Associate-Sales-Representative--CST---Louisville--KY--Nashville--TN_R68296-1"
+    },
+    "Medtronic:R68297": {
+      "alerted": false,
+      "first_seen": "2026-06-03T00:10:01.147730+00:00",
+      "location": "Winston Salem, North Carolina, United States of America",
+      "title": "Associate Sales Representative, CST - Winston-Salem, NC",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Winston-Salem-North-Carolina-United-States-of-America/Associate-Sales-Representative--CST---Winston-Salem--NC_R68297-1"
+    },
     "Medtronic:R68304": {
       "alerted": false,
       "first_seen": "2026-05-28T11:49:50.781205+00:00",
@@ -20689,6 +20864,13 @@
       "title": "Recruitment Marketing Manager",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Recruitment-Marketing-Manager_R68476-1"
     },
+    "Medtronic:R68478": {
+      "alerted": false,
+      "first_seen": "2026-06-03T00:10:01.147780+00:00",
+      "location": "3 Locations",
+      "title": "Associate Sales Representative, CST - Orlando, Tallahassee, Tampa, FL",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Orlando-Florida-United-States-of-America/Associate-Sales-Representative--CST---Orlando--Tallahassee--Tampa--FL_R68478-1"
+    },
     "Medtronic:R68480": {
       "alerted": false,
       "first_seen": "2026-05-29T19:05:59.393631+00:00",
@@ -20927,6 +21109,13 @@
       "title": "Senior Principal Process Engineer",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/North-Haven-Connecticut-United-States-of-America/Senior-Principal-Process-Engineer_R68625-1"
     },
+    "Medtronic:R68626": {
+      "alerted": false,
+      "first_seen": "2026-06-03T00:10:01.147536+00:00",
+      "location": "Oklahoma City, Oklahoma, United States of America",
+      "title": "Clinical Consultant II, Enabling Technologies - Oklahoma City, OK",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Oklahoma-City-Oklahoma-United-States-of-America/Clinical-Consultant-II--Enabling-Technologies---Oklahoma-City--OK_R68626-1"
+    },
     "Medtronic:R68646": {
       "alerted": false,
       "first_seen": "2026-06-02T17:03:32.355144+00:00",
@@ -20989,6 +21178,13 @@
       "location": "3 Locations",
       "title": "Sr. Sales Rep - Cardiac Rhythm Management (CRM)",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/State-of-Massachusetts-United-States-of-America/Sr-Sales-Rep---Cardiac-Rhythm-Management--CRM-_R68717-1"
+    },
+    "Medtronic:R68756": {
+      "alerted": false,
+      "first_seen": "2026-06-03T00:10:01.147686+00:00",
+      "location": "Ventura, California, United States of America",
+      "title": "Associate Clinical Specialist CRM - Ventura",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Ventura-California-United-States-of-America/Associate-Clinical-Specialist-CRM---Ventura_R68756-2"
     },
     "Medtronic:R68768": {
       "alerted": false,
@@ -21150,6 +21346,13 @@
       "location": "Taiwan, Hsinchu",
       "title": "Manager, Product Quality Engineering",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Manager--Product-Quality-Engineering_JR2001755-1"
+    },
+    "NVIDIA:JR2001988": {
+      "alerted": false,
+      "first_seen": "2026-06-03T00:10:01.147394+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Developer Relationship Manager - Autonomous Vehicles",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Developer-Relationship-Manager---Autonomous-Vehicles_JR2001988"
     },
     "NVIDIA:JR2002026": {
       "alerted": false,
@@ -23594,6 +23797,13 @@
       "title": "Senior Talent Acquisition Business Partner - Joint Replacement (Remote)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Dallas-Texas/Senior-Talent-Acquisition-Business-Partner---Joint-Replacement--Remote-_R561035-1"
     },
+    "Stryker:R561040": {
+      "alerted": false,
+      "first_seen": "2026-06-03T00:10:01.134681+00:00",
+      "location": "Mexico City, Mexico",
+      "title": "Associate Marketing Manager, Orthopedics",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Mexico-City-Mexico/Associate-Marketing-Manager--Orthopaedics--Hybrid-_R561040"
+    },
     "Stryker:R561125": {
       "alerted": false,
       "first_seen": "2026-05-28T11:49:50.779085+00:00",
@@ -23705,6 +23915,13 @@
       "location": "7 Locations",
       "title": "Enabling Technologies Capital Sales Account Executive (m/w/d) \u2013 Germany",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Duisburg-Germany/Enabling-Technologies-Capital-Sales-Account-Executive---Germany_R562509"
+    },
+    "Stryker:R562567": {
+      "alerted": false,
+      "first_seen": "2026-06-03T00:10:01.134730+00:00",
+      "location": "Sao Paulo, Brazil",
+      "title": "LaTam Corporate Communications Intern (Hybrid)",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Sao-Paulo-Brazil/LaTam-Corporate-Communications-Intern--Hybrid-_R562567"
     },
     "Stryker:R562637": {
       "alerted": false,
@@ -24966,6 +25183,13 @@
       "title": "Senior Software Engineer",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Fort-Lauderdale-Florida/Senior-Software-Engineer_R566544"
     },
+    "Stryker:R566551": {
+      "alerted": false,
+      "first_seen": "2026-06-03T00:10:01.134776+00:00",
+      "location": "Portage, Michigan",
+      "title": "Assembler I - 1st Shift - $20.25/hr",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Assembler-I---1st-Shift----2025-hr_R566551"
+    },
     "Stryker:R566553": {
       "alerted": false,
       "first_seen": "2026-05-28T17:59:57.289255+00:00",
@@ -25371,6 +25595,13 @@
       "location": "San Francisco, CA, USA; Mountain View, CA, USA ",
       "title": "Regulatory Counsel",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=7264855"
+    },
+    "Waymo:7277508": {
+      "alerted": false,
+      "first_seen": "2026-06-03T00:10:01.134527+00:00",
+      "location": "Mountain View, CA, USA",
+      "title": "Full-Cycle Technical Recruiter, AI/ML",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=7277508"
     },
     "Waymo:7295723": {
       "alerted": false,
