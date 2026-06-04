@@ -8999,6 +8999,13 @@
       "title": "Senior Software Engineer (Full Stack), Intelligence Systems ",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5088314007?gh_jid=5088314007"
     },
+    "Anduril:5088364007": {
+      "alerted": false,
+      "first_seen": "2026-06-04T06:47:28.734392+00:00",
+      "location": "Sydney, New South Wales, Australia",
+      "title": "Engineering Systems Administrator",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5088364007?gh_jid=5088364007"
+    },
     "Anduril:5088393007": {
       "alerted": false,
       "first_seen": "2026-06-02T00:00:35.271420+00:00",
@@ -9040,6 +9047,13 @@
       "location": "London, England, United Kingdom",
       "title": "Senior Systems Administrator, IT Operations",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5088675007?gh_jid=5088675007"
+    },
+    "Anduril:5088753007": {
+      "alerted": false,
+      "first_seen": "2026-06-04T06:47:28.735356+00:00",
+      "location": "Ashville, Ohio, United States",
+      "title": "Senior Systems Administrator",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5088753007?gh_jid=5088753007"
     },
     "Anduril:5088766007": {
       "alerted": false,
@@ -19534,6 +19548,13 @@
       "title": "Sr Strategic Sourcing Mgr - R&D Services",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Sr-Strategic-Sourcing-Mgr---R-D-Services_R65838-2"
     },
+    "Medtronic:R65850": {
+      "alerted": false,
+      "first_seen": "2026-06-04T06:47:28.735580+00:00",
+      "location": "Bhubaneswar, Odisha, India",
+      "title": "Sales Representative I - Surgical Innovation",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Bhubaneswar-Odisha-India/Sales-Representative-I---Surgical-Innovation_R65850"
+    },
     "Medtronic:R65861": {
       "alerted": false,
       "first_seen": "2026-06-01T16:21:52.937434+00:00",
@@ -20528,6 +20549,20 @@
       "title": "Associate Requirements Technical Writer",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Associate-Requirements-Technical-Writer_R67499-1"
     },
+    "Medtronic:R67512": {
+      "alerted": false,
+      "first_seen": "2026-06-04T06:47:28.735536+00:00",
+      "location": "Jeddah, Makkah, Saudi Arabia",
+      "title": "Sales Representative \u2013 Spine \u2013 Al-Madinah Al-Munawwarah",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Jeddah-Makkah-Saudi-Arabia/Sales-Representative---Spine---Al-Madinah-Al-Munawwarah_R67512-1"
+    },
+    "Medtronic:R67522": {
+      "alerted": false,
+      "first_seen": "2026-06-04T06:47:28.735652+00:00",
+      "location": "Tijuana, Baja California, Mexico",
+      "title": "Process Engineer I",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Tijuana-Baja-California-Mexico/Process-Engineer-I_R67522-1"
+    },
     "Medtronic:R67523": {
       "alerted": false,
       "first_seen": "2026-05-29T16:25:44.503682+00:00",
@@ -21074,6 +21109,13 @@
       "title": "Senior Enterprise Software Engineer",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Senior-Enterprise-Software-Engineer_R68077-1"
     },
+    "Medtronic:R68078": {
+      "alerted": false,
+      "first_seen": "2026-06-04T06:47:28.735617+00:00",
+      "location": "Hanoi, Hanoi, Vietnam",
+      "title": "Senior Clinical Specialist",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Hanoi-Hanoi-Vietnam/Senior-Clinical-Specialist_R68078-1"
+    },
     "Medtronic:R68079": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.745763+00:00",
@@ -21508,12 +21550,26 @@
       "title": "Performance Marketing & Media Strategy Planner",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Performance-Marketing---Media-Strategy-Planner_R68339-1"
     },
+    "Medtronic:R68341": {
+      "alerted": true,
+      "first_seen": "2026-06-04T06:47:28.735688+00:00",
+      "location": "Tijuana, Baja California, Mexico",
+      "title": "Manufacturing Engineer I",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Tijuana-Baja-California-Mexico/Manufacturing-Engineer-I_R68341-1"
+    },
     "Medtronic:R68343": {
       "alerted": true,
       "first_seen": "2026-06-01T20:38:50.677467+00:00",
       "location": "Plymouth, Minnesota, United States of America",
       "title": "R&D Engineer II",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Plymouth-Minnesota-United-States-of-America/R-D-Engineer-II_R68343-2"
+    },
+    "Medtronic:R68347": {
+      "alerted": true,
+      "first_seen": "2026-06-04T06:47:28.735722+00:00",
+      "location": "Tijuana, Baja California, Mexico",
+      "title": "Manufacturing Engineer I",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Tijuana-Baja-California-Mexico/Manufacturing-Engineer-I_R68347-1"
     },
     "Medtronic:R68349": {
       "alerted": true,
@@ -22334,6 +22390,13 @@
       "title": "Manager, Deep Learning Algorithms",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/Manager--Deep-Learning-Algorithms_JR1990716-1"
     },
+    "NVIDIA:JR1996363": {
+      "alerted": false,
+      "first_seen": "2026-06-04T06:47:28.735481+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Software Program Manager - Datacenter Compute Server",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Program-Manager---Datacenter-Compute-Server_JR1996363"
+    },
     "NVIDIA:JR1997336": {
       "alerted": false,
       "first_seen": "2026-05-28T11:49:50.780630+00:00",
@@ -22571,6 +22634,13 @@
       "location": "US, MA, Westford",
       "title": "Chiplet Physical Design Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Chiplet-Physical-Design-Engineer_JR2007200"
+    },
+    "NVIDIA:JR2007452": {
+      "alerted": false,
+      "first_seen": "2026-06-04T06:47:28.735407+00:00",
+      "location": "2 Locations",
+      "title": "Senior Software Engineer, Subnet Management",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Subnet-Manager_JR2007452"
     },
     "NVIDIA:JR2007455": {
       "alerted": false,
@@ -26002,6 +26072,13 @@
       "title": "Associate Installation Technician - DFW / Oklahoma City",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Dallas-Texas/Associate-Installation-Technician---DFW_R564946"
     },
+    "Stryker:R564961": {
+      "alerted": false,
+      "first_seen": "2026-06-04T06:47:28.733503+00:00",
+      "location": "Gurugram, India",
+      "title": "Senior Engineer - Embedded Product Security",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Gurugram-India/Senior-Engineer---Embedded-Product-Security_R564961"
+    },
     "Stryker:R564963": {
       "alerted": false,
       "first_seen": "2026-06-02T08:50:12.717044+00:00",
@@ -26176,6 +26253,13 @@
       "location": "Irvine, California",
       "title": "Lead Sales Operations Analyst",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Irvine-California/Lead-Sales-Operations-Analyst_R565439"
+    },
+    "Stryker:R565459": {
+      "alerted": false,
+      "first_seen": "2026-06-04T06:47:28.733452+00:00",
+      "location": "Tokyo, Japan",
+      "title": "Senior Manager, Business Development",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tokyo-Japan/Senior-Manager--Business-Development_R565459-9"
     },
     "Stryker:R565469": {
       "alerted": false,
@@ -26470,6 +26554,13 @@
       "location": "Irvine, California",
       "title": "Associate Sourcing Manager- NPI",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Irvine-California/Associate-Sourcing-Manager--NPI_R565922"
+    },
+    "Stryker:R565945": {
+      "alerted": false,
+      "first_seen": "2026-06-04T06:47:28.733588+00:00",
+      "location": "Shanghai, China",
+      "title": "Endo_Product Manager_Shanghai",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Shanghai-China/Endo-Product-Manager-Shanghai_R565945"
     },
     "Stryker:R565951": {
       "alerted": false,
@@ -26800,6 +26891,13 @@
       "title": "Associate Sales Representative - San Francisco, CA - Craniomaxillofacial",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Francisco-California/Associate-Sales-Representative---San-Francisco--CA---Craniomaxillofacial_R566243"
     },
+    "Stryker:R566254": {
+      "alerted": false,
+      "first_seen": "2026-06-04T06:47:28.733549+00:00",
+      "location": "Bengaluru, India",
+      "title": "Staff Engineer - Automation & Manual Testing",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Bengaluru-India/Staff-Engineer---Automation---Manual-Testing_R566254-1"
+    },
     "Stryker:R566257": {
       "alerted": false,
       "first_seen": "2026-06-03T10:05:06.992253+00:00",
@@ -26946,6 +27044,13 @@
       "location": "Warsaw, Poland",
       "title": "Discover Internship Intercompany (R2R)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Warsaw-Poland/Discover-Internship-Intercompany--R2R-_R566381-1"
+    },
+    "Stryker:R566395": {
+      "alerted": false,
+      "first_seen": "2026-06-04T06:47:28.733361+00:00",
+      "location": "Gurugram, India",
+      "title": "Quality Engineer",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Gurugram-India/Quality-Engineer_R566395"
     },
     "Stryker:R566398": {
       "alerted": false,
