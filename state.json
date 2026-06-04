@@ -333,6 +333,20 @@
       "title": "Staff Hardware Test Engineer",
       "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6002917004"
     },
+    "Agility Robotics:6010663004": {
+      "alerted": false,
+      "first_seen": "2026-06-04T20:36:09.962714+00:00",
+      "location": "Hybrid- Fremont, CA",
+      "title": "Structural Analysis Engineer",
+      "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6010663004"
+    },
+    "Agility Robotics:6010667004": {
+      "alerted": false,
+      "first_seen": "2026-06-04T20:36:09.963354+00:00",
+      "location": "Hybrid- Fremont, CA",
+      "title": "Thermal Analysis Engineer",
+      "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6010667004"
+    },
     "Agility Robotics:6010788004": {
       "alerted": false,
       "first_seen": "2026-06-03T21:38:05.397153+00:00",
@@ -1088,6 +1102,13 @@
       "location": "San Francisco, California, USA",
       "title": "Senior Embedded SoC Developer , Personal Robotics Group",
       "url": "https://www.amazon.jobs/en/jobs/10433814/senior-embedded-soc-developer-personal-robotics-group"
+    },
+    "Amazon:10434356": {
+      "alerted": true,
+      "first_seen": "2026-06-04T20:36:09.963832+00:00",
+      "location": "North Reading, Massachusetts, USA",
+      "title": "Postdoctoral Scientist, Amazon Robotics Research and AI Development ",
+      "url": "https://www.amazon.jobs/en/jobs/10434356/postdoctoral-scientist-amazon-robotics-research-and-ai-development"
     },
     "Amazon:10434946": {
       "alerted": true,
@@ -8529,6 +8550,13 @@
       "location": "Dublin, Dublin, Ireland",
       "title": "PLM Developer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5084208007?gh_jid=5084208007"
+    },
+    "Anduril:5084274007": {
+      "alerted": false,
+      "first_seen": "2026-06-04T20:36:09.975236+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Warhead Design Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5084274007?gh_jid=5084274007"
     },
     "Anduril:5084276007": {
       "alerted": false,
@@ -16657,6 +16685,125 @@
       "title": "Technical Recruiter, Mission Systems (Contract)",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5155809007?gh_jid=5155809007"
     },
+    "Anduril:5155860007": {
+      "alerted": false,
+      "first_seen": "2026-06-04T20:36:09.966224+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Legal Counsel, Supply Chain",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5155860007?gh_jid=5155860007"
+    },
+    "Anduril:5156032007": {
+      "alerted": false,
+      "first_seen": "2026-06-04T20:36:09.967557+00:00",
+      "location": "Hudson, New Hampshire, United States",
+      "title": "Micro-electronics Technician - 2nd Shift ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5156032007?gh_jid=5156032007"
+    },
+    "Anduril:5156043007": {
+      "alerted": false,
+      "first_seen": "2026-06-04T20:36:09.964634+00:00",
+      "location": "Lexington, Massachusetts, United States",
+      "title": "Director, Supply Chain",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5156043007?gh_jid=5156043007"
+    },
+    "Anduril:5156058007": {
+      "alerted": false,
+      "first_seen": "2026-06-04T20:36:09.966864+00:00",
+      "location": "Hudson, New Hampshire, United States",
+      "title": "Manufacturing Engineer - 2nd Shift ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5156058007?gh_jid=5156058007"
+    },
+    "Anduril:5156073007": {
+      "alerted": false,
+      "first_seen": "2026-06-04T20:36:09.973453+00:00",
+      "location": "Hudson, New Hampshire, United States",
+      "title": "Senior Manufacturing Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5156073007?gh_jid=5156073007"
+    },
+    "Anduril:5156079007": {
+      "alerted": false,
+      "first_seen": "2026-06-04T20:36:09.968123+00:00",
+      "location": "Hudson, New Hampshire, United States",
+      "title": "Process Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5156079007?gh_jid=5156079007"
+    },
+    "Anduril:5156090007": {
+      "alerted": false,
+      "first_seen": "2026-06-04T20:36:09.968741+00:00",
+      "location": "Hudson, New Hampshire, United States",
+      "title": "Process Technician",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5156090007?gh_jid=5156090007"
+    },
+    "Anduril:5156093007": {
+      "alerted": false,
+      "first_seen": "2026-06-04T20:36:09.965258+00:00",
+      "location": "Hudson, New Hampshire, United States",
+      "title": "Engineering Technician, Vacuum/Cryogenic Systems",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5156093007?gh_jid=5156093007"
+    },
+    "Anduril:5156094007": {
+      "alerted": false,
+      "first_seen": "2026-06-04T20:36:09.970731+00:00",
+      "location": "Hudson, New Hampshire, United States",
+      "title": "Production Test Technician",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5156094007?gh_jid=5156094007"
+    },
+    "Anduril:5156098007": {
+      "alerted": false,
+      "first_seen": "2026-06-04T20:36:09.974057+00:00",
+      "location": "Waltham, Massachusetts, United States",
+      "title": "Senior Production Manager ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5156098007?gh_jid=5156098007"
+    },
+    "Anduril:5156101007": {
+      "alerted": false,
+      "first_seen": "2026-06-04T20:36:09.972852+00:00",
+      "location": "Waltham, Massachusetts, United States",
+      "title": "Senior Industrial Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5156101007?gh_jid=5156101007"
+    },
+    "Anduril:5156104007": {
+      "alerted": false,
+      "first_seen": "2026-06-04T20:36:09.971356+00:00",
+      "location": "Lexington, Massachusetts, United States",
+      "title": "R&D Engineering Technician",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5156104007?gh_jid=5156104007"
+    },
+    "Anduril:5156106007": {
+      "alerted": false,
+      "first_seen": "2026-06-04T20:36:09.970038+00:00",
+      "location": "Hudson, New Hampshire, United States",
+      "title": "Production Supervisor, Micro-electronics - 2nd Shift ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5156106007?gh_jid=5156106007"
+    },
+    "Anduril:5156107007": {
+      "alerted": false,
+      "first_seen": "2026-06-04T20:36:09.969322+00:00",
+      "location": "Waltham, Massachusetts, United States",
+      "title": "Production Coordinator",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5156107007?gh_jid=5156107007"
+    },
+    "Anduril:5156167007": {
+      "alerted": false,
+      "first_seen": "2026-06-04T20:36:09.975844+00:00",
+      "location": "Atlanta, Georgia, United States; Bellevue, Washington, United States; Costa Mesa, California, United States; Mountain View, California, United States",
+      "title": "Software Engineer, Manufacturing Test",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5156167007?gh_jid=5156167007"
+    },
+    "Anduril:5156172007": {
+      "alerted": false,
+      "first_seen": "2026-06-04T20:36:09.974680+00:00",
+      "location": "Atlanta, Georgia, United States; Bellevue, Washington, United States; Costa Mesa, California, United States; Mountain View, California, United States",
+      "title": "Senior Software Engineer, Manufacturing Test",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5156172007?gh_jid=5156172007"
+    },
+    "Anduril:5156175007": {
+      "alerted": false,
+      "first_seen": "2026-06-04T20:36:09.972016+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Electrical Engineer ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5156175007?gh_jid=5156175007"
+    },
     "Apptronik:5677396004": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.731515+00:00",
@@ -18610,6 +18757,13 @@
       "title": "Manufacturing Maintenance Technician - 2nd Shift (2pm - 10:30pm)",
       "url": "https://careers.formlabs.com/job/7979750/apply/?gh_jid=7979750"
     },
+    "Formlabs:7983427": {
+      "alerted": false,
+      "first_seen": "2026-06-04T20:36:09.976646+00:00",
+      "location": "Billerica, MA",
+      "title": "FN - 3D Printing Floor Lead",
+      "url": "https://careers.formlabs.com/job/7983427/apply/?gh_jid=7983427"
+    },
     "Medtronic:R35020": {
       "alerted": false,
       "first_seen": "2026-05-29T12:33:45.028213+00:00",
@@ -19338,6 +19492,13 @@
       "title": "Healthcare IT Consultant (m/w/d)",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Munich-area-Bavaria-Germany/Healthcare-IT-Consultant--m-w-d-_R64587-1"
     },
+    "Medtronic:R64616": {
+      "alerted": false,
+      "first_seen": "2026-06-04T20:36:09.976254+00:00",
+      "location": "Atlanta, Georgia, United States of America",
+      "title": "District Sales Manager - Cardiac Surgery, Atlanta",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Atlanta-Georgia-United-States-of-America/District-Sales-Manager---Cardiac-Surgery--Atlanta_R64616-2"
+    },
     "Medtronic:R64625": {
       "alerted": false,
       "first_seen": "2026-06-02T17:03:32.354744+00:00",
@@ -19456,6 +19617,13 @@
       "location": "Galway, County Galway, Ireland",
       "title": "Senior Systems Engineer",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Galway-County-Galway-Ireland/Senior-Systems-Engineer_R65135-1"
+    },
+    "Medtronic:R65194": {
+      "alerted": false,
+      "first_seen": "2026-06-04T20:36:09.976325+00:00",
+      "location": "Taguig City, National Capital Region, Philippines",
+      "title": "Customer  Service Rep III",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Taguig-City-National-Capital-Region-Philippines/Customer--Service-Rep-III_R65194-1"
     },
     "Medtronic:R65199": {
       "alerted": false,
@@ -22733,6 +22901,13 @@
       "title": "Clinical Specialist, Cardiac Rhythm Management (CRM) - New Brunswick, NJ",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/New-Brunswick-New-Jersey-United-States-of-America/Clinical-Specialist--Cardiac-Rhythm-Management--CRM----New-Brunswick--NJ_R68928-1"
     },
+    "Medtronic:R68930": {
+      "alerted": false,
+      "first_seen": "2026-06-04T20:36:09.976210+00:00",
+      "location": "Mounds View, Minnesota, United States of America",
+      "title": "Principal Product Manager, CRM",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Principal-Product-Manager--CRM_R68930-1"
+    },
     "Medtronic:R68933": {
       "alerted": false,
       "first_seen": "2026-06-04T02:00:49.723135+00:00",
@@ -22767,6 +22942,13 @@
       "location": "Shanghai, Shanghai, China",
       "title": "IT Intern:",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Shanghai-Shanghai-China/IT-Intern-_R68962-1"
+    },
+    "Medtronic:R68977": {
+      "alerted": false,
+      "first_seen": "2026-06-04T20:36:09.976285+00:00",
+      "location": "Minneapolis, Minnesota, United States of America",
+      "title": "Chemist I",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Chemist-I_R68977-1"
     },
     "Medtronic:R68981": {
       "alerted": false,
@@ -23005,6 +23187,13 @@
       "location": "Israel, Yokneam",
       "title": "Senior High Speed Optical Transceiver Design Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-High-Speed-Optical-Transceiver-Design-Engineer_JR2003100"
+    },
+    "NVIDIA:JR2003355": {
+      "alerted": true,
+      "first_seen": "2026-06-04T20:36:09.976071+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Firmware PHY Customer Success Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Firmware-Design-Engineer_JR2003355"
     },
     "NVIDIA:JR2003866": {
       "alerted": false,
@@ -23832,6 +24021,13 @@
       "title": "Senior Software Engineer - Server Manageability",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Software-Engineer---Server-Manageability_JR2015959"
     },
+    "NVIDIA:JR2015974": {
+      "alerted": false,
+      "first_seen": "2026-06-04T20:36:09.976111+00:00",
+      "location": "2 Locations",
+      "title": "Developer Technology Engineer- Gaming",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Japan-Tokyo/Developer-Technology-Engineer_JR2015974"
+    },
     "NVIDIA:JR2015981": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.745696+00:00",
@@ -24412,6 +24608,13 @@
       "location": "China, Shenzhen",
       "title": "Senior Product Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shenzhen/Senior-Product-Engineer_JR2018278"
+    },
+    "NVIDIA:JR2018285": {
+      "alerted": false,
+      "first_seen": "2026-06-04T20:36:09.976160+00:00",
+      "location": "China, Shenzhen",
+      "title": "Enterprise Customer Technical Program Manager - GPU and Networking",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shenzhen/Enterprise-Customer-Technical-Program-Manager---GPU-and-Networking_JR2018285"
     },
     "NVIDIA:JR2018288": {
       "alerted": false,
@@ -25735,6 +25938,13 @@
       "location": "2 Locations",
       "title": "Chip Design Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Chip-Design-Engineer_JR2019207"
+    },
+    "NVIDIA:JR2019210": {
+      "alerted": false,
+      "first_seen": "2026-06-04T20:36:09.976030+00:00",
+      "location": "China, Shanghai",
+      "title": "System Performance Analysis Engineer, Silicon Co-Design Group",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/System-Performance-Analysis-Engineer--Silicon-Co-Design-Group_JR2019210"
     },
     "NVIDIA:JR2019225": {
       "alerted": false,
@@ -27241,6 +27451,20 @@
       "title": "Product Support Specialist  - Toscana e Umbria",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Firenze-Italy/Product-Support-Specialist----Toscana-e-Umbria_R565880-1"
     },
+    "Stryker:R565896": {
+      "alerted": false,
+      "first_seen": "2026-06-04T20:36:09.975935+00:00",
+      "location": "Tulsa, Oklahoma",
+      "title": "Trauma Sales Representative - Tulsa, OK",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tulsa-Oklahoma/Trauma-Sales-Representative---Tulsa--OK_R565896"
+    },
+    "Stryker:R565898": {
+      "alerted": false,
+      "first_seen": "2026-06-04T20:36:09.975892+00:00",
+      "location": "Grecia, Costa Rica",
+      "title": "Senior Indirect Buyer (Grecia, Manufacturing Site)",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Grecia-Costa-Rica/Senior-Indirect-Buyer--Grecia--Manufacturing-Site-_R565898"
+    },
     "Stryker:R565915": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.741279+00:00",
@@ -28339,6 +28563,13 @@
       "location": "4 Locations",
       "title": "Sr. Enterprise Account Manager - Atlantic South - MedSurg/Neurotechnology",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/District-of-Columbia-Washington/Sr-Enterprise-Account-Manager---Atlantic-South---MedSurg-Neurotechnology_R566819"
+    },
+    "Stryker:R566824": {
+      "alerted": false,
+      "first_seen": "2026-06-04T20:36:09.975981+00:00",
+      "location": "4 Locations",
+      "title": "Sales Representative \u2013 Seattle, WA \u2013 ENT",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Seattle-Washington/Sales-Representative---Seattle--WA---ENT_R566824"
     },
     "Stryker:R566883": {
       "alerted": false,
@@ -31580,6 +31811,13 @@
       "location": "Mountain View, CA, USA ; San Francisco, CA, USA ; Remote",
       "title": "Senior Software Engineer, Fleet Response Training",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=7977824"
+    },
+    "Waymo:7977950": {
+      "alerted": false,
+      "first_seen": "2026-06-04T20:36:09.963763+00:00",
+      "location": "Mountain View, CA, USA",
+      "title": "Head of Global EHS",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=7977950"
     },
     "Waymo:7978589": {
       "alerted": false,
