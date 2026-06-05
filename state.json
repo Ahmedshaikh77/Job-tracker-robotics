@@ -1299,6 +1299,13 @@
       "title": "ML Engineer, Fauna",
       "url": "https://www.amazon.jobs/en/jobs/10441301/ml-engineer-fauna"
     },
+    "Amazon:10441528": {
+      "alerted": true,
+      "first_seen": "2026-06-05T22:14:29.943804+00:00",
+      "location": "New York, New York, USA",
+      "title": "Robotics/AI Motor Control Scientist, Fauna",
+      "url": "https://www.amazon.jobs/en/jobs/10441528/robotics-ai-motor-control-scientist-fauna"
+    },
     "Anduril:4159543007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.742648+00:00",
@@ -16531,6 +16538,13 @@
       "title": "Senior Compensation Partner, Manufacturing",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5153798007?gh_jid=5153798007"
     },
+    "Anduril:5153818007": {
+      "alerted": false,
+      "first_seen": "2026-06-05T22:14:29.948847+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Specialist, Accounts Receivable",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5153818007?gh_jid=5153818007"
+    },
     "Anduril:5153820007": {
       "alerted": false,
       "first_seen": "2026-06-03T21:38:05.401519+00:00",
@@ -16993,12 +17007,47 @@
       "title": "Mission Software Engineer, Intelligence Systems",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5156713007?gh_jid=5156713007"
     },
+    "Anduril:5156971007": {
+      "alerted": false,
+      "first_seen": "2026-06-05T22:14:29.945638+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Manager, People Operations Technical Programs & Strategy",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5156971007?gh_jid=5156971007"
+    },
+    "Anduril:5157521007": {
+      "alerted": false,
+      "first_seen": "2026-06-05T22:14:29.947340+00:00",
+      "location": "Seattle, Washington, United States",
+      "title": "Senior Manager, People Operations Technical Programs & Strategy",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5157521007?gh_jid=5157521007"
+    },
+    "Anduril:5157530007": {
+      "alerted": false,
+      "first_seen": "2026-06-05T22:14:29.946439+00:00",
+      "location": "Boston, Massachusetts, United States",
+      "title": "Senior Manager, People Operations Technical Programs & Strategy",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5157530007?gh_jid=5157530007"
+    },
+    "Anduril:5157535007": {
+      "alerted": false,
+      "first_seen": "2026-06-05T22:14:29.948158+00:00",
+      "location": "Washington, District of Columbia, United States",
+      "title": "Senior Manager, People Operations Technical Programs & Strategy",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5157535007?gh_jid=5157535007"
+    },
     "Anduril:5157570007": {
       "alerted": false,
       "first_seen": "2026-06-05T19:19:19.994896+00:00",
       "location": "Costa Mesa, California, United States",
       "title": "Systems Engineer, Launched Effects ",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5157570007?gh_jid=5157570007"
+    },
+    "Anduril:5157575007": {
+      "alerted": false,
+      "first_seen": "2026-06-05T22:14:29.952230+00:00",
+      "location": "Quincy, Massachusetts, United States",
+      "title": "Technical Program Manager, Comms & ISR",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5157575007?gh_jid=5157575007"
     },
     "Anduril:5157657007": {
       "alerted": false,
@@ -17020,6 +17069,34 @@
       "location": "Fort Bragg, North Carolina, United States",
       "title": "Senior Manager, Army Mission Operations",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5157968007?gh_jid=5157968007"
+    },
+    "Anduril:5158033007": {
+      "alerted": false,
+      "first_seen": "2026-06-05T22:14:29.944816+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Global Sourcing Manager, Casting",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5158033007?gh_jid=5158033007"
+    },
+    "Anduril:5158034007": {
+      "alerted": false,
+      "first_seen": "2026-06-05T22:14:29.949652+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Staff Global Sourcing Manager, Casting",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5158034007?gh_jid=5158034007"
+    },
+    "Anduril:5158049007": {
+      "alerted": false,
+      "first_seen": "2026-06-05T22:14:29.951369+00:00",
+      "location": "Washington, District of Columbia, United States",
+      "title": "Technical Program Manager, Comms & ISR",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5158049007?gh_jid=5158049007"
+    },
+    "Anduril:5158074007": {
+      "alerted": false,
+      "first_seen": "2026-06-05T22:14:29.950524+00:00",
+      "location": "Boston, Massachusetts, United States",
+      "title": "Technical Program Manager, Comms & ISR",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5158074007?gh_jid=5158074007"
     },
     "Apptronik:5677396004": {
       "alerted": false,
@@ -22285,6 +22362,13 @@
       "title": "Director of Enterprise Accounts",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Director-of-Enterprise-Accounts_R68115-2"
     },
+    "Medtronic:R68119": {
+      "alerted": false,
+      "first_seen": "2026-06-05T22:14:29.944023+00:00",
+      "location": "Mexico City, Distrito Federal, Mexico",
+      "title": "Associate Credit Services Representative (Temporal)",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mexico-City-Distrito-Federal-Mexico/Associate-Credit-Services-Representative--Temporal-_R68119-1"
+    },
     "Medtronic:R68124": {
       "alerted": false,
       "first_seen": "2026-05-28T20:27:11.360513+00:00",
@@ -24602,6 +24686,13 @@
       "title": "Manager, Next-Gen AI Cluster Validation",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--Next-Gen-AI-Cluster-Validation_JR2013580"
     },
+    "NVIDIA:JR2013616": {
+      "alerted": false,
+      "first_seen": "2026-06-05T22:14:29.943932+00:00",
+      "location": "6 Locations",
+      "title": "Senior ML Platform Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-ML-Platform-Engineer_JR2013616"
+    },
     "NVIDIA:JR2013665": {
       "alerted": false,
       "first_seen": "2026-06-02T17:03:32.353291+00:00",
@@ -25000,6 +25091,13 @@
       "location": "US, CA, Santa Clara",
       "title": "PhD Research Intern, Generative AI - 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI---2026_JR2016035"
+    },
+    "NVIDIA:JR2016212": {
+      "alerted": false,
+      "first_seen": "2026-06-05T22:14:29.943974+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Software Manager, Networking",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Manager--Networking_JR2016212"
     },
     "NVIDIA:JR2016359": {
       "alerted": false,
@@ -29956,6 +30054,13 @@
       "location": "9 Locations",
       "title": "Product Support Specialist",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Aberdeen-Scotland/Product-Support-Specialist_R566775"
+    },
+    "Stryker:R566783": {
+      "alerted": false,
+      "first_seen": "2026-06-05T22:14:29.943883+00:00",
+      "location": "2 Locations",
+      "title": "Foot and Ankle Sales Representative - North Platte, Nebraska",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Kearney-Nebraska/Foot-and-Ankle-Sales-Representative---North-Platte--Nebraska_R566783"
     },
     "Stryker:R566793": {
       "alerted": false,
