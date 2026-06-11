@@ -1432,6 +1432,13 @@
       "title": "Applied Scientist, Alexa Smart Home",
       "url": "https://www.amazon.jobs/en/jobs/10444145/applied-scientist-alexa-smart-home"
     },
+    "Amazon:10444170": {
+      "alerted": false,
+      "first_seen": "2026-06-11T23:55:06.459467+00:00",
+      "location": "Santa Cruz, California, USA",
+      "title": "Postdoctoral Researcher \u2013 Visual Localization & Navigation | Amazon Last Mile",
+      "url": "https://www.amazon.jobs/en/jobs/10444170/postdoctoral-researcher-visual-localization-navigation-amazon-last-mile"
+    },
     "Amazon:10444818": {
       "alerted": false,
       "first_seen": "2026-06-10T16:51:28.405500+00:00",
@@ -1466,6 +1473,13 @@
       "location": "Bengaluru, Karnataka, IND",
       "title": "Senior Solutions Architect, Automotive & Manufacturing",
       "url": "https://www.amazon.jobs/en/jobs/10446916/senior-solutions-architect-automotive-manufacturing"
+    },
+    "Amazon:10447074": {
+      "alerted": true,
+      "first_seen": "2026-06-11T23:55:06.459555+00:00",
+      "location": "Bellevue, Washington, USA",
+      "title": "Software Development Engineer II, AFT - Amazon Robotics Pick Automation",
+      "url": "https://www.amazon.jobs/en/jobs/10447074/software-development-engineer-ii-aft-amazon-robotics-pick-automation"
     },
     "Anduril:4159543007": {
       "alerted": false,
@@ -18680,6 +18694,13 @@
       "title": "Senior Global Sourcing Manager, Connectors & Wire Harness",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162313007?gh_jid=5162313007"
     },
+    "Anduril:5162430007": {
+      "alerted": false,
+      "first_seen": "2026-06-11T23:55:06.460271+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Technical Recruiter, Manufacturing Automation Engineering",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162430007?gh_jid=5162430007"
+    },
     "Anduril:5162461007": {
       "alerted": false,
       "first_seen": "2026-06-11T20:14:17.828641+00:00",
@@ -18707,6 +18728,90 @@
       "location": "Santa Ana, California, United States",
       "title": "Production Scheduler, EagleEye",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162694007?gh_jid=5162694007"
+    },
+    "Anduril:5162752007": {
+      "alerted": false,
+      "first_seen": "2026-06-11T23:55:06.466832+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Technical Sourcer, Manufacturing",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162752007?gh_jid=5162752007"
+    },
+    "Anduril:5162753007": {
+      "alerted": false,
+      "first_seen": "2026-06-11T23:55:06.466119+00:00",
+      "location": "Seattle, Washington, United States",
+      "title": "Technical Sourcer, Manufacturing",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162753007?gh_jid=5162753007"
+    },
+    "Anduril:5162755007": {
+      "alerted": false,
+      "first_seen": "2026-06-11T23:55:06.465421+00:00",
+      "location": "Boston, Massachusetts, United States",
+      "title": "Technical Sourcer, Manufacturing",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162755007?gh_jid=5162755007"
+    },
+    "Anduril:5162758007": {
+      "alerted": false,
+      "first_seen": "2026-06-11T23:55:06.468288+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Technical Sourcer, Supply Chain",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162758007?gh_jid=5162758007"
+    },
+    "Anduril:5162759007": {
+      "alerted": false,
+      "first_seen": "2026-06-11T23:55:06.467575+00:00",
+      "location": "Seattle, Washington, United States",
+      "title": "Technical Sourcer, Supply Chain",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162759007?gh_jid=5162759007"
+    },
+    "Anduril:5162761007": {
+      "alerted": false,
+      "first_seen": "2026-06-11T23:55:06.469017+00:00",
+      "location": "Boston, Massachusetts, United States",
+      "title": "Technical Sourcer, Supply Chain",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162761007?gh_jid=5162761007"
+    },
+    "Anduril:5162762007": {
+      "alerted": false,
+      "first_seen": "2026-06-11T23:55:06.461756+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Technical Sourcer, Manufacturing",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162762007?gh_jid=5162762007"
+    },
+    "Anduril:5162764007": {
+      "alerted": false,
+      "first_seen": "2026-06-11T23:55:06.461021+00:00",
+      "location": "Seattle, Washington, United States",
+      "title": "Senior Technical Sourcer, Manufacturing",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162764007?gh_jid=5162764007"
+    },
+    "Anduril:5162765007": {
+      "alerted": false,
+      "first_seen": "2026-06-11T23:55:06.462485+00:00",
+      "location": "Boston, Massachusetts, United States",
+      "title": "Senior Technical Sourcer, Manufacturing",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162765007?gh_jid=5162765007"
+    },
+    "Anduril:5162767007": {
+      "alerted": false,
+      "first_seen": "2026-06-11T23:55:06.463951+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Technical Sourcer, Supply Chain",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162767007?gh_jid=5162767007"
+    },
+    "Anduril:5162768007": {
+      "alerted": false,
+      "first_seen": "2026-06-11T23:55:06.464688+00:00",
+      "location": "Seattle, Washington, United States",
+      "title": "Senior Technical Sourcer, Supply Chain",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162768007?gh_jid=5162768007"
+    },
+    "Anduril:5162769007": {
+      "alerted": false,
+      "first_seen": "2026-06-11T23:55:06.463207+00:00",
+      "location": "Boston, Massachusetts, United States",
+      "title": "Senior Technical Sourcer, Supply Chain",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162769007?gh_jid=5162769007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -23741,6 +23846,13 @@
       "title": "Sales Representative Surgical",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Porto-Porto-Portugal/Sales-Representative-Surgical_R66979-1"
     },
+    "Medtronic:R66984": {
+      "alerted": false,
+      "first_seen": "2026-06-11T23:55:06.469144+00:00",
+      "location": "Menlo Park, California, United States of America",
+      "title": "Senior Production Planner",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Menlo-Park-California-United-States-of-America/Senior-Production-Planner_R66984-1"
+    },
     "Medtronic:R66988": {
       "alerted": false,
       "first_seen": "2026-06-10T19:26:48.733497+00:00",
@@ -25091,6 +25203,13 @@
       "location": "2 Locations",
       "title": "Principal Software Automation Engineer",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Dexter-Michigan-United-States-of-America/Principal-Software-Automation-Engineer_R67982-1"
+    },
+    "Medtronic:R67985": {
+      "alerted": false,
+      "first_seen": "2026-06-11T23:55:06.469187+00:00",
+      "location": "Bogot\u00e1, Bogota, Colombia",
+      "title": "242420 - Associate Customer Specialist.",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Bogot-Bogota-Colombia/XMLNAME-242420---Associate-Customer-Specialist_R67985-1"
     },
     "Medtronic:R67990": {
       "alerted": false,
@@ -28270,6 +28389,13 @@
       "title": "Senior Robotic Stapling Specialist - (Nassau / Suffolk County)",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Long-Island-New-York-United-States-of-America/Senior-Robotic-Stapling-Specialist----Nassau---Suffolk-County-_R69456-1"
     },
+    "Medtronic:R69460": {
+      "alerted": false,
+      "first_seen": "2026-06-11T23:55:06.469273+00:00",
+      "location": "Lo Barnechea, Santiago , Chile",
+      "title": "Especialista Cl\u00ednico Asociado Endovenoso",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lo-Barnechea-Santiago--Chile/Especialista-Clnico-Asociado-Endovenoso_R69460-1"
+    },
     "Medtronic:R69468": {
       "alerted": false,
       "first_seen": "2026-06-10T13:50:39.827925+00:00",
@@ -28388,6 +28514,13 @@
       "location": "S\u00e3o Sebasti\u00e3o do Para\u00edso, Minas Gerais, Brazil",
       "title": "Operador II",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/So-Sebastio-do-Paraso-Minas-Gerais-Brazil/Operador-II_R69648-1"
+    },
+    "Medtronic:R69649": {
+      "alerted": false,
+      "first_seen": "2026-06-11T23:55:06.469231+00:00",
+      "location": "Los Angeles, California, United States of America",
+      "title": "Area Sales Manager I, ENT - Los Angeles County",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Los-Angeles-California-United-States-of-America/Area-Sales-Manager-I--ENT---Los-Angeles-County_R69649-1"
     },
     "NVIDIA:JR1970791": {
       "alerted": false,
@@ -35011,6 +35144,13 @@
       "title": "Field Operations Associate - 1st Shift - $23.90/hr",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Novi-Michigan/Field-Operations-Associate---1st-Shift----2390-hr_R564779"
     },
+    "Stryker:R564791": {
+      "alerted": false,
+      "first_seen": "2026-06-11T23:55:06.469064+00:00",
+      "location": "Warrnambool, Australia",
+      "title": "Casual Clinical Consultant - Joint Replacement",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Warrnambool-Australia/Casual-Clinical-Consultant---Joint-Replacement_R564791"
+    },
     "Stryker:R564800": {
       "alerted": false,
       "first_seen": "2026-06-09T13:31:20.403722+00:00",
@@ -37236,6 +37376,13 @@
       "location": "Austin, Texas",
       "title": "Field Operations Associate - 1st Shift - $25.10/hr",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Austin-Texas/Field-Operations-Associate---1st-Shift----2510-hr_R566641"
+    },
+    "Stryker:R566643": {
+      "alerted": false,
+      "first_seen": "2026-06-11T23:55:06.469109+00:00",
+      "location": "Boston, Massachusetts",
+      "title": "Sales Representative - Boston, MA - Sports Medicine",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Boston-Massachusetts/Sales-Representative---Boston--MA---Sports-Medicine_R566643"
     },
     "Stryker:R566644": {
       "alerted": false,
