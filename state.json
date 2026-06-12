@@ -1481,6 +1481,13 @@
       "title": "Software Development Engineer II, AFT - Amazon Robotics Pick Automation",
       "url": "https://www.amazon.jobs/en/jobs/10447074/software-development-engineer-ii-aft-amazon-robotics-pick-automation"
     },
+    "Amazon:10447428": {
+      "alerted": false,
+      "first_seen": "2026-06-12T07:01:47.328118+00:00",
+      "location": "Bellevue, Washington, USA",
+      "title": "Senior Applied Scientist, Workplace Health & Safety ",
+      "url": "https://www.amazon.jobs/en/jobs/10447428/senior-applied-scientist-workplace-health-safety"
+    },
     "Anduril:4159543007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.742648+00:00",
@@ -18813,6 +18820,13 @@
       "title": "Senior Technical Sourcer, Supply Chain",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162769007?gh_jid=5162769007"
     },
+    "Anduril:5162797007": {
+      "alerted": false,
+      "first_seen": "2026-06-12T07:01:47.329975+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Mission Operations Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162797007?gh_jid=5162797007"
+    },
     "Anduril:5162800007": {
       "alerted": false,
       "first_seen": "2026-06-12T02:27:41.623832+00:00",
@@ -18826,6 +18840,13 @@
       "location": "Costa Mesa, California, United States",
       "title": "Warfighting Capability Analyst, Maritime",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162802007?gh_jid=5162802007"
+    },
+    "Anduril:5162865007": {
+      "alerted": false,
+      "first_seen": "2026-06-12T07:01:47.328913+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Associate Mechanical Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162865007?gh_jid=5162865007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -21843,6 +21864,13 @@
       "location": "Bogot\u00e1, Bogota, Colombia",
       "title": "Senior Business Analytics Analyst",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Bogot-Bogota-Colombia/Senior-Advanced-Analytics-Analyst_R62270-1"
+    },
+    "Medtronic:R62385": {
+      "alerted": false,
+      "first_seen": "2026-06-12T07:01:47.331175+00:00",
+      "location": "Nanakramguda, Hyderabad, India",
+      "title": "Regulatory Affairs Specialist",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Regulatory-Affairs-Specialist_R62385-3"
     },
     "Medtronic:R62416": {
       "alerted": false,
@@ -27612,6 +27640,13 @@
       "title": "CRM_CIED_Technical Sales Representative_Hangzhou",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Hangzhou-Zhejiang-China/CRM-CIED-Technical-Sales-Representative-Hangzhou_R68945-1"
     },
+    "Medtronic:R68946": {
+      "alerted": false,
+      "first_seen": "2026-06-12T07:01:47.331136+00:00",
+      "location": "Nanakramguda, Hyderabad, India",
+      "title": "Principal Software Test Engineer",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Principal-Software-Test-Engineer_R68946-1"
+    },
     "Medtronic:R68960": {
       "alerted": false,
       "first_seen": "2026-06-08T01:56:11.670534+00:00",
@@ -28053,6 +28088,13 @@
       "title": "238040 - Assembler I",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Ho-Chi-Minh-City-Ho-Chi-Minh-City-Vietnam/XMLNAME-238040---Assembler-I_R69170-1"
     },
+    "Medtronic:R69174": {
+      "alerted": false,
+      "first_seen": "2026-06-12T07:01:47.331080+00:00",
+      "location": "Shanghai, Shanghai, China",
+      "title": "SQE II_CMSQ",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Shanghai-Shanghai-China/SQE-II-CMSQ_R69174-1"
+    },
     "Medtronic:R69207": {
       "alerted": false,
       "first_seen": "2026-06-09T20:22:51.160527+00:00",
@@ -28094,6 +28136,13 @@
       "location": "Danvers, Massachusetts, United States of America",
       "title": "Manufacturing Engineer II - Injection Molding",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Danvers-Massachusetts-United-States-of-America/Manufacturing-Engineer-II---Injection-Molding_R69233"
+    },
+    "Medtronic:R69241": {
+      "alerted": false,
+      "first_seen": "2026-06-12T07:01:47.331215+00:00",
+      "location": "Perth, Western Australia, Australia",
+      "title": "Clinical Specialist, APVH",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Perth-Western-Australia-Australia/Clinical-Specialist--APVH_R69241-1"
     },
     "Medtronic:R69242": {
       "alerted": false,
@@ -28850,6 +28899,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Senior Circuit Characterization Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Circuit-Characterization-Engineer_JR2002217-1"
+    },
+    "NVIDIA:JR2002227": {
+      "alerted": false,
+      "first_seen": "2026-06-12T07:01:47.330175+00:00",
+      "location": "2 Locations",
+      "title": "Chip Design Manager",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Formal-Verification-Manager_JR2002227"
     },
     "NVIDIA:JR2002276": {
       "alerted": false,
@@ -29866,6 +29922,13 @@
       "title": "Senior Design Engineer - Memory Subsystem",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Design-Engineer---Memory-Subsystem_JR2014081"
     },
+    "NVIDIA:JR2014097": {
+      "alerted": false,
+      "first_seen": "2026-06-12T07:01:47.330712+00:00",
+      "location": "5 Locations",
+      "title": "Senior Software Engineer, Attestation Services - DGX Cloud",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Attestation-Services---DGX-Cloud_JR2014097"
+    },
     "NVIDIA:JR2014186": {
       "alerted": false,
       "first_seen": "2026-06-04T13:40:12.029896+00:00",
@@ -30131,6 +30194,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Senior Firmware Engineer \u2013 GPU Networking",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Firmware-Engineer---GPU-Networking_JR2014917"
+    },
+    "NVIDIA:JR2014937": {
+      "alerted": false,
+      "first_seen": "2026-06-12T07:01:47.330839+00:00",
+      "location": "Taiwan, Taipei",
+      "title": "Manager, System Firmware",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Manager--System-Firmware_JR2014937"
     },
     "NVIDIA:JR2014997": {
       "alerted": false,
@@ -30593,6 +30663,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Software Engineer, Linux Kernel - Networking",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Networking_JR2016798"
+    },
+    "NVIDIA:JR2016804": {
+      "alerted": false,
+      "first_seen": "2026-06-12T07:01:47.331008+00:00",
+      "location": "6 Locations",
+      "title": "Senior AI Compiler Engineer - Applied Research",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Research-Engineer---Applied-Scientist-Compilers_JR2016804-1"
     },
     "NVIDIA:JR2016828": {
       "alerted": false,
@@ -32862,6 +32939,13 @@
       "title": "Critical Component Product Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Critical-Component-Product-Engineer_JR2019129"
     },
+    "NVIDIA:JR2019131": {
+      "alerted": false,
+      "first_seen": "2026-06-12T07:01:47.330137+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Product Marketing Manager - Autonomous Vehicles",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Product-Marketing-Manager---Autonomous-Vehicles_JR2019131"
+    },
     "NVIDIA:JR2019132": {
       "alerted": false,
       "first_seen": "2026-06-03T21:38:05.398231+00:00",
@@ -32883,6 +32967,13 @@
       "title": "Senior CUDA Test Development Software Engineer, SDET",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-CUDA-Test-Development-Software-Engineer--SDET_JR2019136"
     },
+    "NVIDIA:JR2019141": {
+      "alerted": false,
+      "first_seen": "2026-06-12T07:01:47.330630+00:00",
+      "location": "2 Locations",
+      "title": "Senior VLSI Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-VLSI-Engineer_JR2019141"
+    },
     "NVIDIA:JR2019148": {
       "alerted": false,
       "first_seen": "2026-06-10T21:33:42.573822+00:00",
@@ -32903,6 +32994,13 @@
       "location": "France, Remote",
       "title": "Compute Performance Developer Technology Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/France-Remote/Compute-Performance-Developer-Technology-Engineer_JR2019151"
+    },
+    "NVIDIA:JR2019152": {
+      "alerted": false,
+      "first_seen": "2026-06-12T07:01:47.330350+00:00",
+      "location": "2 Locations",
+      "title": "Senior Compiler Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Cambridge/Senior-Compiler-Engineer_JR2019152"
     },
     "NVIDIA:JR2019153": {
       "alerted": false,
@@ -33128,6 +33226,13 @@
       "title": "North America Logistics Execution Program Manager",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Remote/North-America-Logistics-Execution-Program-Manager_JR2019226"
     },
+    "NVIDIA:JR2019228": {
+      "alerted": false,
+      "first_seen": "2026-06-12T07:01:47.330406+00:00",
+      "location": "2 Locations",
+      "title": "Senior Developer Relations Manager \u2014 Security and AI Software",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Developer-Relations-Manager---Security-and-AI-Software_JR2019228"
+    },
     "NVIDIA:JR2019229": {
       "alerted": false,
       "first_seen": "2026-06-04T02:00:49.717659+00:00",
@@ -33233,6 +33338,13 @@
       "title": "Senior Solution Architect, AI Compute Engineer - NVIS",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Singapore-Singapore-Suntec-Tower/Senior-Solution-Architect--AI-Compute-Engineer---NVIS_JR2019262"
     },
+    "NVIDIA:JR2019263": {
+      "alerted": false,
+      "first_seen": "2026-06-12T07:01:47.330313+00:00",
+      "location": "Singapore, Singapore-Suntec Tower",
+      "title": "Senior Solutions Architect Networking Ethernet - NVIS",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Singapore-Singapore-Suntec-Tower/Senior-Solutions-Architect-Networking-Ethernet---NVIS_JR2019263"
+    },
     "NVIDIA:JR2019265": {
       "alerted": false,
       "first_seen": "2026-06-04T18:36:35.689390+00:00",
@@ -33253,6 +33365,13 @@
       "location": "India, Bengaluru",
       "title": "GPU System Architect",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/GPU-System-Architect_JR2019269"
+    },
+    "NVIDIA:JR2019273": {
+      "alerted": false,
+      "first_seen": "2026-06-12T07:01:47.330595+00:00",
+      "location": "3 Locations",
+      "title": "Senior Program Manager, Architecture Review Board",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Program-Manager--Architecture-Review-Board_JR2019273"
     },
     "NVIDIA:JR2019275": {
       "alerted": false,
@@ -33387,6 +33506,13 @@
       "title": "Software R&D Engineer, VLSI Physical Design - New College Grad 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Software-R-D-Engineer--VLSI-Physical-Design---New-College-Grad-2026_JR2019330"
     },
+    "NVIDIA:JR2019332": {
+      "alerted": false,
+      "first_seen": "2026-06-12T07:01:47.330265+00:00",
+      "location": "2 Locations",
+      "title": "Software R&D Engineer, RTL Optimization Tools",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-R-D-Engineer--RTL-Optimization-Tools_JR2019332"
+    },
     "NVIDIA:JR2019336": {
       "alerted": false,
       "first_seen": "2026-06-08T19:51:31.427178+00:00",
@@ -33450,6 +33576,13 @@
       "title": "Senior System Software Engineer - USB",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Senior-System-Software-Engineer---USB_JR2019362"
     },
+    "NVIDIA:JR2019367": {
+      "alerted": false,
+      "first_seen": "2026-06-12T07:01:47.330665+00:00",
+      "location": "Israel, Yokneam",
+      "title": "Equipment Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Equipment-Engineer_JR2019367"
+    },
     "NVIDIA:JR2019369": {
       "alerted": false,
       "first_seen": "2026-06-08T06:29:21.596085+00:00",
@@ -33498,6 +33631,13 @@
       "location": "2 Locations",
       "title": "Senior Systems Software Engineer, Kubernetes Scale - DGX Cloud",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer--Kubernetes-Scale---DGX-Cloud_JR2019385"
+    },
+    "NVIDIA:JR2019386": {
+      "alerted": false,
+      "first_seen": "2026-06-12T07:01:47.330451+00:00",
+      "location": "2 Locations",
+      "title": "Solutions Architect, Financial Services Capital Markets",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-NY-Remote/Solutions-Architect--Financial-Services-Capital-Markets_JR2019386"
     },
     "NVIDIA:JR2019389": {
       "alerted": false,
@@ -33611,6 +33751,13 @@
       "title": "Security and Safety Circuit Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Security-and-Safety-Circuit-Engineer_JR2019428"
     },
+    "NVIDIA:JR2019432": {
+      "alerted": false,
+      "first_seen": "2026-06-12T07:01:47.331047+00:00",
+      "location": "Taiwan, Hsinchu",
+      "title": "Mechanical Manufacturing Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Mechanical-Manufacturing-Engineer_JR2019432-1"
+    },
     "NVIDIA:JR2019433": {
       "alerted": false,
       "first_seen": "2026-06-12T02:27:41.624164+00:00",
@@ -33638,6 +33785,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Formal Verification Engineer - New College Grad 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Engineer---New-College-Grad-2026_JR2019447"
+    },
+    "NVIDIA:JR2019454": {
+      "alerted": false,
+      "first_seen": "2026-06-12T07:01:47.330220+00:00",
+      "location": "India, Bengaluru",
+      "title": "DFX CAD Tools Development Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/DFX-CAD-Tools-Development-Engineer_JR2019454"
     },
     "NVIDIA:JR2019457": {
       "alerted": false,
@@ -33716,6 +33870,27 @@
       "title": "Senior Solutions Architect, GPU Cloud GenAI \u2013 Infrastructure",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Mumbai/Senior-Solutions-Architect--GPU-Cloud-GenAI---Infrastructure_JR2019537"
     },
+    "NVIDIA:JR2019539": {
+      "alerted": false,
+      "first_seen": "2026-06-12T07:01:47.330802+00:00",
+      "location": "3 Locations",
+      "title": "Senior System Security Architect",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-System-Security-Architect_JR2019539"
+    },
+    "NVIDIA:JR2019541": {
+      "alerted": false,
+      "first_seen": "2026-06-12T07:01:47.330502+00:00",
+      "location": "2 Locations",
+      "title": "Solutions Architect, Industry Accounts",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Remote/Solutions-Architect--Industry-Accounts_JR2019541"
+    },
+    "NVIDIA:JR2019551": {
+      "alerted": false,
+      "first_seen": "2026-06-12T07:01:47.330881+00:00",
+      "location": "2 Locations",
+      "title": "Senior Software Engineer, AI Speed Infrastructure",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--AI-Speed-Infrastructure_JR2019551"
+    },
     "NVIDIA:JR2019560": {
       "alerted": false,
       "first_seen": "2026-06-10T10:18:23.525478+00:00",
@@ -33771,6 +33946,13 @@
       "location": "US, WA, Redmond",
       "title": "Senior Research Scientist, Rendering",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Redmond/Senior-Research-Scientist--Rendering_JR2019582"
+    },
+    "NVIDIA:JR2019584": {
+      "alerted": false,
+      "first_seen": "2026-06-12T07:01:47.330552+00:00",
+      "location": "4 Locations",
+      "title": "Senior Solutions Architect, Infiniband and Networking Ethernet - NVIS",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Pune/Senior-Solutions-Architect--Infiniband-and-Networking-Ethernet---NVIS_JR2019584"
     },
     "NVIDIA:JR2019586": {
       "alerted": false,
@@ -33835,6 +34017,13 @@
       "title": "Cloud Distributed Systems Backend Intern, GeForce NOW - Fall 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Cloud-Distributed-Systems-Backend-Intern--GeForce-NOW---Fall-2026_JR2019665"
     },
+    "NVIDIA:JR2019666": {
+      "alerted": false,
+      "first_seen": "2026-06-12T07:01:47.330925+00:00",
+      "location": "US, NY, Remote",
+      "title": "Senior Solutions Architect, Financial Services Capital Markets",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-NY-Remote/Senior-Solutions-Architect--Financial-Services-Capital-Markets_JR2019666"
+    },
     "NVIDIA:JR2019674": {
       "alerted": false,
       "first_seen": "2026-06-11T06:22:17.198332+00:00",
@@ -33849,6 +34038,13 @@
       "title": "SoC Verification Lead",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Verification-Lead_JR2019675-1"
     },
+    "NVIDIA:JR2019685": {
+      "alerted": true,
+      "first_seen": "2026-06-12T07:01:47.330965+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Embedded Software Engineer - RISCV",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Embedded-Software-Engineer---RISCV_JR2019685"
+    },
     "NVIDIA:JR2019701": {
       "alerted": false,
       "first_seen": "2026-06-11T06:22:17.198288+00:00",
@@ -33862,6 +34058,13 @@
       "location": "2 Locations",
       "title": "Senior Software Engineer, Mapping - Autonomous Vehicles",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Mapping---Autonomous-Vehicles_JR2019727"
+    },
+    "NVIDIA:JR2019729": {
+      "alerted": false,
+      "first_seen": "2026-06-12T07:01:47.330762+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Research Scientist, Efficient Deep Learning - New College Grad 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Efficient-Deep-Learning---New-College-Grad-2026_JR2019729-1"
     },
     "Stryker:R498593": {
       "alerted": false,
@@ -36628,6 +36831,13 @@
       "title": "Senior Invoice to Cash Analyst (Front Office)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Warsaw-Poland/Senior-Invoice-to-Cash-Analyst--Front-Office-_R566260"
     },
+    "Stryker:R566261": {
+      "alerted": false,
+      "first_seen": "2026-06-12T07:01:47.330022+00:00",
+      "location": "Gurugram, India",
+      "title": "Senior Design Engineer",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Gurugram-India/Senior-Design-Engineer_R566261-1"
+    },
     "Stryker:R566262": {
       "alerted": false,
       "first_seen": "2026-06-01T16:21:52.928788+00:00",
@@ -37243,6 +37453,13 @@
       "location": "Grand Rapids, Michigan",
       "title": "OnSite Specialist - Grand Rapids, MI",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Grand-Rapids-Michigan/OnSite-Specialist---Grand-Rapids--MI_R566559"
+    },
+    "Stryker:R566566": {
+      "alerted": false,
+      "first_seen": "2026-06-12T07:01:47.330074+00:00",
+      "location": "Oklahoma City, Oklahoma",
+      "title": "Sales Representative - Oklahoma City, OK - Sports Medicine",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Oklahoma-City-Oklahoma/Sales-Representative---Oklahoma-City--OK---Sports-Medicine_R566566"
     },
     "Stryker:R566567": {
       "alerted": false,
