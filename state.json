@@ -403,6 +403,13 @@
       "title": "Senior Systems Integration Engineer",
       "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6017810004"
     },
+    "Agility Robotics:6017816004": {
+      "alerted": false,
+      "first_seen": "2026-06-12T21:08:53.321553+00:00",
+      "location": "Hybrid- Fremont, CA; Remote",
+      "title": "UX/UI Designer",
+      "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6017816004"
+    },
     "Agility Robotics:6019008004": {
       "alerted": false,
       "first_seen": "2026-06-12T19:22:43.945979+00:00",
@@ -18701,6 +18708,13 @@
       "title": "Staff Electrical Engineer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5161638007?gh_jid=5161638007"
     },
+    "Anduril:5161645007": {
+      "alerted": false,
+      "first_seen": "2026-06-12T21:08:53.323495+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Legal Counsel, Real Estate",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5161645007?gh_jid=5161645007"
+    },
     "Anduril:5161713007": {
       "alerted": false,
       "first_seen": "2026-06-10T23:11:28.052822+00:00",
@@ -19036,6 +19050,27 @@
       "location": "Washington, District of Columbia, United States",
       "title": "Senior Product Designer, Mission Autonomy",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5163635007?gh_jid=5163635007"
+    },
+    "Anduril:5163914007": {
+      "alerted": false,
+      "first_seen": "2026-06-12T21:08:53.324204+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Mechanical Engineer, Advanced Targeting & Sensing Systems",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5163914007?gh_jid=5163914007"
+    },
+    "Anduril:5163958007": {
+      "alerted": false,
+      "first_seen": "2026-06-12T21:08:53.322565+00:00",
+      "location": "Broomfield, Colorado, United States; Fort Collins, Colorado, United States",
+      "title": "Mission Operations Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5163958007?gh_jid=5163958007"
+    },
+    "Anduril:5164077007": {
+      "alerted": false,
+      "first_seen": "2026-06-12T21:08:53.324969+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Systems Engineer, TRS ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5164077007?gh_jid=5164077007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -19750,6 +19785,13 @@
       "location": "Austin, TX",
       "title": "Machinist and CNC Operator",
       "url": "https://boards.greenhouse.io/apptronik/jobs/6026448004?gh_jid=6026448004"
+    },
+    "Apptronik:6026784004": {
+      "alerted": false,
+      "first_seen": "2026-06-12T21:08:53.320941+00:00",
+      "location": "Austin, TX",
+      "title": "Facilities Technician",
+      "url": "https://boards.greenhouse.io/apptronik/jobs/6026784004?gh_jid=6026784004"
     },
     "Formlabs:4994162": {
       "alerted": false,
@@ -27185,6 +27227,13 @@
       "title": "Customer Success Program Manager \u2013 Neuromodulation",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Denver-Colorado-United-States-of-America/Customer-Success-Program-Manager---Neuromodulation_R68594"
     },
+    "Medtronic:R68601": {
+      "alerted": false,
+      "first_seen": "2026-06-12T21:08:53.325280+00:00",
+      "location": "San Juan, Puerto Rico, United States of America",
+      "title": "Sales Representative I.",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/San-Juan-Puerto-Rico-United-States-of-America/Sales-Representative-I_R68601-1"
+    },
     "Medtronic:R68609": {
       "alerted": false,
       "first_seen": "2026-06-04T13:40:12.032622+00:00",
@@ -29082,6 +29131,13 @@
       "title": "Sales Representative  I - Endo Mechanical & Intelligent Devices",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Surat-Gujarat-India/Sales-Representative--I---Endo-Mechanical---Intelligent-Devices_R69679-1"
     },
+    "Medtronic:R69728": {
+      "alerted": false,
+      "first_seen": "2026-06-12T21:08:53.325245+00:00",
+      "location": "Fridley, Minnesota, United States of America",
+      "title": "Calibration/Metrology Tech II",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Calibration-Metrology-Tech-II_R69728-1"
+    },
     "NVIDIA:JR1970791": {
       "alerted": false,
       "first_seen": "2026-06-01T05:07:57.474855+00:00",
@@ -29466,6 +29522,13 @@
       "location": "3 Locations",
       "title": "Distinguished Engineer - Wireless Infrastructure",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Distinguished-Engineer---6G-Chief-Architect_JR2003384"
+    },
+    "NVIDIA:JR2003389": {
+      "alerted": false,
+      "first_seen": "2026-06-12T21:08:53.321603+00:00",
+      "location": "2 Locations",
+      "title": "Senior Software Engineer, DGXC Data Services",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--DGXC-Data-Services_JR2003389"
     },
     "NVIDIA:JR2003480": {
       "alerted": false,
@@ -30215,6 +30278,13 @@
       "location": "3 Locations",
       "title": "Senior Physical Design Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Physical-Design-Engineer_JR2012823"
+    },
+    "NVIDIA:JR2012844": {
+      "alerted": false,
+      "first_seen": "2026-06-12T21:08:53.321731+00:00",
+      "location": "2 Locations",
+      "title": "Senior Formal Verification Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Formal-Verification-Engineer_JR2012844"
     },
     "NVIDIA:JR2012859": {
       "alerted": false,
@@ -33366,6 +33436,13 @@
       "title": "Developer Relations Manager, AI Platform and Tools - Conversational and Generative Media",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Relations-Manager--AI-Platform-and-Tools---Conversational-and-Generative-Media_JR2018979"
     },
+    "NVIDIA:JR2018983": {
+      "alerted": false,
+      "first_seen": "2026-06-12T21:08:53.321648+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Customer Safety Engineer - Automotive",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Customer-Safety-Engineer---Automotive_JR2018983"
+    },
     "NVIDIA:JR2018985": {
       "alerted": false,
       "first_seen": "2026-06-01T20:38:50.676593+00:00",
@@ -34703,6 +34780,13 @@
       "title": "Data Center Deployment Specialist",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Remote/Data-Center-Deployment-Specialist_JR2019616"
     },
+    "NVIDIA:JR2019636": {
+      "alerted": false,
+      "first_seen": "2026-06-12T21:08:53.321690+00:00",
+      "location": "US, NY, New York",
+      "title": "Senior Account Manager, Capital Markets",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-NY-New-York/Senior-Account-Manager--Capital-Markets_JR2019636"
+    },
     "NVIDIA:JR2019646": {
       "alerted": false,
       "first_seen": "2026-06-11T06:22:17.198578+00:00",
@@ -35718,6 +35802,13 @@
       "title": "Associate Sales Representative - Orange County - Craniomaxillofacial",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Irvine-California/Associate-Sales-Representative---Orange-County---Craniomaxillofacial_R563110"
     },
+    "Stryker:R563125": {
+      "alerted": false,
+      "first_seen": "2026-06-12T21:08:53.325207+00:00",
+      "location": "Cleveland, Ohio",
+      "title": "Foot & Ankle Sales Representative - Cleveland, OH",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cleveland-Ohio/Foot---Ankle-Sales-Representative---Cleveland--OH_R563125"
+    },
     "Stryker:R563126": {
       "alerted": false,
       "first_seen": "2026-06-08T19:51:31.427759+00:00",
@@ -36298,6 +36389,13 @@
       "location": "12 Locations",
       "title": "Regional Sales Manager, Endoscopy (Netherlands & Belgium)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Amsterdam-Netherlands/Regional-Sales-Manager--Endoscopy--Netherlands---Belgium-_R564889-1"
+    },
+    "Stryker:R564919": {
+      "alerted": false,
+      "first_seen": "2026-06-12T21:08:53.325016+00:00",
+      "location": "Flower Mound, Texas",
+      "title": "Senior Administrative Assistant",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Flower-Mound-Texas/Senior-Administrative-Assistant_R564919-1"
     },
     "Stryker:R564922": {
       "alerted": false,
@@ -38056,6 +38154,13 @@
       "title": "Sales Representative - New Jersey Metro - Neurosurgical",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Newark-New-Jersey/Sales-Representative---New-Jersey-Metro---Neurosurgical_R566464"
     },
+    "Stryker:R566468": {
+      "alerted": false,
+      "first_seen": "2026-06-12T21:08:53.325162+00:00",
+      "location": "Kalamazoo, Michigan",
+      "title": "Fixture Design Specialist - 1st Shift - Starting at $34.16",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Kalamazoo-Michigan/Fixture-Design-Specialist---1st-Shift---Starting-at--3416_R566468-1"
+    },
     "Stryker:R566471": {
       "alerted": false,
       "first_seen": "2026-06-09T22:00:30.842259+00:00",
@@ -38713,6 +38818,13 @@
       "location": "3 Locations",
       "title": "Territory Sales Manager, Foot and Ankle - Shropshire, Cheshire and South Manchester",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Crewe-Cheshire/Territory-Sales-Manager--Foot-and-Ankle---Shropshire--Cheshire-and-South-Manchester_R566724"
+    },
+    "Stryker:R566725": {
+      "alerted": false,
+      "first_seen": "2026-06-12T21:08:53.325070+00:00",
+      "location": "Portage, Michigan",
+      "title": "Fabricator I - 2nd Shift - $20.50/hr + $2.00 Shift Premium",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Fabricator-I---2nd-Shift----2050-hr----200-Shift-Premium_R566725"
     },
     "Stryker:R566727": {
       "alerted": false,
@@ -39546,6 +39658,13 @@
       "location": "Seattle, Washington",
       "title": "Sales Associate - Seattle, WA - Sports Medicine",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Seattle-Washington/Sales-Associate---Seattle--WA---Sports-Medicine_R567413"
+    },
+    "Stryker:R567454": {
+      "alerted": false,
+      "first_seen": "2026-06-12T21:08:53.325113+00:00",
+      "location": "Midland, Texas",
+      "title": "Trauma Sales Associate - Midland/Odessa",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Midland-Texas/Trauma-Sales-Associate---Midland-Odessa_R567454"
     },
     "Waymo:6367980": {
       "alerted": false,
