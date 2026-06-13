@@ -29215,6 +29215,20 @@
       "title": "Calibration/Metrology Tech II",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Calibration-Metrology-Tech-II_R69728-1"
     },
+    "Medtronic:R69753": {
+      "alerted": false,
+      "first_seen": "2026-06-13T00:05:50.717398+00:00",
+      "location": "Fort Worth, Texas, United States of America",
+      "title": "Senior Sales Representative - Pelvic Health-  Fort Worth, TX",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Fort-Worth-Texas-United-States-of-America/Senior-Sales-Representative---Pelvic-Health---Fort-Worth--TX_R69753-1"
+    },
+    "Medtronic:R69755": {
+      "alerted": false,
+      "first_seen": "2026-06-13T00:05:50.717353+00:00",
+      "location": "Minneapolis, Minnesota, United States of America",
+      "title": "Senior Territory Manager, Neurovascular - Minneapolis, MN",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Senior-Territory-Manager--Neurovascular---Minneapolis--MN_R69755-1"
+    },
     "NVIDIA:JR1970791": {
       "alerted": false,
       "first_seen": "2026-06-01T05:07:57.474855+00:00",
@@ -29536,6 +29550,13 @@
       "location": "2 Locations",
       "title": "Senior Platform Telemetry Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Platform-Telemetry-Engineer_JR2002276"
+    },
+    "NVIDIA:JR2002298": {
+      "alerted": false,
+      "first_seen": "2026-06-13T00:05:50.716765+00:00",
+      "location": "US, NC, Durham",
+      "title": "Senior ASIC Verification Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-NC-Durham/Senior-ASIC-Verification-Engineer_JR2002298-1"
     },
     "NVIDIA:JR2002387": {
       "alerted": false,
@@ -30019,6 +30040,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Site Reliability Engineer - Hardware Infrastructure",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Site-Reliability-Engineer---Hardware-Infrastructure_JR2011168"
+    },
+    "NVIDIA:JR2011242": {
+      "alerted": false,
+      "first_seen": "2026-06-13T00:05:50.717050+00:00",
+      "location": "Germany, Remote",
+      "title": "Data Center Deployment Specialist",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Remote/Data-Center-Deployment-Specialist_JR2011242"
     },
     "NVIDIA:JR2011299": {
       "alerted": false,
@@ -34920,12 +34948,26 @@
       "title": "SoC Verification Lead",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Verification-Lead_JR2019675-1"
     },
+    "NVIDIA:JR2019679": {
+      "alerted": false,
+      "first_seen": "2026-06-13T00:05:50.717141+00:00",
+      "location": "2 Locations",
+      "title": "Senior Circuit Design Engineer - Power Modeling and Simulation",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Circuit-Design-Engineer---Power-Modeling-and-Simulation_JR2019679"
+    },
     "NVIDIA:JR2019685": {
       "alerted": true,
       "first_seen": "2026-06-12T07:01:47.330965+00:00",
       "location": "US, CA, Santa Clara",
       "title": "Embedded Software Engineer - RISCV",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Embedded-Software-Engineer---RISCV_JR2019685"
+    },
+    "NVIDIA:JR2019686": {
+      "alerted": false,
+      "first_seen": "2026-06-13T00:05:50.716965+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Silicon Power and Thermal Controllers Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Silicon-Power-and-Thermal-Controllers-Engineer_JR2019686"
     },
     "NVIDIA:JR2019701": {
       "alerted": false,
@@ -34941,6 +34983,13 @@
       "title": "Senior Systems Software Engineer, Performance Architecture - Analytics and Data Intelligence",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer--Performance-Architecture---Analytics-and-Data-Intelligence_JR2019714"
     },
+    "NVIDIA:JR2019722": {
+      "alerted": false,
+      "first_seen": "2026-06-13T00:05:50.717093+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Implementation Methodology Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Implementation-Methodology-Engineer_JR2019722"
+    },
     "NVIDIA:JR2019727": {
       "alerted": false,
       "first_seen": "2026-06-10T21:33:42.573637+00:00",
@@ -34955,6 +35004,48 @@
       "title": "Research Scientist, Efficient Deep Learning - New College Grad 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Efficient-Deep-Learning---New-College-Grad-2026_JR2019729-1"
     },
+    "NVIDIA:JR2019734": {
+      "alerted": false,
+      "first_seen": "2026-06-13T00:05:50.717185+00:00",
+      "location": "2 Locations",
+      "title": "Senior Inference Engineer, AIConfigurator for Dynamo",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Inference-Engineer--AIConfigurator-for-Dynamo_JR2019734"
+    },
+    "NVIDIA:JR2019739": {
+      "alerted": false,
+      "first_seen": "2026-06-13T00:05:50.716833+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Thermal Mechanical Photonic Designer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Thermal-Mechanical-Photonic-Designer_JR2019739"
+    },
+    "NVIDIA:JR2019746": {
+      "alerted": false,
+      "first_seen": "2026-06-13T00:05:50.717266+00:00",
+      "location": "2 Locations",
+      "title": "Senior Technical Program Manager, ML Software",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager--ML-Software_JR2019746"
+    },
+    "NVIDIA:JR2019747": {
+      "alerted": false,
+      "first_seen": "2026-06-13T00:05:50.717226+00:00",
+      "location": "2 Locations",
+      "title": "Senior Technical Program Manager, AI Software",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager--AI-Software_JR2019747"
+    },
+    "NVIDIA:JR2019794": {
+      "alerted": false,
+      "first_seen": "2026-06-13T00:05:50.717307+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Technical Program Manager - CPU Firmware",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager---CPU-Firmware_JR2019794"
+    },
+    "NVIDIA:JR2019800": {
+      "alerted": false,
+      "first_seen": "2026-06-13T00:05:50.716920+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Verification Engineer - Hardware",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Verification-Engineer---Hardware_JR2019800-1"
+    },
     "NVIDIA:JR2019801": {
       "alerted": false,
       "first_seen": "2026-06-12T11:05:45.627607+00:00",
@@ -34962,12 +35053,26 @@
       "title": "Principal CPU Software Architect",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-CPU-Software-Architect_JR2019801"
     },
+    "NVIDIA:JR2019819": {
+      "alerted": false,
+      "first_seen": "2026-06-13T00:05:50.717011+00:00",
+      "location": "3 Locations",
+      "title": "Technical Product Manager - AI Infra Resilience",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Product-Manager---AI-Infra-Resilience_JR2019819"
+    },
     "NVIDIA:JR2019821": {
       "alerted": false,
       "first_seen": "2026-06-12T19:22:43.947949+00:00",
       "location": "US, CA, Santa Clara",
       "title": "High-Speed Interconnect Architect",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/High-Speed-Interconnect-Architect_JR2019821"
+    },
+    "NVIDIA:JR2019840": {
+      "alerted": true,
+      "first_seen": "2026-06-13T00:05:50.716878+00:00",
+      "location": "US, TX, Austin",
+      "title": "ASIC Design Engineer - Hardware",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Design-Engineer---Hardware_JR2019840"
     },
     "Stryker:R498593": {
       "alerted": false,
