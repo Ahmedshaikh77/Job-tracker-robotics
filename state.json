@@ -24896,6 +24896,13 @@
       "title": "Supervisor Sr de Empaque",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Ciudad-Juarez-Chihuahua-Mexico/Supervisor-Sr-de-Empaque_R67411-1"
     },
+    "Medtronic:R67427": {
+      "alerted": false,
+      "first_seen": "2026-06-13T18:19:00.031278+00:00",
+      "location": "Fuzhou, Fujian, China",
+      "title": "CAS-Technical Sales Representative-Fuzhou",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Fuzhou-Fujian-China/CAS-Technical-Sales-Representative-Fuzhou_R67427-1"
+    },
     "Medtronic:R67428": {
       "alerted": false,
       "first_seen": "2026-06-08T01:56:11.670659+00:00",
@@ -29137,6 +29144,13 @@
       "location": "Xiamen, Fujian, China",
       "title": "CRDN_Key Account Supervisor_Xiamen",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Xiamen-Fujian-China/CRDN-Key-Account-Supervisor-Xiamen_R69543"
+    },
+    "Medtronic:R69567": {
+      "alerted": false,
+      "first_seen": "2026-06-13T18:19:00.031197+00:00",
+      "location": "Shanghai, Shanghai, China",
+      "title": "MTC-Principle Software Test Engineer-Shanghai",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Shanghai-Shanghai-China/MTC-Principle-Software-Test-Engineer-Shanghai_R69567-1"
     },
     "Medtronic:R69570": {
       "alerted": false,
@@ -43361,6 +43375,13 @@
       "location": "Mountain View, California, USA; San Francisco, California; USA; Pittsburg Pennsylvania, USA",
       "title": "Staff Software Engineer, Planner",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8001059"
+    },
+    "Waymo:8001797": {
+      "alerted": true,
+      "first_seen": "2026-06-13T18:19:00.031083+00:00",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
+      "title": "Machine Learning Engineer, Simulation Evaluation",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8001797"
     },
     "Waymo:8003587": {
       "alerted": false,
