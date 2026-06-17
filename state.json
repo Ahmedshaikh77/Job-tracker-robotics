@@ -5933,6 +5933,13 @@
       "title": "GSOC Operator - SkillBridge",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5033583007?gh_jid=5033583007"
     },
+    "Anduril:5033721007": {
+      "alerted": false,
+      "first_seen": "2026-06-17T07:25:23.336747+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Technical Recruiter, Hardware",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5033721007?gh_jid=5033721007"
+    },
     "Anduril:5033767007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.742278+00:00",
@@ -19926,6 +19933,41 @@
       "title": "Senior Manufacturing Software Engineer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5166577007?gh_jid=5166577007"
     },
+    "Anduril:5166580007": {
+      "alerted": false,
+      "first_seen": "2026-06-17T07:25:23.335216+00:00",
+      "location": "Lexington, Massachusetts, United States",
+      "title": "Production Test Technician",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5166580007?gh_jid=5166580007"
+    },
+    "Anduril:5166582007": {
+      "alerted": false,
+      "first_seen": "2026-06-17T07:25:23.333911+00:00",
+      "location": "Lexington, Massachusetts, United States",
+      "title": "Manufacturing Test Technician",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5166582007?gh_jid=5166582007"
+    },
+    "Anduril:5166583007": {
+      "alerted": false,
+      "first_seen": "2026-06-17T07:25:23.333233+00:00",
+      "location": "Lexington, Massachusetts, United States; Waltham, Massachusetts, United States",
+      "title": "Engineering Test Technician",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5166583007?gh_jid=5166583007"
+    },
+    "Anduril:5166586007": {
+      "alerted": false,
+      "first_seen": "2026-06-17T07:25:23.334556+00:00",
+      "location": "Lexington, Massachusetts, United States",
+      "title": "Micro-electronics Technician",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5166586007?gh_jid=5166586007"
+    },
+    "Anduril:5166588007": {
+      "alerted": false,
+      "first_seen": "2026-06-17T07:25:23.336030+00:00",
+      "location": "Lexington, Massachusetts, United States",
+      "title": "Senior Software QA Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5166588007?gh_jid=5166588007"
+    },
     "Apptronik:5572958004": {
       "alerted": false,
       "first_seen": "2026-06-08T14:54:52.580418+00:00",
@@ -31119,6 +31161,13 @@
       "title": "MyanCor - Senior Technical Sales Representative -Shanghai",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Shanghai-Shanghai-China/MyanCor---Senior-Technical-Sales-Representative--Shanghai_R69769-1"
     },
+    "Medtronic:R69775": {
+      "alerted": false,
+      "first_seen": "2026-06-17T07:25:23.337249+00:00",
+      "location": "Chongqing, Chongqing, China",
+      "title": "CSOT-Key Account Supervisor-Chongqing",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Chongqing-Chongqing-China/CSOT-Key-Account-Supervisor-Chongqing_R69775-1"
+    },
     "Medtronic:R69776": {
       "alerted": false,
       "first_seen": "2026-06-16T07:08:15.729836+00:00",
@@ -31238,12 +31287,54 @@
       "title": "Clinical Specialist, Cranial & Spinal Technologies - Chattanooga, TN",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Chattanooga-Tennessee-United-States-of-America/Clinical-Specialist--Cranial---Spinal-Technologies---Chattanooga--TN_R69891"
     },
+    "Medtronic:R69896": {
+      "alerted": false,
+      "first_seen": "2026-06-17T07:25:23.337289+00:00",
+      "location": "Taipei, Taipei, Taiwan",
+      "title": "CRM_Clinical Specialist_North",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Taipei-Taipei-Taiwan/CRM-Clinical-Specialist-North_R69896-2"
+    },
+    "Medtronic:R69897": {
+      "alerted": false,
+      "first_seen": "2026-06-17T07:25:23.337352+00:00",
+      "location": "Taipei, Taipei, Taiwan",
+      "title": "CRM_Clinical Specialist_North",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Taipei-Taipei-Taiwan/CRM-Clinical-Specialist-North_R69897-1"
+    },
     "Medtronic:R69903": {
       "alerted": false,
       "first_seen": "2026-06-16T12:20:29.678110+00:00",
       "location": "Ho Chi Minh City, Ho Chi Minh City, Vietnam",
       "title": "Assembler I",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Ho-Chi-Minh-City-Ho-Chi-Minh-City-Vietnam/Assembler-I_R69903-1"
+    },
+    "Medtronic:R69916": {
+      "alerted": false,
+      "first_seen": "2026-06-17T07:25:23.337426+00:00",
+      "location": "Changzhou, Jiangsu, China",
+      "title": "\u5668\u68b0\u7eb5\u5207\u5b9e\u4e60\u751f1",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Changzhou-Jiangsu-China/1_R69916-1"
+    },
+    "Medtronic:R69917": {
+      "alerted": false,
+      "first_seen": "2026-06-17T07:25:23.337392+00:00",
+      "location": "Changzhou, Jiangsu, China",
+      "title": "\u5668\u68b0\u7eb5\u5207\u5b9e\u4e60\u751f II",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Changzhou-Jiangsu-China/-II_R69917-1"
+    },
+    "Medtronic:R69919": {
+      "alerted": false,
+      "first_seen": "2026-06-17T07:25:23.337460+00:00",
+      "location": "Changzhou, Jiangsu, China",
+      "title": "\u5668\u68b0\u7eb5\u5207\u5b9e\u4e60\u751f III",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Changzhou-Jiangsu-China/-III_R69919-1"
+    },
+    "Medtronic:R69920": {
+      "alerted": false,
+      "first_seen": "2026-06-17T07:25:23.337526+00:00",
+      "location": "Changzhou, Jiangsu, China",
+      "title": "\u5668\u68b0\u7eb5\u5207\u5b9e\u4e60\u751fIV",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Changzhou-Jiangsu-China/IV_R69920-1"
     },
     "Medtronic:R69922": {
       "alerted": false,
@@ -31258,6 +31349,41 @@
       "location": "Shanghai, Shanghai, China",
       "title": "SSC Intern",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Shanghai-Shanghai-China/SSC-Intern_R69923"
+    },
+    "Medtronic:R69927": {
+      "alerted": false,
+      "first_seen": "2026-06-17T07:25:23.337493+00:00",
+      "location": "Changzhou, Jiangsu, China",
+      "title": "\u690d\u5165\u7269\u7eb5\u5207\u5b9e\u4e60\u751f I",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Changzhou-Jiangsu-China/-I_R69927-1"
+    },
+    "Medtronic:R69928": {
+      "alerted": false,
+      "first_seen": "2026-06-17T07:25:23.337623+00:00",
+      "location": "Changzhou, Jiangsu, China",
+      "title": "\u52a0\u5de5\u4e2d\u5fc3\u5b9e\u4e60\u751fI",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Changzhou-Jiangsu-China/I_R69928-1"
+    },
+    "Medtronic:R69930": {
+      "alerted": false,
+      "first_seen": "2026-06-17T07:25:23.337591+00:00",
+      "location": "Changzhou, Jiangsu, China",
+      "title": "\u52a0\u5de5\u4e2d\u5fc3\u5b9e\u4e60\u751fII",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Changzhou-Jiangsu-China/II_R69930-1"
+    },
+    "Medtronic:R69931": {
+      "alerted": false,
+      "first_seen": "2026-06-17T07:25:23.337657+00:00",
+      "location": "Changzhou, Jiangsu, China",
+      "title": "\u690d\u5165\u7269\u7eb5\u5207\u5b9e\u4e60\u751f2",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Changzhou-Jiangsu-China/2_R69931-1"
+    },
+    "Medtronic:R69932": {
+      "alerted": false,
+      "first_seen": "2026-06-17T07:25:23.337558+00:00",
+      "location": "Changzhou, Jiangsu, China",
+      "title": "\u52a0\u5de5\u4e2d\u5fc3\u5b9e\u4e60\u751f3",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Changzhou-Jiangsu-China/3_R69932"
     },
     "Medtronic:R69935": {
       "alerted": false,
@@ -31279,6 +31405,34 @@
       "location": "Salt Lake City, Utah, United States of America",
       "title": "Senior Reliability Engineer - Onsite",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Salt-Lake-City-Utah-United-States-of-America/Senior-Reliability-Engineer---Onsite_R69986-1"
+    },
+    "Medtronic:R70019": {
+      "alerted": false,
+      "first_seen": "2026-06-17T07:25:23.337097+00:00",
+      "location": "Ho Chi Minh City, Ho Chi Minh City, Vietnam",
+      "title": "Assembler I",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Ho-Chi-Minh-City-Ho-Chi-Minh-City-Vietnam/Assembler-I_R70019-1"
+    },
+    "Medtronic:R70022": {
+      "alerted": false,
+      "first_seen": "2026-06-17T07:25:23.337135+00:00",
+      "location": "Ho Chi Minh City, Ho Chi Minh City, Vietnam",
+      "title": "238040 - Assembler I",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Ho-Chi-Minh-City-Ho-Chi-Minh-City-Vietnam/XMLNAME-238040---Assembler-I_R70022-1"
+    },
+    "Medtronic:R70023": {
+      "alerted": false,
+      "first_seen": "2026-06-17T07:25:23.337172+00:00",
+      "location": "Ho Chi Minh City, Ho Chi Minh City, Vietnam",
+      "title": "238040 - Assembler I",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Ho-Chi-Minh-City-Ho-Chi-Minh-City-Vietnam/XMLNAME-238040---Assembler-I_R70023-1"
+    },
+    "Medtronic:R70025": {
+      "alerted": false,
+      "first_seen": "2026-06-17T07:25:23.337207+00:00",
+      "location": "Ho Chi Minh City, Ho Chi Minh City, Vietnam",
+      "title": "238040 - Assembler I",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Ho-Chi-Minh-City-Ho-Chi-Minh-City-Vietnam/XMLNAME-238040---Assembler-I_R70025-1"
     },
     "NVIDIA:JR1970791": {
       "alerted": false,
@@ -37902,6 +38056,13 @@
       "title": "Senior Systems Software Engineer, Data Center Platform Enablement",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer--Data-Center-Platform-Enablement_JR2019870"
     },
+    "NVIDIA:JR2019871": {
+      "alerted": false,
+      "first_seen": "2026-06-17T07:25:23.337061+00:00",
+      "location": "2 Locations",
+      "title": "Senior Product Engineer, Agentic AI",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Vietnam-Ho-Chi-Minh-City/Senior-Product-Engineer--Agentic-AI_JR2019871"
+    },
     "NVIDIA:JR2019875": {
       "alerted": false,
       "first_seen": "2026-06-16T17:25:34.085385+00:00",
@@ -38195,6 +38356,13 @@
       "location": "Sch\u00f6nkirchen, Germany",
       "title": "Senior Manager (m/w/d) EHS",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Schnkirchen-Germany/Senior-Manager--m-w-d--EHS_R556673"
+    },
+    "Stryker:R557176": {
+      "alerted": false,
+      "first_seen": "2026-06-17T07:25:23.336803+00:00",
+      "location": "Auckland, New Zealand",
+      "title": "Executive Territory Manager - Mako & Enabling Technologies",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Auckland-New-Zealand/Territory-Manager---Mako-Robotics_R557176"
     },
     "Stryker:R557200": {
       "alerted": false,
@@ -38706,6 +38874,13 @@
       "location": "2 Locations",
       "title": "Sales Associate - Dallas/Fort Worth, TX",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Dallas-Texas/Sales-Associate---Dallas-Fort-Worth--TX_R561687-1"
+    },
+    "Stryker:R561753": {
+      "alerted": false,
+      "first_seen": "2026-06-17T07:25:23.336854+00:00",
+      "location": "Amsterdam, Netherlands",
+      "title": "Senior HR Operations Specialist (12 month contract)",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Amsterdam-Netherlands/Senior-HR-Operations-Specialist--12-month-contract-_R561753"
     },
     "Stryker:R561783": {
       "alerted": false,
@@ -41885,6 +42060,13 @@
       "title": "Manufacturing Process Lead \u2013 2nd Shift - $27.00/hr + $2.00 Shift Premium",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Manufacturing-Process-Lead---2nd-Shift----2700-hr----200-Shift-Premium_R566575-1"
     },
+    "Stryker:R566578": {
+      "alerted": false,
+      "first_seen": "2026-06-17T07:25:23.336935+00:00",
+      "location": "Bloomington, Minnesota",
+      "title": "Marketing Associate, Upper Extremities",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Bloomington-Minnesota/Marketing-Associate--Upper-Extremities_R566578"
+    },
     "Stryker:R566581": {
       "alerted": false,
       "first_seen": "2026-05-29T16:25:44.501639+00:00",
@@ -42683,6 +42865,13 @@
       "title": "Assembler I - 2nd Shift - $21.25/hr + $2.00/hr Shift Premium",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Salt-Lake-City-Utah/Assembler-I---2nd-Shift----2125-hr----200-hr-Shift-Premium_R566847-1"
     },
+    "Stryker:R566855": {
+      "alerted": false,
+      "first_seen": "2026-06-17T07:25:23.336893+00:00",
+      "location": "Taipei, Taiwan",
+      "title": "Account Executive",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Taipei-Taiwan/Account-Executive_R566855-1"
+    },
     "Stryker:R566861": {
       "alerted": false,
       "first_seen": "2026-06-05T06:02:46.130327+00:00",
@@ -42991,6 +43180,13 @@
       "title": "Territory Manager - Houston, TX - Neurovascular",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Houston-Texas/Territory-Manager---Houston--TX---Neurovascular_R567012"
     },
+    "Stryker:R567019": {
+      "alerted": false,
+      "first_seen": "2026-06-17T07:25:23.337019+00:00",
+      "location": "Brisbane, Australia",
+      "title": "Casual Field Service Engineer",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Brisbane-Australia/Casual-Field-Service-Engineer_R567019"
+    },
     "Stryker:R567036": {
       "alerted": false,
       "first_seen": "2026-06-15T18:12:10.779012+00:00",
@@ -43172,6 +43368,13 @@
       "location": "Albuquerque, New Mexico",
       "title": "Associate Sales Representative - Albuquerque - Craniomaxillofacial",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Albuquerque-New-Mexico/Associate-Sales-Representative---Albuquerque---Craniomaxillofacial_R567111-1"
+    },
+    "Stryker:R567119": {
+      "alerted": false,
+      "first_seen": "2026-06-17T07:25:23.336980+00:00",
+      "location": "Northgate, Australia",
+      "title": "Casual Clinical Consultant - Joint Replacement",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Northgate-Australia/Casual-Clinical-Consultant---Joint-Replacement_R567119"
     },
     "Stryker:R567124": {
       "alerted": false,
