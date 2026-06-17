@@ -1698,6 +1698,27 @@
       "title": "Software Development Manager, Infrastructure Reliability",
       "url": "https://www.amazon.jobs/en/jobs/10451908/software-development-manager-infrastructure-reliability"
     },
+    "Amazon:10452045": {
+      "alerted": false,
+      "first_seen": "2026-06-17T22:19:38.563270+00:00",
+      "location": "Toronto, Ontario, CAN",
+      "title": "Software Development Engineer, AFT Quality",
+      "url": "https://www.amazon.jobs/en/jobs/10452045/software-development-engineer-aft-quality"
+    },
+    "Amazon:10452115": {
+      "alerted": true,
+      "first_seen": "2026-06-17T22:19:38.563206+00:00",
+      "location": "North Reading, Massachusetts, USA",
+      "title": "Robotics - Software Development Engineer  ",
+      "url": "https://www.amazon.jobs/en/jobs/10452115/robotics-software-development-engineer"
+    },
+    "Amazon:10452124": {
+      "alerted": false,
+      "first_seen": "2026-06-17T22:19:38.563122+00:00",
+      "location": "Seattle, Washington, USA",
+      "title": "Senior Applied Scientist, Industrial Robotics Group",
+      "url": "https://www.amazon.jobs/en/jobs/10452124/senior-applied-scientist-industrial-robotics-group"
+    },
     "Anduril:4159543007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.742648+00:00",
@@ -15950,6 +15971,13 @@
       "title": "Senior Aviation Maintenance Engineer - Advanced Effects",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5145794007?gh_jid=5145794007"
     },
+    "Anduril:5145797007": {
+      "alerted": false,
+      "first_seen": "2026-06-17T22:19:38.564430+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Avionics Maintenance Engineer - Advanced Effects",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5145797007?gh_jid=5145797007"
+    },
     "Anduril:5145906007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.743187+00:00",
@@ -19877,6 +19905,13 @@
       "title": "Senior Industrial Engineer ",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5165500007?gh_jid=5165500007"
     },
+    "Anduril:5165514007": {
+      "alerted": false,
+      "first_seen": "2026-06-17T22:19:38.565096+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Technical Program Manager",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5165514007?gh_jid=5165514007"
+    },
     "Anduril:5165528007": {
       "alerted": false,
       "first_seen": "2026-06-16T01:46:22.952841+00:00",
@@ -20156,6 +20191,13 @@
       "location": "Ashville, Ohio, United States",
       "title": "Manager, Manufacturing Engineer, Intelligence Systems",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5167306007?gh_jid=5167306007"
+    },
+    "Anduril:5167709007": {
+      "alerted": false,
+      "first_seen": "2026-06-17T22:19:38.565834+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Technical Program Manager, Small Drones",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5167709007?gh_jid=5167709007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -23349,6 +23391,13 @@
       "title": "Senior Sales Representative, CAS - MA",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Boston-Massachusetts-United-States-of-America/Senior-Sales-Representative--CAS---MA_R62020-2"
     },
+    "Medtronic:R62037": {
+      "alerted": false,
+      "first_seen": "2026-06-17T22:19:38.563774+00:00",
+      "location": "Minneapolis, Minnesota, United States of America",
+      "title": "Category Management Specialist",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Category-Management-Specialist_R62037"
+    },
     "Medtronic:R62096": {
       "alerted": false,
       "first_seen": "2026-06-16T12:20:29.678036+00:00",
@@ -23432,6 +23481,13 @@
       "location": "Watford, Hertfordshire, United Kingdom",
       "title": "Principal Clinical Research Specialist",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Watford-Hertfordshire-United-Kingdom/Principal-Clinical-Research-Specialist_R62649-1"
+    },
+    "Medtronic:R62662": {
+      "alerted": false,
+      "first_seen": "2026-06-17T22:19:38.563466+00:00",
+      "location": "Mystic, Connecticut, United States of America",
+      "title": "Senior Quality System Specialist",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mystic-Connecticut-United-States-of-America/Senior-Quality-System-Specialist_R62662-1"
     },
     "Medtronic:R62755": {
       "alerted": false,
@@ -26519,6 +26575,13 @@
       "location": "Jeddah, Makkah, Saudi Arabia",
       "title": "Sales Representative \u2013 Spine \u2013 Al-Madinah Al-Munawwarah",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Jeddah-Makkah-Saudi-Arabia/Sales-Representative---Spine---Al-Madinah-Al-Munawwarah_R67512-1"
+    },
+    "Medtronic:R67515": {
+      "alerted": false,
+      "first_seen": "2026-06-17T22:19:38.563565+00:00",
+      "location": "North Haven, Connecticut, United States of America",
+      "title": "Principal Facilities Engineer",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/North-Haven-Connecticut-United-States-of-America/Principal-Facilities-Engineer_R67515-2"
     },
     "Medtronic:R67520": {
       "alerted": false,
@@ -31896,6 +31959,13 @@
       "title": "Toolmaker I",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Ciudad-Juarez-Chihuahua-Mexico/Toolmaker-I_R69979-1"
     },
+    "Medtronic:R69980": {
+      "alerted": false,
+      "first_seen": "2026-06-17T22:19:38.563425+00:00",
+      "location": "Nashville, Tennessee, United States of America",
+      "title": "Senior Regional Business Manager - Acute Care and Monitoring (Nashville)",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Nashville-Tennessee-United-States-of-America/Senior-Regional-Business-Manager---Acute-Care-and-Monitoring--Nashville-_R69980-1"
+    },
     "Medtronic:R69986": {
       "alerted": false,
       "first_seen": "2026-06-16T22:25:08.771125+00:00",
@@ -31958,6 +32028,34 @@
       "location": "Shanghai, Shanghai, China",
       "title": "NMPH Intern",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Shanghai-Shanghai-China/NMPH-Intern_R70039-1"
+    },
+    "Medtronic:R70059": {
+      "alerted": false,
+      "first_seen": "2026-06-17T22:19:38.563524+00:00",
+      "location": "Bogot\u00e1, Bogota, Colombia",
+      "title": "Banco de Talentos Convocatoria Inclusiva para Personas con Discapacidad (PcD)",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Bogot-Bogota-Colombia/Banco-de-Talentos-Convocatoria-Inclusiva-para-Personas-con-Discapacidad--PcD-_R70059-1"
+    },
+    "Medtronic:R70092": {
+      "alerted": false,
+      "first_seen": "2026-06-17T22:19:38.563733+00:00",
+      "location": "Bogot\u00e1, Bogota, Colombia",
+      "title": "Intern Communications",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Bogot-Bogota-Colombia/Intern-Communications_R70092-1"
+    },
+    "Medtronic:R70095": {
+      "alerted": false,
+      "first_seen": "2026-06-17T22:19:38.563613+00:00",
+      "location": "Mounds View, Minnesota, United States of America",
+      "title": "Sr. Director Communications (Pelvic Health), Rice Creek, MN",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Sr-Director-Communications--Pelvic-Health---Rice-Creek--MN_R70095-1"
+    },
+    "Medtronic:R70113": {
+      "alerted": false,
+      "first_seen": "2026-06-17T22:19:38.563689+00:00",
+      "location": "Humacao, Puerto Rico, United States of America",
+      "title": "Quality Engineer I",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Humacao-Puerto-Rico-United-States-of-America/Quality-Engineer-I_R70113"
     },
     "NVIDIA:JR1970791": {
       "alerted": false,
@@ -43901,6 +43999,13 @@
       "title": "Casual Field Service Engineer",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Brisbane-Australia/Casual-Field-Service-Engineer_R567019"
     },
+    "Stryker:R567021": {
+      "alerted": false,
+      "first_seen": "2026-06-17T22:19:38.563317+00:00",
+      "location": "Brisbane, Australia",
+      "title": "Casual Clinical Consultant - Joint Replacement",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Brisbane-Australia/Casual-Clinical-Consultant---Joint-Replacement_R567021"
+    },
     "Stryker:R567036": {
       "alerted": false,
       "first_seen": "2026-06-15T18:12:10.779012+00:00",
@@ -44362,6 +44467,13 @@
       "location": "Chandler, Arizona",
       "title": "Cleaner I \u2013 1st Shift - $20.25/hr",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Chandler-Arizona/Cleaner-I---1st-Shift----2025-hr_R567273-1"
+    },
+    "Stryker:R567274": {
+      "alerted": false,
+      "first_seen": "2026-06-17T22:19:38.563373+00:00",
+      "location": "Cary, Illinois",
+      "title": "Maintenance Technician - 3rd Shift - $35.10/hr + $2.00 Shift Premium",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cary-Illinois/Maintenance-Technician---3rd-Shift----3510-hr----200-Shift-Premium_R567274"
     },
     "Stryker:R567275": {
       "alerted": false,
