@@ -20304,6 +20304,13 @@
       "title": "Integration and Test Technician, Surrogate",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5166746007?gh_jid=5166746007"
     },
+    "Anduril:5166751007": {
+      "alerted": false,
+      "first_seen": "2026-06-18T23:25:55.068460+00:00",
+      "location": "Bellevue, Washington, United States",
+      "title": "Senior Program Manager",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5166751007?gh_jid=5166751007"
+    },
     "Anduril:5166779007": {
       "alerted": false,
       "first_seen": "2026-06-17T15:47:35.979378+00:00",
@@ -20429,6 +20436,13 @@
       "location": "Washington, District of Columbia, United States",
       "title": "Director, M&A Accounting",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5169115007?gh_jid=5169115007"
+    },
+    "Anduril:5169167007": {
+      "alerted": false,
+      "first_seen": "2026-06-18T23:25:55.069150+00:00",
+      "location": "Ashville, Ohio, United States",
+      "title": "Senior Systems Engineer, C2 Integration",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5169167007?gh_jid=5169167007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -24566,6 +24580,13 @@
       "location": "4 Locations",
       "title": "District Sales Manager, Neurovascular - Mountain West",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Denver-Colorado-United-States-of-America/District-Sales-Manager--Neurovascular---Mountain-West_R64814-1"
+    },
+    "Medtronic:R64834": {
+      "alerted": false,
+      "first_seen": "2026-06-18T23:25:55.069295+00:00",
+      "location": "Bogot\u00e1, Bogota, Colombia",
+      "title": "Regulatory Affairs Specialist",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Bogot-Bogota-Colombia/Regulatory-Affairs-Specialist_R64834-1"
     },
     "Medtronic:R64840": {
       "alerted": false,
@@ -31021,6 +31042,13 @@
       "title": "Technical Consultant - Cardiac Rhythm Management",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Helsinki-Uusimaa-Finland/Technical-Consultant---Cardiac-Rhythm-Management_R69193-1"
     },
+    "Medtronic:R69203": {
+      "alerted": false,
+      "first_seen": "2026-06-18T23:25:55.069230+00:00",
+      "location": "Memphis, Tennessee, United States of America",
+      "title": "Inventory Clerk III- 3rd Shift",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Memphis-Tennessee-United-States-of-America/Inventory-Clerk-III--3rd-Shift_R69203-1"
+    },
     "Medtronic:R69207": {
       "alerted": false,
       "first_seen": "2026-06-09T20:22:51.160527+00:00",
@@ -32798,6 +32826,13 @@
       "location": "Pittsburgh, Pennsylvania, United States of America",
       "title": "Sales Representative II, Spine - Pittsburgh, PA",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Pittsburgh-Pennsylvania-United-States-of-America/Sales-Representative-II--Spine---Pittsburgh--PA_R70197-1"
+    },
+    "Medtronic:R70222": {
+      "alerted": false,
+      "first_seen": "2026-06-18T23:25:55.069189+00:00",
+      "location": "Memphis, Tennessee, United States of America",
+      "title": "Inventory Clerk I",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Memphis-Tennessee-United-States-of-America/Inventory-Clerk-I_R70222-1"
     },
     "Medtronic:R70230": {
       "alerted": false,
@@ -45091,6 +45126,13 @@
       "title": "Test Lab Technician",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Carrigtwohill-Ireland/Test-Lab-Technician_R567146"
     },
+    "Stryker:R567147": {
+      "alerted": false,
+      "first_seen": "2026-06-18T23:25:55.067701+00:00",
+      "location": "2 Locations",
+      "title": "Associate Sales Representative - North Boston/New Hampshire - Peripheral Vascular",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Manchester-New-Hampshire/Associate-Sales-Representative---North-Boston-New-Hampshire---Peripheral-Vascular_R567147"
+    },
     "Stryker:R567152": {
       "alerted": false,
       "first_seen": "2026-06-18T17:36:44.000971+00:00",
@@ -49220,6 +49262,13 @@
       "location": "Mountain View, California",
       "title": "Staff Software Engineer/ Tech Lead - Onboard Model Consolidation",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8013843"
+    },
+    "Waymo:8017066": {
+      "alerted": false,
+      "first_seen": "2026-06-18T23:25:55.067617+00:00",
+      "location": "Mountain View, CA, US; San Francisco, CA, US",
+      "title": "Technical Writer",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8017066"
     }
   }
 }
