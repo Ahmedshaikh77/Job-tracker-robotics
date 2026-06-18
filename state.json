@@ -1740,6 +1740,20 @@
       "title": "Senior Applied Scientist, Industrial Robotics Group",
       "url": "https://www.amazon.jobs/en/jobs/10452124/senior-applied-scientist-industrial-robotics-group"
     },
+    "Amazon:10452748": {
+      "alerted": false,
+      "first_seen": "2026-06-18T17:36:43.993238+00:00",
+      "location": "Toronto, Ontario, CAN",
+      "title": "Software Development Engineer, Amazon Fulfillment Technologies (AFT) - Outbound POPS",
+      "url": "https://www.amazon.jobs/en/jobs/10452748/software-development-engineer-amazon-fulfillment-technologies-aft-outbound-pops"
+    },
+    "Amazon:10452825": {
+      "alerted": true,
+      "first_seen": "2026-06-18T17:36:43.993166+00:00",
+      "location": "Westboro, Wisconsin, USA",
+      "title": "Software Development Engineer, Amazon Robotics",
+      "url": "https://www.amazon.jobs/en/jobs/10452825/software-development-engineer-amazon-robotics"
+    },
     "Anduril:4159543007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.742648+00:00",
@@ -4708,6 +4722,13 @@
       "title": "Curriculum Developer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/4997519007?gh_jid=4997519007"
     },
+    "Anduril:4997521007": {
+      "alerted": false,
+      "first_seen": "2026-06-18T17:36:43.993913+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Curriculum Developer ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4997521007?gh_jid=4997521007"
+    },
     "Anduril:4997974007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.744610+00:00",
@@ -5134,6 +5155,13 @@
       "location": "Costa Mesa, California, United States",
       "title": "Logistics Program Manager",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5014328007?gh_jid=5014328007"
+    },
+    "Anduril:5014344007": {
+      "alerted": false,
+      "first_seen": "2026-06-18T17:36:44.000791+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Training & Adoption Manager ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5014344007?gh_jid=5014344007"
     },
     "Anduril:5014444007": {
       "alerted": false,
@@ -18631,6 +18659,13 @@
       "title": "Technical Recruiter",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5159440007?gh_jid=5159440007"
     },
+    "Anduril:5159518007": {
+      "alerted": false,
+      "first_seen": "2026-06-18T17:36:43.995445+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Deployment Operations Manager, Test Sites",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5159518007?gh_jid=5159518007"
+    },
     "Anduril:5159676007": {
       "alerted": false,
       "first_seen": "2026-06-09T18:24:05.545767+00:00",
@@ -19429,6 +19464,13 @@
       "title": "Forward Logistics Associate, Middle East",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162875007?gh_jid=5162875007"
     },
+    "Anduril:5162945007": {
+      "alerted": false,
+      "first_seen": "2026-06-18T17:36:43.994703+00:00",
+      "location": "Irvine, California, United States",
+      "title": "Deployment Operations Manager, Middle East",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162945007?gh_jid=5162945007"
+    },
     "Anduril:5163327007": {
       "alerted": false,
       "first_seen": "2026-06-12T17:15:46.842655+00:00",
@@ -20073,6 +20115,27 @@
       "title": "Senior Product Manager, Internal Tools",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5166289007?gh_jid=5166289007"
     },
+    "Anduril:5166301007": {
+      "alerted": false,
+      "first_seen": "2026-06-18T17:36:43.998111+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Integration and Test Engineer, Support System",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5166301007?gh_jid=5166301007"
+    },
+    "Anduril:5166318007": {
+      "alerted": false,
+      "first_seen": "2026-06-18T17:36:43.998787+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Integration and Test Lead, Powertrain",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5166318007?gh_jid=5166318007"
+    },
+    "Anduril:5166320007": {
+      "alerted": false,
+      "first_seen": "2026-06-18T17:36:43.996127+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Integration and Test Engineer, Environmental",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5166320007?gh_jid=5166320007"
+    },
     "Anduril:5166325007": {
       "alerted": false,
       "first_seen": "2026-06-17T15:47:35.980171+00:00",
@@ -20185,6 +20248,27 @@
       "title": "Senior Mission Software Engineer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5166739007?gh_jid=5166739007"
     },
+    "Anduril:5166741007": {
+      "alerted": false,
+      "first_seen": "2026-06-18T17:36:43.997459+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Integration and Test Engineer, Structures",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5166741007?gh_jid=5166741007"
+    },
+    "Anduril:5166743007": {
+      "alerted": false,
+      "first_seen": "2026-06-18T17:36:43.996800+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Integration and Test Engineer, Iron Bird",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5166743007?gh_jid=5166743007"
+    },
+    "Anduril:5166746007": {
+      "alerted": false,
+      "first_seen": "2026-06-18T17:36:43.999459+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Integration and Test Technician, Surrogate",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5166746007?gh_jid=5166746007"
+    },
     "Anduril:5166779007": {
       "alerted": false,
       "first_seen": "2026-06-17T15:47:35.979378+00:00",
@@ -20254,6 +20338,13 @@
       "location": "Washington, District of Columbia, United States",
       "title": "VP, GM- Space Special Projects ",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5168336007?gh_jid=5168336007"
+    },
+    "Anduril:5168518007": {
+      "alerted": false,
+      "first_seen": "2026-06-18T17:36:44.000114+00:00",
+      "location": "London, England, United Kingdom",
+      "title": "Mission Software Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5168518007?gh_jid=5168518007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -20625,6 +20716,13 @@
       "location": "Austin, TX",
       "title": "Electrical Engineer - Motor Controls (Dexterity) ",
       "url": "https://boards.greenhouse.io/apptronik/jobs/5986621004?gh_jid=5986621004"
+    },
+    "Apptronik:5986923004": {
+      "alerted": false,
+      "first_seen": "2026-06-18T17:36:43.992174+00:00",
+      "location": "Austin, TX",
+      "title": "Technical Sourcer (Contract)",
+      "url": "https://boards.greenhouse.io/apptronik/jobs/5986923004?gh_jid=5986923004"
     },
     "Apptronik:5988362004": {
       "alerted": false,
@@ -22873,6 +22971,13 @@
       "title": "Warehouse Associate",
       "url": "https://careers.formlabs.com/job/8013441/apply/?gh_jid=8013441"
     },
+    "Formlabs:8015942": {
+      "alerted": false,
+      "first_seen": "2026-06-18T17:36:43.992664+00:00",
+      "location": "Somerville, MA",
+      "title": "Content Marketing Manager",
+      "url": "https://careers.formlabs.com/job/8015942/apply/?gh_jid=8015942"
+    },
     "Medtronic:R35020": {
       "alerted": false,
       "first_seen": "2026-05-29T12:33:45.028213+00:00",
@@ -22956,6 +23061,20 @@
       "location": "Bend, Oregon, United States of America",
       "title": "Clinical Specialist, Pain Interventions -  Bend , OR",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Bend-Oregon-United-States-of-America/Clinical-Specialist--Pain-Interventions----Eugene---Bend---OR_R54625-1"
+    },
+    "Medtronic:R55335": {
+      "alerted": false,
+      "first_seen": "2026-06-18T17:36:44.001506+00:00",
+      "location": "Mexico City, Distrito Federal, Mexico",
+      "title": "Product Specialist (Spine portfolio)",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mexico-City-Distrito-Federal-Mexico/Marketing-Product-Specialist-SPINE_R55335"
+    },
+    "Medtronic:R56083": {
+      "alerted": false,
+      "first_seen": "2026-06-18T17:36:44.001681+00:00",
+      "location": "State of Michigan, United States of America",
+      "title": "EP Mapping Specialist - CAS | Detroit/Lansing/Toledo",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/State-of-Michigan-United-States-of-America/EP-Mapping-Specialist---CAS---Detroit-Lansing-Toledo_R56083-1"
     },
     "Medtronic:R56464": {
       "alerted": false,
@@ -23888,6 +24007,13 @@
       "title": "Sales Executive - Coronary Vascular",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Bangalore--Karnataka-India/Sales-Executive---Coronary-Vascular_R63874-1"
     },
+    "Medtronic:R63899": {
+      "alerted": false,
+      "first_seen": "2026-06-18T17:36:44.001623+00:00",
+      "location": "San Isidro, Santo Domingo, Dominican Republic",
+      "title": "Tecnico Especializado de Automatizacion",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/San-Isidro-Santo-Domingo-Dominican-Republic/Tecnico-Especializado-de-Automatizacion_R63899-1"
+    },
     "Medtronic:R63910": {
       "alerted": false,
       "first_seen": "2026-06-11T17:57:29.148540+00:00",
@@ -24335,6 +24461,13 @@
       "location": "Alajuela Coyol, Alajuela, Costa Rica",
       "title": "Facilities Tech II.",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Alajuela-Coyol-Alajuela-Costa-Rica/Facilities-Maintenance-Tech-II_R64911-1"
+    },
+    "Medtronic:R64920": {
+      "alerted": false,
+      "first_seen": "2026-06-18T17:36:44.001147+00:00",
+      "location": "Bogot\u00e1, Bogota, Colombia",
+      "title": "Quality Systems Spec",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Bogot-Bogota-Colombia/Quality-Systems-Spec_R64920-1"
     },
     "Medtronic:R64933": {
       "alerted": false,
@@ -29299,6 +29432,13 @@
       "title": "Senior Quality Engineer",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Plymouth-Minnesota-United-States-of-America/Senior-Quality-Engineer_R68629-1"
     },
+    "Medtronic:R68631": {
+      "alerted": false,
+      "first_seen": "2026-06-18T17:36:44.001351+00:00",
+      "location": "Minneapolis, Minnesota, United States of America",
+      "title": "Sr. Principal R&D Implant Procedure Engineer",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Sr-Principal-R-D-Implant-Procedure-Engineer_R68631-1"
+    },
     "Medtronic:R68637": {
       "alerted": false,
       "first_seen": "2026-06-04T23:21:36.717390+00:00",
@@ -29880,6 +30020,13 @@
       "title": "Senior Sales Representative Capital",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Al-Khobar-Eastern-Region-Saudi-Arabia/Senior-Sales-Representative-Capital_R68847-1"
     },
+    "Medtronic:R68851": {
+      "alerted": false,
+      "first_seen": "2026-06-18T17:36:44.001559+00:00",
+      "location": "9 Locations",
+      "title": "Capital Sales Specialist (m/f/d) \u2013 Cranial/Spinal Solutions",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Vienna-Vienna-Austria/Capital-Sales-Specialist--m-f-d----Cranial-Spinal-Solutions_R68851-1"
+    },
     "Medtronic:R68853": {
       "alerted": false,
       "first_seen": "2026-06-03T21:38:05.398932+00:00",
@@ -30250,6 +30397,13 @@
       "location": "Minneapolis, Minnesota, United States of America",
       "title": "Design Technician V - On-site",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Design-Technician-V---On-site_R69014-1"
+    },
+    "Medtronic:R69021": {
+      "alerted": false,
+      "first_seen": "2026-06-18T17:36:44.001233+00:00",
+      "location": "Plymouth, Minnesota, United States of America",
+      "title": "Project Coordinator IV - Plymouth, MN",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Plymouth-Minnesota-United-States-of-America/Project-Coordinator-IV---Plymouth--MN_R69021-1"
     },
     "Medtronic:R69026": {
       "alerted": true,
@@ -31077,6 +31231,13 @@
       "title": "CAS Sr EP Mapping Specialist",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Kuwait-City-Al-Kuwayt-Kuwait/CAS-Sr-EP-Mapping-Specialist_R69349-1"
     },
+    "Medtronic:R69357": {
+      "alerted": false,
+      "first_seen": "2026-06-18T17:36:44.001423+00:00",
+      "location": "Bratislava, Bratislava, Slovakia",
+      "title": "Marketing Intern",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Bratislava-Bratislava-Slovakia/Marketing-Intern_R69357"
+    },
     "Medtronic:R69367": {
       "alerted": false,
       "first_seen": "2026-06-09T16:18:25.248574+00:00",
@@ -31581,6 +31742,13 @@
       "title": "Sr Compliance Specialist, Transparency",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Bogot-Bogota-Colombia/Sr-Compliance-Specialist--Transparency_R69589-1"
     },
+    "Medtronic:R69590": {
+      "alerted": true,
+      "first_seen": "2026-06-18T17:36:44.001193+00:00",
+      "location": "North Haven, Connecticut, United States of America",
+      "title": "Design Quality Engineer II - Hardware (Surgical Robotics)",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/North-Haven-Connecticut-United-States-of-America/Design-Quality-Engineer-II---Hardware--Surgical-Robotics-_R69590-2"
+    },
     "Medtronic:R69592": {
       "alerted": false,
       "first_seen": "2026-06-17T12:00:55.280046+00:00",
@@ -31924,6 +32092,13 @@
       "title": "CRM_CIED_Technical Sales Representative_Kunming",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Kunming-Yunnan-China/CRM-CIED-Technical-Sales-Representative-Kunming_R69794"
     },
+    "Medtronic:R69806": {
+      "alerted": false,
+      "first_seen": "2026-06-18T17:36:44.001068+00:00",
+      "location": "Paris, \u00cele de France, France",
+      "title": "Co-op/Apprentice (Non-Tech)",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Paris-le-de-France-France/Co-op-Apprentice--Non-Tech-_R69806-1"
+    },
     "Medtronic:R69807": {
       "alerted": false,
       "first_seen": "2026-06-16T07:08:15.730126+00:00",
@@ -31980,6 +32155,13 @@
       "title": "Sr. Strategic Sourcing Specialist-Site Operations/Planning",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Santa-Ana-California-United-States-of-America/Sr-Strategic-Sourcing-Specialist-Site-Operations-Planning_R69828-1"
     },
+    "Medtronic:R69839": {
+      "alerted": false,
+      "first_seen": "2026-06-18T17:36:44.001465+00:00",
+      "location": "Buffalo, New York, United States of America",
+      "title": "Associte Clinical Specialist - Buffalo, NY",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Buffalo-New-York-United-States-of-America/Associte-Clinical-Specialist---Buffalo--NY_R69839-1"
+    },
     "Medtronic:R69842": {
       "alerted": false,
       "first_seen": "2026-06-15T21:20:44.983587+00:00",
@@ -32028,6 +32210,13 @@
       "location": "Lafayette, Colorado, United States of America",
       "title": "Senior Program Manager",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Senior-Program-Manager_R69875-1"
+    },
+    "Medtronic:R69876": {
+      "alerted": false,
+      "first_seen": "2026-06-18T17:36:44.001310+00:00",
+      "location": "State of Minnesota, United States of America",
+      "title": "Field Educ Spec CAS",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/State-of-Minnesota-United-States-of-America/Field-Educ-Spec-CAS_R69876-1"
     },
     "Medtronic:R69878": {
       "alerted": true,
@@ -32190,6 +32379,13 @@
       "title": "Senior Quality Engineer",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Danvers-Massachusetts-United-States-of-America/Senior-Quality-Engineer_R69961-2"
     },
+    "Medtronic:R69974": {
+      "alerted": false,
+      "first_seen": "2026-06-18T17:36:44.001110+00:00",
+      "location": "Mounds View, Minnesota, United States of America",
+      "title": "Senior Technical User Support Analyst (KY)",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Senior-Technical-User-Support-Analyst--KY-_R69974-1"
+    },
     "Medtronic:R69979": {
       "alerted": false,
       "first_seen": "2026-06-16T20:22:05.202036+00:00",
@@ -32330,6 +32526,13 @@
       "title": "Banco de Talentos Convocatoria Inclusiva para Personas con Discapacidad (PcD)",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Bogot-Bogota-Colombia/Banco-de-Talentos-Convocatoria-Inclusiva-para-Personas-con-Discapacidad--PcD-_R70059-1"
     },
+    "Medtronic:R70062": {
+      "alerted": false,
+      "first_seen": "2026-06-18T17:36:44.001387+00:00",
+      "location": "Villalba, Puerto Rico, United States of America",
+      "title": "Manufacturing Supervisor.",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Villalba-Puerto-Rico-United-States-of-America/Manufacturing-Supervisor_R70062-1"
+    },
     "Medtronic:R70092": {
       "alerted": false,
       "first_seen": "2026-06-17T22:19:38.563733+00:00",
@@ -32357,6 +32560,20 @@
       "location": "Humacao, Puerto Rico, United States of America",
       "title": "Quality Engineer I",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Humacao-Puerto-Rico-United-States-of-America/Quality-Engineer-I_R70113"
+    },
+    "Medtronic:R70118": {
+      "alerted": false,
+      "first_seen": "2026-06-18T17:36:44.001274+00:00",
+      "location": "Dallas, Texas, United States of America",
+      "title": "Sales Representative, CAS - Dallas, TX",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Dallas-Texas-United-States-of-America/Sales-Representative--CAS---Dallas--TX_R70118-2"
+    },
+    "Medtronic:R70122": {
+      "alerted": false,
+      "first_seen": "2026-06-18T17:36:44.001723+00:00",
+      "location": "Minneapolis, Minnesota, United States of America",
+      "title": "Senior Software Systems Engineer - CRM",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Senior-Software-Systems-Engineer---CRM_R70122-1"
     },
     "Medtronic:R70134": {
       "alerted": false,
@@ -41675,6 +41892,13 @@
       "title": "Senior Field Marketing Manager - Ischemic Stroke, NA - Remote",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/California-Fremont-47900-Bayside-Pkwy/Senior-Field-Marketing-Manager---Ischemic-Stroke--NA---Remote_R565797"
     },
+    "Stryker:R565806": {
+      "alerted": false,
+      "first_seen": "2026-06-18T17:36:44.000890+00:00",
+      "location": "Cedar Rapids, Iowa",
+      "title": "Clinical Specialist, Joint Replacement - Cedar Rapids, IA",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cedar-Rapids-Iowa/Clinical-Specialist--Joint-Replacement---Cedar-Rapids--IA_R565806"
+    },
     "Stryker:R565807": {
       "alerted": false,
       "first_seen": "2026-06-03T14:55:59.240936+00:00",
@@ -44629,6 +44853,13 @@
       "title": "Test Lab Technician",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Carrigtwohill-Ireland/Test-Lab-Technician_R567146"
     },
+    "Stryker:R567152": {
+      "alerted": false,
+      "first_seen": "2026-06-18T17:36:44.000971+00:00",
+      "location": "Pusignan, France",
+      "title": "Polishing operator",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Pusignan-France/Polishing-operator_R567152"
+    },
     "Stryker:R567158": {
       "alerted": false,
       "first_seen": "2026-06-08T17:42:01.250278+00:00",
@@ -44705,6 +44936,13 @@
       "location": "Atlantic City, New Jersey",
       "title": "Trauma Sales Representative - Atlantic City, NJ",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Atlantic-City-New-Jersey/Trauma-Sales-Representative---Atlantic-City--NJ_R567188"
+    },
+    "Stryker:R567191": {
+      "alerted": false,
+      "first_seen": "2026-06-18T17:36:44.001025+00:00",
+      "location": "Mahwah, New Jersey",
+      "title": "Senior Project Manager, Advanced Operations",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Mahwah-New-Jersey/Senior-Project-Manager--Advanced-Operations_R567191"
     },
     "Stryker:R567192": {
       "alerted": false,
@@ -45021,6 +45259,13 @@
       "title": "Sales Representative - Tyler, TX - Sports Medicine",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tyler-Texas/Sales-Representative---Tyler--TX---Sports-Medicine_R567398"
     },
+    "Stryker:R567400": {
+      "alerted": false,
+      "first_seen": "2026-06-18T17:36:44.000842+00:00",
+      "location": "3 Locations",
+      "title": "Senior Manager, Global Financial Benefits (Remote)",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/New-York-New-York/Senior-Manager--Global-Financial-Benefits--Remote-_R567400"
+    },
     "Stryker:R567403": {
       "alerted": false,
       "first_seen": "2026-06-16T01:46:22.950528+00:00",
@@ -45216,6 +45461,13 @@
       "location": "Fremont, California",
       "title": "Program Manager, Clinical PMO",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Fremont-California/Program-Manager--Clinical-PMO_R567593-1"
+    },
+    "Stryker:R567741": {
+      "alerted": false,
+      "first_seen": "2026-06-18T17:36:44.000934+00:00",
+      "location": "Portage, Michigan",
+      "title": "Assembler I - 1st Shift - $20.25/hr",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Assembler-I---1st-Shift----2025-hr_R567741"
     },
     "Stryker:R567808": {
       "alerted": false,
@@ -46770,6 +47022,13 @@
       "location": "Mountain View, CA, USA; San Francisco, CA, USA",
       "title": "Senior Product Manager, AI Data Mining",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=7676116"
+    },
+    "Waymo:7676187": {
+      "alerted": false,
+      "first_seen": "2026-06-18T17:36:43.993103+00:00",
+      "location": "Los Angeles, CA, USA; Phoenix, AZ, USA; San Francisco, CA, USA;",
+      "title": "Global Process Manager, Waymo Support",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=7676187"
     },
     "Waymo:7679520": {
       "alerted": false,
