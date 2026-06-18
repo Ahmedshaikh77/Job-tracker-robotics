@@ -382,6 +382,13 @@
       "title": "Senior Assembly Technician I",
       "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6010788004"
     },
+    "Agility Robotics:6014580004": {
+      "alerted": false,
+      "first_seen": "2026-06-18T19:52:13.667532+00:00",
+      "location": "Remote",
+      "title": "Senior Product Marketing Manager",
+      "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6014580004"
+    },
     "Agility Robotics:6016370004": {
       "alerted": false,
       "first_seen": "2026-06-09T22:00:30.840808+00:00",
@@ -1753,6 +1760,13 @@
       "location": "Westboro, Wisconsin, USA",
       "title": "Software Development Engineer, Amazon Robotics",
       "url": "https://www.amazon.jobs/en/jobs/10452825/software-development-engineer-amazon-robotics"
+    },
+    "Amazon:10453152": {
+      "alerted": false,
+      "first_seen": "2026-06-18T19:52:13.667608+00:00",
+      "location": "Seattle, Washington, USA",
+      "title": "Senior Robotics SDE III, Amazon Robotics - Vulcan",
+      "url": "https://www.amazon.jobs/en/jobs/10453152/senior-robotics-sde-iii-amazon-robotics-vulcan"
     },
     "Anduril:4159543007": {
       "alerted": false,
@@ -5806,6 +5820,13 @@
       "location": "Costa Mesa, California, United States",
       "title": "Mechanical Engineer, Warfighter Systems",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5030870007?gh_jid=5030870007"
+    },
+    "Anduril:5030911007": {
+      "alerted": false,
+      "first_seen": "2026-06-18T19:52:13.669484+00:00",
+      "location": "USA",
+      "title": "(Pipeline) Tooling Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5030911007?gh_jid=5030911007"
     },
     "Anduril:5030929007": {
       "alerted": false,
@@ -20318,12 +20339,33 @@
       "title": "Manager, Manufacturing Engineer, Intelligence Systems",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5167306007?gh_jid=5167306007"
     },
+    "Anduril:5167680007": {
+      "alerted": false,
+      "first_seen": "2026-06-18T19:52:13.668817+00:00",
+      "location": "Santa Ana, California, United States",
+      "title": "Integrated Power Systems Engineer/Technician",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5167680007?gh_jid=5167680007"
+    },
+    "Anduril:5167698007": {
+      "alerted": false,
+      "first_seen": "2026-06-18T19:52:13.670938+00:00",
+      "location": "Santa Ana, California, United States",
+      "title": "SeniorTooling Fabricator",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5167698007?gh_jid=5167698007"
+    },
     "Anduril:5167709007": {
       "alerted": false,
       "first_seen": "2026-06-17T22:19:38.565834+00:00",
       "location": "Costa Mesa, California, United States",
       "title": "Technical Program Manager, Small Drones",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5167709007?gh_jid=5167709007"
+    },
+    "Anduril:5167710007": {
+      "alerted": false,
+      "first_seen": "2026-06-18T19:52:13.671602+00:00",
+      "location": "Santa Ana, California, United States",
+      "title": "Staff Equipment Maintenance Technician",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5167710007?gh_jid=5167710007"
     },
     "Anduril:5167894007": {
       "alerted": false,
@@ -20345,6 +20387,13 @@
       "location": "London, England, United Kingdom",
       "title": "Mission Software Engineer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5168518007?gh_jid=5168518007"
+    },
+    "Anduril:5168587007": {
+      "alerted": false,
+      "first_seen": "2026-06-18T19:52:13.670238+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Energy Systems Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5168587007?gh_jid=5168587007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -21242,6 +21291,13 @@
       "title": "Digital Systems Engineer",
       "url": "https://careers.formlabs.com/job/7510762/apply/?gh_jid=7510762"
     },
+    "Formlabs:7527177": {
+      "alerted": false,
+      "first_seen": "2026-06-18T19:52:13.666837+00:00",
+      "location": "Somerville, MA",
+      "title": "Senior Embedded Software Engineer ",
+      "url": "https://careers.formlabs.com/job/7527177/apply/?gh_jid=7527177"
+    },
     "Formlabs:7544961": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.732945+00:00",
@@ -21857,6 +21913,13 @@
       "location": "Somerville, MA",
       "title": "Supplier Industrialization Engineer",
       "url": "https://careers.formlabs.com/job/7889748/apply/?gh_jid=7889748"
+    },
+    "Formlabs:7890746": {
+      "alerted": false,
+      "first_seen": "2026-06-18T19:52:13.666354+00:00",
+      "location": "Somerville, MA",
+      "title": "Hardware R&D Engineering Intern (Fall 2026)",
+      "url": "https://careers.formlabs.com/job/7890746/apply/?gh_jid=7890746"
     },
     "Formlabs:7899125": {
       "alerted": false,
@@ -23727,6 +23790,13 @@
       "title": "Mfg Maint Tech II",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Villalba-Puerto-Rico-United-States-of-America/Mfg-Maint-Tech-II_R62880-1"
     },
+    "Medtronic:R62889": {
+      "alerted": false,
+      "first_seen": "2026-06-18T19:52:13.667837+00:00",
+      "location": "8 Locations",
+      "title": "Senior Manager, Cybersecurity Application and Cloud Security",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Senior-Manager--Cybersecurity-Application-and-Cloud-Security---KY_R62889-2"
+    },
     "Medtronic:R62902": {
       "alerted": false,
       "first_seen": "2026-06-04T16:34:41.892841+00:00",
@@ -24314,6 +24384,13 @@
       "location": "2 Locations",
       "title": "Sales Representative CSI Arezzo, Siena, Grosseto",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Milano-Lombardia-Italy/Sales-Representative-CSI-Arezzo--Siena--Grosseto_R64483-1"
+    },
+    "Medtronic:R64510": {
+      "alerted": false,
+      "first_seen": "2026-06-18T19:52:13.667965+00:00",
+      "location": "Galway, County Galway, Ireland",
+      "title": "Principal Biomedical Electronics Engineer - CRDN",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Galway-County-Galway-Ireland/Principal-Biomedical-Electronics-Engineer---CRDN_R64510"
     },
     "Medtronic:R64561": {
       "alerted": false,
@@ -30377,6 +30454,13 @@
       "title": "Vascular Sales Rep. - Miami",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Miami-Florida-United-States-of-America/Vascular-Sales-Rep---Miami_R69005-1"
     },
+    "Medtronic:R69007": {
+      "alerted": false,
+      "first_seen": "2026-06-18T19:52:13.667919+00:00",
+      "location": "State of Minnesota, United States of America",
+      "title": "Senior Field Education Specialist",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/State-of-Minnesota-United-States-of-America/Senior-Field-Education-Specialist_R69007-2"
+    },
     "Medtronic:R69008": {
       "alerted": false,
       "first_seen": "2026-06-10T16:51:28.406975+00:00",
@@ -32574,6 +32658,13 @@
       "location": "Minneapolis, Minnesota, United States of America",
       "title": "Senior Software Systems Engineer - CRM",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Senior-Software-Systems-Engineer---CRM_R70122-1"
+    },
+    "Medtronic:R70123": {
+      "alerted": false,
+      "first_seen": "2026-06-18T19:52:13.667879+00:00",
+      "location": "Minneapolis, Minnesota, United States of America",
+      "title": "Surgical Account Manager - Twin Cities",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Surgical-Account-Manager---Twin-Cities_R70123-1"
     },
     "Medtronic:R70134": {
       "alerted": false,
@@ -40646,6 +40737,13 @@
       "title": "Sales Manager Neurovascular",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Mexico-City-Mexico/Sales-Manager-Neurovascular_R563818"
     },
+    "Stryker:R563891": {
+      "alerted": false,
+      "first_seen": "2026-06-18T19:52:13.667737+00:00",
+      "location": "Ontario, Waterdown 2 Medicorum Place",
+      "title": "Commercial Rebates Specialist - Hybrid",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Ontario-Waterdown-2-Medicorum-Place/Commercial-Rebates-Specialist---Hybrid_R563891"
+    },
     "Stryker:R563903": {
       "alerted": false,
       "first_seen": "2026-06-08T21:29:14.413191+00:00",
@@ -45182,6 +45280,13 @@
       "title": "Sales Representative - Missoula, MT - Endoscopy",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Missoula-Montana/Sales-Representative---Missoula--MT---Endoscopy_R567318-1"
     },
+    "Stryker:R567320": {
+      "alerted": false,
+      "first_seen": "2026-06-18T19:52:13.667786+00:00",
+      "location": "Fort Collins, Colorado",
+      "title": "Foot & Ankle Sales Representative - Fort Collins, CO",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Fort-Collins-Colorado/Foot---Ankle-Sales-Representative---Fort-Collins--CO_R567320"
+    },
     "Stryker:R567340": {
       "alerted": false,
       "first_seen": "2026-06-17T18:05:34.823854+00:00",
@@ -45461,6 +45566,13 @@
       "location": "Fremont, California",
       "title": "Program Manager, Clinical PMO",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Fremont-California/Program-Manager--Clinical-PMO_R567593-1"
+    },
+    "Stryker:R567607": {
+      "alerted": false,
+      "first_seen": "2026-06-18T19:52:13.667690+00:00",
+      "location": "Tulsa, Oklahoma",
+      "title": "Associate Sales Representative - Tulsa - Interventional Spine",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tulsa-Oklahoma/Associate-Sales-Representative---Tulsa---Interventional-Spine_R567607-1"
     },
     "Stryker:R567741": {
       "alerted": false,
