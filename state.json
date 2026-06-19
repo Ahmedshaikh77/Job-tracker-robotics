@@ -1803,6 +1803,13 @@
       "title": "Applied Science Manager, Safe Autonomy, SAF Lab",
       "url": "https://www.amazon.jobs/en/jobs/10454132/applied-science-manager-safe-autonomy-saf-lab"
     },
+    "Amazon:10454239": {
+      "alerted": false,
+      "first_seen": "2026-06-19T20:22:40.417535+00:00",
+      "location": "Bellevue, Washington, USA",
+      "title": "Senior Applied Scientist, Last Mile",
+      "url": "https://www.amazon.jobs/en/jobs/10454239/senior-applied-scientist-last-mile"
+    },
     "Anduril:4159543007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.742648+00:00",
@@ -13591,6 +13598,13 @@
       "title": "Senior Product Security Engineer (Active Clearance) ",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5128090007?gh_jid=5128090007"
     },
+    "Anduril:5128208007": {
+      "alerted": false,
+      "first_seen": "2026-06-19T20:22:40.419922+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Leadership Recruiter, Mission Readiness & Deployments",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5128208007?gh_jid=5128208007"
+    },
     "Anduril:5128212007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.742171+00:00",
@@ -20493,6 +20507,34 @@
       "title": "Senior Systems Engineer, C2 Integration",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5169167007?gh_jid=5169167007"
     },
+    "Anduril:5169775007": {
+      "alerted": false,
+      "first_seen": "2026-06-19T20:22:40.419289+00:00",
+      "location": "Goleta, California, United States",
+      "title": "Senior Buyer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5169775007?gh_jid=5169775007"
+    },
+    "Anduril:5169845007": {
+      "alerted": false,
+      "first_seen": "2026-06-19T20:22:40.421657+00:00",
+      "location": "Broomfield, Colorado, United States",
+      "title": "Systems Engineer, Battlespace",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5169845007?gh_jid=5169845007"
+    },
+    "Anduril:5169846007": {
+      "alerted": false,
+      "first_seen": "2026-06-19T20:22:40.420801+00:00",
+      "location": "Waltham, Massachusetts, United States",
+      "title": "Systems Engineer, Battlespace",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5169846007?gh_jid=5169846007"
+    },
+    "Anduril:5169849007": {
+      "alerted": false,
+      "first_seen": "2026-06-19T20:22:40.418658+00:00",
+      "location": "Broomfield, Colorado, United States",
+      "title": "Lead Systems Engineer, Battlespace",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5169849007?gh_jid=5169849007"
+    },
     "Apptronik:5572958004": {
       "alerted": false,
       "first_seen": "2026-06-08T14:54:52.580418+00:00",
@@ -25603,6 +25645,13 @@
       "title": "Sr Product Owner",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Sr-Software-Systems-Engineer_R66175-2"
     },
+    "Medtronic:R66177": {
+      "alerted": false,
+      "first_seen": "2026-06-19T20:22:40.421806+00:00",
+      "location": "2 Locations",
+      "title": "Regional Sales Manager  - CRDM & CAS (Cardiac Rhythm Device Management & Cardiac Ablation)",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Vancouver-British-Columbia-Canada/Regional-Sales-Manager----CRDM---CAS--Cardiac-Rhythm-Device-Management---Cardiac-Ablation-_R66177-1"
+    },
     "Medtronic:R66179": {
       "alerted": false,
       "first_seen": "2026-06-02T20:12:26.542332+00:00",
@@ -26204,6 +26253,13 @@
       "location": "Fort Wayne, Indiana, United States of America",
       "title": "Clinical Consultant II, Enabling Technologies - Fort Wayne, IN",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Fort-Wayne-Indiana-United-States-of-America/Clinical-Consultant-II--Enabling-Technologies---Fort-Wayne--IN_R66822-2"
+    },
+    "Medtronic:R66826": {
+      "alerted": false,
+      "first_seen": "2026-06-19T20:22:40.421748+00:00",
+      "location": "Brampton, Ontario, Canada",
+      "title": "Sales Representative I - CST",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Brampton-Ontario-Canada/Sales-Representative-I_R66826-1"
     },
     "Medtronic:R66840": {
       "alerted": false,
@@ -32239,6 +32295,13 @@
       "title": "Executive Clinical Specialist, Neurovascular - Little Rock, AR / Memphis, TN",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Memphis-Tennessee-United-States-of-America/Executive-Clinical-Specialist--Neurovascular---Little-Rock--AR---Memphis--TN_R69609"
     },
+    "Medtronic:R69619": {
+      "alerted": true,
+      "first_seen": "2026-06-19T20:22:40.421983+00:00",
+      "location": "Mounds View, Minnesota, United States of America",
+      "title": "Software Test Engineer I - Digital Health (Acute Care and Monitoring)",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Software-Test-Engineer-I---Digital-Health--Acute-Care-and-Monitoring-_R69619-1"
+    },
     "Medtronic:R69622": {
       "alerted": true,
       "first_seen": "2026-06-15T21:20:44.983273+00:00",
@@ -33121,6 +33184,13 @@
       "title": "Surgical Onsite Specialist - St. Louis MO",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/St-Louis-Missouri-United-States-of-America/Surgical-Onsite-Specialist---St-Louis-MO_R70100-1"
     },
+    "Medtronic:R70108": {
+      "alerted": false,
+      "first_seen": "2026-06-19T20:22:40.422054+00:00",
+      "location": "North Haven, Connecticut, United States of America",
+      "title": "Quality Engineer I - North Haven, CT",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/North-Haven-Connecticut-United-States-of-America/Quality-Engineer-I---North-Haven--CT_R70108-1"
+    },
     "Medtronic:R70113": {
       "alerted": false,
       "first_seen": "2026-06-17T22:19:38.563689+00:00",
@@ -33212,6 +33282,13 @@
       "title": "Senior Auditor",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Senior-Auditor_R70212-2"
     },
+    "Medtronic:R70221": {
+      "alerted": false,
+      "first_seen": "2026-06-19T20:22:40.421844+00:00",
+      "location": "Plymouth, Minnesota, United States of America",
+      "title": "Clinical Research Specialsit",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Plymouth-Minnesota-United-States-of-America/Clinical-Research-Specialsit_R70221-1"
+    },
     "Medtronic:R70222": {
       "alerted": false,
       "first_seen": "2026-06-18T23:25:55.069189+00:00",
@@ -33253,6 +33330,27 @@
       "location": "Columbia, Missouri, United States of America",
       "title": "Cardiac Rhythm Management Senior Sales Rep - Columbia, MO",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Columbia-Missouri-United-States-of-America/Cardiac-Rhythm-Management-Senior-Sales-Rep---Columbia--MO_R70309-1"
+    },
+    "Medtronic:R70324": {
+      "alerted": false,
+      "first_seen": "2026-06-19T20:22:40.421706+00:00",
+      "location": "Austin, Texas, United States of America",
+      "title": "Sr Sales Rep Peripheral Vascular - Austin",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Austin-Texas-United-States-of-America/Sr-Sales-Rep-Peripheral-Vascular---Austin_R70324-1"
+    },
+    "Medtronic:R70326": {
+      "alerted": false,
+      "first_seen": "2026-06-19T20:22:40.421932+00:00",
+      "location": "Houston, Texas, United States of America",
+      "title": "Senior Clinical Specialist - Pelvic Health- Houston, TX",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Houston-Texas-United-States-of-America/Senior-Clinical-Specialist---Pelvic-Health--Houston--TX_R70326-2"
+    },
+    "Medtronic:R70327": {
+      "alerted": false,
+      "first_seen": "2026-06-19T20:22:40.421886+00:00",
+      "location": "5 Locations",
+      "title": "Principal Government Sales Rep - ACM",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/State-of-Texas-United-States-of-America/Principal-Government-Sales-Rep---ACM_R70327-1"
     },
     "NVIDIA:JR1970791": {
       "alerted": false,
@@ -42536,6 +42634,13 @@
       "title": "OnSite Specialist - Durham, NC",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Durham-North-Carolina/OnSite-Specialist---Durham--NC_R565735-1"
     },
+    "Stryker:R565738": {
+      "alerted": false,
+      "first_seen": "2026-06-19T20:22:40.417613+00:00",
+      "location": "Tampa, Florida",
+      "title": "Foot & Ankle Sales Associate - Tampa/St. Petersburg/Clearwater/Sarasota, FL",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tampa-Florida/Foot---Ankle-Sales-Associate---Tampa-St-Petersburg-Clearwater-Sarasota--FL_R565738"
+    },
     "Stryker:R565740": {
       "alerted": false,
       "first_seen": "2026-06-02T12:30:55.341578+00:00",
@@ -45077,12 +45182,26 @@
       "title": "OnSite Specialist - Cleveland, OH",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cleveland-Ohio/OnSite-Specialist---Cleveland--OH_R566865"
     },
+    "Stryker:R566867": {
+      "alerted": true,
+      "first_seen": "2026-06-19T20:22:40.417677+00:00",
+      "location": "Kalamazoo, Michigan",
+      "title": "Medical Device Distribution Associate - 2nd Shift - $23.90/hr + $2/hr Shift Premium",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Kalamazoo-Michigan/Medical-Device-Distribution-Associate---2nd-Shift----2390-hr----2-hr-Shift-Premium_R566867"
+    },
     "Stryker:R566868": {
       "alerted": false,
       "first_seen": "2026-06-16T07:08:15.728510+00:00",
       "location": "Florida, Jacksonville 7014 AC Skinner Pkwy",
       "title": "Field Operations Associate - 2nd Shift - $23.90/hr + $1/hr shift premium",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Florida-Jacksonville-7014-AC-Skinner-Pkwy/Field-Operations-Associate---2nd-Shift----2390-hr----1-hr-shift-premium_R566868"
+    },
+    "Stryker:R566875": {
+      "alerted": true,
+      "first_seen": "2026-06-19T20:22:40.417729+00:00",
+      "location": "Kalamazoo, Michigan",
+      "title": "Medical Device Materials Coordinator - 1st Shift - $23.90/hr",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Kalamazoo-Michigan/Medical-Device-Materials-Coordinator---1st-Shift----2390-hr_R566875"
     },
     "Stryker:R566883": {
       "alerted": false,
