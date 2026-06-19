@@ -1810,6 +1810,13 @@
       "title": "Senior Applied Scientist, Last Mile",
       "url": "https://www.amazon.jobs/en/jobs/10454239/senior-applied-scientist-last-mile"
     },
+    "Amazon:10454315": {
+      "alerted": true,
+      "first_seen": "2026-06-19T21:39:05.287565+00:00",
+      "location": "Pasadena, California, USA",
+      "title": "Research Scientist, Safety-Critical Control, Robotics, SAF Lab",
+      "url": "https://www.amazon.jobs/en/jobs/10454315/research-scientist-safety-critical-control-robotics-saf-lab"
+    },
     "Anduril:4159543007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.742648+00:00",
@@ -20514,6 +20521,13 @@
       "title": "Senior Buyer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5169775007?gh_jid=5169775007"
     },
+    "Anduril:5169836007": {
+      "alerted": false,
+      "first_seen": "2026-06-19T21:39:05.289247+00:00",
+      "location": "Reston, Virginia, United States",
+      "title": "Space Special Projects, Chief Engineer ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5169836007?gh_jid=5169836007"
+    },
     "Anduril:5169845007": {
       "alerted": false,
       "first_seen": "2026-06-19T20:22:40.421657+00:00",
@@ -20534,6 +20548,41 @@
       "location": "Broomfield, Colorado, United States",
       "title": "Lead Systems Engineer, Battlespace",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5169849007?gh_jid=5169849007"
+    },
+    "Anduril:5169850007": {
+      "alerted": false,
+      "first_seen": "2026-06-19T21:39:05.288445+00:00",
+      "location": "Reston, Virginia, United States",
+      "title": "G&A Manager, Space Special Projects",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5169850007?gh_jid=5169850007"
+    },
+    "Anduril:5169861007": {
+      "alerted": false,
+      "first_seen": "2026-06-19T21:39:05.292095+00:00",
+      "location": "Reston, Virginia, United States",
+      "title": "Space Special Projects, Software Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5169861007?gh_jid=5169861007"
+    },
+    "Anduril:5169867007": {
+      "alerted": false,
+      "first_seen": "2026-06-19T21:39:05.290736+00:00",
+      "location": "Reston, Virginia, United States",
+      "title": "Space Special Projects, Mechanical Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5169867007?gh_jid=5169867007"
+    },
+    "Anduril:5169876007": {
+      "alerted": false,
+      "first_seen": "2026-06-19T21:39:05.290013+00:00",
+      "location": "Reston, Virginia, United States",
+      "title": "Space Special Projects, Engineering Manager",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5169876007?gh_jid=5169876007"
+    },
+    "Anduril:5169881007": {
+      "alerted": false,
+      "first_seen": "2026-06-19T21:39:05.291403+00:00",
+      "location": "Reston, Virginia, United States",
+      "title": "Space Special Projects, Research Scientist ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5169881007?gh_jid=5169881007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -23663,6 +23712,13 @@
       "location": "2 Locations",
       "title": "Clinical Specialist, Pain Interventions - Charlottesville/Lynchburg, VA",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Charlottesville-Virginia-United-States-of-America/Clinical-Specialist--Pain-Interventions---Charlottesville-Lynchburg--VA_R60860-1"
+    },
+    "Medtronic:R60939": {
+      "alerted": false,
+      "first_seen": "2026-06-19T21:39:05.292194+00:00",
+      "location": "Mounds View, Minnesota, United States of America",
+      "title": "Principal ASIC Design Engineer",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Principal-ASIC-Design-Engineer_R60939-1"
     },
     "Medtronic:R60951": {
       "alerted": false,
@@ -27226,6 +27282,13 @@
       "location": "7 Locations",
       "title": "AiBLE Strategic Sales Representative, Biologics - North Area United States",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Chicago-Illinois-United-States-of-America/AiBLE-Strategic-Sales-Representative--Biologics---North-Area-United-States_R67500-1"
+    },
+    "Medtronic:R67504": {
+      "alerted": false,
+      "first_seen": "2026-06-19T21:39:05.292247+00:00",
+      "location": "14 Locations",
+      "title": "AiBLE Strategic Sales Representative, Biologics - South Area United States",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Charlotte-North-Carolina-United-States-of-America/AiBLE-Strategic-Sales-Representative--Biologics---Southern-United-States_R67504-1"
     },
     "Medtronic:R67505": {
       "alerted": false,
@@ -31468,6 +31531,13 @@
       "location": "London, London, United Kingdom",
       "title": "Software Development Engineer in Test",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/London-London-United-Kingdom/Software-Development-Engineer-in-Test_R69251-1"
+    },
+    "Medtronic:R69252": {
+      "alerted": false,
+      "first_seen": "2026-06-19T21:39:05.292282+00:00",
+      "location": "Mounds View, Minnesota, United States of America",
+      "title": "Technical Writer",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Technical-Writer_R69252-1"
     },
     "Medtronic:R69253": {
       "alerted": false,
@@ -41618,6 +41688,13 @@
       "location": "3 Locations",
       "title": "Sales Partner | Spine (Centro Italia)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Rome-Italy/Sales-Partner---Spine--Centro-Italia-_R564259"
+    },
+    "Stryker:R564280": {
+      "alerted": false,
+      "first_seen": "2026-06-19T21:39:05.292152+00:00",
+      "location": "2 Locations",
+      "title": "Service Associate - New York City - Sustainability Solutions",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/New-York-New-York/Service-Associate---New-York-City---Sustainability-Solutions_R564280-1"
     },
     "Stryker:R564297": {
       "alerted": false,
