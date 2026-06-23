@@ -33170,6 +33170,13 @@
       "title": "Quality Systems Specialist",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lo-Barnechea-Santiago--Chile/Quality-Systems-Spec_R69738-1"
     },
+    "Medtronic:R69743": {
+      "alerted": false,
+      "first_seen": "2026-06-23T00:00:04.942660+00:00",
+      "location": "Minneapolis, Minnesota, United States of America",
+      "title": "Senior Reliability Engineer - CRM",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Senior-Reliability-Engineer---CRM_R69743-1"
+    },
     "Medtronic:R69752": {
       "alerted": false,
       "first_seen": "2026-06-19T16:58:21.147706+00:00",
@@ -34233,6 +34240,13 @@
       "location": "Los Angeles, California, United States of America",
       "title": "Sr Clinical Sales Specialist, ENT - Los Angeles, CA",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Los-Angeles-California-United-States-of-America/Sr-Clinical-Sales-Specialist--ENT---Los-Angeles--CA_R70429-1"
+    },
+    "Medtronic:R70458": {
+      "alerted": false,
+      "first_seen": "2026-06-23T00:00:04.942705+00:00",
+      "location": "Rochester, Minnesota, United States of America",
+      "title": "Clinical Specialist, Pelvic Health -Rochester, MN",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Rochester-Minnesota-United-States-of-America/Clinical-Specialist--Pelvic-Health--Rochester--MN_R70458-1"
     },
     "NVIDIA:JR1970791": {
       "alerted": false,
@@ -36354,6 +36368,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Technical Program Manager \u2013 VLSI",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Program-Manager---VLSI_JR2015102"
+    },
+    "NVIDIA:JR2015108": {
+      "alerted": true,
+      "first_seen": "2026-06-23T00:00:04.942398+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "ML and Agentic Systems Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ML-and-Agentic-Systems-Engineer_JR2015108"
     },
     "NVIDIA:JR2015149": {
       "alerted": false,
@@ -45392,6 +45413,13 @@
       "title": "Sales Representative - Tulsa, OK - Sports Medicine",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tulsa-Oklahoma/Sales-Representative---Tulsa--OK---Sports-Medicine_R566509"
     },
+    "Stryker:R566513": {
+      "alerted": false,
+      "first_seen": "2026-06-23T00:00:04.942473+00:00",
+      "location": "Chicago, Illinois",
+      "title": "Field Service Technician (Power Tools) - Chicago, IL / Milwaukee, WI",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Chicago-Illinois/Field-Service-Technician--Power-Tools----Chicago--IL---Milwaukee--WI_R566513"
+    },
     "Stryker:R566514": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.741273+00:00",
@@ -47555,6 +47583,13 @@
       "title": "Foot & Ankle Sales Representative - Fort Collins, CO",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Fort-Collins-Colorado/Foot---Ankle-Sales-Representative---Fort-Collins--CO_R567320"
     },
+    "Stryker:R567330": {
+      "alerted": false,
+      "first_seen": "2026-06-23T00:00:04.942522+00:00",
+      "location": "Columbus, Georgia",
+      "title": "Field Service Technician (Neptune), Columbus GA",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Columbus-Georgia/Field-Service-Technician--Neptune---Columbus-GA_R567330"
+    },
     "Stryker:R567337": {
       "alerted": false,
       "first_seen": "2026-06-22T18:18:32.501836+00:00",
@@ -47939,6 +47974,20 @@
       "location": "Portage, Michigan",
       "title": "Assembler I - 1st Shift - $20.25/hr",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Assembler-I---1st-Shift----2025-hr_R567741"
+    },
+    "Stryker:R567761": {
+      "alerted": false,
+      "first_seen": "2026-06-23T00:00:04.942572+00:00",
+      "location": "Fremont, California",
+      "title": "Field Clinical Specialist - East Bay - Peripheral Vascular",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Fremont-California/Field-Clinical-Specialist---East-Bay---Peripheral-Vascular_R567761"
+    },
+    "Stryker:R567763": {
+      "alerted": false,
+      "first_seen": "2026-06-23T00:00:04.942620+00:00",
+      "location": "California, San Francisco Bay Area Virtual Address",
+      "title": "Field Clinical Specialist - Bay Area - Peripheral Vascular",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/California-San-Francisco-Bay-Area-Virtual-Address/Field-Clinical-Specialist---Bay-Area---Peripheral-Vascular_R567763"
     },
     "Stryker:R567768": {
       "alerted": false,
