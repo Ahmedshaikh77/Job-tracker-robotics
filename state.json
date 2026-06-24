@@ -438,6 +438,13 @@
       "title": "Senior Service Technician II",
       "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6019008004"
     },
+    "Agility Robotics:6019178004": {
+      "alerted": false,
+      "first_seen": "2026-06-24T19:20:29.768619+00:00",
+      "location": "Hybrid- Fremont, CA",
+      "title": "Senior Hardware Test Engineer",
+      "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6019178004"
+    },
     "Agility Robotics:6033730004": {
       "alerted": false,
       "first_seen": "2026-06-17T18:05:34.822841+00:00",
@@ -451,6 +458,13 @@
       "location": "Hybrid- Fremont, CA",
       "title": "Buyer II",
       "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6034760004"
+    },
+    "Agility Robotics:6098736004": {
+      "alerted": false,
+      "first_seen": "2026-06-24T19:20:29.769341+00:00",
+      "location": "Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA)",
+      "title": "Staff AI Research Engineer",
+      "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6098736004"
     },
     "Amazon:10378626": {
       "alerted": false,
@@ -1831,6 +1845,27 @@
       "title": "Software Development Engineer, One MHS - Software, Controls, and Science",
       "url": "https://www.amazon.jobs/en/jobs/10455099/software-development-engineer-one-mhs-software-controls-and-science"
     },
+    "Amazon:10455363": {
+      "alerted": false,
+      "first_seen": "2026-06-24T19:20:29.769891+00:00",
+      "location": "Pasadena, California, USA",
+      "title": "Postdoctoral Scholar - SAF Lab, Compass",
+      "url": "https://www.amazon.jobs/en/jobs/10455363/postdoctoral-scholar-saf-lab-compass"
+    },
+    "Amazon:10455421": {
+      "alerted": false,
+      "first_seen": "2026-06-24T19:20:29.769845+00:00",
+      "location": "Pasadena, California, USA",
+      "title": "Postdoctoral Scholar - SAF Lab, Compass",
+      "url": "https://www.amazon.jobs/en/jobs/10455421/postdoctoral-scholar-saf-lab-compass"
+    },
+    "Amazon:10455422": {
+      "alerted": false,
+      "first_seen": "2026-06-24T19:20:29.769792+00:00",
+      "location": "Pasadena, California, USA",
+      "title": "Postdoctoral Scholar - SAF Lab, Compass",
+      "url": "https://www.amazon.jobs/en/jobs/10455422/postdoctoral-scholar-saf-lab-compass"
+    },
     "Amazon:10455469": {
       "alerted": false,
       "first_seen": "2026-06-22T21:15:33.144856+00:00",
@@ -2257,6 +2292,13 @@
       "location": "Costa Mesa, California, United States; Washington, District of Columbia, United States",
       "title": "Systems Engineer, Open Architecture, Active Clearance",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/4657144007?gh_jid=4657144007"
+    },
+    "Anduril:4657146007": {
+      "alerted": false,
+      "first_seen": "2026-06-24T19:20:29.773610+00:00",
+      "location": "Costa Mesa, California, United States; Washington, District of Columbia, United States",
+      "title": "Open Architecture Systems Engineer, C2",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4657146007?gh_jid=4657146007"
     },
     "Anduril:4657698007": {
       "alerted": false,
@@ -8131,6 +8173,48 @@
       "title": "Senior Electrical Engineer, Generalist",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5067195007?gh_jid=5067195007"
     },
+    "Anduril:5067206007": {
+      "alerted": false,
+      "first_seen": "2026-06-24T19:20:29.772303+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Mechanical Engineer, Components and Propulsion",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5067206007?gh_jid=5067206007"
+    },
+    "Anduril:5067208007": {
+      "alerted": false,
+      "first_seen": "2026-06-24T19:20:29.775556+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Mechanical Engineer, Components and Propulsion",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5067208007?gh_jid=5067208007"
+    },
+    "Anduril:5067213007": {
+      "alerted": false,
+      "first_seen": "2026-06-24T19:20:29.784814+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Structures Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5067213007?gh_jid=5067213007"
+    },
+    "Anduril:5067215007": {
+      "alerted": false,
+      "first_seen": "2026-06-24T19:20:29.778988+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Structures Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5067215007?gh_jid=5067215007"
+    },
+    "Anduril:5067225007": {
+      "alerted": false,
+      "first_seen": "2026-06-24T19:20:29.772957+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Mechanical Engineer, Subsystem Integration and Test",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5067225007?gh_jid=5067225007"
+    },
+    "Anduril:5067228007": {
+      "alerted": false,
+      "first_seen": "2026-06-24T19:20:29.776235+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Mechanical Engineer, Subsystem Integration and Test",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5067228007?gh_jid=5067228007"
+    },
     "Anduril:5067278007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.742526+00:00",
@@ -13549,6 +13633,13 @@
       "title": "Analytics Engineer, Sentry",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5126754007?gh_jid=5126754007"
     },
+    "Anduril:5126776007": {
+      "alerted": false,
+      "first_seen": "2026-06-24T19:20:29.771613+00:00",
+      "location": "Fort Collins, Colorado, United States",
+      "title": "FPGA DSP Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5126776007?gh_jid=5126776007"
+    },
     "Anduril:5126785007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.741762+00:00",
@@ -13583,6 +13674,13 @@
       "location": "Costa Mesa, California, United States",
       "title": "Flight Computer Hardware Lead, Core Technology",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5127006007?gh_jid=5127006007"
+    },
+    "Anduril:5127008007": {
+      "alerted": false,
+      "first_seen": "2026-06-24T19:20:29.778341+00:00",
+      "location": "Broomfield, Colorado, United States; Fort Collins, Colorado, United States",
+      "title": "Senior Software Engineer, Radar",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5127008007?gh_jid=5127008007"
     },
     "Anduril:5127039007": {
       "alerted": false,
@@ -21445,12 +21543,124 @@
       "title": "Senior Electrical Engineer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5172988007?gh_jid=5172988007"
     },
+    "Anduril:5173025007": {
+      "alerted": false,
+      "first_seen": "2026-06-24T19:20:29.784169+00:00",
+      "location": "Costa Mesa, California, United States; Washington, District of Columbia, United States",
+      "title": "Staff Systems Engineer, Mission Autonomy, Active Clearance",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5173025007?gh_jid=5173025007"
+    },
+    "Anduril:5173042007": {
+      "alerted": false,
+      "first_seen": "2026-06-24T19:20:29.785569+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Supplier Quality Project Manager",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5173042007?gh_jid=5173042007"
+    },
+    "Anduril:5173057007": {
+      "alerted": false,
+      "first_seen": "2026-06-24T19:20:29.781586+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Staff Radar Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5173057007?gh_jid=5173057007"
+    },
+    "Anduril:5173062007": {
+      "alerted": false,
+      "first_seen": "2026-06-24T19:20:29.782250+00:00",
+      "location": "Fort Collins, Colorado, United States",
+      "title": "Staff Radar Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5173062007?gh_jid=5173062007"
+    },
+    "Anduril:5173069007": {
+      "alerted": false,
+      "first_seen": "2026-06-24T19:20:29.786895+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Technical Writer, Fury Data Module",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5173069007?gh_jid=5173069007"
+    },
+    "Anduril:5173074007": {
+      "alerted": false,
+      "first_seen": "2026-06-24T19:20:29.774881+00:00",
+      "location": "Costa Mesa, California, United States; Washington, District of Columbia, United States",
+      "title": "Open Architecture Systems Engineer, Mission Systems",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5173074007?gh_jid=5173074007"
+    },
+    "Anduril:5173087007": {
+      "alerted": false,
+      "first_seen": "2026-06-24T19:20:29.777500+00:00",
+      "location": "Costa Mesa, California, United States; Washington, District of Columbia, United States",
+      "title": "Senior Open Architecture Systems Engineer, Mission Systems",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5173087007?gh_jid=5173087007"
+    },
+    "Anduril:5173095007": {
+      "alerted": false,
+      "first_seen": "2026-06-24T19:20:29.780914+00:00",
+      "location": "Costa Mesa, California, United States; Washington, District of Columbia, United States",
+      "title": "Staff Open Architecture Systems Engineer, Mission Systems",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5173095007?gh_jid=5173095007"
+    },
+    "Anduril:5173109007": {
+      "alerted": false,
+      "first_seen": "2026-06-24T19:20:29.774270+00:00",
+      "location": "Costa Mesa, California, United States; Washington, District of Columbia, United States",
+      "title": "Open Architecture Systems Engineer, Ground Systems",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5173109007?gh_jid=5173109007"
+    },
+    "Anduril:5173116007": {
+      "alerted": false,
+      "first_seen": "2026-06-24T19:20:29.779660+00:00",
+      "location": "Costa Mesa, California, United States; Washington, District of Columbia, United States",
+      "title": "Staff Open Architecture Systems Engineer, C2",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5173116007?gh_jid=5173116007"
+    },
+    "Anduril:5173117007": {
+      "alerted": false,
+      "first_seen": "2026-06-24T19:20:29.776870+00:00",
+      "location": "Costa Mesa, California, United States; Washington, District of Columbia, United States",
+      "title": "Senior Open Architecture Systems Engineer, Ground Systems",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5173117007?gh_jid=5173117007"
+    },
+    "Anduril:5173120007": {
+      "alerted": false,
+      "first_seen": "2026-06-24T19:20:29.780303+00:00",
+      "location": "Costa Mesa, California, United States; Washington, District of Columbia, United States",
+      "title": "Staff Open Architecture Systems Engineer, Ground Systems",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5173120007?gh_jid=5173120007"
+    },
+    "Anduril:5173148007": {
+      "alerted": false,
+      "first_seen": "2026-06-24T19:20:29.782895+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Staff Systems Engineer, Advanced Effects, Active Clearance",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5173148007?gh_jid=5173148007"
+    },
+    "Anduril:5173154007": {
+      "alerted": false,
+      "first_seen": "2026-06-24T19:20:29.786196+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Systems Engineer, Air Vehicle Systems, Active Clearance",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5173154007?gh_jid=5173154007"
+    },
+    "Anduril:5173156007": {
+      "alerted": false,
+      "first_seen": "2026-06-24T19:20:29.783513+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Staff Systems Engineer, Air Vehicle Systems, Active Clearance",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5173156007?gh_jid=5173156007"
+    },
     "Apptronik:5572958004": {
       "alerted": false,
       "first_seen": "2026-06-08T14:54:52.580418+00:00",
       "location": "Austin, TX",
       "title": "Staff Systems Engineer - Robot-as-a-Service Platform",
       "url": "https://boards.greenhouse.io/apptronik/jobs/5572958004?gh_jid=5572958004"
+    },
+    "Apptronik:5659375004": {
+      "alerted": false,
+      "first_seen": "2026-06-24T19:20:29.769730+00:00",
+      "location": "Austin, TX",
+      "title": "Senior Reinforcement Learning  Engineer",
+      "url": "https://boards.greenhouse.io/apptronik/jobs/5659375004?gh_jid=5659375004"
     },
     "Apptronik:5677396004": {
       "alerted": false,
@@ -28718,6 +28928,13 @@
       "title": "Assoc Regulatory Affairs Spec",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Bogot-Bogota-Colombia/Assoc-Regulatory-Affairs-Spec_R67586"
     },
+    "Medtronic:R67588": {
+      "alerted": false,
+      "first_seen": "2026-06-24T19:20:29.770792+00:00",
+      "location": "Minneapolis, Minnesota, United States of America",
+      "title": "Sr. Director, Integrations and Separations",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Sr-Corporate-Development-Program-Director_R67588-1"
+    },
     "Medtronic:R67591": {
       "alerted": false,
       "first_seen": "2026-05-29T19:05:59.393799+00:00",
@@ -35263,6 +35480,13 @@
       "title": "Principal CoreValve Therapy Development Specialist",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Houston-Texas-United-States-of-America/Principal-CoreValve-Therapy-Development-Specialist_R70191-1"
     },
+    "Medtronic:R70192": {
+      "alerted": false,
+      "first_seen": "2026-06-24T19:20:29.770705+00:00",
+      "location": "Dexter, Michigan, United States of America",
+      "title": "Engineering Supervisor - Dexter, MI",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Dexter-Michigan-United-States-of-America/Engineering-Supervisor---Dexter--MI_R70192-2"
+    },
     "Medtronic:R70195": {
       "alerted": false,
       "first_seen": "2026-06-24T13:38:36.110117+00:00",
@@ -35452,6 +35676,13 @@
       "title": "EP Mapping Specialist, CAS - New Jersey",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/State-of-New-Jersey-United-States-of-America/EP-Mapping-Specialist--CAS---New-Jersey_R70341-1"
     },
+    "Medtronic:R70346": {
+      "alerted": false,
+      "first_seen": "2026-06-24T19:20:29.770666+00:00",
+      "location": "Minneapolis, Minnesota, United States of America",
+      "title": "Principal Financial Analyst",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Principal-Financial-Analyst_R70346-1"
+    },
     "Medtronic:R70359": {
       "alerted": false,
       "first_seen": "2026-06-22T18:18:32.502555+00:00",
@@ -35508,6 +35739,13 @@
       "title": "Senior Principal Therapy Consultant - Dayton/Cincinnati, OH",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Dayton-Ohio-United-States-of-America/Senior-Principal-Therapy-Consultant---Dayton-Cincinnati--OH_R70410-1"
     },
+    "Medtronic:R70411": {
+      "alerted": false,
+      "first_seen": "2026-06-24T19:20:29.770750+00:00",
+      "location": "State of New Hampshire, United States of America",
+      "title": "Cardiac Rhythm Management Clinical Specialist - New Hampshire",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/State-of-New-Hampshire-United-States-of-America/Cardiac-Rhythm-Management-Clinical-Specialist---New-Hampshire_R70411-1"
+    },
     "Medtronic:R70415": {
       "alerted": false,
       "first_seen": "2026-06-23T16:11:28.545290+00:00",
@@ -35528,6 +35766,13 @@
       "location": "Los Angeles, California, United States of America",
       "title": "Sr Clinical Sales Specialist, ENT - Los Angeles, CA",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Los-Angeles-California-United-States-of-America/Sr-Clinical-Sales-Specialist--ENT---Los-Angeles--CA_R70429-1"
+    },
+    "Medtronic:R70433": {
+      "alerted": false,
+      "first_seen": "2026-06-24T19:20:29.770630+00:00",
+      "location": "2 Locations",
+      "title": "Prin. Clinical Specialist - Salt Lake City/Boise",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Salt-Lake-City-Utah-United-States-of-America/Prin-Clinical-Specialist---Salt-Lake-City-Boise_R70433-1"
     },
     "Medtronic:R70438": {
       "alerted": false,
@@ -35955,6 +36200,13 @@
       "location": "6 Locations",
       "title": "Distinguished Software Engineer - NVLink Fusion Software",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Distinguished-Software-Engineer---NVLink-Fusion-Software_JR2000295"
+    },
+    "NVIDIA:JR2000499": {
+      "alerted": false,
+      "first_seen": "2026-06-24T19:20:29.770500+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior DFT Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DFT-Engineer_JR2000499"
     },
     "NVIDIA:JR2001098": {
       "alerted": false,
@@ -36809,6 +37061,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Senior ASIC Timing Engineer, DFT",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-ASIC-Timing-Engineer_JR2011868"
+    },
+    "NVIDIA:JR2011879": {
+      "alerted": true,
+      "first_seen": "2026-06-24T19:20:29.770544+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "System Design Engineer - New College Grad 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Design-Engineer---New-College-Grad-2026_JR2011879"
     },
     "NVIDIA:JR2011901": {
       "alerted": false,
@@ -38713,6 +38972,13 @@
       "location": "2 Locations",
       "title": "Chip Design Verification Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Chip-Design-Verification-Engineer_JR2017409"
+    },
+    "NVIDIA:JR2017413": {
+      "alerted": false,
+      "first_seen": "2026-06-24T19:20:29.770075+00:00",
+      "location": "5 Locations",
+      "title": "Senior Software Engineer - DGX Cloud Services and Software",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---DGX-Cloud-Services-and-Software_JR2017413"
     },
     "NVIDIA:JR2017418": {
       "alerted": false,
@@ -42480,6 +42746,13 @@
       "title": "Software QA Test Developer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Software-QA-Test-Developer_JR2019646"
     },
+    "NVIDIA:JR2019652": {
+      "alerted": false,
+      "first_seen": "2026-06-24T19:20:29.770348+00:00",
+      "location": "3 Locations",
+      "title": "Senior Full-stack Software Engineer \u2013 Verification Data and Visualization Platform",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Full-stack-Software-Engineer---Verification-Data-and-Visualization-Platform_JR2019652"
+    },
     "NVIDIA:JR2019657": {
       "alerted": false,
       "first_seen": "2026-06-13T15:53:16.181955+00:00",
@@ -42655,6 +42928,13 @@
       "title": "Senior Inference Engineer, AIConfigurator for Dynamo",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Inference-Engineer--AIConfigurator-for-Dynamo_JR2019734"
     },
+    "NVIDIA:JR2019738": {
+      "alerted": false,
+      "first_seen": "2026-06-24T19:20:29.770291+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Principal DRAM Architect \u2013 GPU Memory Solutions",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-DRAM-Architect---GPU-Memory-Solutions_JR2019738"
+    },
     "NVIDIA:JR2019739": {
       "alerted": false,
       "first_seen": "2026-06-13T00:05:50.716833+00:00",
@@ -42682,6 +42962,13 @@
       "location": "2 Locations",
       "title": "Senior Technical Program Manager, AI Software",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager--AI-Software_JR2019747"
+    },
+    "NVIDIA:JR2019748": {
+      "alerted": false,
+      "first_seen": "2026-06-24T19:20:29.770420+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Systems Architect",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Architect_JR2019748"
     },
     "NVIDIA:JR2019751": {
       "alerted": false,
@@ -42886,6 +43173,13 @@
       "title": "AI Compute Engineer - NVIS",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Compute-Engineer---NVIS_JR2019842"
     },
+    "NVIDIA:JR2019846": {
+      "alerted": false,
+      "first_seen": "2026-06-24T19:20:29.770586+00:00",
+      "location": "5 Locations",
+      "title": "Senior Solutions Architect, Data Platform GTM",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Solutions-Architect--Data-Platform-GTM_JR2019846"
+    },
     "NVIDIA:JR2019848": {
       "alerted": false,
       "first_seen": "2026-06-23T03:49:35.394143+00:00",
@@ -43039,6 +43333,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Software Quality Assurance Engineer - 2026 New College Grad",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Quality-Assurance-Engineer---2026-New-College-Grad_JR2019924-1"
+    },
+    "NVIDIA:JR2019930": {
+      "alerted": false,
+      "first_seen": "2026-06-24T19:20:29.770386+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Industrial Designer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Industrial-Designer_JR2019930"
     },
     "NVIDIA:JR2019933": {
       "alerted": false,
@@ -43194,6 +43495,20 @@
       "title": "Financial Analyst - Inventory",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Financial-Analyst---Inventory_JR2020060"
     },
+    "NVIDIA:JR2020105": {
+      "alerted": false,
+      "first_seen": "2026-06-24T19:20:29.770466+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Infrastructure Software Engineer, Deep Learning Libraries",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Infrastructure-Software-Engineer--Deep-Learning-Libraries_JR2020105"
+    },
+    "NVIDIA:JR2020106": {
+      "alerted": true,
+      "first_seen": "2026-06-24T19:20:29.770242+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Infrastructure Systems Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Infrastructure-Systems-Engineer_JR2020106"
+    },
     "NVIDIA:JR2020115": {
       "alerted": false,
       "first_seen": "2026-06-23T20:21:42.414070+00:00",
@@ -43228,6 +43543,20 @@
       "location": "2 Locations",
       "title": "Principal Engineer \u2014 Medical Imaging Reconstruction and Raw-to-Insights AI",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Redmond/Principal-Engineer---Medical-Imaging-Reconstruction-and-Raw-to-Insights-AI_JR2020171"
+    },
+    "NVIDIA:JR2020173": {
+      "alerted": false,
+      "first_seen": "2026-06-24T19:20:29.770127+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Robotics Systems Engineer - Neural Reconstruction and Real2Sim Applications",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Robotics-Systems-Engineer---Neural-Reconstruction-and-Real2Sim-Applications_JR2020173"
+    },
+    "NVIDIA:JR2020181": {
+      "alerted": false,
+      "first_seen": "2026-06-24T19:20:29.770199+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Deep Learning Performance Architect",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Deep-Learning-Performance-Architect_JR2020181-1"
     },
     "Stryker:R498593": {
       "alerted": false,
@@ -43816,6 +44145,13 @@
       "location": "Osaka, Nishi-ku, Osaka-shi 2-1-1, Edobori",
       "title": "Lead Coordinator, Order Processing, Mix Order",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Osaka-Nishi-ku-Osaka-shi-2-1-1-Edobori/Lead-Coordinator--Order-Processing--Mix-Order_R560500-6"
+    },
+    "Stryker:R560539": {
+      "alerted": false,
+      "first_seen": "2026-06-24T19:20:29.769979+00:00",
+      "location": "Sao Paulo, Brazil",
+      "title": "Staff Regulatory Affairs Specialist LatAm (Hybrid)",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Sao-Paulo-Brazil/Staff-Regulatory-Affairs-Specialist--Hybrid-_R560539"
     },
     "Stryker:R560591": {
       "alerted": false,
@@ -47597,6 +47933,13 @@
       "title": "Senior Supplier Quality Engineer",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Carrigtwohill-Ireland/Senior-Supplier-Quality-Engineer_R566535"
     },
+    "Stryker:R566536": {
+      "alerted": false,
+      "first_seen": "2026-06-24T19:20:29.769932+00:00",
+      "location": "Memphis, Tennessee",
+      "title": "Staff R&D Design Engineer",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Memphis-Tennessee/Staff-R-D-Design-Engineer_R566536"
+    },
     "Stryker:R566541": {
       "alerted": false,
       "first_seen": "2026-06-12T14:13:48.653496+00:00",
@@ -50109,6 +50452,13 @@
       "location": "Chandler, Arizona",
       "title": "Sorter I - 1st Shift - $20.25/hr",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Chandler-Arizona/Sorter-I---1st-Shift----2025-hr_R567495"
+    },
+    "Stryker:R567497": {
+      "alerted": false,
+      "first_seen": "2026-06-24T19:20:29.770028+00:00",
+      "location": "Jacksonville, Florida",
+      "title": "Sales Representative - Jacksonville, FL - Sports Medicine",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Jacksonville-Florida/Sales-Representative---Jacksonville--FL---Sports-Medicine_R567497"
     },
     "Stryker:R567500": {
       "alerted": false,
