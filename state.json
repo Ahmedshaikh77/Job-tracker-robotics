@@ -1803,6 +1803,13 @@
       "title": "Senior Robotics SDE III, Amazon Robotics - Vulcan",
       "url": "https://www.amazon.jobs/en/jobs/10453152/senior-robotics-sde-iii-amazon-robotics-vulcan"
     },
+    "Amazon:10454004": {
+      "alerted": false,
+      "first_seen": "2026-06-25T20:25:22.634821+00:00",
+      "location": "Austin, Texas, USA",
+      "title": "Software Development Manager, Imperium Network Traffic and Security",
+      "url": "https://www.amazon.jobs/en/jobs/10454004/software-development-manager-imperium-network-traffic-and-security"
+    },
     "Amazon:10454065": {
       "alerted": false,
       "first_seen": "2026-06-19T18:53:28.476147+00:00",
@@ -1928,6 +1935,20 @@
       "location": "Houston, Texas, USA",
       "title": "Physical AI Partner Solutions Architect, Partner & Industry Specialists",
       "url": "https://www.amazon.jobs/en/jobs/10458959/physical-ai-partner-solutions-architect-partner-industry-specialists"
+    },
+    "Amazon:10459223": {
+      "alerted": false,
+      "first_seen": "2026-06-25T20:25:22.634709+00:00",
+      "location": "Bengaluru, Karnataka, IND",
+      "title": "Software Developer - Kernel Engineer, SSG",
+      "url": "https://www.amazon.jobs/en/jobs/10459223/software-developer-kernel-engineer-ssg"
+    },
+    "Amazon:10459268": {
+      "alerted": false,
+      "first_seen": "2026-06-25T20:25:22.634894+00:00",
+      "location": "Minneapolis, Minnesota, USA",
+      "title": "Software Development Engineer II, Global Logistics Tech ",
+      "url": "https://www.amazon.jobs/en/jobs/10459268/software-development-engineer-ii-global-logistics-tech"
     },
     "Anduril:4159543007": {
       "alerted": false,
@@ -8179,6 +8200,13 @@
       "location": "Reston, Virginia, United States",
       "title": "Software Engineer, Intelligence Systems",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5064165007?gh_jid=5064165007"
+    },
+    "Anduril:5064403007": {
+      "alerted": false,
+      "first_seen": "2026-06-25T20:25:22.642799+00:00",
+      "location": "Atlanta, Georgia, United States",
+      "title": "Senior Product Sourcing Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5064403007?gh_jid=5064403007"
     },
     "Anduril:5064471007": {
       "alerted": false,
@@ -21382,6 +21410,27 @@
       "title": "Staff Software Engineer, Production Solutions",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5170942007?gh_jid=5170942007"
     },
+    "Anduril:5170993007": {
+      "alerted": false,
+      "first_seen": "2026-06-25T20:25:22.644173+00:00",
+      "location": "Fort Bragg, North Carolina, United States",
+      "title": "SIP Trainer, USASOC",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5170993007?gh_jid=5170993007"
+    },
+    "Anduril:5170995007": {
+      "alerted": false,
+      "first_seen": "2026-06-25T20:25:22.645557+00:00",
+      "location": "Seattle, Washington, United States",
+      "title": "SIP Trainer USASOC West",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5170995007?gh_jid=5170995007"
+    },
+    "Anduril:5171001007": {
+      "alerted": false,
+      "first_seen": "2026-06-25T20:25:22.644877+00:00",
+      "location": "Remote",
+      "title": "SIP Trainer, USASOC ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5171001007?gh_jid=5171001007"
+    },
     "Anduril:5171020007": {
       "alerted": false,
       "first_seen": "2026-06-24T21:00:08.207408+00:00",
@@ -21493,6 +21542,13 @@
       "location": "Abu Dhabi, United Arab Emirates",
       "title": "Trainer, Air Defense",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5171797007?gh_jid=5171797007"
+    },
+    "Anduril:5171863007": {
+      "alerted": false,
+      "first_seen": "2026-06-25T20:25:22.639527+00:00",
+      "location": "Atlanta, Georgia, United States",
+      "title": "Product Sourcing Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5171863007?gh_jid=5171863007"
     },
     "Anduril:5171883007": {
       "alerted": false,
@@ -21914,6 +21970,13 @@
       "title": "Quality Manager, Intelligence Systems",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5173482007?gh_jid=5173482007"
     },
+    "Anduril:5173511007": {
+      "alerted": false,
+      "first_seen": "2026-06-25T20:25:22.636763+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Instructional Designer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5173511007?gh_jid=5173511007"
+    },
     "Anduril:5173517007": {
       "alerted": false,
       "first_seen": "2026-06-25T01:34:59.383298+00:00",
@@ -22032,6 +22095,69 @@
       "location": "Melbourne, Victoria, Australia",
       "title": "Senior Aerodynamicist, Omen",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5174237007?gh_jid=5174237007"
+    },
+    "Anduril:5174282007": {
+      "alerted": false,
+      "first_seen": "2026-06-25T20:25:22.637453+00:00",
+      "location": "Quonset, Rhode Island, United States",
+      "title": "Materials Associate, Dive-XL",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5174282007?gh_jid=5174282007"
+    },
+    "Anduril:5174422007": {
+      "alerted": false,
+      "first_seen": "2026-06-25T20:25:22.643439+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Systems Engineer, Air Vehicle Software",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5174422007?gh_jid=5174422007"
+    },
+    "Anduril:5174434007": {
+      "alerted": false,
+      "first_seen": "2026-06-25T20:25:22.638133+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Principal Systems Engineer, Air Vehicle Software",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5174434007?gh_jid=5174434007"
+    },
+    "Anduril:5174440007": {
+      "alerted": false,
+      "first_seen": "2026-06-25T20:25:22.638830+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Principal Systems Engineer, Air Vehicle Systems",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5174440007?gh_jid=5174440007"
+    },
+    "Anduril:5174509007": {
+      "alerted": false,
+      "first_seen": "2026-06-25T20:25:22.636039+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "BOM Sourcing Engineer, Supply Chain",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5174509007?gh_jid=5174509007"
+    },
+    "Anduril:5174515007": {
+      "alerted": false,
+      "first_seen": "2026-06-25T20:25:22.640175+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Product Sourcing Engineer, Supply Chain",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5174515007?gh_jid=5174515007"
+    },
+    "Anduril:5174523007": {
+      "alerted": false,
+      "first_seen": "2026-06-25T20:25:22.641435+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior NPI Sourcing Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5174523007?gh_jid=5174523007"
+    },
+    "Anduril:5174526007": {
+      "alerted": false,
+      "first_seen": "2026-06-25T20:25:22.642085+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Product Sourcing Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5174526007?gh_jid=5174526007"
+    },
+    "Anduril:5174532007": {
+      "alerted": false,
+      "first_seen": "2026-06-25T20:25:22.640816+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior BOM Sourcing Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5174532007?gh_jid=5174532007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -30545,6 +30671,13 @@
       "title": "Senior Production Planner",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Irvine-California-United-States-of-America/Senior-Production-Planner_R68131-1"
     },
+    "Medtronic:R68137": {
+      "alerted": false,
+      "first_seen": "2026-06-25T20:25:22.635170+00:00",
+      "location": "San Isidro, Santo Domingo, Dominican Republic",
+      "title": "Quality Supervisor",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/San-Isidro-Santo-Domingo-Dominican-Republic/Quality-Supervisor_R68137-1"
+    },
     "Medtronic:R68144": {
       "alerted": false,
       "first_seen": "2026-06-04T02:00:49.723174+00:00",
@@ -30880,6 +31013,13 @@
       "location": "Alajuela Coyol, Alajuela, Costa Rica",
       "title": "Assoc Supply Chain Proj Analyst.",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Alajuela-Coyol-Alajuela-Costa-Rica/Assoc-Supply-Chain-Proj-Analyst_R68275-1"
+    },
+    "Medtronic:R68276": {
+      "alerted": false,
+      "first_seen": "2026-06-25T20:25:22.635129+00:00",
+      "location": "Plainfield, Indiana, United States of America",
+      "title": "Administrative Assistant II - Plainfield, IN",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Plainfield-Indiana-United-States-of-America/Administrative-Assistant-II---Plainfield--IN_R68276-1"
     },
     "Medtronic:R68283": {
       "alerted": false,
@@ -34759,6 +34899,20 @@
       "title": "Executive Clinical Specialist, Neurovascular - Little Rock, AR / Memphis, TN",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Memphis-Tennessee-United-States-of-America/Executive-Clinical-Specialist--Neurovascular---Little-Rock--AR---Memphis--TN_R69609"
     },
+    "Medtronic:R69610": {
+      "alerted": false,
+      "first_seen": "2026-06-25T20:25:22.635291+00:00",
+      "location": "San Isidro, Santo Domingo, Dominican Republic",
+      "title": "Tecnico Especializado en Automatizacion",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/San-Isidro-Santo-Domingo-Dominican-Republic/Tecnico-Especializado-en-Automatizacion_R69610-1"
+    },
+    "Medtronic:R69617": {
+      "alerted": false,
+      "first_seen": "2026-06-25T20:25:22.635249+00:00",
+      "location": "San Isidro, Santo Domingo, Dominican Republic",
+      "title": "Tecnico Especializado en Automatizacion",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/San-Isidro-Santo-Domingo-Dominican-Republic/Tecnico-Especializado-en-Automatizacion_R69617-1"
+    },
     "Medtronic:R69619": {
       "alerted": true,
       "first_seen": "2026-06-19T20:22:40.421983+00:00",
@@ -35893,6 +36047,13 @@
       "title": "Sr IT Technologist Site InfrSr IT Technologist Site Infrastructure & Operationsastructure & Operations",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Johannesburg-Gauteng-South-Africa/Sr-IT-Technologist-Site-InfrSr-IT-Technologist-Site-Infrastructure---Operationsastructure---Operations_R70046-2"
     },
+    "Medtronic:R70049": {
+      "alerted": false,
+      "first_seen": "2026-06-25T20:25:22.635328+00:00",
+      "location": "Brooklyn Center, Minnesota, United States of America",
+      "title": "Senior Quality Engineer",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Brooklyn-Center-Minnesota-United-States-of-America/Senior-Quality-Engineer_R70049-1"
+    },
     "Medtronic:R70050": {
       "alerted": false,
       "first_seen": "2026-06-18T14:23:07.145242+00:00",
@@ -36572,6 +36733,13 @@
       "title": "Clinical Specialist, Pelvic Health -Rochester, MN",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Rochester-Minnesota-United-States-of-America/Clinical-Specialist--Pelvic-Health--Rochester--MN_R70458-1"
     },
+    "Medtronic:R70467": {
+      "alerted": false,
+      "first_seen": "2026-06-25T20:25:22.635206+00:00",
+      "location": "Humacao, Puerto Rico, United States of America",
+      "title": "Sr Quality Engineer",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Humacao-Puerto-Rico-United-States-of-America/Sr-Quality-Engineer_R70467-1"
+    },
     "Medtronic:R70473": {
       "alerted": false,
       "first_seen": "2026-06-24T05:51:23.611146+00:00",
@@ -36747,6 +36915,13 @@
       "title": "Associate MKT Communication Specialist",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Shanghai-Shanghai-China/Associate-MKT-Communication-Specialist_R70595-1"
     },
+    "Medtronic:R70607": {
+      "alerted": false,
+      "first_seen": "2026-06-25T20:25:22.635371+00:00",
+      "location": "3 Locations",
+      "title": "Surgical Onsite Specialist - LA North",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Ventura-California-United-States-of-America/Surgical-Onsite-Specialist---LA-North_R70607-1"
+    },
     "Medtronic:R70617": {
       "alerted": false,
       "first_seen": "2026-06-25T16:05:01.555887+00:00",
@@ -36767,6 +36942,13 @@
       "location": "Juncos, Puerto Rico, United States of America",
       "title": "Mfg. Supervisor",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Juncos-Puerto-Rico-United-States-of-America/Mfg-Supervisor_R70628-2"
+    },
+    "Medtronic:R70645": {
+      "alerted": false,
+      "first_seen": "2026-06-25T20:25:22.635083+00:00",
+      "location": "Tijuana, Baja California, Mexico",
+      "title": "Packaging Engineer I.",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Tijuana-Baja-California-Mexico/Packaging-Engineer-I_R70645"
     },
     "Medtronic:R70676": {
       "alerted": false,
@@ -39399,6 +39581,13 @@
       "location": "2 Locations",
       "title": "Senior Solutions Architect, IPP",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Solutions-Architect--IPP_JR2016366"
+    },
+    "NVIDIA:JR2016388": {
+      "alerted": false,
+      "first_seen": "2026-06-25T20:25:22.634987+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Director, Product Marketing",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Director--Product-Marketing_JR2016388"
     },
     "NVIDIA:JR2016420": {
       "alerted": false,
@@ -44740,6 +44929,13 @@
       "location": "2 Locations",
       "title": "Partner Enablement Operations Specialist",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Partner-Enablement-Operations-Specialist_JR2020193"
+    },
+    "NVIDIA:JR2020198": {
+      "alerted": false,
+      "first_seen": "2026-06-25T20:25:22.635044+00:00",
+      "location": "2 Locations",
+      "title": "Senior System Engineering Program Manager \u2013 Silicon Co-design",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Engineering-Program-Manager---Silicon-Co-design_JR2020198"
     },
     "NVIDIA:JR2020234": {
       "alerted": false,
@@ -50620,6 +50816,13 @@
       "location": "Milwaukee, Wisconsin",
       "title": "Sales Representative - Wisconsin - ENT",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Milwaukee-Wisconsin/Sales-Representative---Wisconsin---ENT_R566976"
+    },
+    "Stryker:R566979": {
+      "alerted": false,
+      "first_seen": "2026-06-25T20:25:22.634945+00:00",
+      "location": "Salt Lake City, Utah",
+      "title": "Production Associate I - 1st Shift - $21.25/hr",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Salt-Lake-City-Utah/Production-Associate-I---1st-Shift----2125-hr_R566979"
     },
     "Stryker:R566983": {
       "alerted": false,
