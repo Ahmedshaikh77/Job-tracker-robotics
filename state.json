@@ -1495,6 +1495,13 @@
       "title": "Sr. Manager, Hardware Development",
       "url": "https://www.amazon.jobs/en/jobs/10443764/sr-manager-hardware-development"
     },
+    "Amazon:10443830": {
+      "alerted": false,
+      "first_seen": "2026-06-25T01:34:59.380731+00:00",
+      "location": "Bellevue, Washington, USA",
+      "title": "Software Development Engineer, AFT Fulfillment Execution Services",
+      "url": "https://www.amazon.jobs/en/jobs/10443830/software-development-engineer-aft-fulfillment-execution-services"
+    },
     "Amazon:10443854": {
       "alerted": false,
       "first_seen": "2026-06-09T18:24:05.543549+00:00",
@@ -5820,6 +5827,13 @@
       "location": "Costa Mesa, California, United States",
       "title": "CAD Design Engineer, NX/Creo/Catia & Teamcenter/Winchill",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5029084007?gh_jid=5029084007"
+    },
+    "Anduril:5029347007": {
+      "alerted": false,
+      "first_seen": "2026-06-25T01:34:59.381841+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Director of Enterprise Systems Test",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5029347007?gh_jid=5029347007"
     },
     "Anduril:5029373007": {
       "alerted": false,
@@ -21774,6 +21788,34 @@
       "title": "Director, Classified Systems Global Expansion",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5173446007?gh_jid=5173446007"
     },
+    "Anduril:5173449007": {
+      "alerted": false,
+      "first_seen": "2026-06-25T01:34:59.384126+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Director of Enterprise Systems Test",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5173449007?gh_jid=5173449007"
+    },
+    "Anduril:5173482007": {
+      "alerted": false,
+      "first_seen": "2026-06-25T01:34:59.382641+00:00",
+      "location": "Ashville, Ohio, United States",
+      "title": "Quality Manager, Intelligence Systems",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5173482007?gh_jid=5173482007"
+    },
+    "Anduril:5173517007": {
+      "alerted": false,
+      "first_seen": "2026-06-25T01:34:59.383298+00:00",
+      "location": "Huntsville, Alabama, United States",
+      "title": "Senior BOM Sourcing Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5173517007?gh_jid=5173517007"
+    },
+    "Anduril:5173520007": {
+      "alerted": false,
+      "first_seen": "2026-06-25T01:34:59.384742+00:00",
+      "location": "Huntsville, Alabama, United States",
+      "title": "Senior Procurement Engineer, Supply Chain",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5173520007?gh_jid=5173520007"
+    },
     "Apptronik:5572958004": {
       "alerted": false,
       "first_seen": "2026-06-08T14:54:52.580418+00:00",
@@ -33492,6 +33534,13 @@
       "title": "Executivo de Vendas II (Neurovascular / Curitiba)",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Curitiba-Paran-Brazil/Executivo-de-Vendas-II--Neurovascular---Curitiba-_R69286-1"
     },
+    "Medtronic:R69294": {
+      "alerted": false,
+      "first_seen": "2026-06-25T01:34:59.384881+00:00",
+      "location": "Lo Barnechea, Santiago , Chile",
+      "title": "Sr. Product Specialist Aortic, Peripheral Vascular Health & Cardiac Surgery SOLA",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lo-Barnechea-Santiago--Chile/Sr-Product-Specialist-Aortic--Peripheral-Vascular-Health---Cardiac-Surgery-SOLA_R69294-1"
+    },
     "Medtronic:R69295": {
       "alerted": false,
       "first_seen": "2026-06-10T21:33:42.574078+00:00",
@@ -34044,6 +34093,13 @@
       "location": "Ciudad Juarez, Chihuahua, Mexico",
       "title": "Supervisor Sr de Ingenieria",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Ciudad-Juarez-Chihuahua-Mexico/Supervisor-Sr-de-Ingenieria_R69490-1"
+    },
+    "Medtronic:R69497": {
+      "alerted": false,
+      "first_seen": "2026-06-25T01:34:59.384925+00:00",
+      "location": "Chia, Bogota, Colombia",
+      "title": "Asociado de Servicio T\u00e9cnico",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Chia-Bogota-Colombia/Asociado-de-Servicio-Tcnico_R69497"
     },
     "Medtronic:R69499": {
       "alerted": false,
@@ -43110,6 +43166,13 @@
       "title": "Senior Circuit Design Engineer - Power Modeling and Simulation",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Circuit-Design-Engineer---Power-Modeling-and-Simulation_JR2019679"
     },
+    "NVIDIA:JR2019683": {
+      "alerted": false,
+      "first_seen": "2026-06-25T01:34:59.380893+00:00",
+      "location": "India, Bengaluru",
+      "title": "Senior System Integration and Validation Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-System-Integration-and-Validation-Engineer_JR2019683"
+    },
     "NVIDIA:JR2019685": {
       "alerted": true,
       "first_seen": "2026-06-12T07:01:47.330965+00:00",
@@ -43670,6 +43733,20 @@
       "title": "Engineering Manager, LLM Performance",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Engineering-Manager--LLM-Performance_JR2019950"
     },
+    "NVIDIA:JR2019966": {
+      "alerted": false,
+      "first_seen": "2026-06-25T01:34:59.380932+00:00",
+      "location": "India, Bengaluru",
+      "title": "DFT Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/DFT-Engineer_JR2019966"
+    },
+    "NVIDIA:JR2019967": {
+      "alerted": false,
+      "first_seen": "2026-06-25T01:34:59.381017+00:00",
+      "location": "India, Bengaluru",
+      "title": "Senior Package Layout Engineer - Hardware",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Package-Layout-Engineer---Hardware_JR2019967-1"
+    },
     "NVIDIA:JR2019975": {
       "alerted": false,
       "first_seen": "2026-06-24T05:51:23.603323+00:00",
@@ -43796,6 +43873,13 @@
       "title": "Financial Analyst - Inventory",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Financial-Analyst---Inventory_JR2020060"
     },
+    "NVIDIA:JR2020076": {
+      "alerted": false,
+      "first_seen": "2026-06-25T01:34:59.380973+00:00",
+      "location": "India, Bengaluru",
+      "title": "Senior DFT Engineer - Hardware",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-DFT-Engineer---Hardware_JR2020076"
+    },
     "NVIDIA:JR2020105": {
       "alerted": false,
       "first_seen": "2026-06-24T19:20:29.770466+00:00",
@@ -43837,6 +43921,13 @@
       "location": "Israel, Yokneam",
       "title": "Product Engineering Change Analyst",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Product-Engineering-Change-Analyst_JR2020149"
+    },
+    "NVIDIA:JR2020168": {
+      "alerted": false,
+      "first_seen": "2026-06-25T01:34:59.380802+00:00",
+      "location": "India, Bengaluru",
+      "title": "Senior ASIC Design Engineer - XBAR IP",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-ASIC-Design-Engineer---XBAR-IP_JR2020168"
     },
     "NVIDIA:JR2020171": {
       "alerted": false,
@@ -43991,6 +44082,13 @@
       "location": "Long Island, New York",
       "title": "Sales Representative - Long Island - Hospital (Emergency Care)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Long-Island-New-York/Sales-Representative---Long-Island---Hospital--Emergency-Care-_R554296"
+    },
+    "Stryker:R554321": {
+      "alerted": false,
+      "first_seen": "2026-06-25T01:34:59.384789+00:00",
+      "location": "Tokyo, Japan",
+      "title": "Senior Manager, Commercial Solutions",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tokyo-Japan/Senior-Manager--Commercial-Solutions_R554321-5"
     },
     "Stryker:R554980": {
       "alerted": false,
