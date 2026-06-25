@@ -35907,6 +35907,13 @@
       "title": "Business Developer Surgical Robotics",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Manchester-Manchester-United-Kingdom/Business-Developer-Surgical-Robotics_R69943-1"
     },
+    "Medtronic:R69950": {
+      "alerted": true,
+      "first_seen": "2026-06-25T23:15:27.299980+00:00",
+      "location": "San Juan, Puerto Rico, United States of America",
+      "title": "Robotic Startup Spec",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/San-Juan-Puerto-Rico-United-States-of-America/Robotic-Startup-Spec_R69950-1"
+    },
     "Medtronic:R69955": {
       "alerted": false,
       "first_seen": "2026-06-19T11:45:58.605880+00:00",
@@ -44608,6 +44615,13 @@
       "title": "Senior DL Compiler Engineer -CUDA Tile",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DL-Compiler-Engineer--CUDA-Tile_JR2019866"
     },
+    "NVIDIA:JR2019867": {
+      "alerted": false,
+      "first_seen": "2026-06-25T23:15:27.299942+00:00",
+      "location": "6 Locations",
+      "title": "Senior ML Compiler Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Redmond/Senior-ML-Compiler-Engineer_JR2019867"
+    },
     "NVIDIA:JR2019870": {
       "alerted": false,
       "first_seen": "2026-06-16T22:25:08.770771+00:00",
@@ -48507,6 +48521,13 @@
       "title": "Senior Quality Compliance Specialist, Post Market",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Senior-Quality-Compliance-Specialist--Post-Market_R566107"
     },
+    "Stryker:R566108": {
+      "alerted": false,
+      "first_seen": "2026-06-25T23:15:27.299852+00:00",
+      "location": "Irvine, California",
+      "title": "Quality Control Team Lead \u2013 2nd Shift - $35.25/hr + $1.50 Shift Premium",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Irvine-California/Quality-Control-Team-Lead---2nd-Shift----3525-hr----150-Shift-Premium_R566108-1"
+    },
     "Stryker:R566111": {
       "alerted": false,
       "first_seen": "2026-06-09T16:18:25.248073+00:00",
@@ -51027,6 +51048,13 @@
       "title": "Breast Care Sales Representative - Manhattan North, NY",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/New-York-New-York-Metro-Virtual-Address/Breast-Care-Sales-Representative---Manhattan-North--NY_R566987"
     },
+    "Stryker:R566991": {
+      "alerted": false,
+      "first_seen": "2026-06-25T23:15:27.299791+00:00",
+      "location": "2 Locations",
+      "title": "Senior Manager, Downstream Marketing (hybrid)",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Bloomington-Minnesota/Senior-Manager--Downstream-Marketing--hybrid-_R566991"
+    },
     "Stryker:R566992": {
       "alerted": false,
       "first_seen": "2026-06-19T18:53:28.476191+00:00",
@@ -52804,6 +52832,13 @@
       "location": "Columbus, Ohio",
       "title": "OnSite Specialist - Columbus, Ohio",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Columbus-Ohio/OnSite-Specialist---Columbus--Ohio_R568169"
+    },
+    "Stryker:R568174": {
+      "alerted": false,
+      "first_seen": "2026-06-25T23:15:27.299902+00:00",
+      "location": "Lansing, Michigan",
+      "title": "Service Associate - Lansing, MI - Sustainability Solutions",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Lansing-Michigan/Service-Associate---Lansing--MI---Sustainability-Solutions_R568174"
     },
     "Stryker:R568198": {
       "alerted": true,
@@ -55094,6 +55129,13 @@
       "title": "Social Media and Community Manager, Waymo Rider Support",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=7851825"
     },
+    "Waymo:7851847": {
+      "alerted": false,
+      "first_seen": "2026-06-25T23:15:27.299426+00:00",
+      "location": "San Francisco, CA USA; Mountain View, CA USA",
+      "title": " Regional Fleet Readiness Manager - WEST",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=7851847"
+    },
     "Waymo:7851851": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.731789+00:00",
@@ -56395,6 +56437,20 @@
       "location": "Mountain View, California",
       "title": "Staff Software Engineer, Compute Reliability",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8027386"
+    },
+    "Waymo:8028435": {
+      "alerted": false,
+      "first_seen": "2026-06-25T23:15:27.299743+00:00",
+      "location": "San Francisco, CA, USA; Mountain View, CA, USA",
+      "title": "Senior Product Manager, Fleet Optimization",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8028435"
+    },
+    "Waymo:8028573": {
+      "alerted": false,
+      "first_seen": "2026-06-25T23:15:27.298860+00:00",
+      "location": "Mountain View, Ca, USA; San Francisco, CA, USA",
+      "title": "Depot Robotics Program Manager",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8028573"
     }
   }
 }
