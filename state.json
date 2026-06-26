@@ -37538,6 +37538,13 @@
       "title": "EP Mapping Specialist, CAS - Minneapolis, MN",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/EP-Mapping-Specialist--CAS---Minneapolis--MN_R70548-2"
     },
+    "Medtronic:R70549": {
+      "alerted": false,
+      "first_seen": "2026-06-26T21:57:38.677840+00:00",
+      "location": "Minneapolis, Minnesota, United States of America",
+      "title": "Principal Business Process Improvement Analyst, Service & Repair - Minneapolis, MN",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Principal-Business-Process-Improvement-Analyst--Service---Repair---Minneapolis--MN_R70549-2"
+    },
     "Medtronic:R70550": {
       "alerted": false,
       "first_seen": "2026-06-24T17:51:14.619379+00:00",
@@ -53421,6 +53428,13 @@
       "title": "Engineer, Research & Development",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tempe-Arizona/Engineer--Research---Development_R567540"
     },
+    "Stryker:R567541": {
+      "alerted": false,
+      "first_seen": "2026-06-26T21:57:38.676457+00:00",
+      "location": "California, Fremont 47900 Bayside Pkwy",
+      "title": "Manager, Financial Compliance (Hybrid)",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/California-Fremont-47900-Bayside-Pkwy/Manager--Financial-Compliance--Hybrid-_R567541"
+    },
     "Stryker:R567549": {
       "alerted": false,
       "first_seen": "2026-06-16T20:22:05.201452+00:00",
@@ -53974,6 +53988,13 @@
       "title": "SMART Commercial Graduate (Sales & Marketing)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Newbury-United-Kingdom/SMART-Commercial-Graduate--Sales---Marketing-_R567808"
     },
+    "Stryker:R567811": {
+      "alerted": false,
+      "first_seen": "2026-06-26T21:57:38.676387+00:00",
+      "location": "Philadelphia, Pennsylvania",
+      "title": "Clinical Specialist, Joint Replacement - Philadelphia, PA",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Philadelphia-Pennsylvania/Clinical-Specialist--Joint-Replacement---Philadelphia--PA_R567811"
+    },
     "Stryker:R567822": {
       "alerted": false,
       "first_seen": "2026-06-25T16:05:01.555653+00:00",
@@ -54176,6 +54197,13 @@
       "location": "Colorado Springs, Colorado",
       "title": "Sales Associate - Colorado Springs, CO- Sports Medicine",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Colorado-Springs-Colorado/Sales-Associate---Colorado-Springs--CO--Sports-Medicine_R568057"
+    },
+    "Stryker:R568087": {
+      "alerted": false,
+      "first_seen": "2026-06-26T21:57:38.676513+00:00",
+      "location": "Portage, Michigan",
+      "title": "Powder Coater I - Weekend Shift - $20.75/hr + $2.00/hr",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Powder-Coater-I---Weekend-Shift----2075-hr----200-hr_R568087"
     },
     "Stryker:R568088": {
       "alerted": false,
@@ -57845,6 +57873,13 @@
       "title": "Product Manager, Growth",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8027001"
     },
+    "Waymo:8027348": {
+      "alerted": false,
+      "first_seen": "2026-06-26T21:57:38.677782+00:00",
+      "location": "Mountain View, CA, USA",
+      "title": "Senior/Staff Machine Learning Engineer, Simulation Realism ",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8027348"
+    },
     "Waymo:8027386": {
       "alerted": false,
       "first_seen": "2026-06-24T22:19:56.076512+00:00",
@@ -57865,6 +57900,20 @@
       "location": "Mountain View, Ca, USA; San Francisco, CA, USA",
       "title": "Depot Robotics Program Manager",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8028573"
+    },
+    "Waymo:8029653": {
+      "alerted": false,
+      "first_seen": "2026-06-26T21:57:38.676902+00:00",
+      "location": "New York, NY, USA; Mountain View, CA, USA; San Francisco, CA, USA",
+      "title": "Event Response Global Service Delivery Lead",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8029653"
+    },
+    "Waymo:8029672": {
+      "alerted": false,
+      "first_seen": "2026-06-26T21:57:38.677409+00:00",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
+      "title": "Lead Technical Program Manager, Simulation ",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8029672"
     }
   }
 }
