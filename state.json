@@ -1957,6 +1957,13 @@
       "title": "Software Development Engineer II, Global Logistics Tech ",
       "url": "https://www.amazon.jobs/en/jobs/10459268/software-development-engineer-ii-global-logistics-tech"
     },
+    "Amazon:10459524": {
+      "alerted": false,
+      "first_seen": "2026-06-26T05:49:22.804269+00:00",
+      "location": "Bengaluru, Karnataka, IND",
+      "title": "Delivery Consultant - Databases, Professional Services",
+      "url": "https://www.amazon.jobs/en/jobs/10459524/delivery-consultant-databases-professional-services"
+    },
     "Anduril:4159543007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.742648+00:00",
@@ -8760,6 +8767,13 @@
       "location": "Quonset, Rhode Island, United States",
       "title": "Lead Manufacturing Test Technician",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5072097007?gh_jid=5072097007"
+    },
+    "Anduril:5072104007": {
+      "alerted": false,
+      "first_seen": "2026-06-26T05:49:22.806267+00:00",
+      "location": "Quonset, Rhode Island, United States",
+      "title": "Materials Supervisor, Dive-XL",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5072104007?gh_jid=5072104007"
     },
     "Anduril:5072156007": {
       "alerted": false,
@@ -22152,6 +22166,13 @@
       "title": "Senior Analyst, Government Rates",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5174079007?gh_jid=5174079007"
     },
+    "Anduril:5174099007": {
+      "alerted": false,
+      "first_seen": "2026-06-26T05:49:22.807176+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Radar Engineer, Space ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5174099007?gh_jid=5174099007"
+    },
     "Anduril:5174111007": {
       "alerted": false,
       "first_seen": "2026-06-25T21:58:00.315859+00:00",
@@ -22284,6 +22305,13 @@
       "location": "Washington, District of Columbia, United States",
       "title": "Deployment Lead, East",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5174617007?gh_jid=5174617007"
+    },
+    "Anduril:5174715007": {
+      "alerted": false,
+      "first_seen": "2026-06-26T05:49:22.805264+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Director of Technical Program Management, Space Radar",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5174715007?gh_jid=5174715007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -25364,6 +25392,13 @@
       "location": "Lafayette, Colorado, United States of America",
       "title": "Sr Regulatory Affairs Manager",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Sr-Regulatory-Affairs-Manager_R57900"
+    },
+    "Medtronic:R58122": {
+      "alerted": false,
+      "first_seen": "2026-06-26T05:49:22.808004+00:00",
+      "location": "Shanghai, Shanghai, China",
+      "title": "Admin Intern",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Shanghai-Shanghai-China/Intern--Undergrad--Non-Tech-_R58122-1"
     },
     "Medtronic:R58181": {
       "alerted": false,
@@ -35319,6 +35354,13 @@
       "title": "Engineering Tech III.",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/San-Isidro-Santo-Domingo-Dominican-Republic/Engineering-Tech-III_R69715"
     },
+    "Medtronic:R69723": {
+      "alerted": false,
+      "first_seen": "2026-06-26T05:49:22.808043+00:00",
+      "location": "Minneapolis, Minnesota, United States of America",
+      "title": "Principal Reimbursement Analyst",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Principal-Reimbursement-Analyst_R69723-2"
+    },
     "Medtronic:R69724": {
       "alerted": false,
       "first_seen": "2026-06-22T18:18:32.502883+00:00",
@@ -36593,6 +36635,13 @@
       "title": "Distribution Requirements Planner.",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Alajuela-Coyol-Alajuela-Costa-Rica/Distribution-Requirements-Planner_R70231-2"
     },
+    "Medtronic:R70249": {
+      "alerted": false,
+      "first_seen": "2026-06-26T05:49:22.808087+00:00",
+      "location": "Auckland, Auckland, New Zealand",
+      "title": "Field Service Engineer, Surgical Robotics",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Auckland-Auckland-New-Zealand/Field-Service-Engineer--Surgical-Robotics_R70249-1"
+    },
     "Medtronic:R70270": {
       "alerted": false,
       "first_seen": "2026-06-25T13:33:55.737769+00:00",
@@ -37726,6 +37775,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Senior Memory System Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Memory-System-Engineer_JR2005335"
+    },
+    "NVIDIA:JR2005417": {
+      "alerted": false,
+      "first_seen": "2026-06-26T05:49:22.807232+00:00",
+      "location": "Israel, Tel Aviv",
+      "title": "Software Manager, Cumulus Linux",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Software-Verification-Team-Manager--Networking_JR2005417"
     },
     "NVIDIA:JR2005437": {
       "alerted": false,
@@ -39764,6 +39820,13 @@
       "title": "Senior Product Development Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Product-Development-Engineer_JR2016288"
     },
+    "NVIDIA:JR2016307": {
+      "alerted": false,
+      "first_seen": "2026-06-26T05:49:22.807582+00:00",
+      "location": "China, Shanghai",
+      "title": "Senior Technical Program Manager - Automotive Vehicles",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-Technical-Program-Manager---Automotive-Vehicles_JR2016307"
+    },
     "NVIDIA:JR2016315": {
       "alerted": false,
       "first_seen": "2026-06-08T11:26:12.804396+00:00",
@@ -39861,6 +39924,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Senior Hardware Validation Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Hardware-Validation-Engineer_JR2016475-1"
+    },
+    "NVIDIA:JR2016495": {
+      "alerted": false,
+      "first_seen": "2026-06-26T05:49:22.807669+00:00",
+      "location": "Hong Kong, STP",
+      "title": "Senior Global Services Specialist, Customer Care Operations",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Hong-Kong-STP/Senior-Global-Services-Specialist--Customer-Care-Operations_JR2016495"
     },
     "NVIDIA:JR2016516": {
       "alerted": false,
@@ -42144,6 +42214,13 @@
       "title": "AI Computing Architect",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Computing-Architect_JR2018848"
     },
+    "NVIDIA:JR2018851": {
+      "alerted": false,
+      "first_seen": "2026-06-26T05:49:22.807622+00:00",
+      "location": "Korea, Seoul",
+      "title": "Deep Learning Applications Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Korea-Seoul/Deep-Learning-Applications-Engineer_JR2018851"
+    },
     "NVIDIA:JR2018854": {
       "alerted": false,
       "first_seen": "2026-06-03T18:40:18.689481+00:00",
@@ -42724,6 +42801,13 @@
       "location": "3 Locations",
       "title": "Automation Infrastructure Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Automation-Infrastructure-Engineer_JR2019117"
+    },
+    "NVIDIA:JR2019118": {
+      "alerted": false,
+      "first_seen": "2026-06-26T05:49:22.807288+00:00",
+      "location": "Taiwan, Hsinchu",
+      "title": "Senior Data Center Supplier Quality Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Senior-Data-Center-Supplier-Quality-Engineer_JR2019118"
     },
     "NVIDIA:JR2019122": {
       "alerted": false,
@@ -44244,6 +44328,13 @@
       "title": "Senior System Integration and Validation Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-System-Integration-and-Validation-Engineer_JR2019683"
     },
+    "NVIDIA:JR2019684": {
+      "alerted": false,
+      "first_seen": "2026-06-26T05:49:22.807424+00:00",
+      "location": "3 Locations",
+      "title": "NCX Engineer, AI Accelerator",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/NCX-Engineer--AI-Accelerator_JR2019684"
+    },
     "NVIDIA:JR2019685": {
       "alerted": true,
       "first_seen": "2026-06-12T07:01:47.330965+00:00",
@@ -45105,6 +45196,20 @@
       "title": "Senior Business Systems Analyst, SAP IBP",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Business-Systems-Analyst--SAP-IBP_JR2020121"
     },
+    "NVIDIA:JR2020124": {
+      "alerted": false,
+      "first_seen": "2026-06-26T05:49:22.807536+00:00",
+      "location": "China, Shanghai",
+      "title": "Applied Research Intern, Robotics - 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Applied-Research-Intern--Robotics---2026_JR2020124"
+    },
+    "NVIDIA:JR2020129": {
+      "alerted": false,
+      "first_seen": "2026-06-26T05:49:22.807481+00:00",
+      "location": "3 Locations",
+      "title": "Simulation Engineer, Industrial Physics and Robotics",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Simulation-Engineer--Industrial-Physics-and-Robotics_JR2020129-1"
+    },
     "NVIDIA:JR2020132": {
       "alerted": false,
       "first_seen": "2026-06-24T08:46:18.826453+00:00",
@@ -45188,6 +45293,13 @@
       "location": "2 Locations",
       "title": "Senior System Engineering Program Manager \u2013 Silicon Co-design",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Engineering-Program-Manager---Silicon-Co-design_JR2020198"
+    },
+    "NVIDIA:JR2020222": {
+      "alerted": false,
+      "first_seen": "2026-06-26T05:49:22.807345+00:00",
+      "location": "India, Bengaluru",
+      "title": "Architect - Performance Verification and Analysis",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Architect---Performance-Verification-and-Analysis_JR2020222"
     },
     "NVIDIA:JR2020234": {
       "alerted": false,
@@ -52574,6 +52686,69 @@
       "title": "Design Engineer / Senior Design Engineer",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Bengaluru-India/Design-Engineer---Senior-Design-Engineer_R567665"
     },
+    "Stryker:R567668": {
+      "alerted": false,
+      "first_seen": "2026-06-26T05:49:22.807789+00:00",
+      "location": "Gurugram, India",
+      "title": "Intern",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Gurugram-India/Intern_R567668"
+    },
+    "Stryker:R567672": {
+      "alerted": false,
+      "first_seen": "2026-06-26T05:49:22.807760+00:00",
+      "location": "Gurugram, India",
+      "title": "Intern",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Gurugram-India/Intern_R567672"
+    },
+    "Stryker:R567674": {
+      "alerted": false,
+      "first_seen": "2026-06-26T05:49:22.807901+00:00",
+      "location": "Gurugram, India",
+      "title": "Intern",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Gurugram-India/Intern_R567674"
+    },
+    "Stryker:R567695": {
+      "alerted": false,
+      "first_seen": "2026-06-26T05:49:22.807700+00:00",
+      "location": "Bengaluru, India",
+      "title": "Intern",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Bengaluru-India/Intern_R567695"
+    },
+    "Stryker:R567712": {
+      "alerted": false,
+      "first_seen": "2026-06-26T05:49:22.807817+00:00",
+      "location": "Gurugram, India",
+      "title": "Intern",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Gurugram-India/Intern_R567712"
+    },
+    "Stryker:R567716": {
+      "alerted": false,
+      "first_seen": "2026-06-26T05:49:22.807846+00:00",
+      "location": "Gurugram, India",
+      "title": "Intern",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Gurugram-India/Intern_R567716"
+    },
+    "Stryker:R567721": {
+      "alerted": false,
+      "first_seen": "2026-06-26T05:49:22.807730+00:00",
+      "location": "Bengaluru, India",
+      "title": "Intern",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Bengaluru-India/Intern_R567721"
+    },
+    "Stryker:R567731": {
+      "alerted": false,
+      "first_seen": "2026-06-26T05:49:22.807929+00:00",
+      "location": "Gurugram, India",
+      "title": "Intern",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Gurugram-India/Intern_R567731"
+    },
+    "Stryker:R567736": {
+      "alerted": false,
+      "first_seen": "2026-06-26T05:49:22.807874+00:00",
+      "location": "Gurugram, India",
+      "title": "Intern",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Gurugram-India/Intern_R567736"
+    },
     "Stryker:R567741": {
       "alerted": false,
       "first_seen": "2026-06-18T17:36:44.000934+00:00",
@@ -52636,6 +52811,13 @@
       "location": "Salt Lake City, Utah",
       "title": "Manager, HRBP",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Salt-Lake-City-Utah/Manager--HRBP_R567770"
+    },
+    "Stryker:R567771": {
+      "alerted": false,
+      "first_seen": "2026-06-26T05:49:22.807970+00:00",
+      "location": "Fort Lauderdale, Florida",
+      "title": "Staff Regulatory Affairs Specialist",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Fort-Lauderdale-Florida/Staff-Regulatory-Affairs-Specialist_R567771"
     },
     "Stryker:R567776": {
       "alerted": false,
