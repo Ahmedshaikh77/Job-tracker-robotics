@@ -487,6 +487,13 @@
       "title": "Buyer",
       "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6101794004"
     },
+    "Agility Robotics:6103178004": {
+      "alerted": false,
+      "first_seen": "2026-06-29T17:30:54.069929+00:00",
+      "location": "Hybrid- Fremont, CA",
+      "title": "Senior Electrical Engineer",
+      "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6103178004"
+    },
     "Amazon:10378626": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.741222+00:00",
@@ -1998,6 +2005,20 @@
       "location": "New York, New York, USA",
       "title": "Software Development Engineer, Perception, Fauna",
       "url": "https://www.amazon.jobs/en/jobs/10460002/software-development-engineer-perception-fauna"
+    },
+    "Amazon:10461317": {
+      "alerted": false,
+      "first_seen": "2026-06-29T17:30:54.073897+00:00",
+      "location": "North Reading, Massachusetts, USA",
+      "title": "Sr. Software Dev Manager",
+      "url": "https://www.amazon.jobs/en/jobs/10461317/sr-software-dev-manager"
+    },
+    "Amazon:10461318": {
+      "alerted": false,
+      "first_seen": "2026-06-29T17:30:54.073950+00:00",
+      "location": "North Reading, Massachusetts, USA",
+      "title": "Sr. Software Dev Engineer",
+      "url": "https://www.amazon.jobs/en/jobs/10461318/sr-software-dev-engineer"
     },
     "Anduril:4159543007": {
       "alerted": false,
@@ -22432,6 +22453,13 @@
       "title": "Software Engineer, Agent Platform",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5174717007?gh_jid=5174717007"
     },
+    "Anduril:5174889007": {
+      "alerted": false,
+      "first_seen": "2026-06-29T17:30:54.074804+00:00",
+      "location": "Reston, Virginia, United States",
+      "title": "Senior Insider Threat Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5174889007?gh_jid=5174889007"
+    },
     "Anduril:5174895007": {
       "alerted": false,
       "first_seen": "2026-06-26T17:21:21.822573+00:00",
@@ -25595,6 +25623,69 @@
       "location": "Budapest, Hungary",
       "title": "C++ Software Engineer, 3D Desktop Application",
       "url": "https://careers.formlabs.com/job/8034755/apply/?gh_jid=8034755"
+    },
+    "Formlabs:8036026": {
+      "alerted": false,
+      "first_seen": "2026-06-29T17:30:54.070392+00:00",
+      "location": "Somerville, MA",
+      "title": "Electrical Engineer",
+      "url": "https://careers.formlabs.com/job/8036026/apply/?gh_jid=8036026"
+    },
+    "Formlabs:8036031": {
+      "alerted": false,
+      "first_seen": "2026-06-29T17:30:54.072352+00:00",
+      "location": "Somerville, MA",
+      "title": "Senior Electrical Engineer",
+      "url": "https://careers.formlabs.com/job/8036031/apply/?gh_jid=8036031"
+    },
+    "Formlabs:8036033": {
+      "alerted": false,
+      "first_seen": "2026-06-29T17:30:54.070797+00:00",
+      "location": "Somerville, MA",
+      "title": "Electrical Engineering Manager",
+      "url": "https://careers.formlabs.com/job/8036033/apply/?gh_jid=8036033"
+    },
+    "Formlabs:8036035": {
+      "alerted": false,
+      "first_seen": "2026-06-29T17:30:54.071211+00:00",
+      "location": "Somerville, MA",
+      "title": "Mechanical Engineering Manager",
+      "url": "https://careers.formlabs.com/job/8036035/apply/?gh_jid=8036035"
+    },
+    "Formlabs:8036036": {
+      "alerted": false,
+      "first_seen": "2026-06-29T17:30:54.071571+00:00",
+      "location": "Somerville, MA",
+      "title": "R&D Engineer",
+      "url": "https://careers.formlabs.com/job/8036036/apply/?gh_jid=8036036"
+    },
+    "Formlabs:8036037": {
+      "alerted": false,
+      "first_seen": "2026-06-29T17:30:54.071961+00:00",
+      "location": "Somerville, MA",
+      "title": "Senior 3D Printing R&D Engineer",
+      "url": "https://careers.formlabs.com/job/8036037/apply/?gh_jid=8036037"
+    },
+    "Formlabs:8036051": {
+      "alerted": false,
+      "first_seen": "2026-06-29T17:30:54.072718+00:00",
+      "location": "Somerville, MA",
+      "title": "Senior Product Design Engineer",
+      "url": "https://careers.formlabs.com/job/8036051/apply/?gh_jid=8036051"
+    },
+    "Formlabs:8036067": {
+      "alerted": false,
+      "first_seen": "2026-06-29T17:30:54.073154+00:00",
+      "location": "Somerville, MA",
+      "title": "Senior Technical Program Manager",
+      "url": "https://careers.formlabs.com/job/8036067/apply/?gh_jid=8036067"
+    },
+    "Formlabs:8036068": {
+      "alerted": false,
+      "first_seen": "2026-06-29T17:30:54.073553+00:00",
+      "location": "Somerville, MA",
+      "title": "Technical Program Manager",
+      "url": "https://careers.formlabs.com/job/8036068/apply/?gh_jid=8036068"
     },
     "Medtronic:R35020": {
       "alerted": false,
@@ -30075,6 +30166,13 @@
       "location": "North Haven, Connecticut, United States of America",
       "title": "Principal Facilities Engineer",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/North-Haven-Connecticut-United-States-of-America/Principal-Facilities-Engineer_R67515-2"
+    },
+    "Medtronic:R67519": {
+      "alerted": false,
+      "first_seen": "2026-06-29T17:30:54.075025+00:00",
+      "location": "Brooklyn Center, Minnesota, United States of America",
+      "title": "Manufacturing Supervisor- 2nd Shift",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Brooklyn-Center-Minnesota-United-States-of-America/Manufacturing-Supervisor--2nd-Shift_R67519-1"
     },
     "Medtronic:R67520": {
       "alerted": false,
@@ -37888,6 +37986,13 @@
       "title": "Tecnico V",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/San-Isidro-Santo-Domingo-Dominican-Republic/Tecnico-V_R70526-1"
     },
+    "Medtronic:R70528": {
+      "alerted": false,
+      "first_seen": "2026-06-29T17:30:54.075143+00:00",
+      "location": "Cincinnati, Ohio, United States of America",
+      "title": "District Service Manager - Cardiac Rhythm Management - Cincinnati, OH",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Cincinnati-Ohio-United-States-of-America/District-Service-Manager---Cardiac-Rhythm-Management---Cincinnati--OH_R70528-1"
+    },
     "Medtronic:R70529": {
       "alerted": false,
       "first_seen": "2026-06-23T16:11:28.544977+00:00",
@@ -38042,6 +38147,13 @@
       "title": "Training Specialist _ Shanghai",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Shanghai-Shanghai-China/Training-Specialist---Shanghai_R70587-1"
     },
+    "Medtronic:R70589": {
+      "alerted": false,
+      "first_seen": "2026-06-29T17:30:54.075182+00:00",
+      "location": "Copenhagen, Hovedstaden, Denmark",
+      "title": "Territory Manager Aortic",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Copenhagen-Hovedstaden-Denmark/Territory-Manager-Aortic_R70589-1"
+    },
     "Medtronic:R70595": {
       "alerted": false,
       "first_seen": "2026-06-25T08:40:13.916042+00:00",
@@ -38076,6 +38188,13 @@
       "location": "Juncos, Puerto Rico, United States of America",
       "title": "Mfg. Supervisor",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Juncos-Puerto-Rico-United-States-of-America/Mfg-Supervisor_R70628-2"
+    },
+    "Medtronic:R70637": {
+      "alerted": false,
+      "first_seen": "2026-06-29T17:30:54.075272+00:00",
+      "location": "San Isidro, Santo Domingo, Dominican Republic",
+      "title": "Coordinador de Mantenimiento Sr",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/San-Isidro-Santo-Domingo-Dominican-Republic/Coordinador-de-Mantenimiento-Sr_R70637-1"
     },
     "Medtronic:R70640": {
       "alerted": false,
@@ -38175,12 +38294,26 @@
       "title": "Field Services Engineer III - Wisconsin (Milwaukee / Green Bay / Madison)",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/State-of-Wisconsin-United-States-of-America/Field-Services-Engineer-III---Wisconsin--Milwaukee---Green-Bay---Madison-_R70715-1"
     },
+    "Medtronic:R70722": {
+      "alerted": false,
+      "first_seen": "2026-06-29T17:30:54.075067+00:00",
+      "location": "Tianjin, Tianjin, China",
+      "title": "CAS-Technical Sales Representative-Tianjin",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Tianjin-Tianjin-China/CAS-Technical-Sales-Representative-Tianjin_R70722-1"
+    },
     "Medtronic:R70723": {
       "alerted": false,
       "first_seen": "2026-06-26T01:30:29.956253+00:00",
       "location": "Orlando, Florida, United States of America",
       "title": "Senior Clinical Specialist, Neurovascular - Orlando, FL",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Orlando-Florida-United-States-of-America/Senior-Clinical-Specialist--Neurovascular---Orlando--FL_R70723-1"
+    },
+    "Medtronic:R70730": {
+      "alerted": false,
+      "first_seen": "2026-06-29T17:30:54.075231+00:00",
+      "location": "5 Locations",
+      "title": "Senior Data Management Manager - Global Supply Management Procure to Pay",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Senior-Data-Management-Manager---Global-Supply-Management-Procure-to-Pay_R70730"
     },
     "Medtronic:R70737": {
       "alerted": false,
@@ -40205,6 +40338,13 @@
       "title": "Senior Software Engineer, Attestation Services - DGX Cloud",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Attestation-Services---DGX-Cloud_JR2014097"
     },
+    "NVIDIA:JR2014098": {
+      "alerted": false,
+      "first_seen": "2026-06-29T17:30:54.074148+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Applied Research Scientist",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Applied-Research-Scientist_JR2014098"
+    },
     "NVIDIA:JR2014177": {
       "alerted": false,
       "first_seen": "2026-06-16T20:22:05.201638+00:00",
@@ -40862,6 +41002,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Principal Software Engineer \u2014 Agentic AI Applications and Foundations",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Software-Engineer---Agentic-AI-Applications-and-Foundations_JR2015726"
+    },
+    "NVIDIA:JR2015788": {
+      "alerted": false,
+      "first_seen": "2026-06-29T17:30:54.073991+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Compute Kernel Architect, GPU Power",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Compute-Kernel-Architect--GPU-Power_JR2015788"
     },
     "NVIDIA:JR2015817": {
       "alerted": false,
@@ -41737,6 +41884,13 @@
       "location": "Denmark, Roskilde",
       "title": "System Level Testing Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Denmark-Roskilde/System-Level-Testing-Engineer_JR2017470"
+    },
+    "NVIDIA:JR2017472": {
+      "alerted": false,
+      "first_seen": "2026-06-29T17:30:54.074104+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Principal Software Engineer \u2013 GT Data",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Product-Manager--Ground-Truth-Data---Automotive_JR2017472"
     },
     "NVIDIA:JR2017475": {
       "alerted": false,
@@ -46869,6 +47023,13 @@
       "title": "Systems Software Engineer, Kubernetes Scale - DGX Cloud",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Remote/Systems-Software-Engineer--Kubernetes-Scale---DGX-Cloud_JR2020236"
     },
+    "NVIDIA:JR2020240": {
+      "alerted": false,
+      "first_seen": "2026-06-29T17:30:54.074030+00:00",
+      "location": "India, Bengaluru",
+      "title": "Senior Software Engineer, ML",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Software-Engineer--ML_JR2020240"
+    },
     "NVIDIA:JR2020259": {
       "alerted": false,
       "first_seen": "2026-06-27T00:17:04.378069+00:00",
@@ -46903,6 +47064,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Senior Financial Analyst - Software Engineering",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Financial-Analyst---Software-Engineering_JR2020287"
+    },
+    "NVIDIA:JR2020295": {
+      "alerted": false,
+      "first_seen": "2026-06-29T17:30:54.074188+00:00",
+      "location": "Korea, Seoul",
+      "title": "Developer Technology Engineer - HPC",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Korea-Seoul/Developer-Technology-Engineer---HPC_JR2020295"
     },
     "NVIDIA:JR2020303": {
       "alerted": false,
@@ -53617,6 +53785,13 @@
       "title": "Trauma Sales Representative - Tulsa, OK",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tulsa-Oklahoma/Trauma-Sales-Representative---Tulsa--OK_R567231"
     },
+    "Stryker:R567234": {
+      "alerted": false,
+      "first_seen": "2026-06-29T17:30:54.074896+00:00",
+      "location": "Portage, Michigan",
+      "title": "Associate Cycle Counter - 1st Shift - $20.75/hr",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Associate-Cycle-Counter---1st-Shift----2075-hr_R567234"
+    },
     "Stryker:R567235": {
       "alerted": false,
       "first_seen": "2026-06-17T18:05:34.823762+00:00",
@@ -54485,6 +54660,13 @@
       "title": "Clinical Specialist-Joint Replacement - St. Louis, MO",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/St-Louis-Missouri/Clinical-Specialist-Joint-Replacement---St-Louis--MO_R567625"
     },
+    "Stryker:R567626": {
+      "alerted": false,
+      "first_seen": "2026-06-29T17:30:54.074931+00:00",
+      "location": "Mahwah, New Jersey",
+      "title": "Product Manager - Hip",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Mahwah-New-Jersey/Product-Manager---Hip_R567626"
+    },
     "Stryker:R567646": {
       "alerted": false,
       "first_seen": "2026-06-24T11:31:41.182877+00:00",
@@ -55101,6 +55283,13 @@
       "title": "Project Manager - Scrum Master",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Gurugram-India/Project-Manager---Scrum-Master_R567950-2"
     },
+    "Stryker:R567952": {
+      "alerted": false,
+      "first_seen": "2026-06-29T17:30:54.074985+00:00",
+      "location": "2 Locations",
+      "title": "Przedstawiciel Handlowy/Przedstawicielka Handlowa (leczenie t\u0119tniak\u00f3w m\u00f3zgu)",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Pozna-Poland/Territory-Manager-HEM_R567952"
+    },
     "Stryker:R567959": {
       "alerted": false,
       "first_seen": "2026-06-29T11:27:23.260747+00:00",
@@ -55338,6 +55527,13 @@
       "location": "Cork, Ireland",
       "title": "Manufacturing Operator - Weekend Shift",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cork-Ireland/Manufacturing-Operator---Weekend-Shift_R568415-1"
+    },
+    "Stryker:R568426": {
+      "alerted": false,
+      "first_seen": "2026-06-29T17:30:54.074850+00:00",
+      "location": "Tulsa, Oklahoma",
+      "title": "Sales Representative - Tulsa, OK - Sports Medicine",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tulsa-Oklahoma/Sales-Representative---Tulsa--OK---Sports-Medicine_R568426"
     },
     "Waymo:6367980": {
       "alerted": false,
@@ -58964,6 +59160,13 @@
       "location": "Mountain View, CA, USA; San Francisco, CA, USA",
       "title": "Lead Technical Program Manager, Simulation ",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8029672"
+    },
+    "Waymo:8034894": {
+      "alerted": false,
+      "first_seen": "2026-06-29T17:30:54.073844+00:00",
+      "location": "Mountain View, CA, US; San Francisco, CA, US",
+      "title": "Staff Product Data Scientist, Infrastructure",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8034894"
     }
   }
 }
