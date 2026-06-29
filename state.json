@@ -22579,6 +22579,13 @@
       "title": "Staff Electrical Engineer, Space",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5175042007?gh_jid=5175042007"
     },
+    "Anduril:5175168007": {
+      "alerted": false,
+      "first_seen": "2026-06-29T23:14:00.023532+00:00",
+      "location": "Washington, District of Columbia, United States",
+      "title": "Software Engineer, Training Platform",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5175168007?gh_jid=5175168007"
+    },
     "Anduril:5175186007": {
       "alerted": false,
       "first_seen": "2026-06-26T19:11:12.210998+00:00",
@@ -38476,6 +38483,13 @@
       "title": "Surgical Conversion Specialist - Houston",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Houston-Texas-United-States-of-America/Surgical-Conversion-Specialist---Houston_R70697-1"
     },
+    "Medtronic:R70698": {
+      "alerted": false,
+      "first_seen": "2026-06-29T23:14:00.023586+00:00",
+      "location": "Manhattan, New York, United States of America",
+      "title": "Surgical Conversion Specialist - Manhattan / New York",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Manhattan-New-York-United-States-of-America/Surgical-Conversion-Specialist---Manhattan---New-York_R70698-1"
+    },
     "Medtronic:R70704": {
       "alerted": false,
       "first_seen": "2026-06-29T20:59:34.885248+00:00",
@@ -38532,6 +38546,13 @@
       "title": "Talent Management Sr Program Manager",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Talent-Management-Sr-Program-Manager_R70737-1"
     },
+    "Medtronic:R70740": {
+      "alerted": false,
+      "first_seen": "2026-06-29T23:14:00.023685+00:00",
+      "location": "Tempe, Arizona, United States of America",
+      "title": "Automation Software Engineer II - LabVIEW/TestStand",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Tempe-Arizona-United-States-of-America/Automation-Software-Engineer-II---LabVIEW-TestStand_R70740-2"
+    },
     "Medtronic:R70745": {
       "alerted": false,
       "first_seen": "2026-06-26T15:40:12.111042+00:00",
@@ -38539,12 +38560,26 @@
       "title": "Machinist lll",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Humacao-Puerto-Rico-United-States-of-America/Machinist-lll_R70745-1"
     },
+    "Medtronic:R70747": {
+      "alerted": false,
+      "first_seen": "2026-06-29T23:14:00.023636+00:00",
+      "location": "2 Locations",
+      "title": "Surgical Conversion Specialist - Washington / Southern California",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Seattle-Washington-United-States-of-America/Surgical-Conversion-Specialist---Washington---Southern-California_R70747-1"
+    },
     "Medtronic:R70752": {
       "alerted": false,
       "first_seen": "2026-06-26T19:11:12.205440+00:00",
       "location": "Memphis, Tennessee, United States of America",
       "title": "Distribution Group Lead IV",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Memphis-Tennessee-United-States-of-America/Distribution-Group-Lead-IV_R70752-2"
+    },
+    "Medtronic:R70756": {
+      "alerted": false,
+      "first_seen": "2026-06-29T23:14:00.023732+00:00",
+      "location": "2 Locations",
+      "title": "Surgical Conversion Specialist - Illinois / Minnesota",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Chicago-Illinois-United-States-of-America/Surgical-Conversion-Specialist---Illinois---Minnesota_R70756-1"
     },
     "Medtronic:R70758": {
       "alerted": false,
@@ -41955,6 +41990,13 @@
       "title": "Senior Software Engineer, DOCA SDK",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Software-Engineer--DOCA-SDK_JR2017260"
     },
+    "NVIDIA:JR2017261": {
+      "alerted": false,
+      "first_seen": "2026-06-29T23:14:00.022822+00:00",
+      "location": "3 Locations",
+      "title": "Cloud Security Architecture Lead",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Cloud-Security-Architecture-Lead_JR2017261"
+    },
     "NVIDIA:JR2017278": {
       "alerted": false,
       "first_seen": "2026-06-01T05:07:57.474404+00:00",
@@ -42892,6 +42934,13 @@
       "location": "US, CA, Remote",
       "title": "Synthetic Data Generation and User Simulation PhD Research Intern \u2014 Fall 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Data-Generation-and-User-Simulation-Research-Intern---Fall-2026_JR2018317"
+    },
+    "NVIDIA:JR2018329": {
+      "alerted": false,
+      "first_seen": "2026-06-29T23:14:00.022778+00:00",
+      "location": "3 Locations",
+      "title": "Senior Security Architect, Cloud Authentication and Authorization",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Security-Architect--Cloud-Authentication-and-Authorization_JR2018329"
     },
     "NVIDIA:JR2018339": {
       "alerted": false,
@@ -54954,6 +55003,13 @@
       "title": "OnSite Specialist - Philadelphia, PA",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Philadelphia-Pennsylvania/OnSite-Specialist---Philadelphia--PA_R567527"
     },
+    "Stryker:R567537": {
+      "alerted": false,
+      "first_seen": "2026-06-29T23:14:00.022725+00:00",
+      "location": "Texas, Flower Mound 571 Silveron Blvd",
+      "title": "Accounts Receivable Coordinator - 1st Shift (Hybrid)",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Texas-Flower-Mound-571-Silveron-Blvd/Accounts-Receivable-Coordinator---1st-Shift--Hybrid-_R567537"
+    },
     "Stryker:R567540": {
       "alerted": false,
       "first_seen": "2026-06-24T01:46:51.464376+00:00",
@@ -59692,6 +59748,13 @@
       "location": "Mountain View, California",
       "title": "Staff Software Engineer, Compute Reliability",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8027386"
+    },
+    "Waymo:8027424": {
+      "alerted": false,
+      "first_seen": "2026-06-29T23:14:00.022649+00:00",
+      "location": "Mountain View, California, United States, New York City, New York, United States",
+      "title": "Staff ML Engineer, Generative Model Performance & Efficiency",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8027424"
     },
     "Waymo:8028435": {
       "alerted": false,
