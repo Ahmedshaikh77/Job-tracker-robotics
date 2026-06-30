@@ -22943,6 +22943,13 @@
       "title": "Principal Workday Engineer, CorporateOS",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5176555007?gh_jid=5176555007"
     },
+    "Anduril:5176711007": {
+      "alerted": false,
+      "first_seen": "2026-06-30T21:10:56.501756+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Staff Technical Program Manager (US Navy)",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5176711007?gh_jid=5176711007"
+    },
     "Anduril:5176743007": {
       "alerted": false,
       "first_seen": "2026-06-30T04:37:14.032427+00:00",
@@ -23082,6 +23089,20 @@
       "location": "Boulder, Colorado, United States",
       "title": "Senior Software Engineer, Realtime Imaging",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5177318007?gh_jid=5177318007"
+    },
+    "Anduril:5177395007": {
+      "alerted": false,
+      "first_seen": "2026-06-30T21:10:56.500984+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Propulsion Engineer, Air Vehicles (Solid Rocket Motor Integration)",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5177395007?gh_jid=5177395007"
+    },
+    "Anduril:5177447007": {
+      "alerted": false,
+      "first_seen": "2026-06-30T21:10:56.502530+00:00",
+      "location": "Washington, District of Columbia, United States",
+      "title": "Staff Technical Program Manager (US Navy)",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5177447007?gh_jid=5177447007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -29354,6 +29375,13 @@
       "location": "2 Locations",
       "title": "Sr. Prin. Vascular Clinical Specialist - Panama City, FL / Dothan, AL",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/State-of-Alabama-United-States-of-America/Sr-Prin-Vascular-Clinical-Specialist---Dothan--AL_R66564-1"
+    },
+    "Medtronic:R66577": {
+      "alerted": false,
+      "first_seen": "2026-06-30T21:10:56.502917+00:00",
+      "location": "Minneapolis, Minnesota, United States of America",
+      "title": "Senior Global Demand Planning Director-Medical Surgical",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Senior-Global-Demand-Planning-Director-Medical-Surgical_R66577"
     },
     "Medtronic:R66596": {
       "alerted": false,
@@ -39330,6 +39358,27 @@
       "title": "Senior Clinical Specialist, Pain Interventions -Charlottesville/Lynchburg, VA",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Charlottesville-Virginia-United-States-of-America/Senior-Clinical-Specialist--Pain-Interventions--Charlottesville-Lynchburg--VA_R71056-1"
     },
+    "Medtronic:R71066": {
+      "alerted": false,
+      "first_seen": "2026-06-30T21:10:56.502973+00:00",
+      "location": "Alajuela Coyol, Alajuela, Costa Rica",
+      "title": "Industrial Engineering Intern \u2013 Operational Excellence (OpEx)",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Alajuela-Coyol-Alajuela-Costa-Rica/Industrial-Engineering-Intern---Operational-Excellence--OpEx-_R71066"
+    },
+    "Medtronic:R71102": {
+      "alerted": false,
+      "first_seen": "2026-06-30T21:10:56.503016+00:00",
+      "location": "Phoenix, Arizona, United States of America",
+      "title": "Vascular Senior Clinical Specialist - Phoenix, AZ",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Phoenix-Arizona-United-States-of-America/Vascular-Senior-Clinical-Specialist---Phoenix--AZ_R71102"
+    },
+    "Medtronic:R71104": {
+      "alerted": false,
+      "first_seen": "2026-06-30T21:10:56.503055+00:00",
+      "location": "Indianapolis, Indiana, United States of America",
+      "title": "Principal Sales Rep - CAS | IN",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Indianapolis-Indiana-United-States-of-America/Principal-Sales-Rep---CAS---IN_R71104-1"
+    },
     "NVIDIA:JR1968313": {
       "alerted": true,
       "first_seen": "2026-06-26T19:11:12.205321+00:00",
@@ -43305,6 +43354,13 @@
       "location": "6 Locations",
       "title": "Frontend Web Software Engineer, NGC",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Frontend-Web-Software-Engineer--NGC_JR2018074"
+    },
+    "NVIDIA:JR2018088": {
+      "alerted": false,
+      "first_seen": "2026-06-30T21:10:56.502584+00:00",
+      "location": "2 Locations",
+      "title": "Principal Software Engineer - Networking Hyperscale Engineering",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Seattle/Principal-Software-Engineer---Networking-Hyperscale-Engineering_JR2018088"
     },
     "NVIDIA:JR2018094": {
       "alerted": false,
@@ -51062,6 +51118,13 @@
       "title": "Senior Sales Representative, Sports Medicine - West Rand",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Johannesburg-South-Africa/Senior-Sales-Representative--Sports-Medicine---West-Rand_R565560"
     },
+    "Stryker:R565561": {
+      "alerted": false,
+      "first_seen": "2026-06-30T21:10:56.502717+00:00",
+      "location": "5 Locations",
+      "title": "Senior Manager - EHS (Remote)",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Michigan-Portage-1941-Stryker-Way/Senior-Manager---EHS--Remote-_R565561"
+    },
     "Stryker:R565567": {
       "alerted": false,
       "first_seen": "2026-06-02T17:03:32.354357+00:00",
@@ -55444,6 +55507,13 @@
       "title": "Sales Representative - Tucson, AZ - Sports Medicine",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tucson-Arizona/Sales-Representative---Tucson--AZ---Sports-Medicine_R567342"
     },
+    "Stryker:R567344": {
+      "alerted": false,
+      "first_seen": "2026-06-30T21:10:56.502676+00:00",
+      "location": "San Jose, California",
+      "title": "Quality Engineering Technician - 1st Shift - Pay Starting at $31.91/hr",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Jose-California/Quality-Engineering-Technician---1st-Shift---Pay-Starting-at--3191-hr_R567344"
+    },
     "Stryker:R567352": {
       "alerted": false,
       "first_seen": "2026-06-23T07:34:19.359683+00:00",
@@ -56844,6 +56914,13 @@
       "title": "Staff Engineer, Software",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Gurugram-India/Staff-Engineer--Software_R568068-1"
     },
+    "Stryker:R568073": {
+      "alerted": false,
+      "first_seen": "2026-06-30T21:10:56.502872+00:00",
+      "location": "Cleveland, Ohio",
+      "title": "Clinical Specialist, Joint Replacement - Cleveland, OH",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cleveland-Ohio/Clinical-Specialist--Joint-Replacement---Cleveland--OH_R568073"
+    },
     "Stryker:R568086": {
       "alerted": false,
       "first_seen": "2026-06-29T06:20:19.290565+00:00",
@@ -57019,6 +57096,13 @@
       "title": "OnSite Specialist - Roseville, CA",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Sacramento-California/OnSite-Specialist---Roseville--CA_R568198"
     },
+    "Stryker:R568211": {
+      "alerted": false,
+      "first_seen": "2026-06-30T21:10:56.502624+00:00",
+      "location": "Mahwah, New Jersey",
+      "title": "Engineer, Product Development",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Mahwah-New-Jersey/Engineer--Product-Development_R568211"
+    },
     "Stryker:R568214": {
       "alerted": false,
       "first_seen": "2026-06-29T20:59:34.885505+00:00",
@@ -57103,6 +57187,13 @@
       "title": "JR Sales Representative",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Rochester-New-York/JR-Sales-Representative_R568350"
     },
+    "Stryker:R568355": {
+      "alerted": false,
+      "first_seen": "2026-06-30T21:10:56.502826+00:00",
+      "location": "District of Columbia, Washington",
+      "title": "OnSite Specialist- Falls Church, VA (overnight)",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/District-of-Columbia-Washington/OnSite-Specialist--Falls-Church--VA--overnight-_R568355"
+    },
     "Stryker:R568415": {
       "alerted": false,
       "first_seen": "2026-06-29T11:27:23.260709+00:00",
@@ -57123,6 +57214,13 @@
       "location": "4 Locations",
       "title": "Regional Sales Manager - North Los Angeles, San Fernando Valley, Central Valley CA - Peripheral Vascular",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Los-Angeles-California/Regional-Sales-Manager---North-Los-Angeles--San-Fernando-Valley--Central-Valley-CA---Peripheral-Vascular_R568445"
+    },
+    "Stryker:R568532": {
+      "alerted": false,
+      "first_seen": "2026-06-30T21:10:56.502775+00:00",
+      "location": "Skawina, Poland",
+      "title": "Engineering Intern - Product Transfer",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Skawina-Poland/Engineering-Intern---Product-Transfer_R568532"
     },
     "Waymo:6367980": {
       "alerted": false,
