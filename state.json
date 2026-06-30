@@ -2034,6 +2034,13 @@
       "title": "Software Dev Engineer II, Alexa for Shopping",
       "url": "https://www.amazon.jobs/en/jobs/10461544/software-dev-engineer-ii-alexa-for-shopping"
     },
+    "Amazon:10461906": {
+      "alerted": false,
+      "first_seen": "2026-06-30T04:37:14.028876+00:00",
+      "location": "Sunnyvale, California, USA",
+      "title": "Sr. Applied Scientist, Fauna",
+      "url": "https://www.amazon.jobs/en/jobs/10461906/sr-applied-scientist-fauna"
+    },
     "Anduril:4159543007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.742648+00:00",
@@ -22740,6 +22747,13 @@
       "title": "Micro-electronics Technician",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5175825007?gh_jid=5175825007"
     },
+    "Anduril:5175833007": {
+      "alerted": false,
+      "first_seen": "2026-06-30T04:37:14.031836+00:00",
+      "location": "Washington, District of Columbia, United States",
+      "title": "Senior Manager, M&A People Integration",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5175833007?gh_jid=5175833007"
+    },
     "Anduril:5175836007": {
       "alerted": false,
       "first_seen": "2026-06-27T07:28:57.567251+00:00",
@@ -22830,6 +22844,34 @@
       "location": "Costa Mesa, California, United States",
       "title": "Principal Workday Engineer, CorporateOS",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5176555007?gh_jid=5176555007"
+    },
+    "Anduril:5176743007": {
+      "alerted": false,
+      "first_seen": "2026-06-30T04:37:14.032427+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Product Sourcing Engineer, Autonomous Airpower",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5176743007?gh_jid=5176743007"
+    },
+    "Anduril:5176745007": {
+      "alerted": false,
+      "first_seen": "2026-06-30T04:37:14.031105+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Product Sourcing Engineer, Autonomous Airpower",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5176745007?gh_jid=5176745007"
+    },
+    "Anduril:5176751007": {
+      "alerted": false,
+      "first_seen": "2026-06-30T04:37:14.029859+00:00",
+      "location": "Boston, Massachusetts, United States; Costa Mesa, California, United States",
+      "title": "Mission Software Engineer, Vehicle Software, Communications",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5176751007?gh_jid=5176751007"
+    },
+    "Anduril:5176752007": {
+      "alerted": false,
+      "first_seen": "2026-06-30T04:37:14.030501+00:00",
+      "location": "Boston, Massachusetts, United States; Costa Mesa, California, United States",
+      "title": "Mission Software Engineer, Vehicle Software, Consensus",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5176752007?gh_jid=5176752007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -29025,6 +29067,13 @@
       "location": "Petaling Jaya, Selangor, Malaysia",
       "title": "Sales Representative  II",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Petaling-Jaya-Selangor-Malaysia/Sales-Representative--II_R66603-1"
+    },
+    "Medtronic:R66609": {
+      "alerted": false,
+      "first_seen": "2026-06-30T04:37:14.032513+00:00",
+      "location": "Nanakramguda, Hyderabad, India",
+      "title": "Senior Quality Engineer",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Senior-Quality-Engineer_R66609-2"
     },
     "Medtronic:R66624": {
       "alerted": false,
@@ -37181,6 +37230,13 @@
       "title": "238040 - Assembler I",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Ho-Chi-Minh-City-Ho-Chi-Minh-City-Vietnam/XMLNAME-238040---Assembler-I_R70025-1"
     },
+    "Medtronic:R70032": {
+      "alerted": false,
+      "first_seen": "2026-06-30T04:37:14.032595+00:00",
+      "location": "Nanjing, Jiangsu, China",
+      "title": "Key Account Rep Reg/Ctry",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Nanjing-Jiangsu-China/Key-Account-Rep-Reg-Ctry_R70032-2"
+    },
     "Medtronic:R70033": {
       "alerted": false,
       "first_seen": "2026-06-22T02:37:33.150068+00:00",
@@ -38679,6 +38735,13 @@
       "title": "Manufacturing Director",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Tijuana-Baja-California-Mexico/Manufacturing-Director_R70834-1"
     },
+    "Medtronic:R70843": {
+      "alerted": false,
+      "first_seen": "2026-06-30T04:37:14.032640+00:00",
+      "location": "Houston, Texas, United States of America",
+      "title": "Clinical Specialist, Pain Interventions - Houston, TX",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Houston-Texas-United-States-of-America/Clinical-Specialist--Pain-Interventions---Houston--TX_R70843-1"
+    },
     "Medtronic:R70852": {
       "alerted": false,
       "first_seen": "2026-06-27T00:17:04.378335+00:00",
@@ -38700,12 +38763,26 @@
       "title": "238040 - Assembler I",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Ho-Chi-Minh-City-Ho-Chi-Minh-City-Vietnam/XMLNAME-238040---Assembler-I_R70865-1"
     },
+    "Medtronic:R70877": {
+      "alerted": false,
+      "first_seen": "2026-06-30T04:37:14.032556+00:00",
+      "location": "Kaohsiung, Kaohsiung, Taiwan",
+      "title": "Structure Heart_Territory Specialist_South",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Kaohsiung-Kaohsiung-Taiwan/Structure-Heart-Territory-Specialist-South_R70877-1"
+    },
     "Medtronic:R70884": {
       "alerted": false,
       "first_seen": "2026-06-29T11:27:23.261239+00:00",
       "location": "Tokyo, Tokyo, Japan",
       "title": "Robotic Startup Spec",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Tokyo-Tokyo-Japan/Robotic-Startup-Specialist--Surgical---Tokyo-_R70884-2"
+    },
+    "Medtronic:R70898": {
+      "alerted": false,
+      "first_seen": "2026-06-30T04:37:14.032473+00:00",
+      "location": "Hong Kong, Hong Kong",
+      "title": "Clinical Trainee, Neuroscience",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Hong-Kong-Hong-Kong/Clinical-Trainee--Neuroscience_R70898"
     },
     "Medtronic:R70916": {
       "alerted": false,
@@ -39021,6 +39098,13 @@
       "location": "Israel, Yokneam",
       "title": "High Speed Optical Transceiver Design Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/High-Speed-Optical-Transceiver-Design-Engineer_JR2000089"
+    },
+    "NVIDIA:JR2000097": {
+      "alerted": false,
+      "first_seen": "2026-06-30T04:37:14.029112+00:00",
+      "location": "2 Locations",
+      "title": "Senior Software Engineer, DOCA",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Raanana/Senior-Software-Engineer--DOCA_JR2000097"
     },
     "NVIDIA:JR2000295": {
       "alerted": false,
@@ -43866,6 +43950,13 @@
       "title": "Senior Technical Product Marketing Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Product-Marketing-Engineer_JR2018791"
     },
+    "NVIDIA:JR2018792": {
+      "alerted": false,
+      "first_seen": "2026-06-30T04:37:14.029207+00:00",
+      "location": "3 Locations",
+      "title": "Rebates Program Manager",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Rebates-Program-Manager_JR2018792"
+    },
     "NVIDIA:JR2018796": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.745704+00:00",
@@ -47380,6 +47471,13 @@
       "title": "Partner Enablement Operations Specialist",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Partner-Enablement-Operations-Specialist_JR2020193"
     },
+    "NVIDIA:JR2020194": {
+      "alerted": false,
+      "first_seen": "2026-06-30T04:37:14.029252+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Technical Program Manager, DGX Cloud",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager--DGX-Cloud_JR2020194"
+    },
     "NVIDIA:JR2020198": {
       "alerted": false,
       "first_seen": "2026-06-25T20:25:22.635044+00:00",
@@ -47625,6 +47723,13 @@
       "title": "Senior ASIC Hardware Design Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Beer-Sheva/Senior-ASIC-Hardware-Design-Engineer_JR2020435-1"
     },
+    "NVIDIA:JR2020524": {
+      "alerted": false,
+      "first_seen": "2026-06-30T04:37:14.029169+00:00",
+      "location": "3 Locations",
+      "title": "Senior Systems Software Engineer, Accelerated Kubernetes Performance and Scale - DGX Cloud",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer--Accelerated-Kubernetes-Performance-and-Scale---DGX-Cloud_JR2020524-1"
+    },
     "NVIDIA:JR2020535": {
       "alerted": false,
       "first_seen": "2026-06-29T19:21:47.955975+00:00",
@@ -47862,6 +47967,13 @@
       "location": "Petaling Jaya, Malaysia",
       "title": "Senior / Sales Specialist, MedSurg",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Petaling-Jaya-Malaysia/Senior---Sales-Specialist--MedSurg_R556390"
+    },
+    "Stryker:R556488": {
+      "alerted": false,
+      "first_seen": "2026-06-30T04:37:14.028945+00:00",
+      "location": "Petaling Jaya, Malaysia",
+      "title": "Business Development Manager, Neurovascular",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Petaling-Jaya-Malaysia/Business-Development-Manager--Neurovascular_R556488-1"
     },
     "Stryker:R556563": {
       "alerted": false,
@@ -48415,6 +48527,13 @@
       "location": "2 Locations",
       "title": "Ing\u00e9nieur d'application Medtech - Mako product specialist - Metz/Nancy (H/F)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Nancy-France/Ingnieur-d-application-Medtech---Mako-product-specialist---Metz-Nancy--H-F-_R561290"
+    },
+    "Stryker:R561364": {
+      "alerted": false,
+      "first_seen": "2026-06-30T04:37:14.028990+00:00",
+      "location": "Tokyo, Japan",
+      "title": "Senior Specialist, Ortho Supply Planning",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tokyo-Japan/Senior-Specialist--Ortho-Supply-Planning_R561364-4"
     },
     "Stryker:R561381": {
       "alerted": false,
@@ -55016,6 +55135,13 @@
       "location": "4 Locations",
       "title": "Program Manager, RAQA",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/New-Jersey-Virtual-Address/Program-Manager--RAQA_R567518"
+    },
+    "Stryker:R567521": {
+      "alerted": false,
+      "first_seen": "2026-06-30T04:37:14.029065+00:00",
+      "location": "Redmond, Washington",
+      "title": "Associate Supervisor, Quality Control",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Redmond-Washington/Associate-Supervisor--Quality-Control_R567521"
     },
     "Stryker:R567522": {
       "alerted": false,
