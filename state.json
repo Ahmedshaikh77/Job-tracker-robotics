@@ -2083,6 +2083,20 @@
       "title": "Software Development Engineer, Amazon Fulfillment Technologies (AFT)  - Platform Engineering & Services",
       "url": "https://www.amazon.jobs/en/jobs/10463884/software-development-engineer-amazon-fulfillment-technologies-aft-platform-engineering-services"
     },
+    "Amazon:10464290": {
+      "alerted": false,
+      "first_seen": "2026-07-01T22:16:22.636992+00:00",
+      "location": "Bellevue, Washington, USA",
+      "title": "Manager, Hardware Development",
+      "url": "https://www.amazon.jobs/en/jobs/10464290/manager-hardware-development"
+    },
+    "Amazon:10464304": {
+      "alerted": false,
+      "first_seen": "2026-07-01T22:16:22.637059+00:00",
+      "location": "San Francisco, California, USA",
+      "title": "Builder Acceleration Engineer, Fauna",
+      "url": "https://www.amazon.jobs/en/jobs/10464304/builder-acceleration-engineer-fauna"
+    },
     "Anduril:4159543007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.742648+00:00",
@@ -23713,6 +23727,27 @@
       "title": "Senior Government Property Manager, Arsenal-1",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5178471007?gh_jid=5178471007"
     },
+    "Anduril:5178559007": {
+      "alerted": false,
+      "first_seen": "2026-07-01T22:16:22.638791+00:00",
+      "location": "McHenry, Mississippi, United States",
+      "title": "Quality Specialist, Rocket Motor Systems ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5178559007?gh_jid=5178559007"
+    },
+    "Anduril:5178575007": {
+      "alerted": false,
+      "first_seen": "2026-07-01T22:16:22.640746+00:00",
+      "location": "McHenry, Mississippi, United States",
+      "title": "Supplier Quality Engineering, Rocket Motor Systems",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5178575007?gh_jid=5178575007"
+    },
+    "Anduril:5178591007": {
+      "alerted": false,
+      "first_seen": "2026-07-01T22:16:22.639645+00:00",
+      "location": "McHenry, Mississippi, United States",
+      "title": "Senior Quality Engineer, Rocket Motor Systems ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5178591007?gh_jid=5178591007"
+    },
     "Apptronik:5572958004": {
       "alerted": false,
       "first_seen": "2026-06-08T14:54:52.580418+00:00",
@@ -32631,6 +32666,13 @@
       "title": "Cardiac Surgery ECT Sales Rep - Los Angeles",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Los-Angeles-California-United-States-of-America/Cardiac-Surgery-ECT-Sales-Rep---Los-Angeles_R67967-1"
     },
+    "Medtronic:R67968": {
+      "alerted": false,
+      "first_seen": "2026-07-01T22:16:22.637671+00:00",
+      "location": "Phoenix, Arizona, United States of America",
+      "title": "Sr Specialty Therapy Manager CRM - Phoenix",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Phoenix-Arizona-United-States-of-America/Sr-Specialty-Therapy-Manager-CRM---Phoenix_R67968-2"
+    },
     "Medtronic:R67970": {
       "alerted": false,
       "first_seen": "2026-06-02T17:03:32.356018+00:00",
@@ -35654,6 +35696,13 @@
       "location": "Miami, Florida, United States of America",
       "title": "Vascular Sales Rep. - Miami",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Miami-Florida-United-States-of-America/Vascular-Sales-Rep---Miami_R69005-1"
+    },
+    "Medtronic:R69006": {
+      "alerted": false,
+      "first_seen": "2026-07-01T22:16:22.637629+00:00",
+      "location": "Bogot\u00e1, Bogota, Colombia",
+      "title": "Senior Financial Analyst",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Bogot-Bogota-Colombia/Senior-Financial-Analyst_R69006-1"
     },
     "Medtronic:R69007": {
       "alerted": false,
@@ -39862,6 +39911,13 @@
       "title": "Tecnico V",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/San-Isidro-Santo-Domingo-Dominican-Republic/Tecnico-V_R70526-1"
     },
+    "Medtronic:R70527": {
+      "alerted": false,
+      "first_seen": "2026-07-01T22:16:22.637452+00:00",
+      "location": "Phoenix, Arizona, United States of America",
+      "title": "Principal Clinical Specialist, SVI - Phoenix, AZ",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Phoenix-Arizona-United-States-of-America/Principal-Clinical-Specialist--SVI---Phoenix--AZ_R70527-1"
+    },
     "Medtronic:R70528": {
       "alerted": false,
       "first_seen": "2026-06-29T17:30:54.075143+00:00",
@@ -40618,12 +40674,26 @@
       "title": "Senior Clinical Specialist, Pain Interventions -Charlottesville/Lynchburg, VA",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Charlottesville-Virginia-United-States-of-America/Senior-Clinical-Specialist--Pain-Interventions--Charlottesville-Lynchburg--VA_R71056-1"
     },
+    "Medtronic:R71064": {
+      "alerted": false,
+      "first_seen": "2026-07-01T22:16:22.637498+00:00",
+      "location": "Minneapolis, Minnesota, United States of America",
+      "title": "Senior CRM Specialty Territory Manager - Minneapolis, MN",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Senior-CRM-Specialty-Territory-Manager---Minneapolis--MN_R71064-1"
+    },
     "Medtronic:R71066": {
       "alerted": false,
       "first_seen": "2026-06-30T21:10:56.502973+00:00",
       "location": "Alajuela Coyol, Alajuela, Costa Rica",
       "title": "Industrial Engineering Intern \u2013 Operational Excellence (OpEx)",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Alajuela-Coyol-Alajuela-Costa-Rica/Industrial-Engineering-Intern---Operational-Excellence--OpEx-_R71066"
+    },
+    "Medtronic:R71077": {
+      "alerted": false,
+      "first_seen": "2026-07-01T22:16:22.637722+00:00",
+      "location": "York, Pennsylvania, United States of America",
+      "title": "Associate Clinical Specialist - Cardiac Rhythm Management (CRM) - York, PA",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/York-Pennsylvania-United-States-of-America/Associate-Clinical-Specialist---Cardiac-Rhythm-Management--CRM----York--PA_R71077-1"
     },
     "Medtronic:R71102": {
       "alerted": false,
@@ -40688,6 +40758,13 @@
       "title": "Associate Mapping Specialist (In Training)",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Daytona-Florida-United-States-of-America/Associate-Mapping-Specialist--In-Training-_R71214-1"
     },
+    "Medtronic:R71229": {
+      "alerted": false,
+      "first_seen": "2026-07-01T22:16:22.637590+00:00",
+      "location": "2 Locations",
+      "title": "Associate Territory Manager 2, Neurovascular - Washington DC",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/District-of-Columbia-United-States-of-America/Associate-Territory-Manager-2--Neurovascular---Washington-DC_R71229-1"
+    },
     "Medtronic:R71237": {
       "alerted": false,
       "first_seen": "2026-07-01T20:58:09.025493+00:00",
@@ -40695,12 +40772,26 @@
       "title": "Sales Representative I, Spine - San Antonio, TX",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/San-Antonio-Texas-United-States-of-America/Sales-Representative-I--Spine---San-Antonio--TX_R71237-1"
     },
+    "Medtronic:R71239": {
+      "alerted": false,
+      "first_seen": "2026-07-01T22:16:22.637543+00:00",
+      "location": "Raleigh, North Carolina, United States of America",
+      "title": "Associate Territory Manager 2, Neurovascular - Raleigh, NC",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Raleigh-North-Carolina-United-States-of-America/Associate-Territory-Manager-2--Neurovascular---Raleigh--NC_R71239-1"
+    },
     "Medtronic:R71247": {
       "alerted": false,
       "first_seen": "2026-07-01T20:58:09.025448+00:00",
       "location": "Mounds View, Minnesota, United States of America",
       "title": "Strategy and Partnership Program Manager",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Strategy-and-Partnership-Program-Manager_R71247-1"
+    },
+    "Medtronic:R71264": {
+      "alerted": false,
+      "first_seen": "2026-07-01T22:16:22.637408+00:00",
+      "location": "Nashville, Tennessee, United States of America",
+      "title": "Sr. Principal Coronary Cathworks Territory Manager - Nashville, TN",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Nashville-Tennessee-United-States-of-America/Sr-Principal-Coronary-Cathworks-Territory-Manager---Nashville--TN_R71264-1"
     },
     "NVIDIA:JR1968313": {
       "alerted": true,
@@ -57775,6 +57866,13 @@
       "title": "OnSite Specialist - Lowell, MA",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Boston-Massachusetts/OnSite-Specialist---Lowell--MA_R567503"
     },
+    "Stryker:R567504": {
+      "alerted": false,
+      "first_seen": "2026-07-01T22:16:22.637216+00:00",
+      "location": "Chandler, Arizona",
+      "title": "Cleaner I - 1st Shift- $20.25/hr",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Chandler-Arizona/Cleaner-I---1st-Shift---2025-hr_R567504"
+    },
     "Stryker:R567510": {
       "alerted": false,
       "first_seen": "2026-06-25T16:05:01.555735+00:00",
@@ -57970,6 +58068,13 @@
       "location": "2 Locations",
       "title": "Clinical Specialist, Joint Replacement - Portland, OR",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portland-Oregon/Clinical-Specialist--Joint-Replacement---Portland--OR_R567611"
+    },
+    "Stryker:R567614": {
+      "alerted": false,
+      "first_seen": "2026-07-01T22:16:22.637357+00:00",
+      "location": "Phoenix, Arizona",
+      "title": "Medical Device Driver - 1st Shift - $22.10/hr",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Phoenix-Arizona/Medical-Device-Driver---1st-Shift----2210-hr_R567614"
     },
     "Stryker:R567619": {
       "alerted": false,
@@ -58572,6 +58677,13 @@
       "location": "Fort Worth, Texas",
       "title": "OnSite Specialist - Ft Worth, TX",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Fort-Worth-Texas/OnSite-Specialist---Ft-Worth--TX_R567840-1"
+    },
+    "Stryker:R567855": {
+      "alerted": false,
+      "first_seen": "2026-07-01T22:16:22.637266+00:00",
+      "location": "Chandler, Arizona",
+      "title": "Cleaner I \u2013 1st Shift - $20.25/hr",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Chandler-Arizona/Cleaner-I---1st-Shift----2025-hr_R567855"
     },
     "Stryker:R567861": {
       "alerted": false,
@@ -59273,6 +59385,13 @@
       "title": "Field Clinical Specialist - Dallas, TX - Peripheral Vascular",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Dallas-Texas/Field-Clinical-Specialist---Dallas--TX---Peripheral-Vascular_R568297"
     },
+    "Stryker:R568304": {
+      "alerted": false,
+      "first_seen": "2026-07-01T22:16:22.637116+00:00",
+      "location": "Chandler, Arizona",
+      "title": "Cleaner I - 2nd Shift - $20.25/hr + $1.00 Shift Premium",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Chandler-Arizona/Cleaner-I---2nd-Shift----2025-hr----100-Shift-Premium_R568304"
+    },
     "Stryker:R568344": {
       "alerted": false,
       "first_seen": "2026-06-30T15:43:07.513562+00:00",
@@ -59314,6 +59433,13 @@
       "location": "2 Locations",
       "title": "Trauma Sales Representative, Manhattan/Queens, NY",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/New-York-New-York/Trauma-Sales-Representative--Manhattan-Queens--NY_R568377"
+    },
+    "Stryker:R568381": {
+      "alerted": false,
+      "first_seen": "2026-07-01T22:16:22.637310+00:00",
+      "location": "California, Monterey Park 525 Monterey Pass Road",
+      "title": "Field Inventory Associate",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/California-Monterey-Park-525-Monterey-Pass-Road/Field-Inventory-Associate_R568381-1"
     },
     "Stryker:R568382": {
       "alerted": true,
@@ -59419,6 +59545,13 @@
       "location": "District of Columbia, Washington",
       "title": "Team Lead, OnSite Operations- Fairfax, VA",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/District-of-Columbia-Washington/Team-Lead--OnSite-Operations--Fairfax--VA_R568490"
+    },
+    "Stryker:R568509": {
+      "alerted": false,
+      "first_seen": "2026-07-01T22:16:22.637169+00:00",
+      "location": "West Palm Beach, Florida",
+      "title": "Clinical Specialist, Joint Replacement  - West Palm Beach, FL",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/West-Palm-Beach-Florida/Clinical-Specialist--Joint-Replacement----West-Palm-Beach--FL_R568509"
     },
     "Stryker:R568511": {
       "alerted": false,
@@ -63178,6 +63311,13 @@
       "location": "Mountain View, California, USA; San Francisco, California; USA; Pittsburg Pennsylvania, USA",
       "title": " Software Engineer, Planner (L4)",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8039191"
+    },
+    "Waymo:8042365": {
+      "alerted": true,
+      "first_seen": "2026-07-01T22:16:22.636853+00:00",
+      "location": "Mountain View, Ca, USA ; Novi, Mi, USA",
+      "title": "Automotive HVAC Systems Engineer",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8042365"
     }
   }
 }
