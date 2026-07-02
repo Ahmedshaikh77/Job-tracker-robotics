@@ -522,6 +522,13 @@
       "title": "Manager, Logistics",
       "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6105210004"
     },
+    "Agility Robotics:6105233004": {
+      "alerted": false,
+      "first_seen": "2026-07-02T18:45:47.323534+00:00",
+      "location": "Hybrid- Fremont, CA",
+      "title": "Staff HiL SW Infrastructure Engineer",
+      "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6105233004"
+    },
     "Agility Robotics:6107280004": {
       "alerted": false,
       "first_seen": "2026-07-02T17:08:57.842582+00:00",
@@ -2117,6 +2124,20 @@
       "location": "San Francisco, California, USA",
       "title": "Principal Applied Scientist, Devices-Emerging Products, Amazon Devices - Emerging Products",
       "url": "https://www.amazon.jobs/en/jobs/10464866/principal-applied-scientist-devices-emerging-products-amazon-devices-emerging-products"
+    },
+    "Amazon:10465009": {
+      "alerted": true,
+      "first_seen": "2026-07-02T18:45:47.323613+00:00",
+      "location": "Seattle, Washington, USA",
+      "title": "Applied Scientist III \u2014 Robotics & Physical AI, Autonomous Lab, WW Sustainability",
+      "url": "https://www.amazon.jobs/en/jobs/10465009/applied-scientist-iii-robotics-physical-ai-autonomous-lab-ww-sustainability"
+    },
+    "Amazon:10465058": {
+      "alerted": true,
+      "first_seen": "2026-07-02T18:45:47.323682+00:00",
+      "location": "Bellevue, Washington, USA",
+      "title": "Software Development Engineer II, Robotics Development and Packaging Innovation",
+      "url": "https://www.amazon.jobs/en/jobs/10465058/software-development-engineer-ii-robotics-development-and-packaging-innovation"
     },
     "Anduril:4159543007": {
       "alerted": false,
@@ -21823,6 +21844,13 @@
       "title": "Senior Tax Analyst",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5170849007?gh_jid=5170849007"
     },
+    "Anduril:5170863007": {
+      "alerted": false,
+      "first_seen": "2026-07-02T18:45:47.325219+00:00",
+      "location": "Costa Mesa, California, United States; Washington, District of Columbia, United States",
+      "title": "Senior Director, Business Development, Precision Engagement Systems",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5170863007?gh_jid=5170863007"
+    },
     "Anduril:5170871007": {
       "alerted": false,
       "first_seen": "2026-06-22T21:15:33.149708+00:00",
@@ -23083,6 +23111,13 @@
       "title": "Engineering Test Technician",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5176060007?gh_jid=5176060007"
     },
+    "Anduril:5176254007": {
+      "alerted": false,
+      "first_seen": "2026-07-02T18:45:47.324478+00:00",
+      "location": "Costa Mesa, California, United States; Irvine, California, United States; Santa Ana, California, United States",
+      "title": "2026 Early Career Manufacturing Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5176254007?gh_jid=5176254007"
+    },
     "Anduril:5176316007": {
       "alerted": false,
       "first_seen": "2026-06-30T17:28:59.691223+00:00",
@@ -24000,6 +24035,13 @@
       "title": "Senior Procurement Engineer, Supply Chain",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5179198007?gh_jid=5179198007"
     },
+    "Anduril:5179260007": {
+      "alerted": false,
+      "first_seen": "2026-07-02T18:45:47.325927+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Electrical Engineer, Circuit Design",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5179260007?gh_jid=5179260007"
+    },
     "Apptronik:5572958004": {
       "alerted": false,
       "first_seen": "2026-06-08T14:54:52.580418+00:00",
@@ -24363,6 +24405,13 @@
       "location": "Austin, TX",
       "title": "Principal Electrical Engineer - Compute and Sensing ",
       "url": "https://boards.greenhouse.io/apptronik/jobs/5981006004?gh_jid=5981006004"
+    },
+    "Apptronik:5985132004": {
+      "alerted": false,
+      "first_seen": "2026-07-02T18:45:47.322845+00:00",
+      "location": "Austin, TX",
+      "title": "Robotics Software Intern \u2013 Real-Time Controls",
+      "url": "https://boards.greenhouse.io/apptronik/jobs/5985132004?gh_jid=5985132004"
     },
     "Apptronik:5985499004": {
       "alerted": false,
@@ -36355,6 +36404,13 @@
       "title": "Sales Representative  III - Neuroscience & ENT",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Colombo-Basnhira-pata-Sri-Lanka/Sales-Representative--III_R69077-2"
     },
+    "Medtronic:R69078": {
+      "alerted": false,
+      "first_seen": "2026-07-02T18:45:47.326123+00:00",
+      "location": "Irvine, California, United States of America",
+      "title": "Director, Medical Education US - NV - Irvine, CA (Onsite)",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Irvine-California-United-States-of-America/Director--Medical-Education-US---NV---Irvine--CA--Onsite--or-Remote-within-US_R69078-1"
+    },
     "Medtronic:R69084": {
       "alerted": false,
       "first_seen": "2026-06-15T18:12:10.799028+00:00",
@@ -40863,6 +40919,13 @@
       "title": "Senior Clinical Specialist, Neurovascular - Orlando, FL",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Orlando-Florida-United-States-of-America/Senior-Clinical-Specialist--Neurovascular---Orlando--FL_R70723-1"
     },
+    "Medtronic:R70728": {
+      "alerted": false,
+      "first_seen": "2026-07-02T18:45:47.325980+00:00",
+      "location": "2 Locations",
+      "title": "Principal Manufacturing Engineer - OEE/SPC",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Principal-Manufacturing-Engineer---OEE-SPC_R70728"
+    },
     "Medtronic:R70730": {
       "alerted": false,
       "first_seen": "2026-06-29T17:30:54.075231+00:00",
@@ -41241,6 +41304,13 @@
       "title": "Sr. Principal Vascular Clinical Specialist",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Cincinnati-Ohio-United-States-of-America/Sr-Principal-Vascular-Clinical-Specialist_R71052-2"
     },
+    "Medtronic:R71053": {
+      "alerted": false,
+      "first_seen": "2026-07-02T18:45:47.326029+00:00",
+      "location": "Columbia, South Carolina, United States of America",
+      "title": "Senior Sales Representative - Pelvic Health- Columbia, SC",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Columbia-South-Carolina-United-States-of-America/Senior-Sales-Representative---Pelvic-Health--Columbia--SC_R71053-1"
+    },
     "Medtronic:R71056": {
       "alerted": false,
       "first_seen": "2026-06-30T15:43:07.513730+00:00",
@@ -41310,6 +41380,13 @@
       "location": "St. Louis, Missouri, United States of America",
       "title": "Sales Representative I, Spine - St Louis, MO",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/St-Louis-Missouri-United-States-of-America/Sales-Representative-I--Spine---St-Louis--MO_R71123-1"
+    },
+    "Medtronic:R71126": {
+      "alerted": false,
+      "first_seen": "2026-07-02T18:45:47.326076+00:00",
+      "location": "Myrtle Beach, South Carolina, United States of America",
+      "title": "Senior Clinical Specialist Pelvic Health- Myrtle Beach. SC",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Myrtle-Beach-South-Carolina-United-States-of-America/Senior-Clinical-Specialist-Pelvic-Health--Myrtle-Beach-SC_R71126-1"
     },
     "Medtronic:R71130": {
       "alerted": false,
@@ -50887,6 +50964,13 @@
       "title": "Manager, Software Engineering - Production AI Inference",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--Software-Engineering---Production-AI-Inference_JR2020451"
     },
+    "NVIDIA:JR2020452": {
+      "alerted": false,
+      "first_seen": "2026-07-02T18:45:47.323868+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Director, Carline Program Management - Autonomous Vehicles",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director--Carline-Program-Management---Autonomous-Vehicles_JR2020452"
+    },
     "NVIDIA:JR2020462": {
       "alerted": false,
       "first_seen": "2026-07-01T13:15:12.804824+00:00",
@@ -51104,6 +51188,13 @@
       "title": "Senior Technical Program Manager, AI",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager--AI_JR2020645"
     },
+    "NVIDIA:JR2020665": {
+      "alerted": false,
+      "first_seen": "2026-07-02T18:45:47.323783+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Software Engineer, Low Latency Physical AI Sensor Systems",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Low-Latency-Physical-AI-Sensor-Systems_JR2020665"
+    },
     "NVIDIA:JR2020671": {
       "alerted": false,
       "first_seen": "2026-07-02T17:08:57.842785+00:00",
@@ -51138,6 +51229,13 @@
       "location": "2 Locations",
       "title": "Technical Marketing Engineer \u2014 CUDA-Q Developer Enablement",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Marketing-Engineer---CUDA-Q-Developer-Enablement_JR2020731"
+    },
+    "NVIDIA:JR2020740": {
+      "alerted": false,
+      "first_seen": "2026-07-02T18:45:47.323734+00:00",
+      "location": "2 Locations",
+      "title": "Senior Software Engineer, Infrastructure and Tooling Lead - Automation",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Infrastructure-and-Tooling-Lead---Automation_JR2020740-1"
     },
     "NVIDIA:JR2020764": {
       "alerted": false,
