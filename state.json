@@ -19856,6 +19856,13 @@
       "title": "Senior Mission Software Engineer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5161099007?gh_jid=5161099007"
     },
+    "Anduril:5161108007": {
+      "alerted": false,
+      "first_seen": "2026-07-02T05:44:37.031369+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Mission Software Engineer, EW",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5161108007?gh_jid=5161108007"
+    },
     "Anduril:5161115007": {
       "alerted": false,
       "first_seen": "2026-06-10T16:51:28.410663+00:00",
@@ -23727,6 +23734,20 @@
       "title": "Senior Government Property Manager, Arsenal-1",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5178471007?gh_jid=5178471007"
     },
+    "Anduril:5178534007": {
+      "alerted": false,
+      "first_seen": "2026-07-02T05:44:37.030643+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Lead Mission Software Engineer, EW",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5178534007?gh_jid=5178534007"
+    },
+    "Anduril:5178546007": {
+      "alerted": false,
+      "first_seen": "2026-07-02T05:44:37.033571+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Mission Software Engineer, EW",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5178546007?gh_jid=5178546007"
+    },
     "Anduril:5178559007": {
       "alerted": false,
       "first_seen": "2026-07-01T22:16:22.638791+00:00",
@@ -23775,6 +23796,41 @@
       "location": "Lexington, Massachusetts, United States",
       "title": "Director, Supply Chain",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5178818007?gh_jid=5178818007"
+    },
+    "Anduril:5178849007": {
+      "alerted": false,
+      "first_seen": "2026-07-02T05:44:37.032773+00:00",
+      "location": "Waltham, Massachusetts, United States",
+      "title": "Senior Director, Production Operations - Imaging",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5178849007?gh_jid=5178849007"
+    },
+    "Anduril:5178850007": {
+      "alerted": false,
+      "first_seen": "2026-07-02T05:44:37.029803+00:00",
+      "location": "Waltham, Massachusetts, United States",
+      "title": "Head of Production, Imaging",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5178850007?gh_jid=5178850007"
+    },
+    "Anduril:5178869007": {
+      "alerted": false,
+      "first_seen": "2026-07-02T05:44:37.029054+00:00",
+      "location": "Hudson, New Hampshire, United States",
+      "title": "Engineering Technician, Vacuum & Cryogenic Systems",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5178869007?gh_jid=5178869007"
+    },
+    "Anduril:5178870007": {
+      "alerted": false,
+      "first_seen": "2026-07-02T05:44:37.032008+00:00",
+      "location": "Hudson, New Hampshire, United States",
+      "title": "Process Technician",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5178870007?gh_jid=5178870007"
+    },
+    "Anduril:5178871007": {
+      "alerted": false,
+      "first_seen": "2026-07-02T05:44:37.028370+00:00",
+      "location": "Lexington, Massachusetts, United States",
+      "title": "Camera Test Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5178871007?gh_jid=5178871007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -29375,6 +29431,13 @@
       "location": "San Francisco, California, United States of America",
       "title": "Clinical Specialist, Pelvic Health - San Francisco",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/San-Francisco-California-United-States-of-America/Clinical-Specialist--Pelvic-Health---San-Francisco_R65612-1"
+    },
+    "Medtronic:R65625": {
+      "alerted": false,
+      "first_seen": "2026-07-02T05:44:37.033622+00:00",
+      "location": "Melbourne, Victoria, Australia",
+      "title": "Territory Manager - Coronary and Renal Denervation",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Melbourne-Victoria-Australia/Territory-Manager---Coronary-and-Renal-Denervation_R65625-1"
     },
     "Medtronic:R65636": {
       "alerted": false,
@@ -40072,6 +40135,13 @@
       "title": "Sr. Principal Coronary Cathworks Territory Manager -  South NJ",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/New-Brunswick-New-Jersey-United-States-of-America/Sr-Principal-Coronary-Cathworks-Territory-Manager----South-NJ_R70561-1"
     },
+    "Medtronic:R70564": {
+      "alerted": false,
+      "first_seen": "2026-07-02T05:44:37.033668+00:00",
+      "location": "Beijing, Beijing, China",
+      "title": "CRM_CIED_Technical Sales Representative_Beijing",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Beijing-Beijing-China/CRM-CIED-Technical-Sales-Representative-Beijing_R70564-1"
+    },
     "Medtronic:R70565": {
       "alerted": false,
       "first_seen": "2026-06-29T11:27:23.261305+00:00",
@@ -50383,6 +50453,13 @@
       "title": "Technical Marketing Engineer \u2014 CUDA-Q Developer Enablement",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Marketing-Engineer---CUDA-Q-Developer-Enablement_JR2020731"
     },
+    "NVIDIA:JR2020781": {
+      "alerted": false,
+      "first_seen": "2026-07-02T05:44:37.027541+00:00",
+      "location": "2 Locations",
+      "title": "System Software Engineer, SOC, New College Graduate",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer--SOC--New-College-Graduate_JR2020781"
+    },
     "Stryker:R498593": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.741260+00:00",
@@ -52965,6 +53042,13 @@
       "location": "Durham, North Carolina",
       "title": "Lead Technician, Quality Control - 1st Shift - $32.20/hr",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Durham-North-Carolina/Lead-Technician--Quality-Control---1st-Shift----3220-hr_R565446-1"
+    },
+    "Stryker:R565454": {
+      "alerted": false,
+      "first_seen": "2026-07-02T05:44:37.027490+00:00",
+      "location": "Auckland, New Zealand",
+      "title": "Field Service Engineer",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Auckland-New-Zealand/Field-Service-Engineer_R565454"
     },
     "Stryker:R565459": {
       "alerted": false,
@@ -58985,6 +59069,13 @@
       "location": "Gurugram, India",
       "title": "Quality Engineer/ Senior Quality Engineer",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Gurugram-India/Quality-Engineer--Senior-Quality-Engineer_R567947"
+    },
+    "Stryker:R567948": {
+      "alerted": false,
+      "first_seen": "2026-07-02T05:44:37.027425+00:00",
+      "location": "Kanagawa, Japan",
+      "title": "Territory Manager, NSE Shutoken/Kanto",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Kanagawa-Japan/Territory-Manager--NSE-Shutoken-Kanto_R567948"
     },
     "Stryker:R567950": {
       "alerted": false,
