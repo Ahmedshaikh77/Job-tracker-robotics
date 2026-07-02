@@ -24140,6 +24140,13 @@
       "title": "Senior Software Engineer, Cryptography",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5179636007?gh_jid=5179636007"
     },
+    "Anduril:5179637007": {
+      "alerted": false,
+      "first_seen": "2026-07-02T22:31:15.541944+00:00",
+      "location": "Remote",
+      "title": "Technical Recruiter, Production (Contract)",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5179637007?gh_jid=5179637007"
+    },
     "Anduril:5179641007": {
       "alerted": false,
       "first_seen": "2026-07-02T21:21:24.100420+00:00",
@@ -28990,6 +28997,13 @@
       "location": "3 Locations",
       "title": "Therapy Development Specialist, Pelvic Health - San Francisco, CA",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/San-Francisco-California-United-States-of-America/Therapy-Development-Specialist--Pelvic-Health---San-Francisco--CA_R64042-1"
+    },
+    "Medtronic:R64045": {
+      "alerted": true,
+      "first_seen": "2026-07-02T22:31:15.542178+00:00",
+      "location": "Mounds View, Minnesota, United States of America",
+      "title": "Reliability Engineer II - Hardware / Electrical",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Reliability-Engineer-II_R64045-1"
     },
     "Medtronic:R64058": {
       "alerted": false,
@@ -37370,6 +37384,13 @@
       "title": "Remote Sales Representative",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Heerlen-Limburg-Netherlands/Remote-Sales-Representative_R69350-1"
     },
+    "Medtronic:R69353": {
+      "alerted": false,
+      "first_seen": "2026-07-02T22:31:15.542090+00:00",
+      "location": "Heerlen, Limburg, Netherlands",
+      "title": "Remote Sales Representative Nordics, Greece and Israel",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Heerlen-Limburg-Netherlands/Remote-Sales-Representative-Nordics--Greece-and-Israel_R69353-1"
+    },
     "Medtronic:R69356": {
       "alerted": false,
       "first_seen": "2026-06-25T11:20:29.597146+00:00",
@@ -41696,6 +41717,13 @@
       "title": "Assembler I",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Ho-Chi-Minh-City-Ho-Chi-Minh-City-Vietnam/Assembler-I_R71283-1"
     },
+    "Medtronic:R71326": {
+      "alerted": false,
+      "first_seen": "2026-07-02T22:31:15.542217+00:00",
+      "location": "Lafayette, Colorado, United States of America",
+      "title": "Senior Product Engineer",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Senior-Product-Engineer_R71326-1"
+    },
     "Medtronic:R71327": {
       "alerted": false,
       "first_seen": "2026-07-02T21:21:24.104406+00:00",
@@ -41723,6 +41751,27 @@
       "location": "Pensacola, Florida, United States of America",
       "title": "Cardiac Rhythm Management Associate Clinical Specialist",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Pensacola-Florida-United-States-of-America/Cardiac-Rhythm-Management-Associate-Clinical-Specialist_R71363-1"
+    },
+    "Medtronic:R71381": {
+      "alerted": false,
+      "first_seen": "2026-07-02T22:31:15.542130+00:00",
+      "location": "18 Locations",
+      "title": "EP Mapping Specialist - CAS",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Bay-Area-California-United-States-of-America/EP-Mapping-Specialist---CAS_R71381-1"
+    },
+    "Medtronic:R71383": {
+      "alerted": false,
+      "first_seen": "2026-07-02T22:31:15.542041+00:00",
+      "location": "9 Locations",
+      "title": "Senior EP Mapping Specialist - CAS",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/San-Francisco-California-United-States-of-America/Senior-EP-Mapping-Specialist---CAS_R71383-1"
+    },
+    "Medtronic:R71384": {
+      "alerted": false,
+      "first_seen": "2026-07-02T22:31:15.541998+00:00",
+      "location": "18 Locations",
+      "title": "Principal EP Mapping Specialist - CAS",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Santa-Rosa-California-United-States-of-America/Principal-EP-Mapping-Specialist---CAS_R71384-1"
     },
     "NVIDIA:JR1968313": {
       "alerted": true,
@@ -46463,6 +46512,13 @@
       "title": "Senior Program Manager, Enterprise AI Software",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Program-Manager--Enterprise-AI-Software_JR2018491"
     },
+    "NVIDIA:JR2018496": {
+      "alerted": false,
+      "first_seen": "2026-07-02T22:31:15.540531+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Network Engineer, System Verification",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Network-Engineer--System-Verification_JR2018496"
+    },
     "NVIDIA:JR2018499": {
       "alerted": false,
       "first_seen": "2026-06-08T11:26:12.803993+00:00",
@@ -50347,6 +50403,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Director, Technical Program Management - Software",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director--Technical-Program-Management---Software_JR2020014"
+    },
+    "NVIDIA:JR2020017": {
+      "alerted": false,
+      "first_seen": "2026-07-02T22:31:15.540600+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Principal Engineer, AI Tooling and Workflows",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Engineer--AI-Tooling-and-Workflows_JR2020017"
     },
     "NVIDIA:JR2020019": {
       "alerted": false,
