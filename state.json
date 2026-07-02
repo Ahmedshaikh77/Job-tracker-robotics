@@ -22656,6 +22656,13 @@
       "title": "Program Manager, Advanced Threat Simulation (Active Clearance)",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5174111007?gh_jid=5174111007"
     },
+    "Anduril:5174179007": {
+      "alerted": false,
+      "first_seen": "2026-07-02T20:08:26.982024+00:00",
+      "location": "Quonset, Rhode Island, United States",
+      "title": "Manufacturing Test Technician, Dive-XL",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5174179007?gh_jid=5174179007"
+    },
     "Anduril:5174237007": {
       "alerted": false,
       "first_seen": "2026-06-25T18:21:34.737154+00:00",
@@ -23180,6 +23187,13 @@
       "location": "Costa Mesa, California, United States",
       "title": "Creative Operations Manager, Environmental Design",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5176659007?gh_jid=5176659007"
+    },
+    "Anduril:5176673007": {
+      "alerted": false,
+      "first_seen": "2026-07-02T20:08:26.983372+00:00",
+      "location": "San Clemente, California, United States",
+      "title": "Senior Test Pilot",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5176673007?gh_jid=5176673007"
     },
     "Anduril:5176707007": {
       "alerted": false,
@@ -24041,6 +24055,20 @@
       "location": "Costa Mesa, California, United States",
       "title": "Senior Electrical Engineer, Circuit Design",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5179260007?gh_jid=5179260007"
+    },
+    "Anduril:5179537007": {
+      "alerted": false,
+      "first_seen": "2026-07-02T20:08:26.981368+00:00",
+      "location": "Lexington, Massachusetts, United States",
+      "title": "Electrical Hardware Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5179537007?gh_jid=5179537007"
+    },
+    "Anduril:5179540007": {
+      "alerted": false,
+      "first_seen": "2026-07-02T20:08:26.982757+00:00",
+      "location": "Lexington, Massachusetts, United States",
+      "title": "Mechanical Designer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5179540007?gh_jid=5179540007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -40247,6 +40275,13 @@
       "title": "Clinical Specialist Cardiac Rhythm Management - Bismark, ND",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Bismarck-North-Dakota-United-States-of-America/Clinical-Specialist-Cardiac-Rhythm-Management---Bismark--ND_R70407-1"
     },
+    "Medtronic:R70409": {
+      "alerted": false,
+      "first_seen": "2026-07-02T20:08:26.983579+00:00",
+      "location": "Los Angeles, California, United States of America",
+      "title": "Clinical Specialist CRM - Downtown LA / Downey",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Los-Angeles-California-United-States-of-America/Clinical-Specialist-CRM---Downtown-LA---Downey_R70409-1"
+    },
     "Medtronic:R70410": {
       "alerted": false,
       "first_seen": "2026-06-24T17:51:14.619582+00:00",
@@ -41248,6 +41283,13 @@
       "title": "Market Development Consultant - SE, Aortic",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Nashville-Tennessee-United-States-of-America/Market-Development-Consultant---SE--Aortic_R70981"
     },
+    "Medtronic:R70982": {
+      "alerted": false,
+      "first_seen": "2026-07-02T20:08:26.983536+00:00",
+      "location": "Detroit, Michigan, United States of America",
+      "title": "Sr. Vascular Sales Rep - Detroit",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Detroit-Michigan-United-States-of-America/Sr-Vascular-Sales-Rep---Detroit_R70982"
+    },
     "Medtronic:R70983": {
       "alerted": false,
       "first_seen": "2026-06-30T13:17:59.745675+00:00",
@@ -41345,6 +41387,34 @@
       "location": "York, Pennsylvania, United States of America",
       "title": "Associate Clinical Specialist - Cardiac Rhythm Management (CRM) - York, PA",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/York-Pennsylvania-United-States-of-America/Associate-Clinical-Specialist---Cardiac-Rhythm-Management--CRM----York--PA_R71077-1"
+    },
+    "Medtronic:R71083": {
+      "alerted": false,
+      "first_seen": "2026-07-02T20:08:26.983702+00:00",
+      "location": "Brampton, Ontario, Canada",
+      "title": "Sr Regulatory Affairs Specialist",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Brampton-Ontario-Canada/Sr-Regulatory-Affairs-Specialist_R71083-1"
+    },
+    "Medtronic:R71088": {
+      "alerted": false,
+      "first_seen": "2026-07-02T20:08:26.983743+00:00",
+      "location": "Brampton, Ontario, Canada",
+      "title": "Regulatory Affairs Specialist",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Brampton-Ontario-Canada/Regulatory-Affairs-Specialist_R71088"
+    },
+    "Medtronic:R71096": {
+      "alerted": false,
+      "first_seen": "2026-07-02T20:08:26.983497+00:00",
+      "location": "District of Columbia, United States of America",
+      "title": "Vascular Clinical Specialist",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/District-of-Columbia-United-States-of-America/Vascular-Clinical-Specialist_R71096-1"
+    },
+    "Medtronic:R71098": {
+      "alerted": false,
+      "first_seen": "2026-07-02T20:08:26.983416+00:00",
+      "location": "District of Columbia, United States of America",
+      "title": "Sr. Principal Vascular Clinical Specialist",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/District-of-Columbia-United-States-of-America/Sr-Principal-Vascular-Clinical-Specialist_R71098-1"
     },
     "Medtronic:R71102": {
       "alerted": false,
@@ -41458,6 +41528,13 @@
       "title": "Associate Territory Manager 2, Neurovascular - Washington DC",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/District-of-Columbia-United-States-of-America/Associate-Territory-Manager-2--Neurovascular---Washington-DC_R71229-1"
     },
+    "Medtronic:R71233": {
+      "alerted": false,
+      "first_seen": "2026-07-02T20:08:26.983634+00:00",
+      "location": "Minneapolis, Minnesota, United States of America",
+      "title": "Principal Operations Improvement Analyst, Service & Repair \u2013 Minneapolis, MN",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Principal-Operations-Improvement-Analyst--Service---Repair---Minneapolis--MN_R71233-1"
+    },
     "Medtronic:R71237": {
       "alerted": false,
       "first_seen": "2026-07-01T20:58:09.025493+00:00",
@@ -41513,6 +41590,13 @@
       "location": "Ho Chi Minh City, Ho Chi Minh City, Vietnam",
       "title": "Assembler I",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Ho-Chi-Minh-City-Ho-Chi-Minh-City-Vietnam/Assembler-I_R71283-1"
+    },
+    "Medtronic:R71333": {
+      "alerted": false,
+      "first_seen": "2026-07-02T20:08:26.983460+00:00",
+      "location": "Boston, Massachusetts, United States of America",
+      "title": "Sr. Principal Vascular Clinical Specialist - Boston",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Boston-Massachusetts-United-States-of-America/Sr-Principal-Vascular-Clinical-Specialist---Boston_R71333-1"
     },
     "NVIDIA:JR1968313": {
       "alerted": true,
@@ -42087,6 +42171,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Firmware PHY Customer Success Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Firmware-Design-Engineer_JR2003355"
+    },
+    "NVIDIA:JR2003377": {
+      "alerted": false,
+      "first_seen": "2026-07-02T20:08:26.980551+00:00",
+      "location": "2 Locations",
+      "title": "Senior Developer Relations Manager - Higher Education and Research",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Developer-Relations-Manager--Telecom_JR2003377"
     },
     "NVIDIA:JR2003384": {
       "alerted": false,
@@ -44328,6 +44419,13 @@
       "title": "Senior Solutions Architect, Ethernet Networking \u2013 NPN",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Solutions-Architect--Ethernet-Networking---NPN_JR2015940"
     },
+    "NVIDIA:JR2015949": {
+      "alerted": false,
+      "first_seen": "2026-07-02T20:08:26.980723+00:00",
+      "location": "US, MA, Westford",
+      "title": "Software Engineer - DPU Platform",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Software-Engineer---DPU-Platform_JR2015949-1"
+    },
     "NVIDIA:JR2015953": {
       "alerted": false,
       "first_seen": "2026-06-14T21:37:23.289646+00:00",
@@ -45286,6 +45384,13 @@
       "location": "3 Locations",
       "title": "Senior Solutions Architect, Generative AI - AI Models and Systems at NVAITC",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Remote/Senior-Solutions-Architect--Generative-AI---AI-Models-and-Systems-at-NVAITC_JR2017602"
+    },
+    "NVIDIA:JR2017604": {
+      "alerted": false,
+      "first_seen": "2026-07-02T20:08:26.980478+00:00",
+      "location": "US, CA, Remote",
+      "title": "Software Engineer, NVIDIA OpenShell",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Software-Engineer--NVIDIA-OpenShell_JR2017604"
     },
     "NVIDIA:JR2017605": {
       "alerted": false,
@@ -50971,6 +51076,13 @@
       "title": "Director, Carline Program Management - Autonomous Vehicles",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director--Carline-Program-Management---Autonomous-Vehicles_JR2020452"
     },
+    "NVIDIA:JR2020453": {
+      "alerted": false,
+      "first_seen": "2026-07-02T20:08:26.980603+00:00",
+      "location": "4 Locations",
+      "title": "Vice President, Product Management - Agentic AI Security",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Vice-President--Product-Management---Agentic-AI-Security_JR2020453"
+    },
     "NVIDIA:JR2020462": {
       "alerted": false,
       "first_seen": "2026-07-01T13:15:12.804824+00:00",
@@ -51188,6 +51300,13 @@
       "title": "Senior Technical Program Manager, AI",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager--AI_JR2020645"
     },
+    "NVIDIA:JR2020662": {
+      "alerted": false,
+      "first_seen": "2026-07-02T20:08:26.980768+00:00",
+      "location": "2 Locations",
+      "title": "Developer Relations Manager, Energy Startups",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Relations-Manager--Energy-Startups_JR2020662-1"
+    },
     "NVIDIA:JR2020665": {
       "alerted": false,
       "first_seen": "2026-07-02T18:45:47.323783+00:00",
@@ -51257,6 +51376,13 @@
       "location": "2 Locations",
       "title": "System Software Engineer, SOC, New College Graduate",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer--SOC--New-College-Graduate_JR2020781"
+    },
+    "NVIDIA:JR2020813": {
+      "alerted": false,
+      "first_seen": "2026-07-02T20:08:26.980674+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Hardware Design Validation Engineer - Memory Subsystem",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Hardware-Design-Validation-Engineer---Memory-Subsystem_JR2020813"
     },
     "Stryker:R498593": {
       "alerted": false,
