@@ -24182,6 +24182,13 @@
       "title": "Senior Software Engineer, Radar",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5179751007?gh_jid=5179751007"
     },
+    "Anduril:5179756007": {
+      "alerted": false,
+      "first_seen": "2026-07-03T01:14:59.144291+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Digital Hardware Engineering Lead",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5179756007?gh_jid=5179756007"
+    },
     "Apptronik:5572958004": {
       "alerted": false,
       "first_seen": "2026-06-08T14:54:52.580418+00:00",
@@ -28045,6 +28052,13 @@
       "location": "Brampton, Ontario, Canada",
       "title": "Sr. Product Specialist - CAS",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Brampton-Ontario-Canada/Sr-Product-Specialist---CAS_R60761-1"
+    },
+    "Medtronic:R60802": {
+      "alerted": false,
+      "first_seen": "2026-07-03T01:14:59.144426+00:00",
+      "location": "Tokyo, Tokyo, Japan",
+      "title": "Clinical Research Spec",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Tokyo-Tokyo-Japan/Clinical-Research-Specialist--CRMS---Tokyo-_R60802-1"
     },
     "Medtronic:R60860": {
       "alerted": false,
@@ -41675,6 +41689,13 @@
       "title": "Associate Mapping Specialist (In Training)",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Daytona-Florida-United-States-of-America/Associate-Mapping-Specialist--In-Training-_R71214-1"
     },
+    "Medtronic:R71221": {
+      "alerted": false,
+      "first_seen": "2026-07-03T01:14:59.144563+00:00",
+      "location": "Charleston, South Carolina, United States of America",
+      "title": "Clinical Specialist, Pain Interventions - Charleston, SC",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Charleston-South-Carolina-United-States-of-America/Clinical-Specialist--Pain-Interventions---Charleston--SC_R71221-1"
+    },
     "Medtronic:R71223": {
       "alerted": false,
       "first_seen": "2026-07-02T23:40:04.611509+00:00",
@@ -41765,6 +41786,20 @@
       "location": "St. Louis, Missouri, United States of America",
       "title": "Clinical Specialist, Pain Interventions - St. Louis, MO",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/St-Louis-Missouri-United-States-of-America/Clinical-Specialist--Pain-Interventions---St-Louis--MO_R71308-1"
+    },
+    "Medtronic:R71317": {
+      "alerted": false,
+      "first_seen": "2026-07-03T01:14:59.144519+00:00",
+      "location": "Augusta, Georgia, United States of America",
+      "title": "Clinical Specialist, Pain Interventions - Augusta, GA",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Augusta-Georgia-United-States-of-America/Clinical-Specialist--Pain-Interventions---Augusta--GA_R71317-1"
+    },
+    "Medtronic:R71318": {
+      "alerted": false,
+      "first_seen": "2026-07-03T01:14:59.144475+00:00",
+      "location": "Charlotte, North Carolina, United States of America",
+      "title": "Clinical Specialist, Pain Interventions - Hickory / Western, NC",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Charlotte-North-Carolina-United-States-of-America/Clinical-Specialist--Pain-Interventions---Hickory---Western--NC_R71318-1"
     },
     "Medtronic:R71326": {
       "alerted": false,
@@ -49298,6 +49333,13 @@
       "title": "Solutions Architect, Industry Accounts",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Remote/Solutions-Architect--Industry-Accounts_JR2019541"
     },
+    "NVIDIA:JR2019549": {
+      "alerted": false,
+      "first_seen": "2026-07-03T01:14:59.143581+00:00",
+      "location": "2 Locations",
+      "title": "Chip Design Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Chip-Design-Engineer_JR2019549"
+    },
     "NVIDIA:JR2019551": {
       "alerted": false,
       "first_seen": "2026-06-12T07:01:47.330881+00:00",
@@ -50558,6 +50600,13 @@
       "title": "Technical Product Manager \u2013 Digital Health",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Product-Manager---Digital-Health_JR2020066"
     },
+    "NVIDIA:JR2020069": {
+      "alerted": false,
+      "first_seen": "2026-07-03T01:14:59.143493+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Developer Relations Manager, Digital Health AI Research",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Developer-Relations-Manager--Digital-Health-AI-Research_JR2020069"
+    },
     "NVIDIA:JR2020070": {
       "alerted": false,
       "first_seen": "2026-07-02T11:12:02.808648+00:00",
@@ -51398,6 +51447,13 @@
       "title": "QA and Automation Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Raanana/QA-and-Automation-Engineer_JR2020508"
     },
+    "NVIDIA:JR2020515": {
+      "alerted": false,
+      "first_seen": "2026-07-03T01:14:59.143419+00:00",
+      "location": "4 Locations",
+      "title": "Senior Customer Success Manager",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-DC-Remote/Senior-Customer-Success-Manager_JR2020515"
+    },
     "NVIDIA:JR2020523": {
       "alerted": false,
       "first_seen": "2026-07-02T17:08:57.843156+00:00",
@@ -51545,6 +51601,13 @@
       "title": "Senior Software Engineer, RAG and Agentic AI",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Software-Engineer--RAG-and-Agentic-AI_JR2020624"
     },
+    "NVIDIA:JR2020634": {
+      "alerted": false,
+      "first_seen": "2026-07-03T01:14:59.143542+00:00",
+      "location": "4 Locations",
+      "title": "Solutions Architect - NVIDIA Cloud Partners",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Solutions-Architect---NVIDIA-Cloud-Partners_JR2020634"
+    },
     "NVIDIA:JR2020636": {
       "alerted": false,
       "first_seen": "2026-07-02T11:12:02.808773+00:00",
@@ -51580,6 +51643,13 @@
       "title": "Senior Software Engineer, Low Latency Physical AI Sensor Systems",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Low-Latency-Physical-AI-Sensor-Systems_JR2020665"
     },
+    "NVIDIA:JR2020670": {
+      "alerted": false,
+      "first_seen": "2026-07-03T01:14:59.143665+00:00",
+      "location": "4 Locations",
+      "title": "NVIS Knowledge Management Program Manager",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Remote/NVIS-Knowledge-Management-Program-Manager_JR2020670"
+    },
     "NVIDIA:JR2020671": {
       "alerted": false,
       "first_seen": "2026-07-02T17:08:57.842785+00:00",
@@ -51594,12 +51664,26 @@
       "title": "Senior Software Development Engineer in Test - SDET",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Vietnam-Ho-Chi-Minh-City/Senior-Software-Development-Engineer-in-Test---SDET_JR2020685"
     },
+    "NVIDIA:JR2020710": {
+      "alerted": false,
+      "first_seen": "2026-07-03T01:14:59.143713+00:00",
+      "location": "5 Locations",
+      "title": "Senior Solutions Architect, NVIDIA Cloud Partners - Telco",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Solutions-Architect--NVIDIA-Cloud-Partners---Telco_JR2020710"
+    },
     "NVIDIA:JR2020717": {
       "alerted": false,
       "first_seen": "2026-07-01T19:23:21.037776+00:00",
       "location": "4 Locations",
       "title": "Senior Physical Design and Timing Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Physical-Design-and-Timing-Engineer_JR2020717"
+    },
+    "NVIDIA:JR2020718": {
+      "alerted": false,
+      "first_seen": "2026-07-03T01:14:59.143623+00:00",
+      "location": "Israel, Tel Aviv",
+      "title": "Chip Design Verification Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Chip-Design-Verification-Engineer_JR2020718"
     },
     "NVIDIA:JR2020724": {
       "alerted": false,
@@ -51803,6 +51887,13 @@
       "location": "Long Island, New York",
       "title": "Sales Representative - Long Island - Hospital (Emergency Care)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Long-Island-New-York/Sales-Representative---Long-Island---Hospital--Emergency-Care-_R554296"
+    },
+    "Stryker:R554303": {
+      "alerted": false,
+      "first_seen": "2026-07-03T01:14:59.144388+00:00",
+      "location": "Canberra, Australia",
+      "title": "Casual Clinical Consultant - Trauma Canberra",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Canberra-Australia/Casual-Clinical-Consultant---Trauma-Canberra_R554303"
     },
     "Stryker:R554321": {
       "alerted": false,
@@ -60882,6 +60973,13 @@
       "location": "Freiburg, Germany",
       "title": "Maschinenbautechniker / Techniker mit Schwerpunkt Prozessentwicklung (m/w/d)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Freiburg-Germany/Maschinenbautechniker---Techniker-mit-Schwerpunkt-Prozessentwicklung--m-w-d-_R568235"
+    },
+    "Stryker:R568238": {
+      "alerted": false,
+      "first_seen": "2026-07-03T01:14:59.144342+00:00",
+      "location": "Osaka, Japan",
+      "title": "Territory Manager, Sports Medicine Kansai",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Osaka-Japan/Territory-Manager--Sports-Medicine-Kansai_R568238-8"
     },
     "Stryker:R568248": {
       "alerted": false,
