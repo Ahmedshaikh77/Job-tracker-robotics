@@ -2202,6 +2202,13 @@
       "title": "Associate, ML Data Operations, GO-AI Operations",
       "url": "https://www.amazon.jobs/en/jobs/10467161/associate-ml-data-operations-go-ai-operations"
     },
+    "Amazon:10467163": {
+      "alerted": false,
+      "first_seen": "2026-07-08T06:43:34.183431+00:00",
+      "location": "Bengaluru, Karnataka, IND",
+      "title": "Associate, ML Data Operations, GO-AI Operations",
+      "url": "https://www.amazon.jobs/en/jobs/10467163/associate-ml-data-operations-go-ai-operations"
+    },
     "Amazon:10467927": {
       "alerted": true,
       "first_seen": "2026-07-07T20:13:54.777773+00:00",
@@ -24455,6 +24462,13 @@
       "title": "Digital Hardware Engineering Lead",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5179756007?gh_jid=5179756007"
     },
+    "Anduril:5179761007": {
+      "alerted": false,
+      "first_seen": "2026-07-08T06:43:34.185109+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Software Engineer, Satellite Command and Control",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5179761007?gh_jid=5179761007"
+    },
     "Anduril:5179763007": {
       "alerted": false,
       "first_seen": "2026-07-06T18:14:14.908852+00:00",
@@ -24685,6 +24699,13 @@
       "location": "Costa Mesa, California, United States",
       "title": "Senior Systems Engineer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5182060007?gh_jid=5182060007"
+    },
+    "Anduril:5182108007": {
+      "alerted": false,
+      "first_seen": "2026-07-08T06:43:34.184323+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Software Engineer, Satellite Command and Control",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5182108007?gh_jid=5182108007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -43691,6 +43712,20 @@
       "title": "RDN-Key Account Supervisor-Hangzhou",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Hangzhou-Zhejiang-China/RDN-Key-Account-Supervisor-Hangzhou_R71557-1"
     },
+    "Medtronic:R71558": {
+      "alerted": false,
+      "first_seen": "2026-07-08T06:43:34.185226+00:00",
+      "location": "Shanghai, Shanghai, China",
+      "title": "CRDN-STSR-Shanghai",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Shanghai-Shanghai-China/CRDN-STSR-Shanghai_R71558"
+    },
+    "Medtronic:R71560": {
+      "alerted": false,
+      "first_seen": "2026-07-08T06:43:34.185152+00:00",
+      "location": "Beijing, Beijing, China",
+      "title": "Reimbursement Director",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Beijing-Beijing-China/Reimbursement-Director_R71560-1"
+    },
     "Medtronic:R71563": {
       "alerted": false,
       "first_seen": "2026-07-07T16:06:57.223435+00:00",
@@ -43704,6 +43739,13 @@
       "location": "2 Locations",
       "title": "EP Mapping Specialist, CAS- New Bern/Greenville",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/State-of-North-Carolina-United-States-of-America/EP-Mapping-Specialist--CAS--New-Bern-Greenville_R71567-1"
+    },
+    "Medtronic:R71580": {
+      "alerted": false,
+      "first_seen": "2026-07-08T06:43:34.185190+00:00",
+      "location": "Shanghai, Shanghai, China",
+      "title": "Operations Intern",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Shanghai-Shanghai-China/Operations-Intern_R71580"
     },
     "Medtronic:R71588": {
       "alerted": false,
@@ -64816,6 +64858,13 @@
       "location": "11 Locations",
       "title": "Associate Territory Manager - Joint Replacement",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Sydney-Australia/Associate-Territory-Manager---Joint-Replacement_R568805"
+    },
+    "Stryker:R568863": {
+      "alerted": false,
+      "first_seen": "2026-07-08T06:43:34.183499+00:00",
+      "location": "Flower Mound, Texas",
+      "title": "Staff Embedded Software & Controls Engineer",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Flower-Mound-Texas/Staff-Embedded-Software---Controls-Engineer_R568863"
     },
     "Waymo:6367980": {
       "alerted": false,
