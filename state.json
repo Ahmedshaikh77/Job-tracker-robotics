@@ -25253,6 +25253,27 @@
       "title": "Product Security Engineer, Programs",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5183808007?gh_jid=5183808007"
     },
+    "Anduril:5184034007": {
+      "alerted": false,
+      "first_seen": "2026-07-09T23:56:33.934429+00:00",
+      "location": "Lexington, Massachusetts, United States",
+      "title": "Senior Production Software Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5184034007?gh_jid=5184034007"
+    },
+    "Anduril:5184035007": {
+      "alerted": false,
+      "first_seen": "2026-07-09T23:56:33.933693+00:00",
+      "location": "Lexington, Massachusetts, United States",
+      "title": "Senior Manufacturing Software Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5184035007?gh_jid=5184035007"
+    },
+    "Anduril:5184036007": {
+      "alerted": false,
+      "first_seen": "2026-07-09T23:56:33.932957+00:00",
+      "location": "Lexington, Massachusetts, United States",
+      "title": "Production Software Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5184036007?gh_jid=5184036007"
+    },
     "Apptronik:5572958004": {
       "alerted": false,
       "first_seen": "2026-06-08T14:54:52.580418+00:00",
@@ -46365,6 +46386,13 @@
       "title": "Senior Silicon and System Product Lead",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Silicon-and-System-Product-Lead_JR2010985"
     },
+    "NVIDIA:JR2011002": {
+      "alerted": false,
+      "first_seen": "2026-07-09T23:56:33.934525+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Global Commodity Manager, Semiconductors",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Global-Commodity-Manager--Semiconductors_JR2011002"
+    },
     "NVIDIA:JR2011012": {
       "alerted": false,
       "first_seen": "2026-06-02T17:03:32.353210+00:00",
@@ -51139,6 +51167,13 @@
       "title": "Senior AI Infrastructure Engineer - DGX Cloud",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-AI-Infrastructure-Engineer---DGX-Cloud_JR2018820"
     },
+    "NVIDIA:JR2018821": {
+      "alerted": true,
+      "first_seen": "2026-07-09T23:56:33.935240+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "System Level Test Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Level-Test-Engineer_JR2018821"
+    },
     "NVIDIA:JR2018826": {
       "alerted": false,
       "first_seen": "2026-05-31T16:44:27.752641+00:00",
@@ -51748,6 +51783,13 @@
       "title": "Senior System Software Engineer, Robotics",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-System-Software-Engineer--Robotics_JR2019036"
     },
+    "NVIDIA:JR2019040": {
+      "alerted": false,
+      "first_seen": "2026-07-09T23:56:33.935017+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Product Data Operations Engineering Systems Analyst",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Data-Operations-Engineering-Systems-Analyst_JR2019040"
+    },
     "NVIDIA:JR2019066": {
       "alerted": false,
       "first_seen": "2026-05-29T22:43:41.798027+00:00",
@@ -51817,6 +51859,13 @@
       "location": "Vietnam, Hanoi",
       "title": "Mechanical On-Site Engineer, Foxconn Vietnam",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Vietnam-Hanoi/Mechanical-On-Site-Engineer--Foxconn-Vietnam_JR2019113"
+    },
+    "NVIDIA:JR2019114": {
+      "alerted": false,
+      "first_seen": "2026-07-09T23:56:33.935161+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Principal Customer Services Program Manager",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Customer-Services-Program-Manager_JR2019114"
     },
     "NVIDIA:JR2019115": {
       "alerted": false,
@@ -52476,6 +52525,13 @@
       "title": "Senior Services Product Manager, WW Enterprise SW Service Products",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Services-Product-Manager--WW-Enterprise-SW-Service-Products_JR2019308"
     },
+    "NVIDIA:JR2019311": {
+      "alerted": false,
+      "first_seen": "2026-07-09T23:56:33.935202+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Director, Service Supply Planning",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Director--Service-Supply-Planning_JR2019311"
+    },
     "NVIDIA:JR2019312": {
       "alerted": false,
       "first_seen": "2026-06-08T22:56:42.289599+00:00",
@@ -52916,6 +52972,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Formal Verification Engineer - New College Grad 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Engineer---New-College-Grad-2026_JR2019447"
+    },
+    "NVIDIA:JR2019448": {
+      "alerted": false,
+      "first_seen": "2026-07-09T23:56:33.934895+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Distinguished Engineer, Production Silicon Diagnostics",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Distinguished-Engineer--Production-Silicon-Diagnostics_JR2019448"
     },
     "NVIDIA:JR2019450": {
       "alerted": false,
@@ -54002,6 +54065,13 @@
       "title": "Senior Solutions Architect, Generative AI Research",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-FL-Remote/Senior-Solutions-Architect--Generative-AI-Research_JR2019852"
     },
+    "NVIDIA:JR2019864": {
+      "alerted": false,
+      "first_seen": "2026-07-09T23:56:33.934936+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Physical Failure Analysis Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Physical-Failure-Analysis-Engineer_JR2019864"
+    },
     "NVIDIA:JR2019866": {
       "alerted": false,
       "first_seen": "2026-06-16T12:20:29.676836+00:00",
@@ -54442,6 +54512,13 @@
       "location": "India, Bengaluru",
       "title": "Senior Enterprise Solution Engineer\u00a0- Networking Software",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Enterprise-Solution-Engineer---Networking-Software_JR2020028"
+    },
+    "NVIDIA:JR2020029": {
+      "alerted": false,
+      "first_seen": "2026-07-09T23:56:33.934620+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Databricks Developer, SAP S/4 Data Products and Governance",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Databricks-Developer--SAP-S-4-Data-Products-and-Governance_JR2020029"
     },
     "NVIDIA:JR2020037": {
       "alerted": false,
@@ -55311,6 +55388,13 @@
       "title": "Senior Data Scientist, Cloud Gaming - Prescriptive Analytics and Optimization",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Data-Scientist--Cloud-Gaming---Prescriptive-Analytics-and-Optimization_JR2020400"
     },
+    "NVIDIA:JR2020401": {
+      "alerted": false,
+      "first_seen": "2026-07-09T23:56:33.935056+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Manager, Product Reliability",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--Product-Reliability_JR2020401"
+    },
     "NVIDIA:JR2020403": {
       "alerted": false,
       "first_seen": "2026-06-29T19:21:47.956342+00:00",
@@ -55338,6 +55422,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Senior Technical Program Manager, DGX Cloud Software Products and Services",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager--DGX-Cloud-Software-Products-and-Services_JR2020418"
+    },
+    "NVIDIA:JR2020423": {
+      "alerted": false,
+      "first_seen": "2026-07-09T23:56:33.935119+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Silicon Operations Program Manager",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Silicon-Operations-Program-Manager_JR2020423"
     },
     "NVIDIA:JR2020424": {
       "alerted": true,
@@ -55892,6 +55983,13 @@
       "title": "Senior Product Manager, AI Frameworks",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Product-Manager--AI-Frameworks_JR2020650"
     },
+    "NVIDIA:JR2020652": {
+      "alerted": false,
+      "first_seen": "2026-07-09T23:56:33.934480+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Platform Service Software Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Platform-Service-Software-Engineer_JR2020652"
+    },
     "NVIDIA:JR2020659": {
       "alerted": false,
       "first_seen": "2026-07-08T16:45:44.950546+00:00",
@@ -56052,6 +56150,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Senior Applied Research Scientist",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Applied-Research-Scientist_JR2020724"
+    },
+    "NVIDIA:JR2020726": {
+      "alerted": false,
+      "first_seen": "2026-07-09T23:56:33.934973+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior System Test Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Test-Engineer_JR2020726"
     },
     "NVIDIA:JR2020731": {
       "alerted": false,
@@ -56319,6 +56424,13 @@
       "title": "Software QA Engineer - AI Data Centers",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Software-QA-Engineer---AI-Data-Centers_JR2020874"
     },
+    "NVIDIA:JR2020881": {
+      "alerted": false,
+      "first_seen": "2026-07-09T23:56:33.934850+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Product Marketing Manager,  DSX OS",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Product-Marketing-Manager---DSX-OS_JR2020881"
+    },
     "NVIDIA:JR2020889": {
       "alerted": false,
       "first_seen": "2026-07-09T11:34:43.537518+00:00",
@@ -56332,6 +56444,13 @@
       "location": "3 Locations",
       "title": "Senior Software Engineer - DRIVE SW",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Software-Engineer---DRIVE-SW_JR2020891"
+    },
+    "NVIDIA:JR2020899": {
+      "alerted": false,
+      "first_seen": "2026-07-09T23:56:33.934712+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Manager, Systems Software Engineering - NV Cloud Functions",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--Systems-Software-Engineering---NV-Cloud-Functions_JR2020899"
     },
     "NVIDIA:JR2020914": {
       "alerted": false,
@@ -56403,6 +56522,13 @@
       "title": "Senior Security Architect - Hardware",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Security-Architect---Hardware_JR2020941"
     },
+    "NVIDIA:JR2020949": {
+      "alerted": false,
+      "first_seen": "2026-07-09T23:56:33.934761+00:00",
+      "location": "6 Locations",
+      "title": "Senior Manager, Software Engineering - Robotics Manipulation",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--Software-Engineering---Robotics-Manipulation_JR2020949"
+    },
     "NVIDIA:JR2020958": {
       "alerted": false,
       "first_seen": "2026-07-08T20:49:53.950365+00:00",
@@ -56466,6 +56592,13 @@
       "title": "Senior Software Engineer, Metropolis Vision AI",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Metropolis-Vision-AI_JR2021019"
     },
+    "NVIDIA:JR2021022": {
+      "alerted": true,
+      "first_seen": "2026-07-09T23:56:33.934665+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Hardware Test Engineer - Silicon Validation",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Hardware-Test-Engineer---Silicon-Validation_JR2021022"
+    },
     "NVIDIA:JR2021025": {
       "alerted": false,
       "first_seen": "2026-07-08T21:52:31.786653+00:00",
@@ -56501,6 +56634,13 @@
       "title": "Senior Perception Engineer - Autonomous Vehicles",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Perception-Engineer---Autonomous-Vehicles_JR2021074"
     },
+    "NVIDIA:JR2021076": {
+      "alerted": false,
+      "first_seen": "2026-07-09T23:56:33.934567+00:00",
+      "location": "3 Locations",
+      "title": "Senior Debugger Software Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Debugger-Software-Engineer_JR2021076"
+    },
     "NVIDIA:JR2021084": {
       "alerted": false,
       "first_seen": "2026-07-09T08:43:10.761015+00:00",
@@ -56514,6 +56654,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Compensation Analyst",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compensation-Analyst_JR2021092-1"
+    },
+    "NVIDIA:JR2021114": {
+      "alerted": false,
+      "first_seen": "2026-07-09T23:56:33.934807+00:00",
+      "location": "2 Locations",
+      "title": "Senior Software Engineer, CUDA C++ Core Libraries",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--CUDA-C---Core-Libraries_JR2021114"
     },
     "NVIDIA:JR2021135": {
       "alerted": false,
@@ -71123,6 +71270,13 @@
       "location": "Mountain View, CA, USA; San Francisco, CA, USA",
       "title": "Staff Engineer, Agentic AI Engineering",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8052746"
+    },
+    "Waymo:8053726": {
+      "alerted": false,
+      "first_seen": "2026-07-09T23:56:33.932225+00:00",
+      "location": "Taipei, Taiwan",
+      "title": "Senior Materials Program Manager",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8053726"
     }
   }
 }
