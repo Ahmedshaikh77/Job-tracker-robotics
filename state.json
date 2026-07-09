@@ -1,5 +1,10 @@
 {
   "company_failures": {
+    "Agility Robotics": {
+      "count": 1,
+      "last_error": "Agility Robotics (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
+      "last_failed_at": "2026-07-09T14:09:21.250527+00:00"
+    },
     "Boston Dynamics": {
       "count": 6,
       "last_error": "Boston Dynamics (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/bostondynamics/jobs?content=true",
@@ -2243,6 +2248,13 @@
       "location": "North Reading, Massachusetts, USA",
       "title": "Sr. Software Dev Engineer",
       "url": "https://www.amazon.jobs/en/jobs/10468445/sr-software-dev-engineer"
+    },
+    "Amazon:10469834": {
+      "alerted": false,
+      "first_seen": "2026-07-09T14:09:21.254792+00:00",
+      "location": "Westboro, Wisconsin, USA",
+      "title": "Computer Vision SDE II, Scanless Technologies",
+      "url": "https://www.amazon.jobs/en/jobs/10469834/computer-vision-sde-ii-scanless-technologies"
     },
     "Anduril:4159543007": {
       "alerted": false,
@@ -23678,6 +23690,13 @@
       "title": "Senior Reliability Engineer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5177037007?gh_jid=5177037007"
     },
+    "Anduril:5177195007": {
+      "alerted": false,
+      "first_seen": "2026-07-09T14:09:21.255951+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Mission Systems Lead",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5177195007?gh_jid=5177195007"
+    },
     "Anduril:5177202007": {
       "alerted": false,
       "first_seen": "2026-07-01T19:23:21.040570+00:00",
@@ -24895,6 +24914,13 @@
       "location": "Waltham, Massachusetts, United States",
       "title": "Senior Hardware Reliability Engineer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5182279007?gh_jid=5182279007"
+    },
+    "Anduril:5182286007": {
+      "alerted": false,
+      "first_seen": "2026-07-09T14:09:21.256639+00:00",
+      "location": "Morrisville, North Carolina, United States",
+      "title": "Senior Manufacturing Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5182286007?gh_jid=5182286007"
     },
     "Anduril:5182351007": {
       "alerted": false,
@@ -28556,6 +28582,13 @@
       "location": "Somerville, MA",
       "title": "Fulfillment Specialist",
       "url": "https://careers.formlabs.com/job/8048933/apply/?gh_jid=8048933"
+    },
+    "Formlabs:8048979": {
+      "alerted": false,
+      "first_seen": "2026-07-09T14:09:21.254716+00:00",
+      "location": "Milwaukee, Wisconsin",
+      "title": "Sales and Services Support Associate",
+      "url": "https://careers.formlabs.com/job/8048979/apply/?gh_jid=8048979"
     },
     "Formlabs:8049321": {
       "alerted": false,
@@ -43537,6 +43570,13 @@
       "title": "Associate Customer Service Specialist",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Cairo-Cairo-Egypt/Associate-Customer-Service-Specialist_R71043-1"
     },
+    "Medtronic:R71046": {
+      "alerted": false,
+      "first_seen": "2026-07-09T14:09:21.256777+00:00",
+      "location": "Pont-de-Claix, Rh\u00f4ne Alpes, France",
+      "title": "Alternant informatique",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Pont-de-Claix-Rhne-Alpes-France/Alternant-informatique_R71046"
+    },
     "Medtronic:R71048": {
       "alerted": false,
       "first_seen": "2026-07-08T15:03:35.457310+00:00",
@@ -44125,6 +44165,13 @@
       "title": "Process Engineer II",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Ciudad-Juarez-Chihuahua-Mexico/Process-Engineer-II_R71327-1"
     },
+    "Medtronic:R71330": {
+      "alerted": false,
+      "first_seen": "2026-07-09T14:09:21.256820+00:00",
+      "location": "Mollsfeld, Meerbusch, Germany",
+      "title": "Werkstudent Sales & Marketing (m/w/d)",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mollsfeld-Meerbusch-Germany/Werkstudent-Sales---Marketing--m-w-d-_R71330-2"
+    },
     "Medtronic:R71333": {
       "alerted": false,
       "first_seen": "2026-07-02T20:08:26.983460+00:00",
@@ -44488,6 +44535,13 @@
       "location": "Beijing, Beijing, China",
       "title": "Reimbursement Director",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Beijing-Beijing-China/Reimbursement-Director_R71560-1"
+    },
+    "Medtronic:R71561": {
+      "alerted": false,
+      "first_seen": "2026-07-09T14:09:21.256886+00:00",
+      "location": "Dublin, County Dublin, Ireland",
+      "title": "Remote Sales Representative",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Dublin-County-Dublin-Ireland/Remote-Sales-Representative_R71561-1"
     },
     "Medtronic:R71563": {
       "alerted": false,
@@ -47393,6 +47447,13 @@
       "location": "2 Locations",
       "title": "Senior Software Engineer Tech Lead, SONiC Network OS",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Raanana/Senior-Software-Engineer-Tech-Lead--SONiC-Network-OS_JR2014855-1"
+    },
+    "NVIDIA:JR2014867": {
+      "alerted": false,
+      "first_seen": "2026-07-09T14:09:21.256737+00:00",
+      "location": "3 Locations",
+      "title": "Advanced Development Engineer, GPU Networking",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Advanced-Development-Engineer--GPU-Networking_JR2014867"
     },
     "NVIDIA:JR2014874": {
       "alerted": false,
@@ -55241,6 +55302,13 @@
       "title": "QA Virtualization Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/QA-Virtualization-Engineer_JR2020610"
     },
+    "NVIDIA:JR2020621": {
+      "alerted": false,
+      "first_seen": "2026-07-09T14:09:21.256692+00:00",
+      "location": "India, Bengaluru",
+      "title": "Platform Software Engineer \u2013 Factory",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Platform-Software-Engineer---Factory_JR2020621"
+    },
     "NVIDIA:JR2020624": {
       "alerted": false,
       "first_seen": "2026-07-01T10:26:23.255674+00:00",
@@ -58306,6 +58374,13 @@
       "location": "Kalamazoo, Michigan",
       "title": "Assembly Technician I - OR - 2nd Shift - $20.25/hr + $2.00 Shift Differential",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Kalamazoo-Michigan/Assembly-Technician-I---2nd-Shift----2025-hr----200-Shift-Differential_R565041"
+    },
+    "Stryker:R565089": {
+      "alerted": false,
+      "first_seen": "2026-07-09T14:09:21.254908+00:00",
+      "location": "Warsaw, Poland",
+      "title": "Regional Sales Manager, Peripheral Vascular - EEMEA",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Warsaw-Poland/Regional-Sales-Manager--Peripheral-Vascular---EEMEA_R565089"
     },
     "Stryker:R565116": {
       "alerted": false,
@@ -64565,6 +64640,13 @@
       "title": "Staff R&D Engineer- NPD (Onsite Irvine, CA)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Irvine-California/Staff-R-D-Engineer--NPD--Onsite-Irvine--CA-_R567753"
     },
+    "Stryker:R567754": {
+      "alerted": false,
+      "first_seen": "2026-07-09T14:09:21.254836+00:00",
+      "location": "Irvine, California",
+      "title": "Staff Manufacturing Engineer",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Irvine-California/Staff-Manufacturing-Engineer_R567754-1"
+    },
     "Stryker:R567761": {
       "alerted": false,
       "first_seen": "2026-06-23T00:00:04.942572+00:00",
@@ -66084,6 +66166,13 @@
       "title": "Regional Sales Manager - North Los Angeles, San Fernando Valley, Central Valley CA - Peripheral Vascular",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Los-Angeles-California/Regional-Sales-Manager---North-Los-Angeles--San-Fernando-Valley--Central-Valley-CA---Peripheral-Vascular_R568445"
     },
+    "Stryker:R568449": {
+      "alerted": false,
+      "first_seen": "2026-07-09T14:09:21.255049+00:00",
+      "location": "2 Locations",
+      "title": "Senior Manager, Compliance Investigations - EMEA",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Newbury-United-Kingdom/Senior-Manager--Compliance-Investigations---EMEA_R568449"
+    },
     "Stryker:R568453": {
       "alerted": false,
       "first_seen": "2026-07-01T15:49:40.115061+00:00",
@@ -66329,6 +66418,13 @@
       "title": "Inspector I",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cork-Carrigtwohill-IDA-Business--Technology-Park-Anngrove/Inspector-I_R568655"
     },
+    "Stryker:R568660": {
+      "alerted": false,
+      "first_seen": "2026-07-09T14:09:21.255004+00:00",
+      "location": "Buffalo, New York",
+      "title": "Associate Sales Representative - Joint Replacement - Buffalo, New York",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Buffalo-New-York/Associate-Sales-Representative---Joint-Replacement---Buffalo--New-York_R568660"
+    },
     "Stryker:R568663": {
       "alerted": false,
       "first_seen": "2026-07-08T19:50:46.221564+00:00",
@@ -66434,6 +66530,13 @@
       "title": "Field Clinical Specialist, Peripheral Vascular",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Paris-France/Field-Clinical-Specialist--Peripheral-Vascular_R568809"
     },
+    "Stryker:R568812": {
+      "alerted": false,
+      "first_seen": "2026-07-09T14:09:21.254953+00:00",
+      "location": "Selzach, Switzerland",
+      "title": "Kaufm\u00e4nnische Ausbildung (m/w/d)",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Selzach-Switzerland/Kaufmnnische-Ausbildung--m-w-d-_R568812"
+    },
     "Stryker:R568814": {
       "alerted": false,
       "first_seen": "2026-07-08T15:03:35.449658+00:00",
@@ -66482,6 +66585,13 @@
       "location": "Seoul, Korea",
       "title": "Intern, Sales and Marketing",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Seoul-Korea/Intern--Sales-and-Marketing_R568954"
+    },
+    "Stryker:R568967": {
+      "alerted": false,
+      "first_seen": "2026-07-09T14:09:21.255099+00:00",
+      "location": "London, United Kingdom",
+      "title": "Sales Associate, Endoscopy Visualisation (Central London)",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/London-United-Kingdom/Sales-Associate--Endoscopy-Visualisation--Central-London-_R568967"
     },
     "Waymo:6367980": {
       "alerted": false,
