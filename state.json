@@ -1,5 +1,10 @@
 {
   "company_failures": {
+    "Anduril": {
+      "count": 1,
+      "last_error": "Anduril (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
+      "last_failed_at": "2026-07-09T20:12:24.773911+00:00"
+    },
     "Boston Dynamics": {
       "count": 6,
       "last_error": "Boston Dynamics (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/bostondynamics/jobs?content=true",
@@ -30860,6 +30865,13 @@
       "title": "Business Process Improvement Analyst",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Bogot-Bogota-Colombia/Bus-Proc-Impvmt-Analyst_R64937-1"
     },
+    "Medtronic:R64938": {
+      "alerted": false,
+      "first_seen": "2026-07-09T20:12:24.777627+00:00",
+      "location": "Mounds View, Minnesota, United States of America",
+      "title": "Quality Engineer II",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Quality-Engineer-II_R64938-1"
+    },
     "Medtronic:R64940": {
       "alerted": false,
       "first_seen": "2026-07-07T20:13:54.778604+00:00",
@@ -44678,6 +44690,13 @@
       "title": "Robotic Clinical Specialist",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/State-of-Maine-United-States-of-America/Robotic-Clinical-Specialist_R71514-2"
     },
+    "Medtronic:R71516": {
+      "alerted": false,
+      "first_seen": "2026-07-09T20:12:24.777588+00:00",
+      "location": "Bogot\u00e1, Bogota, Colombia",
+      "title": "Accountant.",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Bogot-Bogota-Colombia/Accountant_R71516-1"
+    },
     "Medtronic:R71519": {
       "alerted": false,
       "first_seen": "2026-07-08T22:49:37.528541+00:00",
@@ -44985,6 +45004,20 @@
       "location": "Nanakramguda, Hyderabad, India",
       "title": "Senior Strategic Sourcing Specialist",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Senior-Strategic-Sourcing-Specialist_R71765-2"
+    },
+    "Medtronic:R71812": {
+      "alerted": false,
+      "first_seen": "2026-07-09T20:12:24.777507+00:00",
+      "location": "2 Locations",
+      "title": "Technical Field Engineer II CRM - Rochester / Buffalo, NY",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Rochester-New-York-United-States-of-America/Technical-Field-Engineer-II_R71812"
+    },
+    "Medtronic:R71824": {
+      "alerted": false,
+      "first_seen": "2026-07-09T20:12:24.777552+00:00",
+      "location": "Charlotte, North Carolina, United States of America",
+      "title": "Senior Principal Coronary Cathworks Territory Manager",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Charlotte-North-Carolina-United-States-of-America/Senior-Principal-Coronary-Cathworks-Territory-Manager_R71824-1"
     },
     "NVIDIA:JR1968313": {
       "alerted": true,
@@ -49325,6 +49358,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Manager, Product Engineering Manufacturing - AI and Networking",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--Product-Engineering-Manufacturing---AI-and-Networking_JR2017751"
+    },
+    "NVIDIA:JR2017762": {
+      "alerted": false,
+      "first_seen": "2026-07-09T20:12:24.777416+00:00",
+      "location": "3 Locations",
+      "title": "Senior Solutions Architect - Data Center Infrastructure",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Solutions-Architect---Data-Center-Infrastructure_JR2017762"
     },
     "NVIDIA:JR2017779": {
       "alerted": false,
@@ -54184,6 +54224,13 @@
       "title": "Senior Solutions Architect, AI Factory Observability and Visualization - NVIS",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Solutions-Architect--AI-Factory-Observability-and-Visualization---NVIS_JR2019998"
     },
+    "NVIDIA:JR2019999": {
+      "alerted": false,
+      "first_seen": "2026-07-09T20:12:24.777459+00:00",
+      "location": "6 Locations",
+      "title": "Senior DL Compiler Engineer -CUDA Tile",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DL-Compiler-Engineer--CUDA-Tile_JR2019999"
+    },
     "NVIDIA:JR2020003": {
       "alerted": false,
       "first_seen": "2026-06-24T13:38:36.109859+00:00",
@@ -54883,6 +54930,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Senior Mixed Signal Design Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Mixed-Signal-Design-Engineer_JR2020268"
+    },
+    "NVIDIA:JR2020269": {
+      "alerted": false,
+      "first_seen": "2026-07-09T20:12:24.777365+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Customer Program Manager - Automotive",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Customer-Program-Manager---Automotive_JR2020269"
     },
     "NVIDIA:JR2020270": {
       "alerted": false,
@@ -70836,6 +70890,13 @@
       "location": "Mountain View, California, USA; San Francisco, California, USA",
       "title": "Head of Workplace Strategy and Services",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8048991"
+    },
+    "Waymo:8052746": {
+      "alerted": false,
+      "first_seen": "2026-07-09T20:12:24.777308+00:00",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
+      "title": "Staff Engineer, Agentic AI Engineering",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8052746"
     }
   }
 }
