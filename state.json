@@ -1,5 +1,10 @@
 {
   "company_failures": {
+    "Anduril": {
+      "count": 1,
+      "last_error": "Anduril (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
+      "last_failed_at": "2026-07-10T17:04:07.283730+00:00"
+    },
     "Boston Dynamics": {
       "count": 6,
       "last_error": "Boston Dynamics (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/bostondynamics/jobs?content=true",
@@ -29341,6 +29346,13 @@
       "title": "Sr Systems Administrator",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Sr-Systems-Administrator_R60048-1"
     },
+    "Medtronic:R60080": {
+      "alerted": false,
+      "first_seen": "2026-07-10T17:04:07.287173+00:00",
+      "location": "",
+      "title": "",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers"
+    },
     "Medtronic:R60089": {
       "alerted": false,
       "first_seen": "2026-06-19T16:58:21.148276+00:00",
@@ -43782,6 +43794,13 @@
       "title": "Vascular Clinical Specialist - St Louis",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/St-Louis-Missouri-United-States-of-America/Vascular-Clinical-Specialist---St-Louis_R70928-1"
     },
+    "Medtronic:R70930": {
+      "alerted": false,
+      "first_seen": "2026-07-10T17:04:07.287212+00:00",
+      "location": "Lafayette, Colorado, United States of America",
+      "title": "Sr Quality Systems Engineer",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Sr-Quality-Systems-Engineer_R70930-1"
+    },
     "Medtronic:R70933": {
       "alerted": false,
       "first_seen": "2026-07-07T08:49:04.245902+00:00",
@@ -44306,6 +44325,20 @@
       "location": "Shanghai, Shanghai, China",
       "title": "ACM Intern",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Shanghai-Shanghai-China/ACM-Intern_R71183-2"
+    },
+    "Medtronic:R71189": {
+      "alerted": false,
+      "first_seen": "2026-07-10T17:04:07.287468+00:00",
+      "location": "Heerlen, Limburg, Netherlands",
+      "title": "Senior Environmental, Health, Safety and Suatainability Specialist",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Heerlen-Limburg-Netherlands/Senior-Environmental--Health--Safety-and-Suatainability-Specialist_R71189-1"
+    },
+    "Medtronic:R71191": {
+      "alerted": false,
+      "first_seen": "2026-07-10T17:04:07.287333+00:00",
+      "location": "Brussels, Brussels, Belgium",
+      "title": "EHS Specialist",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Brussels-Brussels-Belgium/EHS-Specialist_R71191-2"
     },
     "Medtronic:R71197": {
       "alerted": false,
@@ -45049,6 +45082,13 @@
       "title": "Senior Monitoring Sales Representative",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Des-Moines-Iowa-United-States-of-America/Senior-Monitoring-Sales-Representative_R71527-1"
     },
+    "Medtronic:R71529": {
+      "alerted": false,
+      "first_seen": "2026-07-10T17:04:07.287297+00:00",
+      "location": "Mounds View, Minnesota, United States of America",
+      "title": "Senior Financial Analyst - Cardiac Diagnostics & Services",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Senior-Financial-Analyst---Cardiac-Diagnostics---Services_R71529-1"
+    },
     "Medtronic:R71533": {
       "alerted": false,
       "first_seen": "2026-07-09T21:42:38.303305+00:00",
@@ -45083,6 +45123,13 @@
       "location": "Shanghai, Shanghai, China",
       "title": "CRDN-STSR-Shanghai",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Shanghai-Shanghai-China/CRDN-STSR-Shanghai_R71558"
+    },
+    "Medtronic:R71559": {
+      "alerted": false,
+      "first_seen": "2026-07-10T17:04:07.287252+00:00",
+      "location": "Mounds View, Minnesota, United States of America",
+      "title": "Engineering Program Manager - CRDN",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Program-Manager---CRDN_R71559-1"
     },
     "Medtronic:R71560": {
       "alerted": false,
@@ -45580,6 +45627,20 @@
       "location": "Warsaw, Indiana, United States of America",
       "title": "Quality Technician IV",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Warsaw-Indiana-United-States-of-America/Quality-Technician-IV_R71910-1"
+    },
+    "Medtronic:R71913": {
+      "alerted": false,
+      "first_seen": "2026-07-10T17:04:07.287372+00:00",
+      "location": "Newcastle upon Tyne, Tyne and Wear, United Kingdom",
+      "title": "Sales Representative",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Newcastle-upon-Tyne-Tyne-and-Wear-United-Kingdom/Sales-Representative_R71913-1"
+    },
+    "Medtronic:R71933": {
+      "alerted": false,
+      "first_seen": "2026-07-10T17:04:07.287419+00:00",
+      "location": "3 Locations",
+      "title": "Therapy Development Specialist, Pelvic Health - Mid Atlantic",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Baltimore-Maryland-United-States-of-America/Therapy-Development-Specialist--Pelvic-Health---Mid-Atlantic_R71933-1"
     },
     "NVIDIA:JR1968313": {
       "alerted": true,
@@ -55584,6 +55645,13 @@
       "title": "Senior Software Engineer, ML",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Software-Engineer--ML_JR2020240"
     },
+    "NVIDIA:JR2020246": {
+      "alerted": false,
+      "first_seen": "2026-07-10T17:04:07.286831+00:00",
+      "location": "6 Locations",
+      "title": "Senior Account Manager, NALA \u2013 NVIDIA Cloud Partner",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Account-Manager--NALA---NVIDIA-Cloud-Partner_JR2020246"
+    },
     "NVIDIA:JR2020254": {
       "alerted": false,
       "first_seen": "2026-06-30T11:19:30.260304+00:00",
@@ -56494,6 +56562,13 @@
       "title": "Senior Platform Service Software Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Platform-Service-Software-Engineer_JR2020652"
     },
+    "NVIDIA:JR2020653": {
+      "alerted": false,
+      "first_seen": "2026-07-10T17:04:07.286877+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Technical Program Manager, Sensor IQ",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager--Sensor-IQ_JR2020653"
+    },
     "NVIDIA:JR2020659": {
       "alerted": false,
       "first_seen": "2026-07-08T16:45:44.950546+00:00",
@@ -56907,12 +56982,26 @@
       "title": "Formal Verification Engineer - New College Grad 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Engineer---New-College-Grad-2026_JR2020837"
     },
+    "NVIDIA:JR2020838": {
+      "alerted": true,
+      "first_seen": "2026-07-10T17:04:07.286933+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Systems Software Engineer, Autonomous Systems Mapping - New College Graduate 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer--Autonomous-Systems-Mapping---New-College-Graduate-2026_JR2020838"
+    },
     "NVIDIA:JR2020844": {
       "alerted": false,
       "first_seen": "2026-07-06T20:14:00.131261+00:00",
       "location": "6 Locations",
       "title": "Senior Storage Software Engineer, DGXC Data Services",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Storage-Software-Engineer--DGXC-Data-Services_JR2020844"
+    },
+    "NVIDIA:JR2020845": {
+      "alerted": false,
+      "first_seen": "2026-07-10T17:04:07.286774+00:00",
+      "location": "China, Beijing",
+      "title": "Senior Solutions Architect - CSP and CRISP System",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/Senior-Solutions-Architect---CSP-and-CRISP-System_JR2020845"
     },
     "NVIDIA:JR2020851": {
       "alerted": false,
@@ -56997,6 +57086,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Senior Product Marketing Manager,  DSX OS",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Product-Marketing-Manager---DSX-OS_JR2020881"
+    },
+    "NVIDIA:JR2020883": {
+      "alerted": false,
+      "first_seen": "2026-07-10T17:04:07.286668+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior ASIC Design Engineer - DFX",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-ASIC-Design-Engineer---DFX_JR2020883"
     },
     "NVIDIA:JR2020889": {
       "alerted": false,
@@ -57257,6 +57353,13 @@
       "title": "Director, Engineering \u2013 Software Engineering",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Vietnam-Hanoi/Director--Engineering---Software-Engineering_JR2021061"
     },
+    "NVIDIA:JR2021069": {
+      "alerted": false,
+      "first_seen": "2026-07-10T17:04:07.286976+00:00",
+      "location": "5 Locations",
+      "title": "Senior Product Manager, AI Physics",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Product-Manager--AI-Physics_JR2021069"
+    },
     "NVIDIA:JR2021074": {
       "alerted": false,
       "first_seen": "2026-07-08T19:50:46.221886+00:00",
@@ -57319,6 +57422,13 @@
       "location": "Israel, Yokneam",
       "title": "Product Hardware Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Product-Hardware-Engineer_JR2021145"
+    },
+    "NVIDIA:JR2021156": {
+      "alerted": false,
+      "first_seen": "2026-07-10T17:04:07.286725+00:00",
+      "location": "5 Locations",
+      "title": "Senior Memory Controller Verification Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Memory-Controller-Verification-Engineer_JR2021156"
     },
     "NVIDIA:JR2021186": {
       "alerted": false,
@@ -65622,6 +65732,13 @@
       "title": "Senior Staff Robotic Platform Engineer",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Fort-Lauderdale-Florida/Senior-Staff-Robotic-Platform-Engineer_R567595"
     },
+    "Stryker:R567597": {
+      "alerted": false,
+      "first_seen": "2026-07-10T17:04:07.287144+00:00",
+      "location": "Houston, Texas",
+      "title": "Foot & Ankle Sales Associate - Central Houston, TX.",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Houston-Texas/Foot---Ankle-Sales-Associate---Central-Houston--TX_R567597"
+    },
     "Stryker:R567603": {
       "alerted": false,
       "first_seen": "2026-07-08T20:49:53.950185+00:00",
@@ -67827,6 +67944,13 @@
       "title": "Field Clinical Specialist - Indiananpolis, IN - Peripheral Vascular",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Indianapolis-Indiana/Field-Clinical-Specialist---Indiananpolis--IN---Peripheral-Vascular_R568515"
     },
+    "Stryker:R568516": {
+      "alerted": false,
+      "first_seen": "2026-07-10T17:04:07.287026+00:00",
+      "location": "3 Locations",
+      "title": "Upper Extremities Associate Sales Representative - Phoenix, AZ",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Arizona-Virtual-Address/Upper-Extremities-Associate-Sales-Representative---Phoenix--AZ_R568516"
+    },
     "Stryker:R568522": {
       "alerted": false,
       "first_seen": "2026-07-10T15:03:01.499216+00:00",
@@ -67910,6 +68034,13 @@
       "location": "2 Locations",
       "title": "Talent Pool: Associate Mako Product Specialist (m/w/d) Region Donau-Iller",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Augsburg-Germany/Talent-Pool--Associate-Mako-Product-Specialist--m-w-d--Region-Donau-Iller_R568564-1"
+    },
+    "Stryker:R568570": {
+      "alerted": false,
+      "first_seen": "2026-07-10T17:04:07.287067+00:00",
+      "location": "Carmel, Indiana",
+      "title": "Field Operations Associate",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Carmel-Indiana/Field-Operations-Associate_R568570"
     },
     "Stryker:R568573": {
       "alerted": false,
