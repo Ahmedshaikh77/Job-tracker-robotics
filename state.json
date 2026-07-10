@@ -550,6 +550,20 @@
       "title": "Senior Counsel, Technology Transactions",
       "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6110909004"
     },
+    "Agility Robotics:6113669004": {
+      "alerted": false,
+      "first_seen": "2026-07-10T21:14:35.462491+00:00",
+      "location": "Onsite- Salem, OR",
+      "title": "Senior Manufacturing Test Engineer",
+      "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6113669004"
+    },
+    "Agility Robotics:6114083004": {
+      "alerted": false,
+      "first_seen": "2026-07-10T21:14:35.463302+00:00",
+      "location": "Onsite- Salem, OR",
+      "title": "Senior Manufacturing Test Software Engineer",
+      "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6114083004"
+    },
     "Amazon:10378626": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.741222+00:00",
@@ -2250,6 +2264,13 @@
       "location": "Westboro, Wisconsin, USA",
       "title": "Computer Vision SDE II, Scanless Technologies",
       "url": "https://www.amazon.jobs/en/jobs/10469834/computer-vision-sde-ii-scanless-technologies"
+    },
+    "Amazon:10470048": {
+      "alerted": false,
+      "first_seen": "2026-07-10T21:14:35.463389+00:00",
+      "location": "Seattle, Washington, USA",
+      "title": "Prototyping Architect (Physical AI), AWS Prototyping and AI Customer Engineering (PACE)",
+      "url": "https://www.amazon.jobs/en/jobs/10470048/prototyping-architect-physical-ai-aws-prototyping-and-ai-customer-engineering-pace"
     },
     "Amazon:10470557": {
       "alerted": true,
@@ -25526,6 +25547,13 @@
       "title": "Senior Manufacturing Engineer, Thermal Protection Systems, High-Speed Missiles",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5184942007?gh_jid=5184942007"
     },
+    "Anduril:5184965007": {
+      "alerted": false,
+      "first_seen": "2026-07-10T21:14:35.464294+00:00",
+      "location": "Huntsville, Alabama, United States",
+      "title": "Contract Manager",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5184965007?gh_jid=5184965007"
+    },
     "Apptronik:5572958004": {
       "alerted": false,
       "first_seen": "2026-06-08T14:54:52.580418+00:00",
@@ -44657,6 +44685,13 @@
       "title": "Associate Territory Manager 2, Neurovascular - Raleigh, NC",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Raleigh-North-Carolina-United-States-of-America/Associate-Territory-Manager-2--Neurovascular---Raleigh--NC_R71239-1"
     },
+    "Medtronic:R71241": {
+      "alerted": false,
+      "first_seen": "2026-07-10T21:14:35.464428+00:00",
+      "location": "Raleigh, North Carolina, United States of America",
+      "title": "Sr. Hernia Sales Specialist (Raleigh NC)",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Raleigh-North-Carolina-United-States-of-America/Sr-Hernia-Sales-Specialist--Raleigh-NC-_R71241-1"
+    },
     "Medtronic:R71243": {
       "alerted": false,
       "first_seen": "2026-07-03T16:11:32.732570+00:00",
@@ -45595,6 +45630,13 @@
       "title": "Process Engineer (2 years+)",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Humacao-Puerto-Rico-United-States-of-America/Process-Engineer--2-years--_R71711-1"
     },
+    "Medtronic:R71712": {
+      "alerted": false,
+      "first_seen": "2026-07-10T21:14:35.464386+00:00",
+      "location": "Minneapolis, Minnesota, United States of America",
+      "title": "Pre-Market Software Reliability Engineering Manager - CRM",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Pre-Market-Software-Reliability-Engineering-Manager---CRM_R71712-1"
+    },
     "Medtronic:R71713": {
       "alerted": false,
       "first_seen": "2026-07-09T01:21:26.492531+00:00",
@@ -45748,6 +45790,13 @@
       "location": "Shanghai, Shanghai, China",
       "title": "HR_Principal Compensation Analyst_Shanghai",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Shanghai-Shanghai-China/HR-Principal-Compensation-Analyst-Shanghai_R71789-1"
+    },
+    "Medtronic:R71802": {
+      "alerted": false,
+      "first_seen": "2026-07-10T21:14:35.464465+00:00",
+      "location": "Memphis, Tennessee, United States of America",
+      "title": "Project Coordinator IV",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Memphis-Tennessee-United-States-of-America/Project-Coordinator-IV_R71802-1"
     },
     "Medtronic:R71810": {
       "alerted": false,
@@ -47890,6 +47939,13 @@
       "location": "2 Locations",
       "title": "Senior Software Engineer, CUDA Core Libraries",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--CUDA-Core-Libraries_JR2013324"
+    },
+    "NVIDIA:JR2013348": {
+      "alerted": false,
+      "first_seen": "2026-07-10T21:14:35.464338+00:00",
+      "location": "6 Locations",
+      "title": "Senior VLSI CAD Software Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-VLSI-CAD-Software-Engineer_JR2013348"
     },
     "NVIDIA:JR2013372": {
       "alerted": false,
@@ -58622,6 +58678,13 @@
       "title": "SMART - Sales & Marketing Graduate Program | The Netherlands",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Amsterdam-Netherlands/SMART---Sales---Marketing-Graduate-Program---The-Netherlands_R561167"
     },
+    "Stryker:R561209": {
+      "alerted": false,
+      "first_seen": "2026-07-10T21:14:35.463570+00:00",
+      "location": "3 Locations",
+      "title": "Sr. Clinical Specialist, Joint Replacement - Orange County",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Irvine-California/Clinical-Specialist--Joint-Replacement---Orange-County_R561209"
+    },
     "Stryker:R561221": {
       "alerted": false,
       "first_seen": "2026-06-03T18:40:18.676474+00:00",
@@ -66812,6 +66875,13 @@
       "title": "Senior Quality Incoming/Process Supervisor",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Grecia-Costa-Rica/Senior-Quality-Incoming-Process-Supervisor_R567857"
     },
+    "Stryker:R567858": {
+      "alerted": false,
+      "first_seen": "2026-07-10T21:14:35.463419+00:00",
+      "location": "",
+      "title": "",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers"
+    },
     "Stryker:R567861": {
       "alerted": false,
       "first_seen": "2026-07-01T17:43:04.069526+00:00",
@@ -68282,6 +68352,13 @@
       "title": "Upper Extremities Associate Sales Representative - Phoenix, AZ",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Arizona-Virtual-Address/Upper-Extremities-Associate-Sales-Representative---Phoenix--AZ_R568516"
     },
+    "Stryker:R568518": {
+      "alerted": false,
+      "first_seen": "2026-07-10T21:14:35.463523+00:00",
+      "location": "3 Locations",
+      "title": "Service Associate - Rhode Island/South Boston/Cape Cod - Sustainability Solutions",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Providence-Rhode-Island/Service-Associate---Rhode-Island-South-Boston-Cape-Cod---Sustainability-Solutions_R568518"
+    },
     "Stryker:R568522": {
       "alerted": false,
       "first_seen": "2026-07-10T15:03:01.499216+00:00",
@@ -68659,6 +68736,13 @@
       "location": "Kalamazoo, Michigan",
       "title": "Senior\u00a0Staff\u00a0Specialist, Quality\u00a0eSystems",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Kalamazoo-Michigan/Senior-Staff-Specialist--Quality-eSystems_R568838"
+    },
+    "Stryker:R568851": {
+      "alerted": false,
+      "first_seen": "2026-07-10T21:14:35.463468+00:00",
+      "location": "Dallas, Texas",
+      "title": "Regional Sales Manager, Acute Care - Lone Star Region",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Dallas-Texas/Regional-Sales-Manager--Acute-Care---Lone-Star-Region_R568851"
     },
     "Stryker:R568863": {
       "alerted": false,
