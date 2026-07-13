@@ -25792,6 +25792,20 @@
       "title": "Senior Automation Engineer, Propulsion",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5185760007?gh_jid=5185760007"
     },
+    "Anduril:5185827007": {
+      "alerted": false,
+      "first_seen": "2026-07-13T20:21:40.757237+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Controls Engineer, Manufacturing Automation ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5185827007?gh_jid=5185827007"
+    },
+    "Anduril:5185829007": {
+      "alerted": false,
+      "first_seen": "2026-07-13T20:21:40.757866+00:00",
+      "location": "McHenry, Mississippi, United States",
+      "title": "Senior Controls Engineer, Rocket Motor Systems",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5185829007?gh_jid=5185829007"
+    },
     "Apptronik:5572958004": {
       "alerted": false,
       "first_seen": "2026-06-08T14:54:52.580418+00:00",
@@ -26715,6 +26729,13 @@
       "location": "Sunnyvale, Ca",
       "title": "Staff Electrical Engineer - Compute",
       "url": "https://boards.greenhouse.io/apptronik/jobs/6111750004?gh_jid=6111750004"
+    },
+    "Apptronik:6112844004": {
+      "alerted": false,
+      "first_seen": "2026-07-13T20:21:40.754088+00:00",
+      "location": "Onsite - Austin, TX",
+      "title": "Staff Software & Integration Engineer",
+      "url": "https://boards.greenhouse.io/apptronik/jobs/6112844004?gh_jid=6112844004"
     },
     "Apptronik:6113026004": {
       "alerted": false,
@@ -29396,6 +29417,48 @@
       "location": "Somerville, MA",
       "title": "Mechanical Engineering Manager",
       "url": "https://careers.formlabs.com/job/8060442/apply/?gh_jid=8060442"
+    },
+    "Formlabs:8060443": {
+      "alerted": false,
+      "first_seen": "2026-07-13T20:21:40.754507+00:00",
+      "location": "Somerville, MA",
+      "title": "R&D Engineer",
+      "url": "https://careers.formlabs.com/job/8060443/apply/?gh_jid=8060443"
+    },
+    "Formlabs:8060446": {
+      "alerted": false,
+      "first_seen": "2026-07-13T20:21:40.755279+00:00",
+      "location": "Somerville, MA",
+      "title": "Senior Electrical Engineer",
+      "url": "https://careers.formlabs.com/job/8060446/apply/?gh_jid=8060446"
+    },
+    "Formlabs:8060447": {
+      "alerted": false,
+      "first_seen": "2026-07-13T20:21:40.754910+00:00",
+      "location": "Somerville, MA",
+      "title": "Senior 3D Printing R&D Engineer",
+      "url": "https://careers.formlabs.com/job/8060447/apply/?gh_jid=8060447"
+    },
+    "Formlabs:8060448": {
+      "alerted": false,
+      "first_seen": "2026-07-13T20:21:40.755664+00:00",
+      "location": "Somerville, MA",
+      "title": "Senior Product Design Engineer",
+      "url": "https://careers.formlabs.com/job/8060448/apply/?gh_jid=8060448"
+    },
+    "Formlabs:8060452": {
+      "alerted": false,
+      "first_seen": "2026-07-13T20:21:40.756505+00:00",
+      "location": "Somerville, MA",
+      "title": "Technical Program Manager",
+      "url": "https://careers.formlabs.com/job/8060452/apply/?gh_jid=8060452"
+    },
+    "Formlabs:8060456": {
+      "alerted": false,
+      "first_seen": "2026-07-13T20:21:40.756077+00:00",
+      "location": "Somerville, MA",
+      "title": "Senior Technical Program Manager",
+      "url": "https://careers.formlabs.com/job/8060456/apply/?gh_jid=8060456"
     },
     "Medtronic:R26267": {
       "alerted": false,
@@ -46603,6 +46666,13 @@
       "title": "RGI-ER-Technical Sales Representative-Chengdu",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Chengdu-Sichuan-China/RGI-ER-Technical-Sales-Representative-Chengdu_R71864"
     },
+    "Medtronic:R71865": {
+      "alerted": false,
+      "first_seen": "2026-07-13T20:21:40.758018+00:00",
+      "location": "7 Locations",
+      "title": "Senior IT Manager \u2013 Data, Integration & Advanced Analytics",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Senior-IT-Manager---Data--Integration---Advanced-Analytics_R71865-1"
+    },
     "Medtronic:R71866": {
       "alerted": false,
       "first_seen": "2026-07-10T09:53:23.069915+00:00",
@@ -57215,6 +57285,13 @@
       "title": "IT Support Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/IT-Support-Engineer_JR2020387-1"
     },
+    "NVIDIA:JR2020391": {
+      "alerted": false,
+      "first_seen": "2026-07-13T20:21:40.757920+00:00",
+      "location": "2 Locations",
+      "title": "Senior Program Manager, ODM and OEM Partner Operations",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-NJ-Remote/Senior-Program-Manager--ODM-and-OEM-Partner-Operations_JR2020391"
+    },
     "NVIDIA:JR2020393": {
       "alerted": false,
       "first_seen": "2026-07-10T09:53:23.069475+00:00",
@@ -58915,6 +58992,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Senior Business Systems Analyst - SAP Master Data Management",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Business-Systems-Analyst---SAP-Master-Data-Management_JR2021195"
+    },
+    "NVIDIA:JR2021235": {
+      "alerted": false,
+      "first_seen": "2026-07-13T20:21:40.757965+00:00",
+      "location": "3 Locations",
+      "title": "Senior Solutions Architect, AI Infrastructure",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Solutions-Architect--AI-Infrastructure_JR2021235"
     },
     "NVIDIA:JR2021248": {
       "alerted": false,
@@ -68534,6 +68618,13 @@
       "title": "Field Inventory Team Lead - 1st Shift",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Antonio-Texas/Field-Inventory-Team-Lead---1st-Shift_R567999"
     },
+    "Stryker:R568000": {
+      "alerted": false,
+      "first_seen": "2026-07-13T20:21:40.756609+00:00",
+      "location": "Irvine, California",
+      "title": "Senior Engineer, Continuous Improvement",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Irvine-California/Seniorr-Engineer--Continuous-Improvement_R568000"
+    },
     "Stryker:R568001": {
       "alerted": false,
       "first_seen": "2026-07-06T21:46:51.095477+00:00",
@@ -69836,6 +69927,13 @@
       "title": "OnSite Specialist- Falls Church, VA",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/District-of-Columbia-Washington/OnSite-Specialist--Falls-Church--VA_R568601"
     },
+    "Stryker:R568603": {
+      "alerted": false,
+      "first_seen": "2026-07-13T20:21:40.756650+00:00",
+      "location": "Portage, Michigan",
+      "title": "Regulatory Affairs Specialist",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Regulatory-Affairs-Specialist_R568603"
+    },
     "Stryker:R568614": {
       "alerted": false,
       "first_seen": "2026-07-06T18:14:14.905484+00:00",
@@ -70067,6 +70165,13 @@
       "title": "OnSite Specialist- New Brunswick, NJ",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Trenton-New-Jersey/OnSite-Specialist--New-Brunswick--NJ_R568773"
     },
+    "Stryker:R568774": {
+      "alerted": false,
+      "first_seen": "2026-07-13T20:21:40.756692+00:00",
+      "location": "Irvine, California",
+      "title": "Manager, Clinical Data Research (Remote)",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Irvine-California/Manager--Clinical-Data-Research_R568774-1"
+    },
     "Stryker:R568777": {
       "alerted": false,
       "first_seen": "2026-07-13T15:49:00.748283+00:00",
@@ -70227,6 +70332,13 @@
       "location": "London, United Kingdom",
       "title": "Sales Associate, Endoscopy Visualisation (Central London)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/London-United-Kingdom/Sales-Associate--Endoscopy-Visualisation--Central-London-_R568967"
+    },
+    "Stryker:R568982": {
+      "alerted": false,
+      "first_seen": "2026-07-13T20:21:40.756564+00:00",
+      "location": "22 Locations",
+      "title": "National Traveling Associate Sales Representative - Neurosurgical",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Kalamazoo-Michigan/National-Traveling-Associate-Sales-Representative---Neurosurgical_R568982"
     },
     "Stryker:R568989": {
       "alerted": false,
