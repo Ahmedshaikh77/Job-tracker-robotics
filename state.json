@@ -29978,6 +29978,13 @@
       "title": "Regulatory Affairs Specialist -Neuro",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Regulatory-Affairs-Specialist--Neuro_R59313-1"
     },
+    "Medtronic:R59331": {
+      "alerted": false,
+      "first_seen": "2026-07-14T07:27:58.277378+00:00",
+      "location": "Nanakramguda, Hyderabad, India",
+      "title": "Engineering Program Manager",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Engineering-Program-Manager_R59331-1"
+    },
     "Medtronic:R59350": {
       "alerted": false,
       "first_seen": "2026-06-02T17:03:32.355714+00:00",
@@ -33960,6 +33967,13 @@
       "location": "Tijuana, Baja California, Mexico",
       "title": "Ing. Dise\u00f1o y Automatizaci\u00f3n (12 meses)",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Tijuana-Baja-California-Mexico/Ing-Diseo-y-Automatizacin--12-meses-_R67032-1"
+    },
+    "Medtronic:R67038": {
+      "alerted": false,
+      "first_seen": "2026-07-14T07:27:58.277262+00:00",
+      "location": "Mumbai, Maharashtra, India",
+      "title": "Co-op/Apprentice (Non-Tech)",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mumbai-Maharashtra-India/Co-op-Apprentice--Non-Tech-_R67038-1"
     },
     "Medtronic:R67045": {
       "alerted": false,
@@ -45273,6 +45287,13 @@
       "title": "Associate Regulatory Affairs Specialist - ICT",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Parkmore-County-Galway-Ireland/Associate-Regulatory-Affairs-Specialist---ICT_R71180-2"
     },
+    "Medtronic:R71181": {
+      "alerted": false,
+      "first_seen": "2026-07-14T07:27:58.277338+00:00",
+      "location": "Singapore, Singapore, Singapore",
+      "title": "Manufacturing  Engineer II",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Singapore-Singapore-Singapore/Manufacturing--Engineer-II_R71181-1"
+    },
     "Medtronic:R71183": {
       "alerted": false,
       "first_seen": "2026-07-01T10:26:23.256466+00:00",
@@ -47037,6 +47058,13 @@
       "title": "Sr. Surgical Account Manager (Johnson City TN)",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Johnson-City-Tennessee-United-States-of-America/Sr-Surgical-Account-Manager--Johnson-City-TN-_R72114-1"
     },
+    "Medtronic:R72134": {
+      "alerted": false,
+      "first_seen": "2026-07-14T07:27:58.277298+00:00",
+      "location": "Shanghai, Shanghai, China",
+      "title": "Finance Intern",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Shanghai-Shanghai-China/Finance-Intern_R72134-1"
+    },
     "NVIDIA:JR1968313": {
       "alerted": true,
       "first_seen": "2026-06-26T19:11:12.205321+00:00",
@@ -47281,6 +47309,13 @@
       "location": "Vietnam, Ho Chi Minh City",
       "title": "Ecosystem Developer Relationships Manager",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Vietnam-Ho-Chi-Minh-City/Ecosystem-Developer-Relationships-Manager_JR1998498"
+    },
+    "NVIDIA:JR1998545": {
+      "alerted": false,
+      "first_seen": "2026-07-14T07:27:58.277219+00:00",
+      "location": "5 Locations",
+      "title": "Senior Software Architect, AI Cloud",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Software-Architect--AI-Cloud-Infrastructure_JR1998545"
     },
     "NVIDIA:JR1998579": {
       "alerted": false,
@@ -58909,6 +58944,13 @@
       "title": "HPC Middleware Developer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/HPC-Middleware-Developer_JR2020918"
     },
+    "NVIDIA:JR2020920": {
+      "alerted": false,
+      "first_seen": "2026-07-14T07:27:58.277168+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Systems Software Engineer - CI/CD Infrastructure for Open-Source Accelerated Computing Software",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---CI-CD-Infrastructure-for-Open-Source-Accelerated-Computing-Software_JR2020920"
+    },
     "NVIDIA:JR2020922": {
       "alerted": false,
       "first_seen": "2026-07-13T17:44:39.372213+00:00",
@@ -70122,6 +70164,13 @@
       "location": "San Jose, California",
       "title": "Team Leader, Test - Surgical Support",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Jose-California/Team-Leader--Test---Surgical-Support_R568468-1"
+    },
+    "Stryker:R568476": {
+      "alerted": false,
+      "first_seen": "2026-07-14T07:27:58.277057+00:00",
+      "location": "Gurugram, India",
+      "title": "Senior Software Engineer",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Gurugram-India/Senior-Software-Engineer_R568476"
     },
     "Stryker:R568477": {
       "alerted": false,
