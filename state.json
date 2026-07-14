@@ -25904,6 +25904,20 @@
       "title": "Inventory Control Supervisor, Materials ",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5186086007?gh_jid=5186086007"
     },
+    "Anduril:5186089007": {
+      "alerted": false,
+      "first_seen": "2026-07-14T00:05:08.543675+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Supply Chain Program Manager",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5186089007?gh_jid=5186089007"
+    },
+    "Anduril:5186093007": {
+      "alerted": false,
+      "first_seen": "2026-07-14T00:05:08.542899+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Manager, Software Engineering",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5186093007?gh_jid=5186093007"
+    },
     "Apptronik:5572958004": {
       "alerted": false,
       "first_seen": "2026-06-08T14:54:52.580418+00:00",
@@ -47968,6 +47982,13 @@
       "title": "SOC Design Engineer, ASIC Tools and Methodology Development",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Design-Engineer--Hardware-Tools-and-Methodology-Development_JR2008177"
     },
+    "NVIDIA:JR2008495": {
+      "alerted": false,
+      "first_seen": "2026-07-14T00:05:08.541896+00:00",
+      "location": "Canada, Toronto",
+      "title": "Senior Software Engineer, AI Inference Systems",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Canada-Toronto/Senior-Software-Engineer--AI-Inference-Systems_JR2008495"
+    },
     "NVIDIA:JR2008507": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.745672+00:00",
@@ -48100,6 +48121,13 @@
       "location": "4 Locations",
       "title": "Senior ASIC Verification Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-ASIC-Verification-Engineer_JR2009482"
+    },
+    "NVIDIA:JR2009532": {
+      "alerted": false,
+      "first_seen": "2026-07-14T00:05:08.541938+00:00",
+      "location": "2 Locations",
+      "title": "Senior SoC Architect",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-SoC-Architect_JR2009532"
     },
     "NVIDIA:JR2009619": {
       "alerted": false,
@@ -58496,6 +58524,13 @@
       "title": "Principal Architect, SoC and Systems Modelling",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Architect--SoC-and-Systems-Modelling_JR2020788"
     },
+    "NVIDIA:JR2020790": {
+      "alerted": false,
+      "first_seen": "2026-07-14T00:05:08.541978+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior DFT Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DFT-Engineer_JR2020790"
+    },
     "NVIDIA:JR2020792": {
       "alerted": false,
       "first_seen": "2026-07-07T18:14:06.401193+00:00",
@@ -58741,6 +58776,13 @@
       "title": "Senior ASIC Design Engineer - DFX",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-ASIC-Design-Engineer---DFX_JR2020883"
     },
+    "NVIDIA:JR2020884": {
+      "alerted": false,
+      "first_seen": "2026-07-14T00:05:08.542019+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "DFT Methodology Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/DFT-Methodology-Engineer_JR2020884"
+    },
     "NVIDIA:JR2020889": {
       "alerted": false,
       "first_seen": "2026-07-09T11:34:43.537518+00:00",
@@ -58768,6 +58810,13 @@
       "location": "Taiwan, Taipei",
       "title": "SoC Verification Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/SoC-Verification-Engineer_JR2020901"
+    },
+    "NVIDIA:JR2020906": {
+      "alerted": false,
+      "first_seen": "2026-07-14T00:05:08.542068+00:00",
+      "location": "5 Locations",
+      "title": "Software Linux Engineer - Installation and Packaging",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Linux-Engineer---Installation-and-Packaging_JR2020906"
     },
     "NVIDIA:JR2020909": {
       "alerted": false,
@@ -69898,6 +69947,13 @@
       "location": "San Antonio, Texas",
       "title": "Clinical Specialist, Enabling Technologies (San Antonio, TX)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Antonio-Texas/Clinical-Specialist--Enabling-Technologies--San-Antonio--TX-_R568424"
+    },
+    "Stryker:R568425": {
+      "alerted": false,
+      "first_seen": "2026-07-14T00:05:08.541822+00:00",
+      "location": "Salt Lake City, Utah",
+      "title": "Manufacturing Engineer",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Salt-Lake-City-Utah/Manufacturing-Engineer_R568425-1"
     },
     "Stryker:R568426": {
       "alerted": false,
