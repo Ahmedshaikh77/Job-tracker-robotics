@@ -26212,6 +26212,13 @@
       "title": "Fullstack Senior Software Engineer, ArsenalOS",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5186859007?gh_jid=5186859007"
     },
+    "Anduril:5187229007": {
+      "alerted": false,
+      "first_seen": "2026-07-15T21:35:42.646099+00:00",
+      "location": "Costa Mesa, California, United States; Washington, District of Columbia, United States",
+      "title": "Veteran & Community Engagement Associate",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5187229007?gh_jid=5187229007"
+    },
     "Anduril:5187241007": {
       "alerted": false,
       "first_seen": "2026-07-15T03:19:34.133818+00:00",
@@ -26310,6 +26317,13 @@
       "title": "Manager, Test and Evaluation",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5187912007?gh_jid=5187912007"
     },
+    "Anduril:5188063007": {
+      "alerted": false,
+      "first_seen": "2026-07-15T21:35:42.644456+00:00",
+      "location": "Irvine, California, United States",
+      "title": "Senior Manager, Mechanical Engineering",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5188063007?gh_jid=5188063007"
+    },
     "Anduril:5188074007": {
       "alerted": false,
       "first_seen": "2026-07-15T20:39:03.666081+00:00",
@@ -26323,6 +26337,27 @@
       "location": "Costa Mesa, California, United States",
       "title": "Oracle Project Accountant System Analyst",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5188082007?gh_jid=5188082007"
+    },
+    "Anduril:5188104007": {
+      "alerted": false,
+      "first_seen": "2026-07-15T21:35:42.643799+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Program Director, Dive XL ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5188104007?gh_jid=5188104007"
+    },
+    "Anduril:5188138007": {
+      "alerted": false,
+      "first_seen": "2026-07-15T21:35:42.645337+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Supply Chain Systems Analyst",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5188138007?gh_jid=5188138007"
+    },
+    "Anduril:5188161007": {
+      "alerted": false,
+      "first_seen": "2026-07-15T21:35:42.643087+00:00",
+      "location": "Irvine, California, United States",
+      "title": "Manager, Mechanical Engineering",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5188161007?gh_jid=5188161007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -48101,6 +48136,20 @@
       "title": "Senior Monitoring Sales Representative, Acute Care and Monitoring (Chicago)",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Chicago-Illinois-United-States-of-America/Senior-Monitoring-Sales-Representative--Chicago-_R72266-1"
     },
+    "Medtronic:R72275": {
+      "alerted": true,
+      "first_seen": "2026-07-15T21:35:42.642370+00:00",
+      "location": "Lafayette, Colorado, United States of America",
+      "title": "Training and Education Specialist - Robotics - Lafayette, CO",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Training-and-Education-Specialist---Robotics---Lafayette--CO_R72275"
+    },
+    "Medtronic:R72312": {
+      "alerted": false,
+      "first_seen": "2026-07-15T21:35:42.642322+00:00",
+      "location": "Pittsburgh, Pennsylvania, United States of America",
+      "title": "Sales Representative I, Spine - Pittsburgh, PA",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Pittsburgh-Pennsylvania-United-States-of-America/Sales-Representative-I--Spine---Pittsburgh--PA_R72312-1"
+    },
     "NVIDIA:JR1968313": {
       "alerted": true,
       "first_seen": "2026-06-26T19:11:12.205321+00:00",
@@ -59938,6 +59987,13 @@
       "title": "Senior Product Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Pune/Senior-Product-Engineer_JR2020793"
     },
+    "NVIDIA:JR2020798": {
+      "alerted": false,
+      "first_seen": "2026-07-15T21:35:42.642277+00:00",
+      "location": "Israel, Yokneam",
+      "title": "System Product Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/System-Product-Engineer_JR2020798"
+    },
     "NVIDIA:JR2020800": {
       "alerted": false,
       "first_seen": "2026-07-10T09:53:23.069147+00:00",
@@ -60833,6 +60889,20 @@
       "location": "Israel, Yokneam",
       "title": "Senior Software Engineer, Test Infrastructure",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Software-Engineer--Test-Infrastructure_JR2021147"
+    },
+    "NVIDIA:JR2021150": {
+      "alerted": false,
+      "first_seen": "2026-07-15T21:35:42.642199+00:00",
+      "location": "China, Shanghai",
+      "title": "Senior Software Engineer, Multi-Sensor Fusion",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-Software-Engineer--Multi-Sensor-Fusion_JR2021150"
+    },
+    "NVIDIA:JR2021152": {
+      "alerted": false,
+      "first_seen": "2026-07-15T21:35:42.642240+00:00",
+      "location": "2 Locations",
+      "title": "Physical Design Backend Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Physical-Design-Backend-Engineer_JR2021152"
     },
     "NVIDIA:JR2021155": {
       "alerted": false,
@@ -71796,6 +71866,13 @@
       "title": "Technical Support Representative",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/California-San-Jose-5900-Optical-Ct/Technical-Support-Representative_R568360"
     },
+    "Stryker:R568361": {
+      "alerted": false,
+      "first_seen": "2026-07-15T21:35:42.642149+00:00",
+      "location": "Portage, Michigan",
+      "title": "Engineer, Post Market Quality",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Engineer--Post-Market-Quality_R568361"
+    },
     "Stryker:R568362": {
       "alerted": false,
       "first_seen": "2026-07-07T20:13:54.778238+00:00",
@@ -76954,6 +77031,13 @@
       "location": "Tempe, AZ, USA",
       "title": "Operations Controller",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8036896"
+    },
+    "Waymo:8036906": {
+      "alerted": false,
+      "first_seen": "2026-07-15T21:35:42.642081+00:00",
+      "location": "Remote, USA",
+      "title": "Commercial Ops Planning Manager (America East)",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8036906"
     },
     "Waymo:8036947": {
       "alerted": false,
