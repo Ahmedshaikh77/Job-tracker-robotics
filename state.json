@@ -60960,6 +60960,13 @@
       "title": "Supply Chain Data Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Supply-Chain-Data-Engineer_JR2021179"
     },
+    "NVIDIA:JR2021180": {
+      "alerted": false,
+      "first_seen": "2026-07-15T23:32:57.777572+00:00",
+      "location": "3 Locations",
+      "title": "Senior C++ Software Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Senior-C---Software-Engineer_JR2021180"
+    },
     "NVIDIA:JR2021181": {
       "alerted": false,
       "first_seen": "2026-07-14T18:53:52.589121+00:00",
@@ -61246,6 +61253,13 @@
       "location": "India, Bengaluru",
       "title": "Senior Applied Research Engineer, Accelerator Algorithms",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Applied-Research-Engineer--Accelerator-Algorithms_JR2021373"
+    },
+    "NVIDIA:JR2021434": {
+      "alerted": false,
+      "first_seen": "2026-07-15T23:32:57.777609+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Physical Design Methodology and Operations Engineer - New College Grad 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Physical-Design-Methodology-and-Operations-Engineer---New-College-Grad-2026_JR2021434"
     },
     "Stryker:R498593": {
       "alerted": false,
@@ -72860,6 +72874,13 @@
       "title": "Sales Representative - Pittsburgh, PA - Emergency Care (Fire/EMS)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Pittsburgh-Pennsylvania/Sales-Representative---Pittsburgh--PA---Emergency-Care--Fire-EMS-_R568785"
     },
+    "Stryker:R568797": {
+      "alerted": false,
+      "first_seen": "2026-07-15T23:32:57.777543+00:00",
+      "location": "Melbourne, Australia",
+      "title": "Robotics Product Specialist",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Melbourne-Australia/Robotics-Product-Specialist_R568797"
+    },
     "Stryker:R568800": {
       "alerted": false,
       "first_seen": "2026-07-08T23:51:57.592434+00:00",
@@ -77242,6 +77263,20 @@
       "title": "Machine Learning Engineer, Sensor Pipelines",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8051390"
     },
+    "Waymo:8052324": {
+      "alerted": false,
+      "first_seen": "2026-07-15T23:32:57.777240+00:00",
+      "location": "New York City, New York, USA; Washington, D.C., USA",
+      "title": "Strategic Partnerships Development Manager - International Charging as a Service",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8052324"
+    },
+    "Waymo:8052326": {
+      "alerted": false,
+      "first_seen": "2026-07-15T23:32:57.777512+00:00",
+      "location": "New York City, New York, USA; Washington D.C., USA ",
+      "title": "Strategic Partnerships Development Manager - New Market Entry - International",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8052326"
+    },
     "Waymo:8052332": {
       "alerted": false,
       "first_seen": "2026-07-13T22:11:44.579146+00:00",
@@ -77318,6 +77353,13 @@
       "location": "Tempe, AZ, USA",
       "title": "Facilities Operations Manager, Structured Testing",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8056217"
+    },
+    "Waymo:8056369": {
+      "alerted": false,
+      "first_seen": "2026-07-15T23:32:57.776944+00:00",
+      "location": "Mountain View, CA, USA; San Francisco, CA USA",
+      "title": "Lead Systems Engineer, New Product Initiatives",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8056369"
     },
     "Waymo:8056720": {
       "alerted": false,
