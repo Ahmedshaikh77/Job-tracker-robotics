@@ -45518,6 +45518,13 @@
       "title": "Surgical Account Manager, New York City",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/New-York-New-York-United-States-of-America/Surgical-Account-Manager--New-York-City_R71108-1"
     },
+    "Medtronic:R71110": {
+      "alerted": false,
+      "first_seen": "2026-07-15T00:02:19.330561+00:00",
+      "location": "North Haven, Connecticut, United States of America",
+      "title": "Senior Packaging Engineer - North Haven",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/North-Haven-Connecticut-United-States-of-America/Senior-Packaging-Engineer---North-Haven_R71110-1"
+    },
     "Medtronic:R71111": {
       "alerted": false,
       "first_seen": "2026-07-07T20:13:54.778565+00:00",
@@ -60309,6 +60316,13 @@
       "title": "Engagement Tech Lead, Agentic AI",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Engagement-Tech-Lead--Agentic-AI_JR2021353"
     },
+    "NVIDIA:JR2021355": {
+      "alerted": false,
+      "first_seen": "2026-07-15T00:02:19.330524+00:00",
+      "location": "2 Locations",
+      "title": "Applied Agentic AI Lead, Partner Co-Design",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Agentic-AI-Lead--Partner-Co-Design_JR2021355"
+    },
     "NVIDIA:JR2021367": {
       "alerted": false,
       "first_seen": "2026-07-14T21:05:38.288761+00:00",
@@ -74806,6 +74820,13 @@
       "title": "Product Manager, Pickup and Dropoff Systems",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=7902413"
     },
+    "Waymo:7902564": {
+      "alerted": false,
+      "first_seen": "2026-07-15T00:02:19.330481+00:00",
+      "location": "City, State, Country [use ; to separate multiple locations]",
+      "title": "[Software] - Job Template",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=7902564"
+    },
     "Waymo:7902582": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.732432+00:00",
@@ -76037,6 +76058,13 @@
       "location": "Mountain View, CA, US; San Francisco, CA, US",
       "title": "Product Manager, New Geo Evaluation",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8055975"
+    },
+    "Waymo:8056217": {
+      "alerted": false,
+      "first_seen": "2026-07-15T00:02:19.330308+00:00",
+      "location": "Tempe, AZ, USA",
+      "title": "Facilities Operations Manager, Structured Testing",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8056217"
     },
     "Waymo:8056720": {
       "alerted": false,
