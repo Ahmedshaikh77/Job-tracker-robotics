@@ -1,5 +1,15 @@
 {
   "company_failures": {
+    "Agility Robotics": {
+      "count": 1,
+      "last_error": "Agility Robotics (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
+      "last_failed_at": "2026-07-16T22:14:14.230979+00:00"
+    },
+    "Apptronik": {
+      "count": 1,
+      "last_error": "Apptronik (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
+      "last_failed_at": "2026-07-16T22:14:14.227392+00:00"
+    },
     "Boston Dynamics": {
       "count": 6,
       "last_error": "Boston Dynamics (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/bostondynamics/jobs?content=true",
@@ -30286,6 +30296,20 @@
       "title": "Senior Growth Marketing Analyst",
       "url": "https://careers.formlabs.com/job/8070283/apply/?gh_jid=8070283"
     },
+    "Formlabs:8070545": {
+      "alerted": false,
+      "first_seen": "2026-07-16T22:14:14.234958+00:00",
+      "location": "Somerville, MA",
+      "title": "Marketing Manager, Dental",
+      "url": "https://careers.formlabs.com/job/8070545/apply/?gh_jid=8070545"
+    },
+    "Formlabs:8070547": {
+      "alerted": false,
+      "first_seen": "2026-07-16T22:14:14.235352+00:00",
+      "location": "Somerville, MA",
+      "title": "Product Marketing Manager, Dental (3D Printing)",
+      "url": "https://careers.formlabs.com/job/8070547/apply/?gh_jid=8070547"
+    },
     "Formlabs:8070550": {
       "alerted": false,
       "first_seen": "2026-07-16T21:13:09.326802+00:00",
@@ -39456,6 +39480,13 @@
       "title": "Clinical Specialist CRM - Lynchburg, VA",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lynchburg-Virginia-United-States-of-America/Clinical-Specialist-CRM---Lynchburg--VA_R68863"
     },
+    "Medtronic:R68870": {
+      "alerted": false,
+      "first_seen": "2026-07-16T22:14:14.235816+00:00",
+      "location": "Fridley, Minnesota, United States of America",
+      "title": "Senior Pricing Strategy Analyst - Minneapolis, MN",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Senior-Pricing-Strategy-Analyst---Minneapolis--MN_R68870-1"
+    },
     "Medtronic:R68873": {
       "alerted": false,
       "first_seen": "2026-06-10T13:50:39.828352+00:00",
@@ -42689,6 +42720,13 @@
       "location": "Charleston, South Carolina, United States of America",
       "title": "Sr. Principal Coronary Cathworks Territory Manager - Charleston, SC",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Charleston-South-Carolina-United-States-of-America/Sr-Principal-Coronary-Cathworks-Territory-Manager---Charleston--SC_R69870-1"
+    },
+    "Medtronic:R69872": {
+      "alerted": false,
+      "first_seen": "2026-07-16T22:14:14.235855+00:00",
+      "location": "Fort Worth, Texas, United States of America",
+      "title": "Design Technician III - On-site",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Fort-Worth-Texas-United-States-of-America/Design-Technician-III---On-site_R69872-1"
     },
     "Medtronic:R69875": {
       "alerted": false,
@@ -49956,6 +49994,13 @@
       "title": "Validation and Qualification Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Validation-and-Qualification-Engineer_JR2008826"
     },
+    "NVIDIA:JR2008988": {
+      "alerted": false,
+      "first_seen": "2026-07-16T22:14:14.235619+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Solutions Architect, Cluster Design and Architecture - Networking",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Solutions-Architect--Cluster-Design-and-Architecture---Networking_JR2008988"
+    },
     "NVIDIA:JR2009074": {
       "alerted": false,
       "first_seen": "2026-06-24T15:57:40.045410+00:00",
@@ -52777,6 +52822,13 @@
       "title": "Materials Manager",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Materials-Manager_JR2016675"
     },
+    "NVIDIA:JR2016689": {
+      "alerted": false,
+      "first_seen": "2026-07-16T22:14:14.235667+00:00",
+      "location": "Mexico, Remote",
+      "title": "Senior Solutions Architect, NVIDIA Cloud Partners - Mexico",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Mexico-Remote/Senior-Solutions-Architect--NVIDIA-Cloud-Partners---Mexico_JR2016689"
+    },
     "NVIDIA:JR2016726": {
       "alerted": false,
       "first_seen": "2026-06-08T11:26:12.804187+00:00",
@@ -53434,6 +53486,13 @@
       "location": "5 Locations",
       "title": "Principal Software Development Engineer, Solid State Drives",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Software-Development-Engineer--Solid-State-Drives_JR2017584"
+    },
+    "NVIDIA:JR2017589": {
+      "alerted": false,
+      "first_seen": "2026-07-16T22:14:14.235715+00:00",
+      "location": "6 Locations",
+      "title": "Senior Account Manager, Financial Services - Insurance",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-NY-Remote/Senior-Account-Manager---Financial-Services_JR2017589"
     },
     "NVIDIA:JR2017590": {
       "alerted": false,
@@ -54323,6 +54382,13 @@
       "location": "3 Locations",
       "title": "Senior Corporate Counsel",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Corporate-Counsel_JR2018365"
+    },
+    "NVIDIA:JR2018368": {
+      "alerted": false,
+      "first_seen": "2026-07-16T22:14:14.235569+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Staff System Software Engineer, RTL-to-GDS Flow Platform",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Staff-System-Software-Engineer--RTL-to-GDS-Flow-Platform_JR2018368"
     },
     "NVIDIA:JR2018369": {
       "alerted": false,
@@ -62149,6 +62215,13 @@
       "location": "Israel, Yokneam",
       "title": "Hardware Failure Analysis Engineer \u2013 Electro-Optic Interconnect",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Hardware-Failure-Analysis-Engineer---Electro-Optic-Interconnect_JR2021380-1"
+    },
+    "NVIDIA:JR2021383": {
+      "alerted": false,
+      "first_seen": "2026-07-16T22:14:14.235772+00:00",
+      "location": "Israel, Yokneam",
+      "title": "Hardware Failure Analysis Engineer \u2013 Physical Failure Analysis",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Hardware-Failure-Analysis-Engineer---Physical-Failure-Analysis_JR2021383"
     },
     "NVIDIA:JR2021386": {
       "alerted": false,
@@ -72615,6 +72688,13 @@
       "title": "Associate Sales Representative - Augusta, GA - Craniomaxillofacial",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Augusta-Georgia/Associate-Sales-Representative---Augusta--GA---Craniomaxillofacial_R568183"
     },
+    "Stryker:R568185": {
+      "alerted": false,
+      "first_seen": "2026-07-16T22:14:14.235431+00:00",
+      "location": "8 Locations",
+      "title": "Strategic Sales Manager - Sustainability Solutions",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Dallas-Texas/Strategic-Sales-Manager---Sustainability-Solutions_R568185"
+    },
     "Stryker:R568186": {
       "alerted": false,
       "first_seen": "2026-07-09T08:43:10.760710+00:00",
@@ -73013,6 +73093,13 @@
       "location": "6 Locations",
       "title": "Sales Representative - New York City - Neurosurgical",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/New-York-New-York/Sales-Representative---New-York-City---Neurosurgical_R568364"
+    },
+    "Stryker:R568365": {
+      "alerted": false,
+      "first_seen": "2026-07-16T22:14:14.235520+00:00",
+      "location": "Mahwah, New Jersey",
+      "title": "Engineer, Product Development",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Mahwah-New-Jersey/Engineer--Product-Development_R568365"
     },
     "Stryker:R568366": {
       "alerted": false,
@@ -74091,6 +74178,13 @@
       "location": "Oslo, Norway",
       "title": "Territory Sales Manager, Trauma\u00a0",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Oslo-Norway/Territory-Sales-Manager--Trauma-_R568818"
+    },
+    "Stryker:R568828": {
+      "alerted": false,
+      "first_seen": "2026-07-16T22:14:14.235478+00:00",
+      "location": "Cary, Illinois",
+      "title": "Senior Project Manager, PMO",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cary-Illinois/Senior-Project-Manager--PMO_R568828"
     },
     "Stryker:R568830": {
       "alerted": false,
