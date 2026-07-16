@@ -1,15 +1,5 @@
 {
   "company_failures": {
-    "Agility Robotics": {
-      "count": 1,
-      "last_error": "Agility Robotics (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
-      "last_failed_at": "2026-07-16T22:14:14.230979+00:00"
-    },
-    "Apptronik": {
-      "count": 1,
-      "last_error": "Apptronik (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
-      "last_failed_at": "2026-07-16T22:14:14.227392+00:00"
-    },
     "Boston Dynamics": {
       "count": 6,
       "last_error": "Boston Dynamics (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/bostondynamics/jobs?content=true",
@@ -2400,6 +2390,13 @@
       "location": "Sunnyvale, California, USA",
       "title": "Applied Scientist, Fauna",
       "url": "https://www.amazon.jobs/en/jobs/10475944/applied-scientist-fauna"
+    },
+    "Amazon:10476897": {
+      "alerted": false,
+      "first_seen": "2026-07-16T23:10:32.960433+00:00",
+      "location": "Melbourne, Victoria, AUS",
+      "title": "PACE Strategic Initiatives Leader, APJC, APJC Prototyping and AI Customer Engineering (PACE)",
+      "url": "https://www.amazon.jobs/en/jobs/10476897/pace-strategic-initiatives-leader-apjc-apjc-prototyping-and-ai-customer-engineering-pace"
     },
     "Anduril:4159543007": {
       "alerted": false,
@@ -8434,6 +8431,13 @@
       "location": "Costa Mesa, California, United States",
       "title": "Law Enforcement Liaison Specialist",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5056348007?gh_jid=5056348007"
+    },
+    "Anduril:5056357007": {
+      "alerted": false,
+      "first_seen": "2026-07-16T23:10:32.961965+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Operations Lead, Space ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5056357007?gh_jid=5056357007"
     },
     "Anduril:5056468007": {
       "alerted": false,
@@ -26578,6 +26582,13 @@
       "location": "Santa Ana, California, United States",
       "title": "Production Scheduler, PES",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5189172007?gh_jid=5189172007"
+    },
+    "Anduril:5189301007": {
+      "alerted": false,
+      "first_seen": "2026-07-16T23:10:32.961310+00:00",
+      "location": "Remote",
+      "title": "Compensation Program Manager",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5189301007?gh_jid=5189301007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -48657,6 +48668,13 @@
       "title": "Senior Quality Engineer",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Danvers-Massachusetts-United-States-of-America/Senior-Quality-Engineer_R72192-2"
     },
+    "Medtronic:R72202": {
+      "alerted": false,
+      "first_seen": "2026-07-16T23:10:32.962019+00:00",
+      "location": "Fort Lauderdale, Florida, United States of America",
+      "title": "Clinical Specialist, Enabling Technologies - Ft. Lauderdale, FL",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Fort-Lauderdale-Florida-United-States-of-America/Clinical-Specialist--Enabling-Technologies---Ft-Lauderdale--FL_R72202-1"
+    },
     "Medtronic:R72210": {
       "alerted": false,
       "first_seen": "2026-07-16T08:40:56.166810+00:00",
@@ -48754,6 +48772,13 @@
       "location": "Mounds View, Minnesota, United States of America",
       "title": "130520 - Quality Engineer I",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/XMLNAME-130520---Quality-Engineer-I_R72277-1"
+    },
+    "Medtronic:R72288": {
+      "alerted": false,
+      "first_seen": "2026-07-16T23:10:32.962064+00:00",
+      "location": "State of Colorado, United States of America",
+      "title": "Field Service Technical Training Specialist - CST",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/State-of-Colorado-United-States-of-America/Field-Service-Technical-Training-Specialist---CST_R72288-1"
     },
     "Medtronic:R72290": {
       "alerted": false,
@@ -52212,6 +52237,13 @@
       "location": "5 Locations",
       "title": "Senior Fortran Compiler Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Senior-Fortran-Compiler-Engineer_JR2015674"
+    },
+    "NVIDIA:JR2015676": {
+      "alerted": false,
+      "first_seen": "2026-07-16T23:10:32.960653+00:00",
+      "location": "6 Locations",
+      "title": "Senior Solutions Architect, Generative AI Deployment and AIOps",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Solutions-Architect--Generative-AI-Deployment-and-AIOps_JR2015676"
     },
     "NVIDIA:JR2015686": {
       "alerted": false,
@@ -56769,6 +56801,13 @@
       "location": "US, CA, Santa Clara",
       "title": "ESD and Latch-up Test Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ESD-and-Latch-up-Test-Engineer_JR2019315"
+    },
+    "NVIDIA:JR2019316": {
+      "alerted": false,
+      "first_seen": "2026-07-16T23:10:32.960527+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Data Administrator, Intellectual Property Records",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Data-Administrator--Intellectual-Property-Records_JR2019316"
     },
     "NVIDIA:JR2019318": {
       "alerted": false,
@@ -62013,6 +62052,13 @@
       "title": "Senior Data Scientist, Voice of the Customer - GeForce NOW",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Data-Scientist--Voice-of-the-Customer---GeForce-NOW_JR2021250"
     },
+    "NVIDIA:JR2021251": {
+      "alerted": false,
+      "first_seen": "2026-07-16T23:10:32.960699+00:00",
+      "location": "2 Locations",
+      "title": "Technical Project Manager - Data Center Construction",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Project-Manager---Data-Center-Construction_JR2021251"
+    },
     "NVIDIA:JR2021257": {
       "alerted": false,
       "first_seen": "2026-07-15T18:18:46.850271+00:00",
@@ -62040,6 +62086,13 @@
       "location": "6 Locations",
       "title": "Senior Solution Engineer for NVIDIA Experience, Compute Software",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Solution-Engineer-for-NVIDIA-Experience--Compute-Software_JR2021269"
+    },
+    "NVIDIA:JR2021271": {
+      "alerted": false,
+      "first_seen": "2026-07-16T23:10:32.960601+00:00",
+      "location": "3 Locations",
+      "title": "Senior Network Modeling Architect",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Network-Modeling-Architect_JR2021271"
     },
     "NVIDIA:JR2021274": {
       "alerted": false,
@@ -73402,6 +73455,13 @@
       "title": "Team Leader, Test - Surgical Support",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Jose-California/Team-Leader--Test---Surgical-Support_R568468-1"
     },
+    "Stryker:R568471": {
+      "alerted": false,
+      "first_seen": "2026-07-16T23:10:32.960481+00:00",
+      "location": "2 Locations",
+      "title": "Lead Data Analyst - Strategic Partnering",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Sydney-Australia/Lead-Data-Analyst---Strategic-Partnering_R568471-1"
+    },
     "Stryker:R568473": {
       "alerted": false,
       "first_seen": "2026-07-16T01:00:24.730999+00:00",
@@ -78854,6 +78914,13 @@
       "location": "Mountain View, CA, USA",
       "title": "Regional Head of U.S. State and Local Policy, WEST",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8065639"
+    },
+    "Waymo:8068768": {
+      "alerted": false,
+      "first_seen": "2026-07-16T23:10:32.960337+00:00",
+      "location": "Mountain View, CA, USA",
+      "title": "Aftermarket Planning & Procurement Lead",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8068768"
     },
     "Waymo:8069588": {
       "alerted": false,
