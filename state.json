@@ -2426,6 +2426,13 @@
       "title": "Machine Learning Scientist / Applied Scientist, EU Prime and Marketing Analytics & Science (PRIMAS)",
       "url": "https://www.amazon.jobs/en/jobs/10477784/machine-learning-scientist-applied-scientist-eu-prime-and-marketing-analytics-science-primas"
     },
+    "Amazon:10477808": {
+      "alerted": true,
+      "first_seen": "2026-07-17T19:46:16.033057+00:00",
+      "location": "Seattle, Washington, USA",
+      "title": "Software Development Engineer II, Amazon Robotics - Manipulation",
+      "url": "https://www.amazon.jobs/en/jobs/10477808/software-development-engineer-ii-amazon-robotics-manipulation"
+    },
     "Anduril:4159543007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.742648+00:00",
@@ -3839,6 +3846,13 @@
       "location": "Costa Mesa, California, United States",
       "title": "Senior Global Supply Manager, Sensors/Mission Systems",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/4841012007?gh_jid=4841012007"
+    },
+    "Anduril:4843948007": {
+      "alerted": false,
+      "first_seen": "2026-07-17T19:46:16.039439+00:00",
+      "location": "Irvine, California, United States",
+      "title": "Systems Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4843948007?gh_jid=4843948007"
     },
     "Anduril:4845566007": {
       "alerted": false,
@@ -26688,6 +26702,13 @@
       "title": "Algorithm Developer, Battlespace Awareness",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5189387007?gh_jid=5189387007"
     },
+    "Anduril:5189388007": {
+      "alerted": false,
+      "first_seen": "2026-07-17T19:46:16.035324+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Director, Planning Process",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5189388007?gh_jid=5189388007"
+    },
     "Anduril:5189446007": {
       "alerted": false,
       "first_seen": "2026-07-17T08:16:01.247936+00:00",
@@ -26736,6 +26757,69 @@
       "location": "Lexington, Massachusetts, United States",
       "title": "Wire bonding Technician",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5189857007?gh_jid=5189857007"
+    },
+    "Anduril:5189877007": {
+      "alerted": false,
+      "first_seen": "2026-07-17T19:46:16.033824+00:00",
+      "location": "Lexington, Massachusetts, United States",
+      "title": "Production Software Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5189877007?gh_jid=5189877007"
+    },
+    "Anduril:5189879007": {
+      "alerted": false,
+      "first_seen": "2026-07-17T19:46:16.036003+00:00",
+      "location": "Lexington, Massachusetts, United States",
+      "title": "Senior Manufacturing Software Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5189879007?gh_jid=5189879007"
+    },
+    "Anduril:5189880007": {
+      "alerted": false,
+      "first_seen": "2026-07-17T19:46:16.037335+00:00",
+      "location": "Lexington, Massachusetts, United States",
+      "title": "Senior Production Software Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5189880007?gh_jid=5189880007"
+    },
+    "Anduril:5189882007": {
+      "alerted": false,
+      "first_seen": "2026-07-17T19:46:16.036701+00:00",
+      "location": "Lexington, Massachusetts, United States",
+      "title": "Senior Mission Software Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5189882007?gh_jid=5189882007"
+    },
+    "Anduril:5189885007": {
+      "alerted": false,
+      "first_seen": "2026-07-17T19:46:16.034527+00:00",
+      "location": "Lexington, Massachusetts, United States",
+      "title": "Senior Deployed Software Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5189885007?gh_jid=5189885007"
+    },
+    "Anduril:5189891007": {
+      "alerted": false,
+      "first_seen": "2026-07-17T19:46:16.038787+00:00",
+      "location": "Lexington, Massachusetts, United States",
+      "title": "Senior Software QA Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5189891007?gh_jid=5189891007"
+    },
+    "Anduril:5189896007": {
+      "alerted": false,
+      "first_seen": "2026-07-17T19:46:16.038033+00:00",
+      "location": "Boulder, Colorado, United States",
+      "title": "Senior Software Engineer, Realtime Imaging",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5189896007?gh_jid=5189896007"
+    },
+    "Anduril:5189898007": {
+      "alerted": false,
+      "first_seen": "2026-07-17T19:46:16.040151+00:00",
+      "location": "Waltham, Massachusetts, United States",
+      "title": "Technical Field Operations Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5189898007?gh_jid=5189898007"
+    },
+    "Anduril:5189900007": {
+      "alerted": false,
+      "first_seen": "2026-07-17T19:46:16.040859+00:00",
+      "location": "Waltham, Massachusetts, United States",
+      "title": "Technical Operations Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5189900007?gh_jid=5189900007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -30503,6 +30587,111 @@
       "title": "NPI Operations Program Manager",
       "url": "https://careers.formlabs.com/job/8070798/apply/?gh_jid=8070798"
     },
+    "Formlabs:8072791": {
+      "alerted": false,
+      "first_seen": "2026-07-17T19:46:16.030081+00:00",
+      "location": "Milwaukee, Wisconsin",
+      "title": "Sales and Services Support Associate",
+      "url": "https://careers.formlabs.com/job/8072791/apply/?gh_jid=8072791"
+    },
+    "Formlabs:8072846": {
+      "alerted": false,
+      "first_seen": "2026-07-17T19:46:16.029284+00:00",
+      "location": "Somerville, MA",
+      "title": "Robotic Systems Integration Engineer (SLA & SLS)   ",
+      "url": "https://careers.formlabs.com/job/8072846/apply/?gh_jid=8072846"
+    },
+    "Formlabs:8072847": {
+      "alerted": true,
+      "first_seen": "2026-07-17T19:46:16.029683+00:00",
+      "location": "Boston, MA",
+      "title": "Robotic Systems Integration Engineer (SLA & SLS)   ",
+      "url": "https://careers.formlabs.com/job/8072847/apply/?gh_jid=8072847"
+    },
+    "Formlabs:8072848": {
+      "alerted": false,
+      "first_seen": "2026-07-17T19:46:16.032641+00:00",
+      "location": "Somerville, MA",
+      "title": "Senior Robotic Systems Integration Engineer (SLA & SLS)   ",
+      "url": "https://careers.formlabs.com/job/8072848/apply/?gh_jid=8072848"
+    },
+    "Formlabs:8072851": {
+      "alerted": false,
+      "first_seen": "2026-07-17T19:46:16.032277+00:00",
+      "location": "Boston, MA",
+      "title": "Senior Robotic Systems Integration Engineer (SLA & SLS)   ",
+      "url": "https://careers.formlabs.com/job/8072851/apply/?gh_jid=8072851"
+    },
+    "Formlabs:8072855": {
+      "alerted": false,
+      "first_seen": "2026-07-17T19:46:16.027963+00:00",
+      "location": "Somerville, MA",
+      "title": "Mechanical Engineer",
+      "url": "https://careers.formlabs.com/job/8072855/apply/?gh_jid=8072855"
+    },
+    "Formlabs:8072856": {
+      "alerted": true,
+      "first_seen": "2026-07-17T19:46:16.027570+00:00",
+      "location": "Boston, MA",
+      "title": "Mechanical Engineer",
+      "url": "https://careers.formlabs.com/job/8072856/apply/?gh_jid=8072856"
+    },
+    "Formlabs:8072860": {
+      "alerted": false,
+      "first_seen": "2026-07-17T19:46:16.028910+00:00",
+      "location": "Somerville, MA",
+      "title": "R&D Reliability/Test Engineer",
+      "url": "https://careers.formlabs.com/job/8072860/apply/?gh_jid=8072860"
+    },
+    "Formlabs:8072864": {
+      "alerted": true,
+      "first_seen": "2026-07-17T19:46:16.028452+00:00",
+      "location": "Boston, MA",
+      "title": "R&D Reliability/Test Engineer",
+      "url": "https://careers.formlabs.com/job/8072864/apply/?gh_jid=8072864"
+    },
+    "Formlabs:8072865": {
+      "alerted": false,
+      "first_seen": "2026-07-17T19:46:16.031929+00:00",
+      "location": "Somerville, MA",
+      "title": "Senior Mechanical Engineer",
+      "url": "https://careers.formlabs.com/job/8072865/apply/?gh_jid=8072865"
+    },
+    "Formlabs:8072866": {
+      "alerted": false,
+      "first_seen": "2026-07-17T19:46:16.031456+00:00",
+      "location": "Boston, MA",
+      "title": "Senior Mechanical Engineer",
+      "url": "https://careers.formlabs.com/job/8072866/apply/?gh_jid=8072866"
+    },
+    "Formlabs:8072867": {
+      "alerted": false,
+      "first_seen": "2026-07-17T19:46:16.027134+00:00",
+      "location": "Boston, MA",
+      "title": "3D Print Optimization Engineer",
+      "url": "https://careers.formlabs.com/job/8072867/apply/?gh_jid=8072867"
+    },
+    "Formlabs:8072868": {
+      "alerted": false,
+      "first_seen": "2026-07-17T19:46:16.026700+00:00",
+      "location": "Somerville, MA",
+      "title": "3D Print Optimization Engineer",
+      "url": "https://careers.formlabs.com/job/8072868/apply/?gh_jid=8072868"
+    },
+    "Formlabs:8072869": {
+      "alerted": false,
+      "first_seen": "2026-07-17T19:46:16.030954+00:00",
+      "location": "Somerville, MA",
+      "title": "Senior 3D Print Optimization Engineer",
+      "url": "https://careers.formlabs.com/job/8072869/apply/?gh_jid=8072869"
+    },
+    "Formlabs:8072870": {
+      "alerted": false,
+      "first_seen": "2026-07-17T19:46:16.030532+00:00",
+      "location": "Boston, MA",
+      "title": "Senior 3D Print Optimization Engineer",
+      "url": "https://careers.formlabs.com/job/8072870/apply/?gh_jid=8072870"
+    },
     "Medtronic:R26267": {
       "alerted": false,
       "first_seen": "2026-06-30T11:19:30.260637+00:00",
@@ -30698,6 +30887,13 @@
       "location": "Riyadh, Riyadh, Saudi Arabia",
       "title": "Cardiac Ablation Solutions Marketing Middle East",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Riyadh-Riyadh-Saudi-Arabia/Cardiac-Ablation-Solutions-Marketing-Middle-East_R56178-1"
+    },
+    "Medtronic:R56238": {
+      "alerted": false,
+      "first_seen": "2026-07-17T19:46:16.041022+00:00",
+      "location": "Brampton, Ontario, Canada",
+      "title": "Payroll Analyst",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Brampton-Ontario-Canada/Payroll-Analyst_R56238-1"
     },
     "Medtronic:R56464": {
       "alerted": false,
@@ -49123,6 +49319,13 @@
       "title": "Advanced Analytics Analyst.",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Bogot-Bogota-Colombia/Advanced-Analytics-Analyst_R72304-1"
     },
+    "Medtronic:R72306": {
+      "alerted": false,
+      "first_seen": "2026-07-17T19:46:16.041063+00:00",
+      "location": "Eatontown, New Jersey, United States of America",
+      "title": "Facilities Technician III, 2nd Shift",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Eatontown-New-Jersey-United-States-of-America/Facilities-Technician-III--2nd-Shift_R72306-1"
+    },
     "Medtronic:R72311": {
       "alerted": false,
       "first_seen": "2026-07-16T15:47:24.672821+00:00",
@@ -49136,6 +49339,13 @@
       "location": "Pittsburgh, Pennsylvania, United States of America",
       "title": "Sales Representative I, Spine - Pittsburgh, PA",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Pittsburgh-Pennsylvania-United-States-of-America/Sales-Representative-I--Spine---Pittsburgh--PA_R72312-1"
+    },
+    "Medtronic:R72321": {
+      "alerted": false,
+      "first_seen": "2026-07-17T19:46:16.040946+00:00",
+      "location": "Buenos Aires, Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+      "title": "Regulatory Affairs Specialist",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Buenos-Aires-Ciudad-Autnoma-de-Buenos-Aires-Argentina/Regulatory-Affairs-Specialist_R72321-1"
     },
     "Medtronic:R72331": {
       "alerted": false,
@@ -49227,6 +49437,13 @@
       "location": "Minneapolis, Minnesota, United States of America",
       "title": "Quality Systems Specialist",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Quality-Systems-Specialist_R72419-1"
+    },
+    "Medtronic:R72514": {
+      "alerted": false,
+      "first_seen": "2026-07-17T19:46:16.040985+00:00",
+      "location": "Alajuela Coyol, Alajuela, Costa Rica",
+      "title": "Intern: High School.",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Alajuela-Coyol-Alajuela-Costa-Rica/Intern--High-School_R72514-1"
     },
     "NVIDIA:JR1968313": {
       "alerted": true,
@@ -62423,6 +62640,13 @@
       "title": "Compiler Engineer, AI Inference- New College Grad 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--AI-Inference--New-College-Grad-2026_JR2021230"
     },
+    "NVIDIA:JR2021231": {
+      "alerted": false,
+      "first_seen": "2026-07-17T19:46:16.040901+00:00",
+      "location": "5 Locations",
+      "title": "Senior Applied AI Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Applied-AI-Engineer_JR2021231-1"
+    },
     "NVIDIA:JR2021233": {
       "alerted": false,
       "first_seen": "2026-07-15T19:39:04.388335+00:00",
@@ -71334,6 +71558,13 @@
       "title": "Senior Principal Specialist, QMS",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Senior-Principal-Specialist--QMS_R567524-1"
     },
+    "Stryker:R567525": {
+      "alerted": false,
+      "first_seen": "2026-07-17T19:46:16.033161+00:00",
+      "location": "4 Locations",
+      "title": "Associate Sales Representative - Philadelphia, PA - Surgical Technologies",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Pennsylvania-Philadelphia-Virtual-Address/Associate-Sales-Representative---Philadelphia--PA---Surgical-Technologies_R567525"
+    },
     "Stryker:R567526": {
       "alerted": false,
       "first_seen": "2026-06-30T15:43:07.513478+00:00",
@@ -75288,6 +75519,13 @@
       "location": "Petoskey, Michigan",
       "title": "Clinical Specialist, Joint Replacement - Petoskey, MI",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Petoskey-Michigan/Clinical-Specialist--Joint-Replacement---Petoskey--MI_R569139"
+    },
+    "Stryker:R569140": {
+      "alerted": false,
+      "first_seen": "2026-07-17T19:46:16.033109+00:00",
+      "location": "Westchester County, New York",
+      "title": "Sales Representative - Southeast New York - Emergency Care (Fire/EMS)",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Westchester-County-New-York/Sales-Representative---Southeast-New-York---Emergency-Care--Fire-EMS-_R569140"
     },
     "Stryker:R569146": {
       "alerted": false,
@@ -79642,6 +79880,13 @@
       "location": "Mountain View, CA, USA; San Francisco, CA USA",
       "title": "Lead Systems Engineer, New Product Initiatives",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8056369"
+    },
+    "Waymo:8056411": {
+      "alerted": false,
+      "first_seen": "2026-07-17T19:46:16.032992+00:00",
+      "location": "Bangalore, Karnataka, India",
+      "title": "Silicon Validation Manager ",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8056411"
     },
     "Waymo:8056720": {
       "alerted": false,
