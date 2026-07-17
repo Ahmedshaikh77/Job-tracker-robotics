@@ -1,5 +1,10 @@
 {
   "company_failures": {
+    "Apptronik": {
+      "count": 1,
+      "last_error": "Apptronik (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
+      "last_failed_at": "2026-07-17T23:06:03.751640+00:00"
+    },
     "Boston Dynamics": {
       "count": 6,
       "last_error": "Boston Dynamics (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/bostondynamics/jobs?content=true",
@@ -25301,6 +25306,13 @@
       "location": "Honolulu, Hawaii, United States",
       "title": "Information Systems Security Officer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5181540007?gh_jid=5181540007"
+    },
+    "Anduril:5181564007": {
+      "alerted": false,
+      "first_seen": "2026-07-17T23:06:03.757180+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Technical Operations Engineer, USMC",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5181564007?gh_jid=5181564007"
     },
     "Anduril:5181639007": {
       "alerted": false,
@@ -62731,6 +62743,13 @@
       "title": "Senior Memory Controller Verification Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Memory-Controller-Verification-Engineer_JR2021156"
     },
+    "NVIDIA:JR2021162": {
+      "alerted": false,
+      "first_seen": "2026-07-17T23:06:03.756469+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Backend Platform Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Backend-Platform-Engineer_JR2021162"
+    },
     "NVIDIA:JR2021165": {
       "alerted": false,
       "first_seen": "2026-07-13T23:11:11.328984+00:00",
@@ -66881,6 +66900,13 @@
       "location": "Arroyo, Puerto Rico",
       "title": "Staff Tooling Engineer",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Arroyo-Puerto-Rico/Staff-Tooling-Engineer_R565764-1"
+    },
+    "Stryker:R565769": {
+      "alerted": false,
+      "first_seen": "2026-07-17T23:06:03.756368+00:00",
+      "location": "Colorado Springs, Colorado",
+      "title": "Clinical Specialist, Joint Replacement - Colorado Springs, CO",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Colorado-Springs-Colorado/Clinical-Specialist--Joint-Replacement---Colorado-Springs--CO_R565769-1"
     },
     "Stryker:R565770": {
       "alerted": false,
@@ -75981,6 +76007,13 @@
       "location": "Birmingham, Alabama",
       "title": "Foot and Ankle Sales Representative - Birmingham, AL",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Birmingham-Alabama/Foot-and-Ankle-Sales-Representative---Birmingham--AL_R569243"
+    },
+    "Stryker:R569246": {
+      "alerted": false,
+      "first_seen": "2026-07-17T23:06:03.756426+00:00",
+      "location": "Los Angeles, California",
+      "title": "Clinical Specialist, Joint Replacement - Los Angeles",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Los-Angeles-California/Clinical-Specialist--Joint-Replacement---Los-Angeles_R569246"
     },
     "Stryker:R569248": {
       "alerted": false,
