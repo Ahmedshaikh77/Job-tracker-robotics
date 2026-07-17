@@ -2405,6 +2405,13 @@
       "title": "Robotics Software Engineer,  Amazon Robotics R&D",
       "url": "https://www.amazon.jobs/en/jobs/10477308/robotics-software-engineer-amazon-robotics-r-d"
     },
+    "Amazon:10477594": {
+      "alerted": false,
+      "first_seen": "2026-07-17T16:46:25.964087+00:00",
+      "location": "London, England, GBR",
+      "title": "Applied Scientist, Demand Tech, Amazon Ads",
+      "url": "https://www.amazon.jobs/en/jobs/10477594/applied-scientist-demand-tech-amazon-ads"
+    },
     "Anduril:4159543007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.742648+00:00",
@@ -25183,6 +25190,13 @@
       "title": "Manufacturing Engineer, Fury",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5180868007?gh_jid=5180868007"
     },
+    "Anduril:5180881007": {
+      "alerted": false,
+      "first_seen": "2026-07-17T16:46:25.965276+00:00",
+      "location": "Irvine, California, United States; Washington, District of Columbia, United States",
+      "title": "International Deployment Manager, Asia-Pacific",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5180881007?gh_jid=5180881007"
+    },
     "Anduril:5180899007": {
       "alerted": false,
       "first_seen": "2026-07-07T01:26:26.349195+00:00",
@@ -26520,6 +26534,13 @@
       "title": "Manager, Mechanical Engineering",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5188161007?gh_jid=5188161007"
     },
+    "Anduril:5188283007": {
+      "alerted": false,
+      "first_seen": "2026-07-17T16:46:25.966873+00:00",
+      "location": "Costa Mesa, California, United States; San Clemente, California, United States",
+      "title": "Test and Evaluation Engineer, Air Defense",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5188283007?gh_jid=5188283007"
+    },
     "Anduril:5188290007": {
       "alerted": false,
       "first_seen": "2026-07-16T01:00:24.732922+00:00",
@@ -26631,6 +26652,13 @@
       "location": "Remote",
       "title": "Compensation Program Manager",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5189301007?gh_jid=5189301007"
+    },
+    "Anduril:5189353007": {
+      "alerted": false,
+      "first_seen": "2026-07-17T16:46:25.966166+00:00",
+      "location": "Ashville, Ohio, United States",
+      "title": "Program Manager, Technician Training",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5189353007?gh_jid=5189353007"
     },
     "Anduril:5189387007": {
       "alerted": false,
@@ -48829,6 +48857,13 @@
       "title": "EP Mapping Specialist - CAS,  New Orleans, LA",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/New-Orleans-Louisiana-United-States-of-America/EP-Mapping-Specialist---CAS---New-Orleans--LA_R72176-1"
     },
+    "Medtronic:R72181": {
+      "alerted": false,
+      "first_seen": "2026-07-17T16:46:25.967010+00:00",
+      "location": "Ciudad Juarez, Chihuahua, Mexico",
+      "title": "Sr Mfg Operations QA Manager",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Ciudad-Juarez-Chihuahua-Mexico/Sr-Mfg-Operations-QA-Manager_R72181-1"
+    },
     "Medtronic:R72188": {
       "alerted": false,
       "first_seen": "2026-07-15T03:19:34.137347+00:00",
@@ -49094,6 +49129,13 @@
       "location": "Minneapolis, Minnesota, United States of America",
       "title": "Physician Relations DIrector - Peripheral Vascular Health",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Physician-Relations-DIrector---Peripheral-Vascular-Health_R72395-1"
+    },
+    "Medtronic:R72396": {
+      "alerted": false,
+      "first_seen": "2026-07-17T16:46:25.966968+00:00",
+      "location": "Mounds View, Minnesota, United States of America",
+      "title": "Calibration/Metrology Technician III",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Calibration-Metrology-Technician-III_R72396"
     },
     "Medtronic:R72409": {
       "alerted": false,
@@ -62647,6 +62689,13 @@
       "title": "Senior Verification Engineer, Switch SoC",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Verification-Engineer--Switch-SoC_JR2021393"
     },
+    "NVIDIA:JR2021400": {
+      "alerted": false,
+      "first_seen": "2026-07-17T16:46:25.966927+00:00",
+      "location": "Switzerland, Zurich",
+      "title": "Robotics Software Engineer - Robot Simulation and Benchmarking",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Robotics-Software-Engineer---Robot-Simulation-and-Benchmarking_JR2021400"
+    },
     "NVIDIA:JR2021402": {
       "alerted": false,
       "first_seen": "2026-07-16T16:54:45.401823+00:00",
@@ -75121,6 +75170,13 @@
       "title": "Clinical Specialist, Joint Replacement - Petoskey, MI",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Petoskey-Michigan/Clinical-Specialist--Joint-Replacement---Petoskey--MI_R569139"
     },
+    "Stryker:R569146": {
+      "alerted": false,
+      "first_seen": "2026-07-17T16:46:25.964217+00:00",
+      "location": "Sandy Springs, Georgia",
+      "title": "Manager, Quality Assurance (Fixed Term - 18 months)",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Sandy-Springs-Georgia/Manager--Quality-Assurance--Fixed-Term---18-months-_R569146-1"
+    },
     "Stryker:R569147": {
       "alerted": false,
       "first_seen": "2026-07-14T05:43:14.210030+00:00",
@@ -75233,6 +75289,13 @@
       "title": "Trauma Sales Representative - Dallas, TX",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Addison-Texas/Trauma-Sales-Representative---Dallas--TX_R569240-1"
     },
+    "Stryker:R569242": {
+      "alerted": false,
+      "first_seen": "2026-07-17T16:46:25.964164+00:00",
+      "location": "Houston, Texas",
+      "title": "Clinical Specialist, Joint Replacement - North Houston, TX",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Houston-Texas/Clinical-Specialist--Joint-Replacement---North-Houston--TX_R569242"
+    },
     "Stryker:R569243": {
       "alerted": false,
       "first_seen": "2026-07-15T14:24:55.143870+00:00",
@@ -75268,6 +75331,34 @@
       "title": "Territory Sales Representative- Pittsburgh, PA- Neurovascular",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Pittsburgh-Pennsylvania/Territory-Sales-Representative--Pittsburgh--PA--Neurovascular_R569276"
     },
+    "Stryker:R569279": {
+      "alerted": false,
+      "first_seen": "2026-07-17T16:46:25.964395+00:00",
+      "location": "Tijuana, Mexico",
+      "title": "Assembler",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tijuana-Mexico/Assembler_R569279"
+    },
+    "Stryker:R569280": {
+      "alerted": false,
+      "first_seen": "2026-07-17T16:46:25.964283+00:00",
+      "location": "Tijuana, Mexico",
+      "title": "Assembler",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tijuana-Mexico/Assembler_R569280"
+    },
+    "Stryker:R569281": {
+      "alerted": false,
+      "first_seen": "2026-07-17T16:46:25.964362+00:00",
+      "location": "Tijuana, Mexico",
+      "title": "Assembler",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tijuana-Mexico/Assembler_R569281"
+    },
+    "Stryker:R569282": {
+      "alerted": false,
+      "first_seen": "2026-07-17T16:46:25.964251+00:00",
+      "location": "Tijuana, Mexico",
+      "title": "Assembler",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tijuana-Mexico/Assembler_R569282"
+    },
     "Stryker:R569295": {
       "alerted": false,
       "first_seen": "2026-07-16T08:40:56.166103+00:00",
@@ -75302,6 +75393,13 @@
       "location": "Florida, Virtual Address",
       "title": "Clinical Specialist, Enabling Technologies (Crestview/Destin/Fort Walton Beach, FL)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Florida-Virtual-Address/Clinical-Specialist--Enabling-Technologies--Crestview-Destin-Fort-Walton-Beach--FL-_R569343"
+    },
+    "Stryker:R569360": {
+      "alerted": false,
+      "first_seen": "2026-07-17T16:46:25.964330+00:00",
+      "location": "Phoenix, Arizona",
+      "title": "Regional Sales Manager, Acute Care, Phoenix, Arizona",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Phoenix-Arizona/Regional-Sales-Manager--Acute-Care--Phoenix--Arizona_R569360"
     },
     "Stryker:R569440": {
       "alerted": false,
