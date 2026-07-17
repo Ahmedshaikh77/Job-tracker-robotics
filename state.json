@@ -4827,6 +4827,13 @@
       "title": "Equipment Engineer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/4955376007?gh_jid=4955376007"
     },
+    "Anduril:4955431007": {
+      "alerted": false,
+      "first_seen": "2026-07-17T20:35:29.051183+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Deputy Chief Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4955431007?gh_jid=4955431007"
+    },
     "Anduril:4955439007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.745641+00:00",
@@ -26821,6 +26828,34 @@
       "title": "Technical Operations Engineer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5189900007?gh_jid=5189900007"
     },
+    "Anduril:5190170007": {
+      "alerted": false,
+      "first_seen": "2026-07-17T20:35:29.054047+00:00",
+      "location": "Morrisville, North Carolina, United States",
+      "title": "Product Sourcing Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5190170007?gh_jid=5190170007"
+    },
+    "Anduril:5190190007": {
+      "alerted": false,
+      "first_seen": "2026-07-17T20:35:29.053398+00:00",
+      "location": "Lexington, Massachusetts, United States",
+      "title": "Mechanical Designer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5190190007?gh_jid=5190190007"
+    },
+    "Anduril:5190193007": {
+      "alerted": false,
+      "first_seen": "2026-07-17T20:35:29.051843+00:00",
+      "location": "Lexington, Massachusetts, United States",
+      "title": "Electrical Hardware Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5190193007?gh_jid=5190193007"
+    },
+    "Anduril:5190195007": {
+      "alerted": false,
+      "first_seen": "2026-07-17T20:35:29.052591+00:00",
+      "location": "Lexington, Massachusetts, United States",
+      "title": "Embedded Software Engineer, C++",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5190195007?gh_jid=5190195007"
+    },
     "Apptronik:5572958004": {
       "alerted": false,
       "first_seen": "2026-06-08T14:54:52.580418+00:00",
@@ -30691,6 +30726,76 @@
       "location": "Boston, MA",
       "title": "Senior 3D Print Optimization Engineer",
       "url": "https://careers.formlabs.com/job/8072870/apply/?gh_jid=8072870"
+    },
+    "Formlabs:8072873": {
+      "alerted": false,
+      "first_seen": "2026-07-17T20:35:29.047081+00:00",
+      "location": "Somerville, MA",
+      "title": "Materials Scientist",
+      "url": "https://careers.formlabs.com/job/8072873/apply/?gh_jid=8072873"
+    },
+    "Formlabs:8072875": {
+      "alerted": false,
+      "first_seen": "2026-07-17T20:35:29.046630+00:00",
+      "location": "Boston, MA",
+      "title": "Materials Scientist",
+      "url": "https://careers.formlabs.com/job/8072875/apply/?gh_jid=8072875"
+    },
+    "Formlabs:8072876": {
+      "alerted": false,
+      "first_seen": "2026-07-17T20:35:29.047961+00:00",
+      "location": "Somerville, MA",
+      "title": "Materials Scientist - Photopolymer Development",
+      "url": "https://careers.formlabs.com/job/8072876/apply/?gh_jid=8072876"
+    },
+    "Formlabs:8072877": {
+      "alerted": false,
+      "first_seen": "2026-07-17T20:35:29.047528+00:00",
+      "location": "Boston, MA",
+      "title": "Materials Scientist - Photopolymer Development",
+      "url": "https://careers.formlabs.com/job/8072877/apply/?gh_jid=8072877"
+    },
+    "Formlabs:8072879": {
+      "alerted": false,
+      "first_seen": "2026-07-17T20:35:29.048782+00:00",
+      "location": "Somerville, MA",
+      "title": "Senior Materials Scientist",
+      "url": "https://careers.formlabs.com/job/8072879/apply/?gh_jid=8072879"
+    },
+    "Formlabs:8072882": {
+      "alerted": false,
+      "first_seen": "2026-07-17T20:35:29.048392+00:00",
+      "location": "Boston, MA",
+      "title": "Senior Materials Scientist",
+      "url": "https://careers.formlabs.com/job/8072882/apply/?gh_jid=8072882"
+    },
+    "Formlabs:8072883": {
+      "alerted": false,
+      "first_seen": "2026-07-17T20:35:29.049594+00:00",
+      "location": "Boston, MA",
+      "title": "Senior SLS Materials Scientist",
+      "url": "https://careers.formlabs.com/job/8072883/apply/?gh_jid=8072883"
+    },
+    "Formlabs:8072884": {
+      "alerted": false,
+      "first_seen": "2026-07-17T20:35:29.049202+00:00",
+      "location": "Somerville, MA",
+      "title": "Senior SLS Materials Scientist",
+      "url": "https://careers.formlabs.com/job/8072884/apply/?gh_jid=8072884"
+    },
+    "Formlabs:8072891": {
+      "alerted": false,
+      "first_seen": "2026-07-17T20:35:29.050374+00:00",
+      "location": "Boston, MA",
+      "title": "SLS Materials Scientist",
+      "url": "https://careers.formlabs.com/job/8072891/apply/?gh_jid=8072891"
+    },
+    "Formlabs:8072906": {
+      "alerted": false,
+      "first_seen": "2026-07-17T20:35:29.049972+00:00",
+      "location": "Somerville, MA",
+      "title": "SLS Materials Scientist",
+      "url": "https://careers.formlabs.com/job/8072906/apply/?gh_jid=8072906"
     },
     "Medtronic:R26267": {
       "alerted": false,
@@ -49438,12 +49543,33 @@
       "title": "Quality Systems Specialist",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Quality-Systems-Specialist_R72419-1"
     },
+    "Medtronic:R72507": {
+      "alerted": false,
+      "first_seen": "2026-07-17T20:35:29.054095+00:00",
+      "location": "Minneapolis, Minnesota, United States of America",
+      "title": "Sales Representative I, Spine - Minneapolis, MN",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Sales-Representative-I--Spine---Minneapolis--MN_R72507"
+    },
+    "Medtronic:R72513": {
+      "alerted": false,
+      "first_seen": "2026-07-17T20:35:29.054140+00:00",
+      "location": "2 Locations",
+      "title": "Financial Consultant - CST Sales Finance",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Financial-Consultant---CST-Sales-Finance_R72513-1"
+    },
     "Medtronic:R72514": {
       "alerted": false,
       "first_seen": "2026-07-17T19:46:16.040985+00:00",
       "location": "Alajuela Coyol, Alajuela, Costa Rica",
       "title": "Intern: High School.",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Alajuela-Coyol-Alajuela-Costa-Rica/Intern--High-School_R72514-1"
+    },
+    "Medtronic:R72520": {
+      "alerted": false,
+      "first_seen": "2026-07-17T20:35:29.054180+00:00",
+      "location": "Alajuela Coyol, Alajuela, Costa Rica",
+      "title": "Intern: High School.",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Alajuela-Coyol-Alajuela-Costa-Rica/Intern--High-School_R72520-1"
     },
     "NVIDIA:JR1968313": {
       "alerted": true,
@@ -75666,6 +75792,13 @@
       "location": "Birmingham, Alabama",
       "title": "Foot and Ankle Sales Representative - Birmingham, AL",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Birmingham-Alabama/Foot-and-Ankle-Sales-Representative---Birmingham--AL_R569243"
+    },
+    "Stryker:R569248": {
+      "alerted": false,
+      "first_seen": "2026-07-17T20:35:29.050426+00:00",
+      "location": "Providence, Rhode Island",
+      "title": "Clinical Specialist, Joint Replacement - Providence, RI",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Providence-Rhode-Island/Clinical-Specialist--Joint-Replacement---Providence--RI_R569248"
     },
     "Stryker:R569261": {
       "alerted": false,
