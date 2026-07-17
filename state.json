@@ -2419,6 +2419,13 @@
       "title": "Simulation & Rendering Engineer, Fauna",
       "url": "https://www.amazon.jobs/en/jobs/10477668/simulation-rendering-engineer-fauna"
     },
+    "Amazon:10477784": {
+      "alerted": false,
+      "first_seen": "2026-07-17T18:42:11.800643+00:00",
+      "location": "Madrid, Community of Madrid, ESP",
+      "title": "Machine Learning Scientist / Applied Scientist, EU Prime and Marketing Analytics & Science (PRIMAS)",
+      "url": "https://www.amazon.jobs/en/jobs/10477784/machine-learning-scientist-applied-scientist-eu-prime-and-marketing-analytics-science-primas"
+    },
     "Anduril:4159543007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.742648+00:00",
@@ -26695,6 +26702,41 @@
       "title": "Mission Integration Engineer, Intelligence Systems",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5189505007?gh_jid=5189505007"
     },
+    "Anduril:5189844007": {
+      "alerted": false,
+      "first_seen": "2026-07-17T18:42:11.803508+00:00",
+      "location": "Lexington, Massachusetts, United States",
+      "title": "Production Test Technician",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5189844007?gh_jid=5189844007"
+    },
+    "Anduril:5189845007": {
+      "alerted": false,
+      "first_seen": "2026-07-17T18:42:11.802203+00:00",
+      "location": "Lexington, Massachusetts, United States",
+      "title": "Manufacturing Test Technician",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5189845007?gh_jid=5189845007"
+    },
+    "Anduril:5189848007": {
+      "alerted": false,
+      "first_seen": "2026-07-17T18:42:11.801530+00:00",
+      "location": "Lexington, Massachusetts, United States",
+      "title": "Engineering Test Technician",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5189848007?gh_jid=5189848007"
+    },
+    "Anduril:5189854007": {
+      "alerted": false,
+      "first_seen": "2026-07-17T18:42:11.802867+00:00",
+      "location": "Lexington, Massachusetts, United States",
+      "title": "Micro-electronics Technician",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5189854007?gh_jid=5189854007"
+    },
+    "Anduril:5189857007": {
+      "alerted": false,
+      "first_seen": "2026-07-17T18:42:11.804160+00:00",
+      "location": "Lexington, Massachusetts, United States",
+      "title": "Wire bonding Technician",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5189857007?gh_jid=5189857007"
+    },
     "Apptronik:5572958004": {
       "alerted": false,
       "first_seen": "2026-06-08T14:54:52.580418+00:00",
@@ -44286,6 +44328,13 @@
       "title": "Cardiac Rhythm Management Senior Sales Rep - Columbia, MO",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Columbia-Missouri-United-States-of-America/Cardiac-Rhythm-Management-Senior-Sales-Rep---Columbia--MO_R70309-1"
     },
+    "Medtronic:R70312": {
+      "alerted": false,
+      "first_seen": "2026-07-17T18:42:11.804284+00:00",
+      "location": "2 Locations",
+      "title": "Principal Systems Engineer",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Principal-Systems-Engineer_R70312-1"
+    },
     "Medtronic:R70322": {
       "alerted": false,
       "first_seen": "2026-06-23T21:53:14.140659+00:00",
@@ -49025,6 +49074,13 @@
       "title": "Sr. Product Manager - US Downstream Nerve Monitoring",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Jacksonville-Florida-United-States-of-America/Sr-Product-Manager---US-Downstream-Nerve-Monitoring_R72278-1"
     },
+    "Medtronic:R72280": {
+      "alerted": false,
+      "first_seen": "2026-07-17T18:42:11.804248+00:00",
+      "location": "10 Locations",
+      "title": "Category Sourcing Manager - Specialty Material",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Santa-Ana-California-United-States-of-America/Category-Sourcing-Manager---Specialty-Material_R72280-2"
+    },
     "Medtronic:R72288": {
       "alerted": false,
       "first_seen": "2026-07-16T23:10:32.962064+00:00",
@@ -51047,6 +51103,13 @@
       "location": "5 Locations",
       "title": "Director, Rack Scale Software Architecture",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director--Rack-Scale-Software-Architecture_JR2012499"
+    },
+    "NVIDIA:JR2012501": {
+      "alerted": false,
+      "first_seen": "2026-07-17T18:42:11.804205+00:00",
+      "location": "3 Locations",
+      "title": "Senior Software Engineer, Compute Sanitizer - GPU",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Remote/Senior-Software-Engineer--Compute-Sanitizer---GPU_JR2012501"
     },
     "NVIDIA:JR2012512": {
       "alerted": false,
@@ -63802,6 +63865,13 @@
       "title": "Senior Staff R&D Engineer, Mechanical",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cork-Ireland/Senior-Staff-R-D-Engineer--Mechanical_R561513"
     },
+    "Stryker:R561517": {
+      "alerted": false,
+      "first_seen": "2026-07-17T18:42:11.800737+00:00",
+      "location": "Cork, Ireland",
+      "title": "Senior R&D Engineer, Electrical",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cork-Ireland/Senior-R-D-Engineer--Electrical_R561517"
+    },
     "Stryker:R561541": {
       "alerted": false,
       "first_seen": "2026-06-12T14:13:48.653284+00:00",
@@ -74855,6 +74925,13 @@
       "title": "Staff Embedded Software & Controls Engineer",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Flower-Mound-Texas/Staff-Embedded-Software---Controls-Engineer_R568863"
     },
+    "Stryker:R568864": {
+      "alerted": false,
+      "first_seen": "2026-07-17T18:42:11.800849+00:00",
+      "location": "2 Locations",
+      "title": "Sales Representative - Dallas/Ft.Worth, TX - Neurosurgical",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Fort-Worth-Texas/Sales-Representative---Dallas-FtWorth--TX---Neurosurgical_R568864"
+    },
     "Stryker:R568868": {
       "alerted": false,
       "first_seen": "2026-07-13T15:49:00.748763+00:00",
@@ -74924,6 +75001,13 @@
       "location": "7 Locations",
       "title": "Territory Sales Manager, (Haemorrhagic portfolio) - South Central & South West",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Bristol-England/Territory-Sales-Manager---Haemorrhagic-portfolio----South-Central---South-West_R568931"
+    },
+    "Stryker:R568932": {
+      "alerted": false,
+      "first_seen": "2026-07-17T18:42:11.800695+00:00",
+      "location": "6 Locations",
+      "title": "Senior Commodity Management - Plastics and Packaging (Remote)",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Kalamazoo-Michigan/Senior-Commodity-Management---Plastics-and-Packaging--Remote-_R568932"
     },
     "Stryker:R568934": {
       "alerted": false,
@@ -75078,6 +75162,13 @@
       "location": "2 Locations",
       "title": "Product Safety Engineer",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Product-Safety-Engineer_R569027"
+    },
+    "Stryker:R569030": {
+      "alerted": false,
+      "first_seen": "2026-07-17T18:42:11.800782+00:00",
+      "location": "3 Locations",
+      "title": "Senior Employee Communications Specialist (Remote)",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Lansing-Michigan/Senior-Employee-Communications-Specialist--Remote-_R569030"
     },
     "Stryker:R569055": {
       "alerted": false,
@@ -79600,6 +79691,13 @@
       "location": "Hyderabad, India",
       "title": "Technical Specialist, ML Data",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8069588"
+    },
+    "Waymo:8070805": {
+      "alerted": false,
+      "first_seen": "2026-07-17T18:42:11.800532+00:00",
+      "location": "Mountain View, CA;  San Francisco, CA",
+      "title": "Technical Program Manager, Systems Engineering ",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8070805"
     }
   }
 }
