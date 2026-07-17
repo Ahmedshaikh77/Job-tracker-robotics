@@ -2412,6 +2412,13 @@
       "title": "Applied Scientist, Demand Tech, Amazon Ads",
       "url": "https://www.amazon.jobs/en/jobs/10477594/applied-scientist-demand-tech-amazon-ads"
     },
+    "Amazon:10477668": {
+      "alerted": false,
+      "first_seen": "2026-07-17T17:47:20.894032+00:00",
+      "location": "New York, New York, USA",
+      "title": "Simulation & Rendering Engineer, Fauna",
+      "url": "https://www.amazon.jobs/en/jobs/10477668/simulation-rendering-engineer-fauna"
+    },
     "Anduril:4159543007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.742648+00:00",
@@ -5092,6 +5099,13 @@
       "location": "Costa Mesa, California, United States",
       "title": "Staff Buyer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/4973953007?gh_jid=4973953007"
+    },
+    "Anduril:4974588007": {
+      "alerted": false,
+      "first_seen": "2026-07-17T17:47:20.894787+00:00",
+      "location": "Santa Ana, California, United States",
+      "title": "Production Supervisor, Missiles",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4974588007?gh_jid=4974588007"
     },
     "Anduril:4975849007": {
       "alerted": false,
@@ -37187,6 +37201,13 @@
       "location": "Mexico City, Distrito Federal, Mexico",
       "title": "Associate Credit Services Representative (Temporal)",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mexico-City-Distrito-Federal-Mexico/Associate-Credit-Services-Representative--Temporal-_R68119-1"
+    },
+    "Medtronic:R68122": {
+      "alerted": false,
+      "first_seen": "2026-07-17T17:47:20.894834+00:00",
+      "location": "San Isidro, Santo Domingo, Dominican Republic",
+      "title": "Mfg Maint Tech V",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/San-Isidro-Santo-Domingo-Dominican-Republic/Mfg-Maint-Tech-V_R68122-1"
     },
     "Medtronic:R68124": {
       "alerted": false,
@@ -75107,6 +75128,13 @@
       "title": "Ing\u00e9nieur d'application Medtech - Mako product specialist - Gironde (H/F)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Bordeaux-France/Ingnieur-d-application-Medtech---Mako-product-specialist---Gironde--H-F-_R569083"
     },
+    "Stryker:R569092": {
+      "alerted": false,
+      "first_seen": "2026-07-17T17:47:20.894951+00:00",
+      "location": "Arlington, Tennessee",
+      "title": "Staff CAPA Specialist",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Arlington-Tennessee/Staff-CAPA-Specialist_R569092"
+    },
     "Stryker:R569093": {
       "alerted": false,
       "first_seen": "2026-07-10T18:38:08.679422+00:00",
@@ -75254,6 +75282,13 @@
       "title": "Trauma Sales Representative-  Syracuse, NY",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Syracuse-New-York/Trauma-Sales-Representative---Syracuse--NY_R569191"
     },
+    "Stryker:R569193": {
+      "alerted": false,
+      "first_seen": "2026-07-17T17:47:20.894877+00:00",
+      "location": "District of Columbia, Washington",
+      "title": "OnSite Specialist - FairFax, VA",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/District-of-Columbia-Washington/OnSite-Specialist---FairFax--VA_R569193"
+    },
     "Stryker:R569195": {
       "alerted": false,
       "first_seen": "2026-07-15T19:39:04.385751+00:00",
@@ -75330,6 +75365,13 @@
       "location": "Pittsburgh, Pennsylvania",
       "title": "Territory Sales Representative- Pittsburgh, PA- Neurovascular",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Pittsburgh-Pennsylvania/Territory-Sales-Representative--Pittsburgh--PA--Neurovascular_R569276"
+    },
+    "Stryker:R569277": {
+      "alerted": false,
+      "first_seen": "2026-07-17T17:47:20.894912+00:00",
+      "location": "Tijuana, Mexico",
+      "title": "Assembler",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tijuana-Mexico/Assembler_R569277"
     },
     "Stryker:R569279": {
       "alerted": false,
