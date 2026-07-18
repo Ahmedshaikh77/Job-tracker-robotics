@@ -1,10 +1,5 @@
 {
   "company_failures": {
-    "Apptronik": {
-      "count": 1,
-      "last_error": "Apptronik (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
-      "last_failed_at": "2026-07-17T23:06:03.751640+00:00"
-    },
     "Boston Dynamics": {
       "count": 6,
       "last_error": "Boston Dynamics (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/bostondynamics/jobs?content=true",
@@ -22850,6 +22845,13 @@
       "title": "Analytics Engineer, Talent Aquisition",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5172166007?gh_jid=5172166007"
     },
+    "Anduril:5172215007": {
+      "alerted": false,
+      "first_seen": "2026-07-18T00:02:08.777622+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Product Manager, Manufacturing Software",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5172215007?gh_jid=5172215007"
+    },
     "Anduril:5172268007": {
       "alerted": false,
       "first_seen": "2026-06-25T16:05:01.549132+00:00",
@@ -27847,6 +27849,27 @@
       "location": "Austin, TX",
       "title": "Staff Electrical Engineer - Dexterity",
       "url": "https://boards.greenhouse.io/apptronik/jobs/6118867004?gh_jid=6118867004"
+    },
+    "Apptronik:6119186004": {
+      "alerted": false,
+      "first_seen": "2026-07-18T00:02:08.776383+00:00",
+      "location": "Mountain View, California, United States",
+      "title": "Director of Product Management, Software",
+      "url": "https://boards.greenhouse.io/apptronik/jobs/6119186004?gh_jid=6119186004"
+    },
+    "Apptronik:6119206004": {
+      "alerted": false,
+      "first_seen": "2026-07-18T00:02:08.775856+00:00",
+      "location": "Austin, TX",
+      "title": "Director of Product Management, Hardware",
+      "url": "https://boards.greenhouse.io/apptronik/jobs/6119206004?gh_jid=6119206004"
+    },
+    "Apptronik:6119221004": {
+      "alerted": false,
+      "first_seen": "2026-07-18T00:02:08.776766+00:00",
+      "location": "Austin, TX",
+      "title": "Senior Product Manager, Perception and Navigation",
+      "url": "https://boards.greenhouse.io/apptronik/jobs/6119221004?gh_jid=6119221004"
     },
     "Formlabs:4994162": {
       "alerted": false,
@@ -46194,6 +46217,13 @@
       "location": "Pasadena, California, United States of America",
       "title": "Associate Mapping Specialist | In Training",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Pasadena-California-United-States-of-America/Associate-Mapping-Specialist---In-Training_R70852-1"
+    },
+    "Medtronic:R70854": {
+      "alerted": false,
+      "first_seen": "2026-07-18T00:02:08.778166+00:00",
+      "location": "State of Minnesota, United States of America",
+      "title": "Prior Authorization Supervisor - ENT - Remote",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/State-of-Minnesota-United-States-of-America/Prior-Authorization-Supervisor---ENT---Remote_R70854"
     },
     "Medtronic:R70858": {
       "alerted": false,
@@ -80081,6 +80111,13 @@
       "location": "Washington DC ",
       "title": "Network Delivery Program Manager",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8044454"
+    },
+    "Waymo:8044534": {
+      "alerted": false,
+      "first_seen": "2026-07-18T00:02:08.778115+00:00",
+      "location": "Mountain View, CA, USA",
+      "title": "AI Enablement Lead",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8044534"
     },
     "Waymo:8044544": {
       "alerted": false,
