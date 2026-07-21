@@ -27059,6 +27059,13 @@
       "title": "Senior ElectroMechanical Engineer, Connected Warfare",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5190505007?gh_jid=5190505007"
     },
+    "Anduril:5190515007": {
+      "alerted": false,
+      "first_seen": "2026-07-21T03:36:47.655582+00:00",
+      "location": "Quincy, Massachusetts, United States",
+      "title": "Test & Evaluation Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5190515007?gh_jid=5190515007"
+    },
     "Anduril:5190747007": {
       "alerted": false,
       "first_seen": "2026-07-20T14:26:48.512037+00:00",
@@ -27107,6 +27114,20 @@
       "location": "Costa Mesa, California, United States",
       "title": "Game Development Engineer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5191572007?gh_jid=5191572007"
+    },
+    "Anduril:5191762007": {
+      "alerted": false,
+      "first_seen": "2026-07-21T03:36:47.654799+00:00",
+      "location": "Sydney, New South Wales, Australia",
+      "title": "Manufacturing Test Lead ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5191762007?gh_jid=5191762007"
+    },
+    "Anduril:5191771007": {
+      "alerted": false,
+      "first_seen": "2026-07-21T03:36:47.654085+00:00",
+      "location": "Sydney, New South Wales, Australia",
+      "title": "Manufacturing Test Automation Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5191771007?gh_jid=5191771007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -31118,6 +31139,13 @@
       "location": "Perrysburg, OH",
       "title": "Manufacturing Maintenance Technician",
       "url": "https://careers.formlabs.com/job/8074899/apply/?gh_jid=8074899"
+    },
+    "Formlabs:8076134": {
+      "alerted": false,
+      "first_seen": "2026-07-21T03:36:47.652279+00:00",
+      "location": "Newark, NJ",
+      "title": "Newark - Field Service Technician",
+      "url": "https://careers.formlabs.com/job/8076134/apply/?gh_jid=8076134"
     },
     "Medtronic:R26267": {
       "alerted": false,
@@ -50425,6 +50453,20 @@
       "title": "Senior Solutions Architect, Autonomous Vehicles - Data Center",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Solutions-Architect--Autonomous-Vehicles-and-Robotics_JR1995134"
     },
+    "NVIDIA:JR1995883": {
+      "alerted": false,
+      "first_seen": "2026-07-21T03:36:47.652400+00:00",
+      "location": "5 Locations",
+      "title": "Engineering Manager, AI Developer Technology",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Engineering-Manager--AI-Developer-Technology_JR1995883"
+    },
+    "NVIDIA:JR1996103": {
+      "alerted": false,
+      "first_seen": "2026-07-21T03:36:47.652445+00:00",
+      "location": "6 Locations",
+      "title": "Senior Developer Technology Engineer - AI",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Developer-Technology-Engineer---AI_JR1996103"
+    },
     "NVIDIA:JR1996363": {
       "alerted": false,
       "first_seen": "2026-06-04T06:47:28.735481+00:00",
@@ -53148,6 +53190,13 @@
       "title": "Field Applications Engineer, Embedded Systems - NALA",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Field-Applications-Engineer--Embedded-Systems---NALA_JR2014493"
     },
+    "NVIDIA:JR2014496": {
+      "alerted": false,
+      "first_seen": "2026-07-21T03:36:47.653049+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Manager, Systems Software Engineering - GeForce NOW Cloud",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--Systems-Software-Engineering---GeForce-NOW-Cloud_JR2014496"
+    },
     "NVIDIA:JR2014509": {
       "alerted": false,
       "first_seen": "2026-05-28T14:56:52.832306+00:00",
@@ -54442,6 +54491,13 @@
       "location": "India, Pune",
       "title": "Senior System Software Engineer - Metropolis",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Pune/Senior-System-Software-Engineer---Metropolis_JR2016751"
+    },
+    "NVIDIA:JR2016753": {
+      "alerted": false,
+      "first_seen": "2026-07-21T03:36:47.653141+00:00",
+      "location": "Israel, Tel Aviv",
+      "title": "Senior Software Engineer, LLM Inference",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Software-Engineer--Deep-Learning-Inference_JR2016753"
     },
     "NVIDIA:JR2016759": {
       "alerted": false,
@@ -63704,6 +63760,13 @@
       "title": "Senior Business Systems Analyst - SAP Master Data Management",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Business-Systems-Analyst---SAP-Master-Data-Management_JR2021195"
     },
+    "NVIDIA:JR2021196": {
+      "alerted": false,
+      "first_seen": "2026-07-21T03:36:47.652956+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Frontend Engineer, NVIDIA Marketplace",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Frontend-Engineer--NVIDIA-Marketplace_JR2021196"
+    },
     "NVIDIA:JR2021197": {
       "alerted": false,
       "first_seen": "2026-07-14T18:53:52.589218+00:00",
@@ -63767,6 +63830,13 @@
       "title": "Senior Solutions Architect, First Time Deployment Validation - NVIS",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Solutions-Architect--First-Time-Deployment-Validation---NVIS_JR2021226"
     },
+    "NVIDIA:JR2021228": {
+      "alerted": false,
+      "first_seen": "2026-07-21T03:36:47.652493+00:00",
+      "location": "6 Locations",
+      "title": "Compiler Engineer, Infrastructure  - New College Grad 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Infrastructure----New-College-Grad-2026_JR2021228"
+    },
     "NVIDIA:JR2021230": {
       "alerted": false,
       "first_seen": "2026-07-13T22:11:44.579362+00:00",
@@ -63822,6 +63892,13 @@
       "location": "4 Locations",
       "title": "Manager, First Time Deployment - NVIS",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--First-Time-Deployment---NVIS_JR2021239"
+    },
+    "NVIDIA:JR2021240": {
+      "alerted": false,
+      "first_seen": "2026-07-21T03:36:47.653099+00:00",
+      "location": "3 Locations",
+      "title": "Senior Deep Learning and Computer Vision Engineer - Autonomous Vehicles",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Deep-Learning-and-Computer-Vision-Engineer---Autonomous-Vehicles_JR2021240"
     },
     "NVIDIA:JR2021241": {
       "alerted": false,
@@ -64047,6 +64124,13 @@
       "title": "Senior Software Engineer, Spatial Intelligence and Foundation Models",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Spatial-Intelligence-and-Foundation-Models_JR2021311-1"
     },
+    "NVIDIA:JR2021314": {
+      "alerted": false,
+      "first_seen": "2026-07-21T03:36:47.652825+00:00",
+      "location": "India, Bengaluru",
+      "title": "Senior System Software Engineer -  Halos Core and Robotics Platform",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-System-Software-Engineer----Halos-Core-and-Robotics-Platform_JR2021314"
+    },
     "NVIDIA:JR2021318": {
       "alerted": false,
       "first_seen": "2026-07-16T01:00:24.731601+00:00",
@@ -64151,6 +64235,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Principal SoC Architect, Robotics and Automotive",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-SoC-Architect--Robotics-and-Automotive_JR2021367"
+    },
+    "NVIDIA:JR2021368": {
+      "alerted": false,
+      "first_seen": "2026-07-21T03:36:47.652543+00:00",
+      "location": "3 Locations",
+      "title": "Senior System Software Engineer - Halos Core and Robotics Platform",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-System-Software-Engineer---Halos-Core-and-Robotics-Platform_JR2021368"
     },
     "NVIDIA:JR2021370": {
       "alerted": false,
@@ -64320,12 +64411,26 @@
       "title": "Senior Platform Engineer, Network Infrastructure - DGX Cloud",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Platform-Engineer--Network-Infrastructure---DGX-Cloud_JR2021436"
     },
+    "NVIDIA:JR2021443": {
+      "alerted": false,
+      "first_seen": "2026-07-21T03:36:47.653187+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Staff Engineer - Enterprise Messaging and Exchange",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Staff-Engineer---Enterprise-Messaging-and-Exchange_JR2021443"
+    },
     "NVIDIA:JR2021456": {
       "alerted": false,
       "first_seen": "2026-07-16T01:00:24.731213+00:00",
       "location": "6 Locations",
       "title": "Account Manager, Healthcare MedTech",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Account-Manager--Healthcare-MedTech_JR2021456"
+    },
+    "NVIDIA:JR2021461": {
+      "alerted": false,
+      "first_seen": "2026-07-21T03:36:47.652776+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Systems Software Engineer - Fleet Debuggability",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---Fleet-Debuggability_JR2021461"
     },
     "NVIDIA:JR2021464": {
       "alerted": false,
@@ -64369,12 +64474,26 @@
       "title": "VLSI Design Automation Software Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/VLSI-Design-Automation-Software-Engineer_JR2021481"
     },
+    "NVIDIA:JR2021485": {
+      "alerted": false,
+      "first_seen": "2026-07-21T03:36:47.652689+00:00",
+      "location": "India, Remote",
+      "title": "Mechanical Product Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Remote/Mechanical-Product-Engineer_JR2021485"
+    },
     "NVIDIA:JR2021486": {
       "alerted": true,
       "first_seen": "2026-07-20T09:43:50.449704+00:00",
       "location": "US, CA, Santa Clara",
       "title": "Embedded Software Engineer - RISCV",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Embedded-Software-Engineer---RISCV_JR2021486"
+    },
+    "NVIDIA:JR2021491": {
+      "alerted": false,
+      "first_seen": "2026-07-21T03:36:47.653266+00:00",
+      "location": "Israel, Beer Sheva",
+      "title": "Senior Chip Design Verification Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Beer-Sheva/Senior-Chip-Design-Verification-Engineer_JR2021491"
     },
     "NVIDIA:JR2021493": {
       "alerted": false,
@@ -64509,6 +64628,34 @@
       "title": "Senior Systems Software Engineer, Compute Stack Acceleration",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer--Compute-Stack-Acceleration_JR2021549"
     },
+    "NVIDIA:JR2021551": {
+      "alerted": false,
+      "first_seen": "2026-07-21T03:36:47.652730+00:00",
+      "location": "India, Bengaluru",
+      "title": "Analog Mask Design Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Analog-Mask-Design-Engineer_JR2021551"
+    },
+    "NVIDIA:JR2021603": {
+      "alerted": false,
+      "first_seen": "2026-07-21T03:36:47.652915+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Software Engineer - GeForce NOW Video Streaming",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---GeForce-NOW-Video-Streaming_JR2021603"
+    },
+    "NVIDIA:JR2021605": {
+      "alerted": false,
+      "first_seen": "2026-07-21T03:36:47.652872+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "System Software Engineer - GeForce NOW Low Latency Streaming",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---GeForce-NOW-Low-Latency-Streaming_JR2021605"
+    },
+    "NVIDIA:JR2021622": {
+      "alerted": false,
+      "first_seen": "2026-07-21T03:36:47.652586+00:00",
+      "location": "2 Locations",
+      "title": "Senior Compiler Optimization Engineer - MLIR",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Redmond/Senior-Compiler-Optimization-Engineer---MLIR_JR2021622"
+    },
     "NVIDIA:JR2021656": {
       "alerted": false,
       "first_seen": "2026-07-20T14:26:48.508537+00:00",
@@ -64529,6 +64676,20 @@
       "location": "4 Locations",
       "title": "HPC Performance Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-OR-Remote/HPC-Performance-Engineer_JR2021671"
+    },
+    "NVIDIA:JR2021692": {
+      "alerted": false,
+      "first_seen": "2026-07-21T03:36:47.653002+00:00",
+      "location": "3 Locations",
+      "title": "Senior Software Engineer \u2013 Streaming",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---Streaming_JR2021692"
+    },
+    "NVIDIA:JR2021754": {
+      "alerted": false,
+      "first_seen": "2026-07-21T03:36:47.652648+00:00",
+      "location": "3 Locations",
+      "title": "Senior Manager, Customer Program Management\u2013 Datacenter Engineering and Operations",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Manager--Customer-Program-Management--Datacenter-Engineering-and-Operations_JR2021754"
     },
     "Stryker:R498593": {
       "alerted": false,
@@ -77451,6 +77612,13 @@
       "location": "Gurugram, India",
       "title": "Intern",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Gurugram-India/Intern_R569445"
+    },
+    "Stryker:R569491": {
+      "alerted": false,
+      "first_seen": "2026-07-21T03:36:47.652353+00:00",
+      "location": "Metairie, Louisiana",
+      "title": "Trauma Sales Representative - Greater New Orleans, LA",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Metairie-Louisiana/Trauma-Sales-Representative---Greater-New-Orleans--LA_R569491-1"
     },
     "Waymo:6367980": {
       "alerted": false,
