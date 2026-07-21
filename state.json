@@ -2517,6 +2517,13 @@
       "title": "Software Development Manager, Amazon Robotics",
       "url": "https://www.amazon.jobs/en/jobs/10480578/software-development-manager-amazon-robotics"
     },
+    "Amazon:10480752": {
+      "alerted": false,
+      "first_seen": "2026-07-21T21:00:03.111110+00:00",
+      "location": "Seattle, Washington, USA",
+      "title": "Senior Software Eng, Amazon Robotics",
+      "url": "https://www.amazon.jobs/en/jobs/10480752/senior-software-eng-amazon-robotics"
+    },
     "Anduril:4159543007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.742648+00:00",
@@ -19968,6 +19975,13 @@
       "title": "Senior Director of Production, Rocket Motors",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5158207007?gh_jid=5158207007"
     },
+    "Anduril:5158239007": {
+      "alerted": false,
+      "first_seen": "2026-07-21T21:00:03.112212+00:00",
+      "location": "Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States",
+      "title": "Android Engineer ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5158239007?gh_jid=5158239007"
+    },
     "Anduril:5158245007": {
       "alerted": false,
       "first_seen": "2026-06-10T06:03:39.522572+00:00",
@@ -27009,6 +27023,13 @@
       "location": "Ashville, Ohio, United States",
       "title": "Program Manager, Technician Training",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5189353007?gh_jid=5189353007"
+    },
+    "Anduril:5189372007": {
+      "alerted": false,
+      "first_seen": "2026-07-21T21:00:03.113186+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Technical Operations Engineer Trainer, Connected Warfare",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5189372007?gh_jid=5189372007"
     },
     "Anduril:5189387007": {
       "alerted": false,
@@ -46617,6 +46638,13 @@
       "title": "Senior Data Management Manager - Global Supply Management Procure to Pay",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Senior-Data-Management-Manager---Global-Supply-Management-Procure-to-Pay_R70730"
     },
+    "Medtronic:R70734": {
+      "alerted": false,
+      "first_seen": "2026-07-21T21:00:03.113240+00:00",
+      "location": "Tijuana, Baja California, Mexico",
+      "title": "Ing. Calidad a Proveedores I",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Tijuana-Baja-California-Mexico/Ing-Calidad-a-Proveedores-I_R70734-1"
+    },
     "Medtronic:R70736": {
       "alerted": false,
       "first_seen": "2026-07-07T21:40:27.392047+00:00",
@@ -47744,6 +47772,13 @@
       "title": "Assembler  I",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Ho-Chi-Minh-City-Ho-Chi-Minh-City-Vietnam/Assembler--I_R71197-1"
     },
+    "Medtronic:R71202": {
+      "alerted": false,
+      "first_seen": "2026-07-21T21:00:03.113280+00:00",
+      "location": "Warsaw, Indiana, United States of America",
+      "title": "Calibration/Metrology Tech I",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Warsaw-Indiana-United-States-of-America/Calibration-Metrology-Tech-I_R71202-2"
+    },
     "Medtronic:R71203": {
       "alerted": false,
       "first_seen": "2026-07-02T13:05:52.685166+00:00",
@@ -48597,6 +48632,13 @@
       "location": "Lima, Lima, Peru",
       "title": "Analista de Licitaciones / Lima",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lima-Lima-Peru/Analista-de-Licitaciones---Lima_R71479"
+    },
+    "Medtronic:R71486": {
+      "alerted": false,
+      "first_seen": "2026-07-21T21:00:03.113366+00:00",
+      "location": "San Isidro, Santo Domingo, Dominican Republic",
+      "title": "Sr Microbiologist-Steriliz",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/San-Isidro-Santo-Domingo-Dominican-Republic/Sr-Microbiologist-Steriliz_R71486-1"
     },
     "Medtronic:R71490": {
       "alerted": false,
@@ -50775,6 +50817,13 @@
       "title": "Intern: High School.",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Alajuela-Coyol-Alajuela-Costa-Rica/Intern--High-School_R72514-1"
     },
+    "Medtronic:R72519": {
+      "alerted": false,
+      "first_seen": "2026-07-21T21:00:03.113325+00:00",
+      "location": "Buenos Aires El Talar, Buenos Aires , Argentina",
+      "title": "Quality Systems Specialist / Argentina",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Buenos-Aires-El-Talar-Buenos-Aires--Argentina/Quality-Systems-Specialist---Argentina_R72519-1"
+    },
     "Medtronic:R72520": {
       "alerted": false,
       "first_seen": "2026-07-17T20:35:29.054180+00:00",
@@ -51055,6 +51104,13 @@
       "title": "Software Engineering Manager - Image and Data Compression Libraries",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Software-Engineering-Manager---Image-and-Data-Compression-Libraries_JR1990877"
     },
+    "NVIDIA:JR1994884": {
+      "alerted": false,
+      "first_seen": "2026-07-21T21:00:03.111233+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Networking Architect",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Networking-Architect_JR1994884"
+    },
     "NVIDIA:JR1994983": {
       "alerted": false,
       "first_seen": "2026-06-06T18:58:09.309616+00:00",
@@ -51096,6 +51152,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Senior Software Program Manager - Datacenter Compute Server",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Program-Manager---Datacenter-Compute-Server_JR1996363"
+    },
+    "NVIDIA:JR1996377": {
+      "alerted": false,
+      "first_seen": "2026-07-21T21:00:03.111270+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Networking Architect",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Networking-Architect_JR1996377"
     },
     "NVIDIA:JR1996397": {
       "alerted": false,
@@ -51201,6 +51264,13 @@
       "location": "2 Locations",
       "title": "DFT ATPG Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/DFT-ATPG-Engineer_JR1998055"
+    },
+    "NVIDIA:JR1998106": {
+      "alerted": false,
+      "first_seen": "2026-07-21T21:00:03.111315+00:00",
+      "location": "4 Locations",
+      "title": "Senior Software Engineer, Networking Software",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Networking-Software_JR1998106"
     },
     "NVIDIA:JR1998124": {
       "alerted": false,
@@ -53287,6 +53357,13 @@
       "location": "6 Locations",
       "title": "Senior VLSI CAD Software Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-VLSI-CAD-Software-Engineer_JR2013348"
+    },
+    "NVIDIA:JR2013354": {
+      "alerted": false,
+      "first_seen": "2026-07-21T21:00:03.111190+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Technical Program Manager \u2013 VLSI",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager---VLSI_JR2013354"
     },
     "NVIDIA:JR2013372": {
       "alerted": false,
@@ -77620,6 +77697,13 @@
       "title": "Senior Project Manager, Advanced Operations (m/f/d)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tuttlingen-Germany/Senior-Project-Manager--Advanced-Operations--m-f-d-_R568789"
     },
+    "Stryker:R568794": {
+      "alerted": false,
+      "first_seen": "2026-07-21T21:00:03.111356+00:00",
+      "location": "Orlando, Florida",
+      "title": "Project Manager - Orlando, FL",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Orlando-Florida/Project-Manager---Orlando--FL_R568794"
+    },
     "Stryker:R568797": {
       "alerted": false,
       "first_seen": "2026-07-15T23:32:57.777543+00:00",
@@ -78354,6 +78438,13 @@
       "location": "District of Columbia, Washington",
       "title": "OnSite Specialist - Loudoun, VA",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/District-of-Columbia-Washington/OnSite-Specialist---Loudoun--VA_R569199"
+    },
+    "Stryker:R569202": {
+      "alerted": false,
+      "first_seen": "2026-07-21T21:00:03.111401+00:00",
+      "location": "Greenwood Village, Colorado",
+      "title": "Staff Electrical Engineer, Embedded Systems",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Greenwood-Village-Colorado/Staff-Electrical-Engineer--Embedded-Systems_R569202"
     },
     "Stryker:R569204": {
       "alerted": false,
