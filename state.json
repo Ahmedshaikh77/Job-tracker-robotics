@@ -2489,6 +2489,13 @@
       "title": "Associate, ML Data Operations, GO-AI Operations",
       "url": "https://www.amazon.jobs/en/jobs/10479659/associate-ml-data-operations-go-ai-operations"
     },
+    "Amazon:10479831": {
+      "alerted": false,
+      "first_seen": "2026-07-21T12:12:31.159474+00:00",
+      "location": "Seattle, Washington, USA",
+      "title": "Senior Software Eng, Amazon Robotics",
+      "url": "https://www.amazon.jobs/en/jobs/10479831/senior-software-eng-amazon-robotics"
+    },
     "Anduril:4159543007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.742648+00:00",
@@ -27115,6 +27122,13 @@
       "title": "Systems Administrator",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5190747007?gh_jid=5190747007"
     },
+    "Anduril:5190870007": {
+      "alerted": false,
+      "first_seen": "2026-07-21T12:12:31.160346+00:00",
+      "location": "London, England, United Kingdom",
+      "title": "Security Operations Analyst, UK",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5190870007?gh_jid=5190870007"
+    },
     "Anduril:5191249007": {
       "alerted": false,
       "first_seen": "2026-07-20T19:55:34.474489+00:00",
@@ -37734,6 +37748,13 @@
       "title": "Sales Rep II  Reg/Ctry",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Ho-Chi-Minh-City-Ho-Chi-Minh-City-Vietnam/Sales-Rep-II--Reg-Ctry_R68042-1"
     },
+    "Medtronic:R68048": {
+      "alerted": false,
+      "first_seen": "2026-07-21T12:12:31.160493+00:00",
+      "location": "Galway, County Galway, Ireland",
+      "title": "Engineering Technician III",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Galway-County-Galway-Ireland/Engineering-Technician-III_R68048-1"
+    },
     "Medtronic:R68051": {
       "alerted": false,
       "first_seen": "2026-06-10T10:18:23.526230+00:00",
@@ -47044,6 +47065,13 @@
       "title": "Patient Services Representative Neuromodulation - Pelvic Health",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Heerlen-Limburg-Netherlands/Patient-Services-Representative-Neuromodulation---Pelvic-Health_R71019-1"
     },
+    "Medtronic:R71023": {
+      "alerted": false,
+      "first_seen": "2026-07-21T12:12:31.160403+00:00",
+      "location": "London, London, United Kingdom",
+      "title": "Senior Software Engineer",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/London-London-United-Kingdom/Senior-Software-Engineer_R71023-1"
+    },
     "Medtronic:R71025": {
       "alerted": false,
       "first_seen": "2026-07-16T10:33:48.836447+00:00",
@@ -50033,6 +50061,13 @@
       "title": "Senior Facilities Admin Specialist",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Seoul-Seoul-Korea/Senior-Facilities-Admin-Specialist_R72213"
     },
+    "Medtronic:R72215": {
+      "alerted": false,
+      "first_seen": "2026-07-21T12:12:31.160538+00:00",
+      "location": "Nanakramguda, Hyderabad, India",
+      "title": "Senior Enterprise Software Test Engineer",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Senior-Enterprise-Software-Test-Engineer_R72215-1"
+    },
     "Medtronic:R72218": {
       "alerted": false,
       "first_seen": "2026-07-20T12:03:16.810213+00:00",
@@ -50060,6 +50095,13 @@
       "location": "Shanghai, Shanghai, China",
       "title": "Neuromodulation&PH-Pain- Senior Technical Sales Representative-Shanghai",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Shanghai-Shanghai-China/Neuromodulation-PH-Pain--Senior-Technical-Sales-Representative-Shanghai_R72233-1"
+    },
+    "Medtronic:R72238": {
+      "alerted": false,
+      "first_seen": "2026-07-21T12:12:31.160452+00:00",
+      "location": "Madrid, Madrid, Spain",
+      "title": "Intern Digital Health  (Information systems)",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Madrid-Madrid-Spain/Intern-Digital-Health---Information-systems-_R72238-1"
     },
     "Medtronic:R72246": {
       "alerted": false,
@@ -51293,6 +51335,13 @@
       "title": "Formal Verification Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Formal-Verification-Engineer_JR2003699-1"
     },
+    "NVIDIA:JR2003703": {
+      "alerted": false,
+      "first_seen": "2026-07-21T12:12:31.159668+00:00",
+      "location": "Israel, Tel Aviv",
+      "title": "Senior Chip Design Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Chip-Design-Engineer_JR2003703"
+    },
     "NVIDIA:JR2003866": {
       "alerted": false,
       "first_seen": "2026-05-28T17:59:57.300955+00:00",
@@ -51810,6 +51859,13 @@
       "location": "4 Locations",
       "title": "Senior ASIC Verification Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-ASIC-Verification-Engineer_JR2009482"
+    },
+    "NVIDIA:JR2009523": {
+      "alerted": false,
+      "first_seen": "2026-07-21T12:12:31.159628+00:00",
+      "location": "Israel, Tel Aviv",
+      "title": "Chip Design and Verification Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Chip-Design-and-Verification-Engineer_JR2009523"
     },
     "NVIDIA:JR2009532": {
       "alerted": false,
@@ -61478,6 +61534,13 @@
       "title": "Senior OSAT Manufacturing Development Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Senior-OSAT-Manufacturing-Development-Engineer_JR2020279"
     },
+    "NVIDIA:JR2020281": {
+      "alerted": false,
+      "first_seen": "2026-07-21T12:12:31.159540+00:00",
+      "location": "2 Locations",
+      "title": "Physical Design Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Physical-Design-Engineer_JR2020281"
+    },
     "NVIDIA:JR2020282": {
       "alerted": false,
       "first_seen": "2026-07-15T09:30:40.975822+00:00",
@@ -62310,6 +62373,13 @@
       "location": "2 Locations",
       "title": "Verification Engineer - Networking IPs",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Verification-Engineer---Networking-IPs_JR2020605"
+    },
+    "NVIDIA:JR2020607": {
+      "alerted": false,
+      "first_seen": "2026-07-21T12:12:31.159585+00:00",
+      "location": "Israel, Tel Hai",
+      "title": "Software QA Student, DOCA SDK",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Hai/Software-QA-Student--DOCA-SDK_JR2020607"
     },
     "NVIDIA:JR2020610": {
       "alerted": false,
