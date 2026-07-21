@@ -27045,6 +27045,13 @@
       "title": "Embedded Software Engineer, C++",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5190195007?gh_jid=5190195007"
     },
+    "Anduril:5190501007": {
+      "alerted": false,
+      "first_seen": "2026-07-21T00:06:32.776692+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Software Release Manager, EW",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5190501007?gh_jid=5190501007"
+    },
     "Anduril:5190505007": {
       "alerted": false,
       "first_seen": "2026-07-20T19:55:34.475865+00:00",
@@ -52077,6 +52084,13 @@
       "title": "Senior Product Manager \u2013 Structured Data Query Engines",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Product-Manager---Structured-Data-Query-Engines_JR2012242"
     },
+    "NVIDIA:JR2012264": {
+      "alerted": false,
+      "first_seen": "2026-07-21T00:06:32.775953+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Performance Engineer, Deep Learning and HPC",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Performance-Engineer--Deep-Learning-and-HPC_JR2012264"
+    },
     "NVIDIA:JR2012266": {
       "alerted": false,
       "first_seen": "2026-06-01T16:21:52.927534+00:00",
@@ -63788,6 +63802,13 @@
       "title": "Senior Solutions Architect, AI Infrastructure",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Solutions-Architect--AI-Infrastructure_JR2021235"
     },
+    "NVIDIA:JR2021237": {
+      "alerted": false,
+      "first_seen": "2026-07-21T00:06:32.775854+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior System Software Engineer -  Halos Core and Robotics Platform",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer----Halos-Core-and-Robotics-Platform_JR2021237"
+    },
     "NVIDIA:JR2021238": {
       "alerted": false,
       "first_seen": "2026-07-13T22:11:44.579530+00:00",
@@ -64403,6 +64424,13 @@
       "location": "2 Locations",
       "title": "Senior Network Security Engineer - DGX Cloud",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Network-Security-Engineer---DGX-Cloud_JR2021512"
+    },
+    "NVIDIA:JR2021520": {
+      "alerted": false,
+      "first_seen": "2026-07-21T00:06:32.775908+00:00",
+      "location": "5 Locations",
+      "title": "Senior System Software Engineer \u2013 Dynamo Tools",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---Dynamo-Tools_JR2021520"
     },
     "NVIDIA:JR2021522": {
       "alerted": false,
@@ -78025,6 +78053,13 @@
       "location": "San Francisco, CA, USA",
       "title": "Onboard Scope Readiness: New Platforms",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=7435589"
+    },
+    "Waymo:7435595": {
+      "alerted": false,
+      "first_seen": "2026-07-21T00:06:32.775757+00:00",
+      "location": "Remote, CA, USA",
+      "title": "Planning Manager (Validation)",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=7435595"
     },
     "Waymo:7435653": {
       "alerted": false,
