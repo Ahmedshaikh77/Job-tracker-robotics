@@ -2496,6 +2496,20 @@
       "title": "Senior Software Eng, Amazon Robotics",
       "url": "https://www.amazon.jobs/en/jobs/10479831/senior-software-eng-amazon-robotics"
     },
+    "Amazon:10480060": {
+      "alerted": false,
+      "first_seen": "2026-07-22T06:09:55.039135+00:00",
+      "location": "Hyderabad, Telangana, IND",
+      "title": "Associate, ML Data Operations, GO-AI Operations",
+      "url": "https://www.amazon.jobs/en/jobs/10480060/associate-ml-data-operations-go-ai-operations"
+    },
+    "Amazon:10480127": {
+      "alerted": false,
+      "first_seen": "2026-07-22T06:09:55.039048+00:00",
+      "location": "Visakhapatnam, Andhra Pradesh, IND",
+      "title": "Associate, ML Data Operations, GO-AI Operations",
+      "url": "https://www.amazon.jobs/en/jobs/10480127/associate-ml-data-operations-go-ai-operations"
+    },
     "Amazon:10480194": {
       "alerted": false,
       "first_seen": "2026-07-21T17:07:08.331706+00:00",
@@ -2530,6 +2544,13 @@
       "location": "North Reading, Massachusetts, USA",
       "title": "Sr. Software Dev Engineer",
       "url": "https://www.amazon.jobs/en/jobs/10480818/sr-software-dev-engineer"
+    },
+    "Amazon:10481046": {
+      "alerted": false,
+      "first_seen": "2026-07-22T06:09:55.039246+00:00",
+      "location": "Bengaluru, Karnataka, IND",
+      "title": "Software Development Engineer II, AFT Flow, AFT OB&Flow",
+      "url": "https://www.amazon.jobs/en/jobs/10481046/software-development-engineer-ii-aft-flow-aft-ob-flow"
     },
     "Anduril:4159543007": {
       "alerted": false,
@@ -26877,6 +26898,13 @@
       "title": "Manager, Mechanical Engineering",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5188161007?gh_jid=5188161007"
     },
+    "Anduril:5188183007": {
+      "alerted": false,
+      "first_seen": "2026-07-22T06:09:55.040184+00:00",
+      "location": "McHenry, Mississippi, United States",
+      "title": "Dimensional/Visual Inspector",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5188183007?gh_jid=5188183007"
+    },
     "Anduril:5188221007": {
       "alerted": false,
       "first_seen": "2026-07-21T15:55:53.431138+00:00",
@@ -27037,6 +27065,13 @@
       "location": "Costa Mesa, California, United States",
       "title": "Process Architect, Strategic Ventures",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5189303007?gh_jid=5189303007"
+    },
+    "Anduril:5189349007": {
+      "alerted": false,
+      "first_seen": "2026-07-22T06:09:55.040862+00:00",
+      "location": "Ashville, Ohio, United States",
+      "title": "Manager Manufacturing Optimization",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5189349007?gh_jid=5189349007"
     },
     "Anduril:5189353007": {
       "alerted": false,
@@ -51286,6 +51321,13 @@
       "title": "Senior Solutions Architect, Autonomous Vehicles - Data Center",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Solutions-Architect--Autonomous-Vehicles-and-Robotics_JR1995134"
     },
+    "NVIDIA:JR1995824": {
+      "alerted": false,
+      "first_seen": "2026-07-22T06:09:55.039502+00:00",
+      "location": "2 Locations",
+      "title": "Senior DFT Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-DFT-Engineer_JR1995824"
+    },
     "NVIDIA:JR1995883": {
       "alerted": false,
       "first_seen": "2026-07-21T03:36:47.652400+00:00",
@@ -53084,6 +53126,20 @@
       "location": "3 Locations",
       "title": "Senior Physical Design Layout Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Physical-Design-Verification-Layout-Engineer_JR2012339"
+    },
+    "NVIDIA:JR2012348": {
+      "alerted": false,
+      "first_seen": "2026-07-22T06:09:55.039422+00:00",
+      "location": "Israel, Tel Aviv",
+      "title": "Senior Chip Design Verification Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Chip-Design-Verification-Engineer_JR2012348"
+    },
+    "NVIDIA:JR2012350": {
+      "alerted": false,
+      "first_seen": "2026-07-22T06:09:55.039464+00:00",
+      "location": "Israel, Tel Aviv",
+      "title": "Senior Chip Design Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Chip-Design-Engineer_JR2012350"
     },
     "NVIDIA:JR2012365": {
       "alerted": true,
@@ -55212,6 +55268,13 @@
       "location": "5 Locations",
       "title": "Senior Developer Relations Manager - Manufacturing",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Remote/Senior-Developer-Relations-Manager---Manufacturing_JR2016436"
+    },
+    "NVIDIA:JR2016441": {
+      "alerted": false,
+      "first_seen": "2026-07-22T06:09:55.039535+00:00",
+      "location": "2 Locations",
+      "title": "STA Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/STA-Engineer_JR2016441"
     },
     "NVIDIA:JR2016456": {
       "alerted": false,
@@ -67330,6 +67393,13 @@
       "title": "Senior Manager - Customer & Technical Operations Medical APAC",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Sydney-Australia/Senior-Manager---Customer---Technical-Operations-Medical-APAC_R562973-2"
     },
+    "Stryker:R562974": {
+      "alerted": false,
+      "first_seen": "2026-07-22T06:09:55.039291+00:00",
+      "location": "Karnataka, Bengaluru Virtual Address",
+      "title": "Clinical data specialist",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Karnataka-Bengaluru-Virtual-Address/Clinical-data-specialist_R562974"
+    },
     "Stryker:R562979": {
       "alerted": false,
       "first_seen": "2026-06-17T20:27:42.524820+00:00",
@@ -76871,6 +76941,13 @@
       "title": "Senior Manager, External Affairs (remote)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/New-York-New-York/Senior-Manager--External-Affairs--remote-_R568392"
     },
+    "Stryker:R568397": {
+      "alerted": false,
+      "first_seen": "2026-07-22T06:09:55.039337+00:00",
+      "location": "Sydney, Australia",
+      "title": "Casual Marketing Associate - Joint Replacement",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Sydney-Australia/Casual-Marketing-Associate---Joint-Replacement_R568397-1"
+    },
     "Stryker:R568399": {
       "alerted": false,
       "first_seen": "2026-07-13T17:44:39.367356+00:00",
@@ -78389,6 +78466,13 @@
       "location": "2 Locations",
       "title": "Product Safety Engineer",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Product-Safety-Engineer_R569027"
+    },
+    "Stryker:R569029": {
+      "alerted": false,
+      "first_seen": "2026-07-22T06:09:55.039380+00:00",
+      "location": "Salt Lake City, Utah",
+      "title": "Senior Quality Engineer - NPI (Onsite)",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Salt-Lake-City-Utah/Senior-Quality-Engineer---NPI--Onsite-_R569029"
     },
     "Stryker:R569030": {
       "alerted": false,
