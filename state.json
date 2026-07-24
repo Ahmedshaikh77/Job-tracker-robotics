@@ -2629,6 +2629,13 @@
       "title": "Senior Applied Scientist, AWS Neuron Science team",
       "url": "https://www.amazon.jobs/en/jobs/10483036/senior-applied-scientist-aws-neuron-science-team"
     },
+    "Amazon:10483935": {
+      "alerted": false,
+      "first_seen": "2026-07-24T23:17:42.767172+00:00",
+      "location": "Nashville, Tennessee, USA",
+      "title": "Software Development Engineer II, Operations Infrastructure Services",
+      "url": "https://www.amazon.jobs/en/jobs/10483935/software-development-engineer-ii-operations-infrastructure-services"
+    },
     "Anduril:4159543007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.742648+00:00",
@@ -51510,6 +51517,13 @@
       "title": "Consulting Specialist, AiBle Clinic - CST - Remote within US",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Consulting-Specialist--AiBle-Clinic---CST---Remote-within-US_R71964-2"
     },
+    "Medtronic:R71969": {
+      "alerted": false,
+      "first_seen": "2026-07-24T23:17:42.767348+00:00",
+      "location": "8 Locations",
+      "title": "Senior Principal Cyber Security Specialist, Culture Lead",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Senior-Principal-Cyber-Security-Specialist--Culture-Lead_R71969-1"
+    },
     "Medtronic:R71972": {
       "alerted": false,
       "first_seen": "2026-07-13T17:44:39.372400+00:00",
@@ -82520,6 +82534,13 @@
       "title": "Senior C++ Developer \u2013 Geometry & CAD/CAM (m/f/d)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Berlin-Germany/Senior-C---Developer---Geometry---CAD-CAM--m-f-d-_R569321-1"
     },
+    "Stryker:R569322": {
+      "alerted": false,
+      "first_seen": "2026-07-24T23:17:42.767300+00:00",
+      "location": "Portage, Michigan",
+      "title": "Senior Mechanical Engineer, R&D",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Senior-Mechanical-Engineer--R-D_R569322"
+    },
     "Stryker:R569326": {
       "alerted": false,
       "first_seen": "2026-07-21T18:23:01.656310+00:00",
@@ -82680,6 +82701,13 @@
       "location": "9 Locations",
       "title": "Volljurist (m/w/d) Arbeitsrecht & Labor Relations",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Schnkirchen-Germany/Volljurist--m-w-d--Arbeitsrecht---Labor-Relations_R569397"
+    },
+    "Stryker:R569400": {
+      "alerted": false,
+      "first_seen": "2026-07-24T23:17:42.767254+00:00",
+      "location": "Topeka, Kansas",
+      "title": "Regional Sales Manager - Upper Extremities - Kansas",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Topeka-Kansas/Regional-Sales-Manager---Upper-Extremities---Kansas_R569400-1"
     },
     "Stryker:R569413": {
       "alerted": true,
@@ -87314,6 +87342,20 @@
       "location": "Washington, D.C., United States",
       "title": "East Regional Fleet Readiness Manager",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8077778"
+    },
+    "Waymo:8078061": {
+      "alerted": false,
+      "first_seen": "2026-07-24T23:17:42.766779+00:00",
+      "location": "San Francisco, CA; Mountain View, CA",
+      "title": "Staff Business Intelligence Analyst, Resilience",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8078061"
+    },
+    "Waymo:8078241": {
+      "alerted": false,
+      "first_seen": "2026-07-24T23:17:42.767103+00:00",
+      "location": "San Francisco, CA; Mountain View, CA",
+      "title": "Staff Product Data Scientist, Experimentation",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8078241"
     },
     "Waymo:8078276": {
       "alerted": false,
