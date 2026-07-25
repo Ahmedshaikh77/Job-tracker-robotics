@@ -68982,12 +68982,26 @@
       "title": "Manager, System Software Engineering - Local AI",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Pune/Manager--System-Software-Engineering---Local-AI_JR2021898-1"
     },
+    "NVIDIA:JR2021900": {
+      "alerted": false,
+      "first_seen": "2026-07-25T03:40:16.192932+00:00",
+      "location": "India, Pune",
+      "title": "Senior System Software Engineer - Local AI Automation",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Pune/Senior-System-Software-Engineer---Local-AI-Automation_JR2021900"
+    },
     "NVIDIA:JR2021909": {
       "alerted": false,
       "first_seen": "2026-07-24T03:38:40.380635+00:00",
       "location": "India, Hyderabad",
       "title": "ASIC Verification Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Hyderabad/ASIC-Verification-Engineer_JR2021909"
+    },
+    "NVIDIA:JR2021911": {
+      "alerted": false,
+      "first_seen": "2026-07-25T03:40:16.192987+00:00",
+      "location": "US, OR, Remote",
+      "title": "Senior AI Strategist \u2013 Intelligence Community",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-OR-Remote/Senior-AI-Strategist---Intelligence-Community_JR2021911-1"
     },
     "NVIDIA:JR2021914": {
       "alerted": false,
@@ -85865,6 +85879,13 @@
       "location": "Mountain View, CA, USA; San Francisco, CA, USA",
       "title": "Software Engineer, Logs Infrastructure",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=7901924"
+    },
+    "Waymo:7901943": {
+      "alerted": false,
+      "first_seen": "2026-07-25T03:40:16.192857+00:00",
+      "location": "Mountain View, CA, United States; San Francisco, CA, United States",
+      "title": "Sr. Staff TLM, Fleet Orchestration Core",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=7901943"
     },
     "Waymo:7901957": {
       "alerted": false,
