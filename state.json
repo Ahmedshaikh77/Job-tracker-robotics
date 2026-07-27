@@ -27206,6 +27206,13 @@
       "title": "Senior Software Product Manager",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5188538007?gh_jid=5188538007"
     },
+    "Anduril:5188608007": {
+      "alerted": false,
+      "first_seen": "2026-07-27T19:06:56.729389+00:00",
+      "location": "Dublin, Dublin, Ireland",
+      "title": "NPI Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5188608007?gh_jid=5188608007"
+    },
     "Anduril:5188671007": {
       "alerted": false,
       "first_seen": "2026-07-16T15:47:24.674456+00:00",
@@ -28458,6 +28465,13 @@
       "location": "Lexington, Massachusetts, United States",
       "title": "Senior Product Sourcing Engineer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5196409007?gh_jid=5196409007"
+    },
+    "Anduril:5196517007": {
+      "alerted": false,
+      "first_seen": "2026-07-27T19:06:56.730165+00:00",
+      "location": "Waltham, Massachusetts, United States",
+      "title": "Site Reliability Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5196517007?gh_jid=5196517007"
     },
     "Anduril:5196582007": {
       "alerted": false,
@@ -32693,6 +32707,13 @@
       "location": "Somerville, MA",
       "title": "Fulfillment Coordinator",
       "url": "https://careers.formlabs.com/job/8083970/apply/?gh_jid=8083970"
+    },
+    "Formlabs:8084250": {
+      "alerted": false,
+      "first_seen": "2026-07-27T19:06:56.728123+00:00",
+      "location": "Somerville, MA",
+      "title": "Head of FP&A and Strategic Finance",
+      "url": "https://careers.formlabs.com/job/8084250/apply/?gh_jid=8084250"
     },
     "Formlabs:8088889": {
       "alerted": false,
@@ -53589,6 +53610,13 @@
       "title": "Sr Payroll  Analyst",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Singapore-Singapore-Singapore/Sr-Payroll--Analyst_R72751-1"
     },
+    "Medtronic:R72754": {
+      "alerted": false,
+      "first_seen": "2026-07-27T19:06:56.730301+00:00",
+      "location": "Lafayette, Colorado, United States of America",
+      "title": "Cyber Information Assurance Analyst - Aible Clinic - CST - Remote within US",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Cyber-Information-Assurance-Analyst---Aible-Clinic---CST---Remote-within-US_R72754-1"
+    },
     "Medtronic:R72762": {
       "alerted": false,
       "first_seen": "2026-07-24T03:38:40.381509+00:00",
@@ -53904,6 +53932,13 @@
       "title": "Senior Design Quality Engineer - Irvine",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Irvine-California-United-States-of-America/Senior-Design-Quality-Engineer---Irvine_R73018"
     },
+    "Medtronic:R73046": {
+      "alerted": false,
+      "first_seen": "2026-07-27T19:06:56.730342+00:00",
+      "location": "Ho Chi Minh City, Ho Chi Minh City, Vietnam",
+      "title": "Clinical  Specialist",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Ho-Chi-Minh-City-Ho-Chi-Minh-City-Vietnam/Clinical--Specialist_R73046-1"
+    },
     "Medtronic:R73048": {
       "alerted": false,
       "first_seen": "2026-07-27T11:42:14.319451+00:00",
@@ -53945,6 +53980,13 @@
       "location": "Thessaloniki, Central Macedonia, Greece",
       "title": "Sales Representative II  Structural Heart",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Thessaloniki-Central-Macedonia-Greece/Sales-Representative-II--Structural-Heart_R73093-1"
+    },
+    "Medtronic:R73094": {
+      "alerted": false,
+      "first_seen": "2026-07-27T19:06:56.730423+00:00",
+      "location": "New York, New York, United States of America",
+      "title": "GYN Sales Specialist (New York City)",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/New-York-New-York-United-States-of-America/GYN-Sales-Specialist--New-York-City-_R73094-1"
     },
     "Medtronic:R73096": {
       "alerted": false,
@@ -54029,6 +54071,13 @@
       "location": "San Francisco, California, United States of America",
       "title": "Senior Clinical Specialist, Pelvic Health - Gainesville, FL",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/San-Francisco-California-United-States-of-America/Senior-Clinical-Specialist--Pelvic-Health---Gainesville--FL_R73202-2"
+    },
+    "Medtronic:R73221": {
+      "alerted": false,
+      "first_seen": "2026-07-27T19:06:56.730383+00:00",
+      "location": "San Isidro, Santo Domingo, Dominican Republic",
+      "title": "Pasante de mantenimiento",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/San-Isidro-Santo-Domingo-Dominican-Republic/Pasante-de-mantenimiento_R73221-1"
     },
     "NVIDIA:JR1968313": {
       "alerted": true,
@@ -67876,6 +67925,13 @@
       "title": "Senior Software Engineer, DGX Cloud Production Engineering",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--DGX-Cloud-Production-Engineering_JR2021096"
     },
+    "NVIDIA:JR2021097": {
+      "alerted": false,
+      "first_seen": "2026-07-27T19:06:56.730210+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior NPN Program Operations Analyst",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-NPN-Program-Operations-Analyst_JR2021097"
+    },
     "NVIDIA:JR2021098": {
       "alerted": false,
       "first_seen": "2026-07-13T22:11:44.579401+00:00",
@@ -81008,6 +81064,13 @@
       "title": "Sales Representative -Buffalo, NY- Endoscopy",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Buffalo-New-York/Sales-Representative--Buffalo--NY--Endoscopy_R568328"
     },
+    "Stryker:R568330": {
+      "alerted": false,
+      "first_seen": "2026-07-27T19:06:56.728640+00:00",
+      "location": "Gurugram, India",
+      "title": "IT Lead Business Analyst, Global Transportation and Trade Compliance",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Gurugram-India/IT-Lead-Business-Analyst--Global-Transportation-and-Trade-Compliance_R568330"
+    },
     "Stryker:R568332": {
       "alerted": false,
       "first_seen": "2026-07-14T17:52:28.621415+00:00",
@@ -81420,6 +81483,13 @@
       "location": "District of Columbia, Washington",
       "title": "Sales Associate - Washington, DC - Sports Medicine",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/District-of-Columbia-Washington/Sales-Associate---Washington--DC---Sports-Medicine_R568451"
+    },
+    "Stryker:R568452": {
+      "alerted": false,
+      "first_seen": "2026-07-27T19:06:56.728692+00:00",
+      "location": "Portage, Michigan",
+      "title": "Sales Support Representative - Hybrid - Pay Starting at $21.58/hr",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Sales-Support-Representative---Hybrid---Pay-Starting-at--2158-hr_R568452"
     },
     "Stryker:R568453": {
       "alerted": false,
@@ -83961,6 +84031,13 @@
       "location": "Oregon, Virtual Address",
       "title": "Joint Replacement Sales Representative - Eugene, OR",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Oregon-Virtual-Address/Joint-Replacement-Sales-Representative---Eugene--OR_R569554"
+    },
+    "Stryker:R569564": {
+      "alerted": false,
+      "first_seen": "2026-07-27T19:06:56.728586+00:00",
+      "location": "Portage, Michigan",
+      "title": "Assembler I - 2nd Shift - $20.25/hr + $2.00 Shift Premium",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Assembler-I---2nd-Shift----2025-hr----200-Shift-Premium_R569564"
     },
     "Stryker:R569572": {
       "alerted": false,
@@ -88588,6 +88665,13 @@
       "location": "Mountain View, CA, USA; San Francisco, CA, USA",
       "title": "Senior Corporate Accountant - Assets & Inventory Operations",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8083286"
+    },
+    "Waymo:8087812": {
+      "alerted": false,
+      "first_seen": "2026-07-27T19:06:56.728524+00:00",
+      "location": "Mountain View, CA, USA",
+      "title": "Staff Product Development Mechanical Engineer, Sensors",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8087812"
     }
   }
 }
