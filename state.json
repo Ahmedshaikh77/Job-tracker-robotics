@@ -2636,6 +2636,13 @@
       "title": "Software Development Engineer II, Operations Infrastructure Services",
       "url": "https://www.amazon.jobs/en/jobs/10483935/software-development-engineer-ii-operations-infrastructure-services"
     },
+    "Amazon:10484454": {
+      "alerted": false,
+      "first_seen": "2026-07-27T21:45:47.942461+00:00",
+      "location": "Visakhapatnam, Andhra Pradesh, IND",
+      "title": "Associate, ML Data Operations, GO-AI Operations",
+      "url": "https://www.amazon.jobs/en/jobs/10484454/associate-ml-data-operations-go-ai-operations"
+    },
     "Amazon:10484953": {
       "alerted": true,
       "first_seen": "2026-07-27T17:54:39.585862+00:00",
@@ -2656,6 +2663,13 @@
       "location": "North Reading, Massachusetts, USA",
       "title": "Senior Software Developer - Amazon Robotics , Autonomous Mobility",
       "url": "https://www.amazon.jobs/en/jobs/10485271/senior-software-developer-amazon-robotics-autonomous-mobility"
+    },
+    "Amazon:10485323": {
+      "alerted": false,
+      "first_seen": "2026-07-27T21:45:47.942527+00:00",
+      "location": "Austin, Texas, USA",
+      "title": "Machine Learning Engineer, OIS-Core Engine",
+      "url": "https://www.amazon.jobs/en/jobs/10485323/machine-learning-engineer-ois-core-engine"
     },
     "Anduril:4159543007": {
       "alerted": false,
@@ -2838,6 +2852,13 @@
       "location": "Costa Mesa, California, United States",
       "title": "Program Director, Air Dominance & Strike",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/4557715007?gh_jid=4557715007"
+    },
+    "Anduril:4585303007": {
+      "alerted": false,
+      "first_seen": "2026-07-27T21:45:47.944219+00:00",
+      "location": "London, England, United Kingdom",
+      "title": "Lead Mission Software Engineer, Connected Warfare",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4585303007?gh_jid=4585303007"
     },
     "Anduril:4587312007": {
       "alerted": false,
@@ -16538,6 +16559,13 @@
       "title": "Camera Test Engineer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5137179007?gh_jid=5137179007"
     },
+    "Anduril:5137230007": {
+      "alerted": false,
+      "first_seen": "2026-07-27T21:45:47.943431+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Field Mechanical Technician, Counter Intrusion",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5137230007?gh_jid=5137230007"
+    },
     "Anduril:5137237007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.741976+00:00",
@@ -28570,6 +28598,27 @@
       "location": "Costa Mesa, California, United States",
       "title": "Senior Product Support Engineer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5196927007?gh_jid=5196927007"
+    },
+    "Anduril:5196958007": {
+      "alerted": false,
+      "first_seen": "2026-07-27T21:45:47.945172+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Program Financial Analyst",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5196958007?gh_jid=5196958007"
+    },
+    "Anduril:5197041007": {
+      "alerted": false,
+      "first_seen": "2026-07-27T21:45:47.945909+00:00",
+      "location": "Lexington, Massachusetts, United States; Waltham, Massachusetts, United States",
+      "title": "Senior Manufacturing Quality Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5197041007?gh_jid=5197041007"
+    },
+    "Anduril:5197042007": {
+      "alerted": false,
+      "first_seen": "2026-07-27T21:45:47.946652+00:00",
+      "location": "Lexington, Massachusetts, United States; Waltham, Massachusetts, United States",
+      "title": "Senior Product Quality Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5197042007?gh_jid=5197042007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -54155,6 +54204,27 @@
       "location": "San Isidro, Santo Domingo, Dominican Republic",
       "title": "Pasante de mantenimiento",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/San-Isidro-Santo-Domingo-Dominican-Republic/Pasante-de-mantenimiento_R73221-1"
+    },
+    "Medtronic:R73239": {
+      "alerted": false,
+      "first_seen": "2026-07-27T21:45:47.946797+00:00",
+      "location": "Gary, Indiana, United States of America",
+      "title": "Clinical Specialist, Enabling Technologies - Northwest Indiana",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Gary-Indiana-United-States-of-America/Clinical-Specialist--Enabling-Technologies---Northwest-Indiana_R73239-1"
+    },
+    "Medtronic:R73240": {
+      "alerted": false,
+      "first_seen": "2026-07-27T21:45:47.946750+00:00",
+      "location": "Cincinnati, Ohio, United States of America",
+      "title": "Clinical Specialist, Enabling Technologies - Cincinnati, OH",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Cincinnati-Ohio-United-States-of-America/Clinical-Specialist--Enabling-Technologies---Cincinnati--OH_R73240-2"
+    },
+    "Medtronic:R73241": {
+      "alerted": false,
+      "first_seen": "2026-07-27T21:45:47.946700+00:00",
+      "location": "Allentown, Pennsylvania, United States of America",
+      "title": "Area Sales Manager, ENT - Lehigh Valley, PA",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Allentown-Pennsylvania-United-States-of-America/Area-Sales-Manager--ENT---Lehigh-Valley--PA_R73241-1"
     },
     "NVIDIA:JR1968313": {
       "alerted": true,
@@ -83780,6 +83850,13 @@
       "title": "Sales Representative - Austin, TX - Sports Medicine",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Austin-Texas/Sales-Representative---Austin--TX---Sports-Medicine_R569328"
     },
+    "Stryker:R569333": {
+      "alerted": true,
+      "first_seen": "2026-07-27T21:45:47.942571+00:00",
+      "location": "Portage, Michigan",
+      "title": "Electrical Design Engineer",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Electrical-Design-Engineer_R569333"
+    },
     "Stryker:R569336": {
       "alerted": false,
       "first_seen": "2026-07-21T19:56:44.611065+00:00",
@@ -84144,6 +84221,13 @@
       "title": "Joint Replacement Sales Representative - Eugene, OR",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Oregon-Virtual-Address/Joint-Replacement-Sales-Representative---Eugene--OR_R569554"
     },
+    "Stryker:R569555": {
+      "alerted": false,
+      "first_seen": "2026-07-27T21:45:47.942658+00:00",
+      "location": "Denver, Colorado",
+      "title": "Inventory Planning Analyst (Onsite)",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Denver-Colorado/Inventory-Planning-Analyst--Onsite-_R569555"
+    },
     "Stryker:R569556": {
       "alerted": false,
       "first_seen": "2026-07-27T20:40:27.265608+00:00",
@@ -84354,6 +84438,13 @@
       "title": "Assembler",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tijuana-Mexico/Assembler_R569804"
     },
+    "Stryker:R569805": {
+      "alerted": false,
+      "first_seen": "2026-07-27T21:45:47.942614+00:00",
+      "location": "Phoenix, Arizona",
+      "title": "Specialist, Production Planning",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Phoenix-Arizona/Specialist--Production-Planning_R569805"
+    },
     "Stryker:R569806": {
       "alerted": false,
       "first_seen": "2026-07-24T18:43:28.333536+00:00",
@@ -84402,6 +84493,13 @@
       "location": "Atlanta, Georgia",
       "title": "Associate Field Service Technician - Northwest Atlanta - Transport/Treatment",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Atlanta-Georgia/Associate-Field-Service-Technician---Northwest-Atlanta---Transport-Treatment_R569878"
+    },
+    "Stryker:R569885": {
+      "alerted": true,
+      "first_seen": "2026-07-27T21:45:47.942701+00:00",
+      "location": "Portage, Michigan",
+      "title": "Design Engineer, R&D - Mechanical",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Design-Engineer--R-D---Mechanical_R569885-1"
     },
     "Stryker:R569887": {
       "alerted": false,
@@ -88798,6 +88896,13 @@
       "location": "Mountain View, CA, USA",
       "title": "Staff Product Development Mechanical Engineer, Sensors",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8087812"
+    },
+    "Waymo:8089198": {
+      "alerted": false,
+      "first_seen": "2026-07-27T21:45:47.942359+00:00",
+      "location": "Mountain View, CA, USA",
+      "title": "Vehicle Package and Integration Lead",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8089198"
     }
   }
 }
