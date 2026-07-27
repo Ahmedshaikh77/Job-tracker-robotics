@@ -2636,6 +2636,20 @@
       "title": "Software Development Engineer II, Operations Infrastructure Services",
       "url": "https://www.amazon.jobs/en/jobs/10483935/software-development-engineer-ii-operations-infrastructure-services"
     },
+    "Amazon:10484953": {
+      "alerted": true,
+      "first_seen": "2026-07-27T17:54:39.585862+00:00",
+      "location": "North Reading, Massachusetts, USA",
+      "title": "Software Development Engineer II Robotics , SWAT",
+      "url": "https://www.amazon.jobs/en/jobs/10484953/software-development-engineer-ii-robotics-swat"
+    },
+    "Amazon:10484963": {
+      "alerted": false,
+      "first_seen": "2026-07-27T17:54:39.585800+00:00",
+      "location": "Bellevue, Washington, USA",
+      "title": "Senior SDE, Last Mile Delivery ",
+      "url": "https://www.amazon.jobs/en/jobs/10484963/senior-sde-last-mile-delivery"
+    },
     "Anduril:4159543007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.742648+00:00",
@@ -4077,6 +4091,13 @@
       "location": "Costa Mesa, California, United States",
       "title": "Senior Global Sourcing Manager, Mechanical",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/4845656007?gh_jid=4845656007"
+    },
+    "Anduril:4854400007": {
+      "alerted": false,
+      "first_seen": "2026-07-27T17:54:39.588431+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Buyer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4854400007?gh_jid=4854400007"
     },
     "Anduril:4854770007": {
       "alerted": false,
@@ -22341,6 +22362,13 @@
       "title": "Senior Propulsion & Hydrodynamics Engineer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5166860007?gh_jid=5166860007"
     },
+    "Anduril:5166878007": {
+      "alerted": false,
+      "first_seen": "2026-07-27T17:54:39.589044+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Energy Distribution & Management Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5166878007?gh_jid=5166878007"
+    },
     "Anduril:5166890007": {
       "alerted": false,
       "first_seen": "2026-06-23T18:13:08.391215+00:00",
@@ -26072,6 +26100,13 @@
       "title": "Altium Administrator",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5182985007?gh_jid=5182985007"
     },
+    "Anduril:5183067007": {
+      "alerted": false,
+      "first_seen": "2026-07-27T17:54:39.592835+00:00",
+      "location": "Quincy, Massachusetts, United States",
+      "title": "Senior Software Engineer, VMS - Seabed Sentry",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5183067007?gh_jid=5183067007"
+    },
     "Anduril:5183137007": {
       "alerted": false,
       "first_seen": "2026-07-10T18:38:08.671315+00:00",
@@ -28074,6 +28109,13 @@
       "title": "Global Security Training and Education Manager",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5194128007?gh_jid=5194128007"
     },
+    "Anduril:5194141007": {
+      "alerted": false,
+      "first_seen": "2026-07-27T17:54:39.590736+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Manufacturing Test Engineer, Barracuda",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5194141007?gh_jid=5194141007"
+    },
     "Anduril:5194223007": {
       "alerted": false,
       "first_seen": "2026-07-23T16:20:52.646879+00:00",
@@ -28116,12 +28158,33 @@
       "title": "Software Engineer, C++",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5194563007?gh_jid=5194563007"
     },
+    "Anduril:5194566007": {
+      "alerted": false,
+      "first_seen": "2026-07-27T17:54:39.589903+00:00",
+      "location": "Santa Ana, California, United States",
+      "title": "Senior IoT Engineer, Applied Intelligence ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5194566007?gh_jid=5194566007"
+    },
+    "Anduril:5194568007": {
+      "alerted": false,
+      "first_seen": "2026-07-27T17:54:39.593664+00:00",
+      "location": "Santa Ana, California, United States",
+      "title": "Software Engineer, Data Engineering, LOKI",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5194568007?gh_jid=5194568007"
+    },
     "Anduril:5194570007": {
       "alerted": false,
       "first_seen": "2026-07-23T16:20:52.648628+00:00",
       "location": "Broomfield, Colorado, United States; Fort Collins, Colorado, United States",
       "title": "Scientific Software Engineer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5194570007?gh_jid=5194570007"
+    },
+    "Anduril:5194571007": {
+      "alerted": false,
+      "first_seen": "2026-07-27T17:54:39.587080+00:00",
+      "location": "Santa Ana, California, United States",
+      "title": "Chief Systems Architect, SIG",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5194571007?gh_jid=5194571007"
     },
     "Anduril:5194601007": {
       "alerted": false,
@@ -28298,6 +28361,13 @@
       "title": "Software Engineer - ML Infrastructure",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5195642007?gh_jid=5195642007"
     },
+    "Anduril:5195644007": {
+      "alerted": false,
+      "first_seen": "2026-07-27T17:54:39.594369+00:00",
+      "location": "Boston, Massachusetts, United States; Washington, District of Columbia, United States",
+      "title": "Software Engineer, Fleet Infrastructure",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5195644007?gh_jid=5195644007"
+    },
     "Anduril:5195685007": {
       "alerted": false,
       "first_seen": "2026-07-24T15:37:48.657447+00:00",
@@ -28332,6 +28402,13 @@
       "location": "Santa Ana, California, United States",
       "title": "Production Scheduler, Missiles",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5195748007?gh_jid=5195748007"
+    },
+    "Anduril:5195822007": {
+      "alerted": false,
+      "first_seen": "2026-07-27T17:54:39.592141+00:00",
+      "location": "Boston, Massachusetts, United States; Washington, District of Columbia, United States",
+      "title": "Senior Site Reliability Engineer, Fleet Infrastructure",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5195822007?gh_jid=5195822007"
     },
     "Anduril:5195955007": {
       "alerted": false,
@@ -28423,6 +28500,20 @@
       "location": "Waltham, Massachusetts, United States",
       "title": "Mechanical Assembly Technician",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5196639007?gh_jid=5196639007"
+    },
+    "Anduril:5196757007": {
+      "alerted": false,
+      "first_seen": "2026-07-27T17:54:39.587798+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Robotics Software Engineer - Undersea Dominance ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5196757007?gh_jid=5196757007"
+    },
+    "Anduril:5196771007": {
+      "alerted": false,
+      "first_seen": "2026-07-27T17:54:39.591464+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Robotics Engineer - Undersea Dominance",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5196771007?gh_jid=5196771007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -32616,6 +32707,55 @@
       "location": "Somerville, MA",
       "title": "Senior 3PL Program Manager",
       "url": "https://careers.formlabs.com/job/8088893/apply/?gh_jid=8088893"
+    },
+    "Formlabs:8088992": {
+      "alerted": false,
+      "first_seen": "2026-07-27T17:54:39.583905+00:00",
+      "location": "Somerville, MA",
+      "title": "Manager, Google Ads",
+      "url": "https://careers.formlabs.com/job/8088992/apply/?gh_jid=8088992"
+    },
+    "Formlabs:8089010": {
+      "alerted": false,
+      "first_seen": "2026-07-27T17:54:39.585080+00:00",
+      "location": "Somerville, MA",
+      "title": "Senior Manager, Growth Strategy",
+      "url": "https://careers.formlabs.com/job/8089010/apply/?gh_jid=8089010"
+    },
+    "Formlabs:8089013": {
+      "alerted": false,
+      "first_seen": "2026-07-27T17:54:39.585405+00:00",
+      "location": "Somerville, MA",
+      "title": "Senior Manager, Market Expansion",
+      "url": "https://careers.formlabs.com/job/8089013/apply/?gh_jid=8089013"
+    },
+    "Formlabs:8089158": {
+      "alerted": false,
+      "first_seen": "2026-07-27T17:54:39.583575+00:00",
+      "location": "Somerville, MA",
+      "title": "Electrical Engineer",
+      "url": "https://careers.formlabs.com/job/8089158/apply/?gh_jid=8089158"
+    },
+    "Formlabs:8089201": {
+      "alerted": false,
+      "first_seen": "2026-07-27T17:54:39.583163+00:00",
+      "location": "Somerville, MA",
+      "title": "3PL Program Manager",
+      "url": "https://careers.formlabs.com/job/8089201/apply/?gh_jid=8089201"
+    },
+    "Formlabs:8089212": {
+      "alerted": false,
+      "first_seen": "2026-07-27T17:54:39.584724+00:00",
+      "location": "Somerville, MA",
+      "title": "Program Manager, Fulfillment",
+      "url": "https://careers.formlabs.com/job/8089212/apply/?gh_jid=8089212"
+    },
+    "Formlabs:8089218": {
+      "alerted": false,
+      "first_seen": "2026-07-27T17:54:39.584339+00:00",
+      "location": "Somerville, MA",
+      "title": "Omni Channel Distribution & 3PL Operations Coordinator",
+      "url": "https://careers.formlabs.com/job/8089218/apply/?gh_jid=8089218"
     },
     "Medtronic:R26267": {
       "alerted": false,
@@ -52861,6 +53001,13 @@
       "title": "R72436 Manufacturing Technician III \u2013 CAS \u2013 12-month contract \u2013 Evening Shift",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Galway-County-Galway-Ireland/R72436-Manufacturing-Technician-III---CAS---12-month-contract---Evening-Shift_R72436-1"
     },
+    "Medtronic:R72438": {
+      "alerted": false,
+      "first_seen": "2026-07-27T17:54:39.594496+00:00",
+      "location": "Pensacola, Florida, United States of America",
+      "title": "EP Mapping Specialist, CAS - Pensacola, Florida",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Pensacola-Florida-United-States-of-America/EP-Mapping-Specialist--CAS---Pensacola--Florida_R72438"
+    },
     "Medtronic:R72439": {
       "alerted": false,
       "first_seen": "2026-07-21T15:55:53.434529+00:00",
@@ -53238,6 +53385,13 @@
       "location": "Hyderabad, Andhra Pradesh, India",
       "title": "Mechanical Design Eng I",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Hyderabad-Andhra-Pradesh-India/Mechanical-Design-Eng-I_R72611-1"
+    },
+    "Medtronic:R72617": {
+      "alerted": false,
+      "first_seen": "2026-07-27T17:54:39.594411+00:00",
+      "location": "Memphis, Tennessee, United States of America",
+      "title": "Senior Program Manager",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Memphis-Tennessee-United-States-of-America/Senior-Program-Manager_R72617-2"
     },
     "Medtronic:R72621": {
       "alerted": false,
@@ -53834,6 +53988,13 @@
       "title": "Associate Clinical Specialist, Pain Interventions - Miami, FL",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Miami-Florida-United-States-of-America/Associate-Clinical-Specialist--Pain-Interventions---Miami--FL_R73108-1"
     },
+    "Medtronic:R73115": {
+      "alerted": false,
+      "first_seen": "2026-07-27T17:54:39.594452+00:00",
+      "location": "Richmond, Virginia, United States of America",
+      "title": "Clinical Specialist CRM - Richmond, VA",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Richmond-Virginia-United-States-of-America/Clinical-Specialist-CRM---Richmond--VA_R73115-1"
+    },
     "Medtronic:R73138": {
       "alerted": false,
       "first_seen": "2026-07-27T08:16:45.063572+00:00",
@@ -53987,6 +54148,13 @@
       "location": "US, CA, Remote",
       "title": "Software Engineering Manager - Image and Data Compression Libraries",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Software-Engineering-Manager---Image-and-Data-Compression-Libraries_JR1990877"
+    },
+    "NVIDIA:JR1994007": {
+      "alerted": false,
+      "first_seen": "2026-07-27T17:54:39.586148+00:00",
+      "location": "Israel, Tel Aviv",
+      "title": "Senior Software Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Software-Engineer_JR1994007"
     },
     "NVIDIA:JR1994884": {
       "alerted": false,
@@ -58061,6 +58229,13 @@
       "location": "2 Locations",
       "title": "Senior Multi\u2011GPU Signal Processing and System Architecture Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Multi-GPU-Signal-Processing-and-System-Architecture-Engineer_JR2016090"
+    },
+    "NVIDIA:JR2016096": {
+      "alerted": false,
+      "first_seen": "2026-07-27T17:54:39.586232+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Manager, Facilities Services",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--Facilities-Services_JR2016096"
     },
     "NVIDIA:JR2016105": {
       "alerted": false,
@@ -69429,6 +69604,13 @@
       "location": "2 Locations",
       "title": "ASIC Design and STA Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/ASIC-Design-and-STA-Engineer_JR2021789-1"
+    },
+    "NVIDIA:JR2021792": {
+      "alerted": false,
+      "first_seen": "2026-07-27T17:54:39.586194+00:00",
+      "location": "Israel, Yokneam",
+      "title": "Senior Networking IC Test Engineering Program Manager",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Networking-IC-Test-Engineering-Program-Manager_JR2021792"
     },
     "NVIDIA:JR2021802": {
       "alerted": false,
@@ -83759,6 +83941,13 @@
       "title": "Sourcing Manager",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Kalamazoo-Michigan/Sourcing-Manager_R569539"
     },
+    "Stryker:R569551": {
+      "alerted": false,
+      "first_seen": "2026-07-27T17:54:39.586109+00:00",
+      "location": "New York, New York",
+      "title": "Sales Representative - JR - NY",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/New-York-New-York/Sales-Representative---JR---NY_R569551"
+    },
     "Stryker:R569553": {
       "alerted": false,
       "first_seen": "2026-07-23T14:56:14.312652+00:00",
@@ -83913,6 +84102,13 @@
       "title": "Finance Specialist - Flex Financial (Remote)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Michigan-Virtual-Address/Finance-Specialist---Flex-Financial--Remote-_R569716"
     },
+    "Stryker:R569720": {
+      "alerted": false,
+      "first_seen": "2026-07-27T17:54:39.586064+00:00",
+      "location": "Burnaby, British Columbia",
+      "title": "Optical Engineering / Physics Co-op",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Burnaby-British-Columbia/Optical-Engineering---Physics-Co-op_R569720"
+    },
     "Stryker:R569730": {
       "alerted": false,
       "first_seen": "2026-07-24T15:37:48.656618+00:00",
@@ -83933,6 +84129,13 @@
       "location": "Eugene, Oregon",
       "title": "Sales Representative - Eugene, Oregon - Endoscopy",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Eugene-Oregon/Sales-Representative---Eugene--Oregon---Endoscopy_R569794"
+    },
+    "Stryker:R569797": {
+      "alerted": false,
+      "first_seen": "2026-07-27T17:54:39.585912+00:00",
+      "location": "Chicago, Illinois",
+      "title": "Arterial Account Manager - Chicago, IL - Peripheral Vascular",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Chicago-Illinois/Arterial-Account-Manager---Chicago--IL---Peripheral-Vascular_R569797"
     },
     "Stryker:R569799": {
       "alerted": false,
@@ -83989,6 +84192,13 @@
       "location": "New York, New York",
       "title": "OnSite Specialist - New York City, New York",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/New-York-New-York/OnSite-Specialist---New-York-City--New-York_R569853"
+    },
+    "Stryker:R569878": {
+      "alerted": false,
+      "first_seen": "2026-07-27T17:54:39.585966+00:00",
+      "location": "Atlanta, Georgia",
+      "title": "Associate Field Service Technician - Northwest Atlanta - Transport/Treatment",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Atlanta-Georgia/Associate-Field-Service-Technician---Northwest-Atlanta---Transport-Treatment_R569878"
     },
     "Stryker:R569887": {
       "alerted": false,
@@ -87958,6 +88168,13 @@
       "location": "Mountain View, CA, USA",
       "title": "Commercial Counsel",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8042495"
+    },
+    "Waymo:8042499": {
+      "alerted": false,
+      "first_seen": "2026-07-27T17:54:39.585740+00:00",
+      "location": "London, England, UK",
+      "title": "Senior Counsel, Employment",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8042499"
     },
     "Waymo:8042508": {
       "alerted": false,
