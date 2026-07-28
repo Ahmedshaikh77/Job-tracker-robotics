@@ -45616,6 +45616,13 @@
       "title": "Principal Internal Communications Generalist - Employee Communications",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Principal-Internal-Communications-Generalist---Employee-Communications_R69844-1"
     },
+    "Medtronic:R69845": {
+      "alerted": false,
+      "first_seen": "2026-07-28T13:11:58.665714+00:00",
+      "location": "Minsk, Minsk, Belarus",
+      "title": "Sr Field Development Specialist \u2013 CRDN & PVH",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minsk-Minsk-Belarus/Sr-Field-Development-Specialist---CRDN---PVH_R69845-1"
+    },
     "Medtronic:R69846": {
       "alerted": false,
       "first_seen": "2026-06-23T23:48:17.808411+00:00",
@@ -53925,12 +53932,26 @@
       "title": "Senior EP Mapping Specialist- Philly",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Philadelphia-Pennsylvania-United-States-of-America/Senior-EP-Mapping-Specialist--Philly_R72813-2"
     },
+    "Medtronic:R72819": {
+      "alerted": false,
+      "first_seen": "2026-07-28T13:11:58.665751+00:00",
+      "location": "Herzliya, Tel Aviv, Israel",
+      "title": "Quality Engineer",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Herzliya-Tel-Aviv-Israel/Quality-Engineer_R72819-1"
+    },
     "Medtronic:R72821": {
       "alerted": false,
       "first_seen": "2026-07-27T16:13:36.325792+00:00",
       "location": "Shanghai, Shanghai, China",
       "title": "Principal HEPR Generalist",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Shanghai-Shanghai-China/Principal-HEPR-Generalist_R72821-1"
+    },
+    "Medtronic:R72822": {
+      "alerted": false,
+      "first_seen": "2026-07-28T13:11:58.665661+00:00",
+      "location": "Herzliya, Tel Aviv, Israel",
+      "title": "Quality Program Manager",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Herzliya-Tel-Aviv-Israel/Quality-Program-Manager_R72822-1"
     },
     "Medtronic:R72823": {
       "alerted": false,
@@ -54337,6 +54358,13 @@
       "location": "San Francisco, California, United States of America",
       "title": "Senior Clinical Specialist, Pelvic Health - Gainesville, FL",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/San-Francisco-California-United-States-of-America/Senior-Clinical-Specialist--Pelvic-Health---Gainesville--FL_R73202-2"
+    },
+    "Medtronic:R73215": {
+      "alerted": false,
+      "first_seen": "2026-07-28T13:11:58.665617+00:00",
+      "location": "St. Louis, Missouri, United States of America",
+      "title": "Sales Representative III, Interventional Therapies - St. Louis, MO",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/St-Louis-Missouri-United-States-of-America/Sales-Representative-III--Interventional-Therapies---St-Louis--MO_R73215-1"
     },
     "Medtronic:R73221": {
       "alerted": false,
@@ -55535,6 +55563,13 @@
       "title": "Chiplet Physical Design Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Chiplet-Physical-Design-Engineer_JR2007200"
     },
+    "NVIDIA:JR2007250": {
+      "alerted": false,
+      "first_seen": "2026-07-28T13:11:58.665361+00:00",
+      "location": "3 Locations",
+      "title": "Senior System Software Architect, AI Networking",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-System-Software-Architect--AI-Networking_JR2007250"
+    },
     "NVIDIA:JR2007277": {
       "alerted": false,
       "first_seen": "2026-06-09T07:04:49.438647+00:00",
@@ -56157,6 +56192,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Site Reliability Engineer - Hardware Infrastructure",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Site-Reliability-Engineer---Hardware-Infrastructure_JR2011168"
+    },
+    "NVIDIA:JR2011194": {
+      "alerted": false,
+      "first_seen": "2026-07-28T13:11:58.665263+00:00",
+      "location": "Israel, Yokneam",
+      "title": "System Validation Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/System-Validation-Engineer_JR2011194"
     },
     "NVIDIA:JR2011195": {
       "alerted": false,
@@ -81883,6 +81925,13 @@
       "title": "Maintenance Technician - Weekend 3rd Shift - $35.10/hr + $1.00/hr Shift Differential",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cary-Illinois/Maintenance-Technician---Weekend-3rd-Shift----3510-hr----100-hr-Shift-Differential_R568386"
     },
+    "Stryker:R568388": {
+      "alerted": false,
+      "first_seen": "2026-07-28T13:11:58.665420+00:00",
+      "location": "Cary, Illinois",
+      "title": "Manufacturing Technician - 2nd Shift - $35.10/hr + $1.00 Shift Premium",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cary-Illinois/Manufacturing-Technician---2nd-Shift----3510-hr----100-Shift-Premium_R568388"
+    },
     "Stryker:R568390": {
       "alerted": false,
       "first_seen": "2026-07-01T19:23:21.037466+00:00",
@@ -84557,12 +84606,26 @@
       "title": "Intern",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Gurugram-India/Intern_R569445"
     },
+    "Stryker:R569455": {
+      "alerted": false,
+      "first_seen": "2026-07-28T13:11:58.665473+00:00",
+      "location": "Paris, France",
+      "title": "Responsable Commercial (H-F) Neurovasculaire Paris, Centre France",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Paris-France/Responsable-Commercial--H-F--Neurovasculaire-Paris--Centre-France_R569455"
+    },
     "Stryker:R569469": {
       "alerted": false,
       "first_seen": "2026-07-23T14:56:14.312551+00:00",
       "location": "4 Locations",
       "title": "Sales Representative, Interventional Spine (IVS) - North West & West Midlands",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Birmingham-England/Sales-Representative--Interventional-Spine--IVS----North-West---West-Midlands_R569469"
+    },
+    "Stryker:R569471": {
+      "alerted": false,
+      "first_seen": "2026-07-28T13:11:58.665518+00:00",
+      "location": "2 Locations",
+      "title": "Responsable Commercial (h/f) Neurovasculaire Sud Est",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Lyon-France/Responsable-Commercial--h-f--Neurovasculaire-Sud-Est_R569471"
     },
     "Stryker:R569474": {
       "alerted": false,
@@ -84780,6 +84843,13 @@
       "location": "Atlanta, Georgia",
       "title": "Field Clinical Specialist- Atlanta, GA- Peripheral Vascular",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Atlanta-Georgia/Field-Clinical-Specialist--Atlanta--GA--Peripheral-Vascular_R569622"
+    },
+    "Stryker:R569627": {
+      "alerted": false,
+      "first_seen": "2026-07-28T13:11:58.665567+00:00",
+      "location": "2 Locations",
+      "title": "Staff Electrical Engineer - PCB Layout & Component Library Support",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Staff-Electrical-Engineer---PCB-Layout---Component-Library-Support_R569627-1"
     },
     "Stryker:R569632": {
       "alerted": false,
