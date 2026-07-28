@@ -20563,6 +20563,13 @@
       "title": "Technical Recruiter",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5159440007?gh_jid=5159440007"
     },
+    "Anduril:5159458007": {
+      "alerted": false,
+      "first_seen": "2026-07-28T06:42:47.119477+00:00",
+      "location": "Sydney, New South Wales, Australia",
+      "title": "Quality Systems Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5159458007?gh_jid=5159458007"
+    },
     "Anduril:5159518007": {
       "alerted": false,
       "first_seen": "2026-06-18T17:36:43.995445+00:00",
@@ -28626,6 +28633,13 @@
       "location": "Costa Mesa, California, United States",
       "title": "Division Operations Lead",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5197123007?gh_jid=5197123007"
+    },
+    "Anduril:5197277007": {
+      "alerted": false,
+      "first_seen": "2026-07-28T06:42:47.120220+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Global Sourcing Manager, Electromechanical (Actuators/Motors) ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5197277007?gh_jid=5197277007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -54247,6 +54261,13 @@
       "title": "Surgical Robotic Regional Business development",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Riyadh-Riyadh-Saudi-Arabia/Surgical-Robotic-Regional-Business-development_R73186-1"
     },
+    "Medtronic:R73191": {
+      "alerted": false,
+      "first_seen": "2026-07-28T06:42:47.120290+00:00",
+      "location": "Shanghai, Shanghai, China",
+      "title": "BD & Strategy Intern",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Shanghai-Shanghai-China/BD---Strategy-Intern_R73191-1"
+    },
     "Medtronic:R73202": {
       "alerted": false,
       "first_seen": "2026-07-27T16:13:36.325923+00:00",
@@ -55716,6 +55737,13 @@
       "location": "4 Locations",
       "title": "Senior C++ Software Engineer - Chip Design Tools",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-C---Software-Engineer---Chip-Design-Tools_JR2009389"
+    },
+    "NVIDIA:JR2009401": {
+      "alerted": false,
+      "first_seen": "2026-07-28T06:42:47.118575+00:00",
+      "location": "2 Locations",
+      "title": "Senior ASIC Design Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-ASIC-Design-Engineer_JR2009401"
     },
     "NVIDIA:JR2009423": {
       "alerted": false,
@@ -69584,12 +69612,26 @@
       "title": "Analog Mask Design Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Analog-Mask-Design-Engineer_JR2021551"
     },
+    "NVIDIA:JR2021555": {
+      "alerted": false,
+      "first_seen": "2026-07-28T06:42:47.118795+00:00",
+      "location": "India, Bengaluru",
+      "title": "Physical Design Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Physical-Design-Engineer_JR2021555"
+    },
     "NVIDIA:JR2021558": {
       "alerted": false,
       "first_seen": "2026-07-22T08:41:50.659071+00:00",
       "location": "2 Locations",
       "title": "Senior Mask Design Engineer - Hardware",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Senior-Mask-Design-Engineer---Hardware_JR2021558"
+    },
+    "NVIDIA:JR2021574": {
+      "alerted": false,
+      "first_seen": "2026-07-28T06:42:47.118716+00:00",
+      "location": "2 Locations",
+      "title": "System Software Engineer - Performance Verification Infrastructure",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/System-Software-Engineer---Performance-Verification-Infrastructure_JR2021574"
     },
     "NVIDIA:JR2021582": {
       "alerted": false,
@@ -69709,6 +69751,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Senior Manager, Business Operations \u2013 Global Events and Experiences",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--Business-Operations---Global-Events-and-Experiences_JR2021639"
+    },
+    "NVIDIA:JR2021644": {
+      "alerted": false,
+      "first_seen": "2026-07-28T06:42:47.118343+00:00",
+      "location": "3 Locations",
+      "title": "Manager, Campaign Marketing - Integrated Campaigns and Industries EMEA",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Reading/Manager--Campaign-Marketing---Integrated-Campaigns-and-Industries-EMEA_JR2021644"
     },
     "NVIDIA:JR2021647": {
       "alerted": false,
@@ -70095,6 +70144,20 @@
       "title": "Engineering Manager, DRIVE OS Communication Infrastructure",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Engineering-Manager--DRIVE-OS-Communication-Infrastructure_JR2021854"
     },
+    "NVIDIA:JR2021864": {
+      "alerted": false,
+      "first_seen": "2026-07-28T06:42:47.118290+00:00",
+      "location": "2 Locations",
+      "title": "Healthcare AI Startups Lead - APAC",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/Healthcare-AI-Startups-Lead---APAC_JR2021864"
+    },
+    "NVIDIA:JR2021866": {
+      "alerted": false,
+      "first_seen": "2026-07-28T06:42:47.118535+00:00",
+      "location": "3 Locations",
+      "title": "Senior Fullstack Software Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Senior-Fullstack-Software-Engineer_JR2021866"
+    },
     "NVIDIA:JR2021872": {
       "alerted": false,
       "first_seen": "2026-07-27T08:16:45.062853+00:00",
@@ -70178,6 +70241,13 @@
       "location": "India, Pune",
       "title": "Senior System Software Engineer - Local AI Automation",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Pune/Senior-System-Software-Engineer---Local-AI-Automation_JR2021900"
+    },
+    "NVIDIA:JR2021902": {
+      "alerted": false,
+      "first_seen": "2026-07-28T06:42:47.118394+00:00",
+      "location": "India, Bengaluru",
+      "title": "Senior Systems Software Engineer - NVIDIA Cloud Functions",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Systems-Software-Engineer---NVIDIA-Cloud-Functions_JR2021902"
     },
     "NVIDIA:JR2021909": {
       "alerted": false,
@@ -70263,12 +70333,33 @@
       "title": "Senior Inference Engineer, GPU Kernel Optimization",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Inference-Engineer--GPU-Kernel-Optimization_JR2021962"
     },
+    "NVIDIA:JR2021971": {
+      "alerted": false,
+      "first_seen": "2026-07-28T06:42:47.118758+00:00",
+      "location": "India, Bengaluru",
+      "title": "Senior Architect, GPU and SoC Modelling",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Architect--GPU-and-SoC-Modelling_JR2021971"
+    },
+    "NVIDIA:JR2021984": {
+      "alerted": false,
+      "first_seen": "2026-07-28T06:42:47.118621+00:00",
+      "location": "2 Locations",
+      "title": "Senior Engineer, Local AI - Agents and Systems",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Engineer--Local-AI---Agents-and-Systems_JR2021984"
+    },
     "NVIDIA:JR2021986": {
       "alerted": false,
       "first_seen": "2026-07-24T20:01:40.880696+00:00",
       "location": "2 Locations",
       "title": "Senior Engineer, Local AI - Agents and Systems",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Engineer--Local-AI---Agents-and-Systems_JR2021986"
+    },
+    "NVIDIA:JR2021988": {
+      "alerted": false,
+      "first_seen": "2026-07-28T06:42:47.118667+00:00",
+      "location": "2 Locations",
+      "title": "Principal Engineer, Local AI - Agents and Systems",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Engineer--Local-AI---Agents-and-Systems_JR2021988"
     },
     "NVIDIA:JR2021989": {
       "alerted": false,
@@ -70326,12 +70417,26 @@
       "title": "Senior Software Engineer, Customer Data and Marketing AI",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Remote/Senior-Software-Engineer--Customer-Data-and-Marketing-AI_JR2022042"
     },
+    "NVIDIA:JR2022097": {
+      "alerted": false,
+      "first_seen": "2026-07-28T06:42:47.118444+00:00",
+      "location": "Taiwan, Taipei",
+      "title": "Senior Systems Software Engineer, Data Center Platform Enablement",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Senior-Systems-Software-Engineer--Data-Center-Platform-Enablement_JR2022097"
+    },
     "NVIDIA:JR2022102": {
       "alerted": false,
       "first_seen": "2026-07-24T18:43:28.333614+00:00",
       "location": "US, MA, Westford",
       "title": "GPU Verification Engineer - New College Grad 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/GPU-Verification-Engineer---New-College-Grad-2026_JR2022102"
+    },
+    "NVIDIA:JR2022204": {
+      "alerted": false,
+      "first_seen": "2026-07-28T06:42:47.118488+00:00",
+      "location": "Israel, Yokneam",
+      "title": "Senior Software Infrastructure Developer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Software-Infrastructure-Developer_JR2022204"
     },
     "NVIDIA:JR2022264": {
       "alerted": false,
@@ -83080,6 +83185,13 @@
       "title": "Production Associate I - 2nd Shift - $21.25/hr + $2.00/hr Shift Premium",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Salt-Lake-City-Utah/Production-Associate-I---2nd-Shift----2125-hr----200-hr-Shift-Premium_R568883"
     },
+    "Stryker:R568887": {
+      "alerted": false,
+      "first_seen": "2026-07-28T06:42:47.118220+00:00",
+      "location": "Seoul, Korea",
+      "title": "QA Specialist (1-year Contract)",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Seoul-Korea/QA-Specialist--1-year-Contract-_R568887"
+    },
     "Stryker:R568890": {
       "alerted": false,
       "first_seen": "2026-07-20T09:43:50.450030+00:00",
@@ -84640,6 +84752,13 @@
       "location": "Manhattan, New York",
       "title": "Associate Field Service Technician - Manhattan, NY - Transport",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Manhattan-New-York/Associate-Field-Service-Technician---Manhattan--NY---Transport_R569731"
+    },
+    "Stryker:R569758": {
+      "alerted": false,
+      "first_seen": "2026-07-28T06:42:47.118153+00:00",
+      "location": "Beijing, China",
+      "title": "ICM_Associate Manager, Dealer Management_Beijing",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Beijing-China/ICM-Associate-Manager--Dealer-Management-Beijing_R569758"
     },
     "Stryker:R569772": {
       "alerted": false,
