@@ -1,5 +1,10 @@
 {
   "company_failures": {
+    "Anduril": {
+      "count": 1,
+      "last_error": "Anduril (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
+      "last_failed_at": "2026-07-29T16:40:24.319615+00:00"
+    },
     "Boston Dynamics": {
       "count": 6,
       "last_error": "Boston Dynamics (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/bostondynamics/jobs?content=true",
@@ -640,6 +645,13 @@
       "location": "Remote",
       "title": "Senior Staff Software Engineer, Calibration",
       "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6127713004"
+    },
+    "Agility Robotics:6127729004": {
+      "alerted": false,
+      "first_seen": "2026-07-29T16:40:24.323756+00:00",
+      "location": "Remote",
+      "title": "Lead Data Scientist, Robotics",
+      "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6127729004"
     },
     "Agility Robotics:6127736004": {
       "alerted": false,
@@ -45238,6 +45250,13 @@
       "title": "Inventory Analyst",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Irvine-California-United-States-of-America/Inventory-Analyst_R69531"
     },
+    "Medtronic:R69534": {
+      "alerted": false,
+      "first_seen": "2026-07-29T16:40:24.324577+00:00",
+      "location": "4 Locations",
+      "title": "Principal Advanced Analytics Analyst",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Principal-Advanced-Analytics-Analyst_R69534-1"
+    },
     "Medtronic:R69537": {
       "alerted": false,
       "first_seen": "2026-06-18T07:02:50.511914+00:00",
@@ -51608,6 +51627,13 @@
       "title": "Senior Clinical Research Specialist",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Trevoux-Rhne-Alpes-France/Senior-Clinical-Research-Specialist_R71577-1"
     },
+    "Medtronic:R71579": {
+      "alerted": false,
+      "first_seen": "2026-07-29T16:40:24.324617+00:00",
+      "location": "Watford, Hertfordshire, United Kingdom",
+      "title": "Administrative Assistant",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Watford-Hertfordshire-United-Kingdom/Administrative-Assistant_R71579-1"
+    },
     "Medtronic:R71580": {
       "alerted": false,
       "first_seen": "2026-07-08T06:43:34.185190+00:00",
@@ -52707,6 +52733,13 @@
       "title": "Facilities Maintenance Tech IV - Electrician",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Danvers-Massachusetts-United-States-of-America/Facilities-Maintenance-Tech-IV---Electrician_R71916-1"
     },
+    "Medtronic:R71924": {
+      "alerted": false,
+      "first_seen": "2026-07-29T16:40:24.324484+00:00",
+      "location": "Bogot\u00e1, Bogota, Colombia",
+      "title": "Especialista de Producto",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Bogot-Bogota-Colombia/Especialista-de-Producto_R71924"
+    },
     "Medtronic:R71927": {
       "alerted": false,
       "first_seen": "2026-07-22T08:41:50.659279+00:00",
@@ -52881,6 +52914,13 @@
       "location": "Tours, Cher, France",
       "title": "Ing\u00e9nieur d'Application F/H",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Tours-Cher-France/Ingnieur-d-Application-F-H_R71982-2"
+    },
+    "Medtronic:R71986": {
+      "alerted": false,
+      "first_seen": "2026-07-29T16:40:24.324534+00:00",
+      "location": "Santa Ana, California, United States of America",
+      "title": "Premarket Quality Engineering Director (ICT), Santa Ana, CA",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Santa-Ana-California-United-States-of-America/Premarket-Quality-Engineering-Director--ICT---Santa-Ana--CA_R71986-1"
     },
     "Medtronic:R71990": {
       "alerted": false,
@@ -55486,6 +55526,13 @@
       "title": "INGENIERO DE MANUFACTURA I (12 MESES)",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Tijuana-Baja-California-Mexico/INGENIERO-DE-MANUFACTURA-I--12-MESES-_R73388-1"
     },
+    "Medtronic:R73399": {
+      "alerted": false,
+      "first_seen": "2026-07-29T16:40:24.324441+00:00",
+      "location": "Villalba, Puerto Rico, United States of America",
+      "title": "Sr. Production Planner.",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Villalba-Puerto-Rico-United-States-of-America/Sr-Production-Planner_R73399"
+    },
     "Medtronic:R73400": {
       "alerted": false,
       "first_seen": "2026-07-29T15:19:29.300412+00:00",
@@ -56998,6 +57045,13 @@
       "title": "Senior SoC Architect",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-SoC-Architect_JR2009532"
     },
+    "NVIDIA:JR2009572": {
+      "alerted": false,
+      "first_seen": "2026-07-29T16:40:24.324359+00:00",
+      "location": "4 Locations",
+      "title": "Product Manager - Open Models",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Product-Manager---Open-Models_JR2009572-1"
+    },
     "NVIDIA:JR2009619": {
       "alerted": false,
       "first_seen": "2026-06-03T05:11:44.359233+00:00",
@@ -57200,6 +57254,13 @@
       "location": "7 Locations",
       "title": "Field Application Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-NC-Durham/Field-Application-Engineer_JR2010881"
+    },
+    "NVIDIA:JR2010884": {
+      "alerted": false,
+      "first_seen": "2026-07-29T16:40:24.324401+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Human Resources Business Partner",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Human-Resources-Business-Partner_JR2010884"
     },
     "NVIDIA:JR2010907": {
       "alerted": false,
@@ -83367,6 +83428,13 @@
       "title": "Design Engineer",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Ventura-California/Design-Engineer_R568368"
     },
+    "Stryker:R568369": {
+      "alerted": false,
+      "first_seen": "2026-07-29T16:40:24.324316+00:00",
+      "location": "Fremont, California",
+      "title": "Senior Staff Clinical Quality Associate (Onsite)",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Fremont-California/Senior-Staff-Clinical-Quality-Associate--Onsite-_R568369"
+    },
     "Stryker:R568370": {
       "alerted": false,
       "first_seen": "2026-07-14T18:53:52.589368+00:00",
@@ -86439,6 +86507,13 @@
       "location": "Gurugram, India",
       "title": "Staff Engineer \u2013 DevOps",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Gurugram-India/Staff-Engineer---DevOps_R569603-1"
+    },
+    "Stryker:R569604": {
+      "alerted": false,
+      "first_seen": "2026-07-29T16:40:24.324268+00:00",
+      "location": "Bangkok, Thailand",
+      "title": "Scrub Technician",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Bangkok-Thailand/Scrub-Technician_R569604"
     },
     "Stryker:R569606": {
       "alerted": false,
@@ -90856,6 +90931,13 @@
       "location": "Mountain View, California, USA; San Francisco, California, USA",
       "title": "Head of Workplace Strategy and Services",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8048991"
+    },
+    "Waymo:8049302": {
+      "alerted": false,
+      "first_seen": "2026-07-29T16:40:24.324223+00:00",
+      "location": "San Francisco, CA, USA",
+      "title": "Training Delivery Manager (Fleet Maintenance & Validation TTT)",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8049302"
     },
     "Waymo:8049630": {
       "alerted": false,
