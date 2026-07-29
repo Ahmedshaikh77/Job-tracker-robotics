@@ -9692,6 +9692,13 @@
       "title": "Supply Planner",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5071245007?gh_jid=5071245007"
     },
+    "Anduril:5071299007": {
+      "alerted": false,
+      "first_seen": "2026-07-29T03:31:35.963281+00:00",
+      "location": "Irvine, California, United States",
+      "title": "Propulsion Test Engineer, Venom",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5071299007?gh_jid=5071299007"
+    },
     "Anduril:5071316007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.745022+00:00",
@@ -23104,6 +23111,13 @@
       "title": "SIP Trainer, USASOC ",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5171001007?gh_jid=5171001007"
     },
+    "Anduril:5171009007": {
+      "alerted": false,
+      "first_seen": "2026-07-29T03:31:35.960640+00:00",
+      "location": "Irvine, California, United States",
+      "title": "Deployment Lead, Air Defense",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5171009007?gh_jid=5171009007"
+    },
     "Anduril:5171020007": {
       "alerted": false,
       "first_seen": "2026-06-24T21:00:08.207408+00:00",
@@ -28424,6 +28438,13 @@
       "title": "Director, Product Sourcing Engineering (Electrical)",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5194720007?gh_jid=5194720007"
     },
+    "Anduril:5194721007": {
+      "alerted": false,
+      "first_seen": "2026-07-29T03:31:35.962125+00:00",
+      "location": "Irvine, California, United States",
+      "title": "Hazard Zone Deployment Lead",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5194721007?gh_jid=5194721007"
+    },
     "Anduril:5194816007": {
       "alerted": false,
       "first_seen": "2026-07-23T18:53:14.844327+00:00",
@@ -29011,6 +29032,20 @@
       "location": "Costa Mesa, California, United States",
       "title": "Senior Development Test Engineer - Air Dominance & Strike",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5198078007?gh_jid=5198078007"
+    },
+    "Anduril:5198211007": {
+      "alerted": false,
+      "first_seen": "2026-07-29T03:31:35.961356+00:00",
+      "location": "Tokyo, Japan",
+      "title": "Director, Business Development ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5198211007?gh_jid=5198211007"
+    },
+    "Anduril:5198217007": {
+      "alerted": false,
+      "first_seen": "2026-07-29T03:31:35.962663+00:00",
+      "location": "Sydney, New South Wales, Australia",
+      "title": "Mechanical Production Technician",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5198217007?gh_jid=5198217007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -33351,6 +33386,34 @@
       "location": "Somerville, MA",
       "title": "Technical Program Manager",
       "url": "https://careers.formlabs.com/job/8092349/apply/?gh_jid=8092349"
+    },
+    "Formlabs:8093331": {
+      "alerted": false,
+      "first_seen": "2026-07-29T03:31:35.959679+00:00",
+      "location": "Somerville, MA",
+      "title": "Operations Strategy Lead",
+      "url": "https://careers.formlabs.com/job/8093331/apply/?gh_jid=8093331"
+    },
+    "Formlabs:8093336": {
+      "alerted": false,
+      "first_seen": "2026-07-29T03:31:35.958792+00:00",
+      "location": "Somerville, MA",
+      "title": "Manager, Operations Strategy & Transformation",
+      "url": "https://careers.formlabs.com/job/8093336/apply/?gh_jid=8093336"
+    },
+    "Formlabs:8093337": {
+      "alerted": false,
+      "first_seen": "2026-07-29T03:31:35.958292+00:00",
+      "location": "Somerville, MA",
+      "title": "Fulfillment Strategy & Network Lead",
+      "url": "https://careers.formlabs.com/job/8093337/apply/?gh_jid=8093337"
+    },
+    "Formlabs:8093340": {
+      "alerted": false,
+      "first_seen": "2026-07-29T03:31:35.959244+00:00",
+      "location": "Somerville, MA",
+      "title": "Operations Program Lead, Strategic Initiatives",
+      "url": "https://careers.formlabs.com/job/8093340/apply/?gh_jid=8093340"
     },
     "Medtronic:R26267": {
       "alerted": false,
@@ -71362,12 +71425,33 @@
       "title": "GPU Verification Engineer - New College Grad 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/GPU-Verification-Engineer---New-College-Grad-2026_JR2022102"
     },
+    "NVIDIA:JR2022176": {
+      "alerted": false,
+      "first_seen": "2026-07-29T03:31:35.959854+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Manager, Post-Silicon Bring-Up",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--Post-Silicon-Bring-Up_JR2022176"
+    },
     "NVIDIA:JR2022185": {
       "alerted": false,
       "first_seen": "2026-07-28T17:01:42.930452+00:00",
       "location": "5 Locations",
       "title": "Senior Performance Engineer - DGX Cloud",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Performance-Engineer---DGX-Cloud_JR2022185"
+    },
+    "NVIDIA:JR2022191": {
+      "alerted": false,
+      "first_seen": "2026-07-29T03:31:35.959810+00:00",
+      "location": "2 Locations",
+      "title": "Senior Software Engineer, Identity and Security - Profiling Services",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Identity-and-Security---Profiling-Services_JR2022191"
+    },
+    "NVIDIA:JR2022192": {
+      "alerted": false,
+      "first_seen": "2026-07-29T03:31:35.959757+00:00",
+      "location": "2 Locations",
+      "title": "Senior Frontend Engineer, Visualization - Profiling Services",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Frontend-Engineer--Visualization---Profiling-Services_JR2022192"
     },
     "NVIDIA:JR2022204": {
       "alerted": false,
@@ -75533,6 +75617,13 @@
       "location": "Grecia, Costa Rica",
       "title": "Facilities Sevices Administrator (Grecia, Manufacturing Site)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Grecia-Costa-Rica/Facilities-Sevices-Administrator--Grecia--Manufacturing-Site-_R566056"
+    },
+    "Stryker:R566058": {
+      "alerted": false,
+      "first_seen": "2026-07-29T03:31:35.959895+00:00",
+      "location": "Mahwah, New Jersey",
+      "title": "Senior Engineer, R&D",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Mahwah-New-Jersey/Senior-Engineer--R-D_R566058"
     },
     "Stryker:R566062": {
       "alerted": false,
