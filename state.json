@@ -2426,6 +2426,20 @@
       "title": "Software Development Engineer, Amazon Fulfillment Technology (AFT), Platform Engineering and Services",
       "url": "https://www.amazon.jobs/en/jobs/10472888/software-development-engineer-amazon-fulfillment-technology-aft-platform-engineering-and-services"
     },
+    "Amazon:10473465": {
+      "alerted": false,
+      "first_seen": "2026-07-29T09:08:27.985753+00:00",
+      "location": "Berlin, Berlin, DEU",
+      "title": "Applied Scientist II, AFT AI, Amazon AFT AI",
+      "url": "https://www.amazon.jobs/en/jobs/10473465/applied-scientist-ii-aft-ai-amazon-aft-ai"
+    },
+    "Amazon:10473469": {
+      "alerted": true,
+      "first_seen": "2026-07-29T09:08:27.985661+00:00",
+      "location": "Berlin, Berlin, DEU",
+      "title": "Applied Scientist,  Amazon Robotics",
+      "url": "https://www.amazon.jobs/en/jobs/10473469/applied-scientist-amazon-robotics"
+    },
     "Amazon:10473908": {
       "alerted": false,
       "first_seen": "2026-07-14T16:50:49.645929+00:00",
@@ -2754,6 +2768,13 @@
       "location": "North Reading, Massachusetts, USA",
       "title": "Software Development Engineer II",
       "url": "https://www.amazon.jobs/en/jobs/10486441/software-development-engineer-ii"
+    },
+    "Amazon:10486928": {
+      "alerted": false,
+      "first_seen": "2026-07-29T09:08:27.985821+00:00",
+      "location": "Gurugram, Haryana, IND",
+      "title": "Migration Modernization Architect, Professional Services",
+      "url": "https://www.amazon.jobs/en/jobs/10486928/migration-modernization-architect-professional-services"
     },
     "Anduril:4159543007": {
       "alerted": false,
@@ -33534,6 +33555,13 @@
       "title": "Test Technician II",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Test-Technician---II_R49015-2"
     },
+    "Medtronic:R49102": {
+      "alerted": false,
+      "first_seen": "2026-07-29T09:08:27.986511+00:00",
+      "location": "Warsaw, Mazowieckie, Poland",
+      "title": "Principal Consultant - Health Care Services Solution",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Warsaw-Mazowieckie-Poland/Principal-Health-Care-services-Solutions-Specialist_R49102-1"
+    },
     "Medtronic:R51049": {
       "alerted": false,
       "first_seen": "2026-06-05T15:41:16.341609+00:00",
@@ -34548,6 +34576,13 @@
       "location": "Nanakramguda, Hyderabad, India",
       "title": "Regulatory Affairs Specialist",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Regulatory-Affairs-Specialist_R62385-3"
+    },
+    "Medtronic:R62392": {
+      "alerted": false,
+      "first_seen": "2026-07-29T09:08:27.986426+00:00",
+      "location": "Nanakramguda, Hyderabad, India",
+      "title": "Technical Writer",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Technical-Writer_R62392-1"
     },
     "Medtronic:R62398": {
       "alerted": false,
@@ -53547,6 +53582,13 @@
       "title": "Facilities Maintenance Technician III - Boiler License",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Memphis-Tennessee-United-States-of-America/Facilities-Maintenance-Technician-III---Boiler-License_R72293-1"
     },
+    "Medtronic:R72295": {
+      "alerted": false,
+      "first_seen": "2026-07-29T09:08:27.986547+00:00",
+      "location": "Caesarea, Haifa, Israel",
+      "title": "Sr Test Engineer",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Caesarea-Haifa-Israel/Sr-Test-Engineer_R72295-1"
+    },
     "Medtronic:R72301": {
       "alerted": false,
       "first_seen": "2026-07-27T20:40:27.269224+00:00",
@@ -54331,6 +54373,13 @@
       "title": "SHAPE_PVH_Senior Technical Sales Representative_Guangzhou",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Guangzhou-Guangdong-China/SHAPE-PVH-Senior-Technical-Sales-Representative-Guangzhou_R72659-2"
     },
+    "Medtronic:R72660": {
+      "alerted": false,
+      "first_seen": "2026-07-29T09:08:27.986596+00:00",
+      "location": "Petaling Jaya, Selangor, Malaysia",
+      "title": "Sales Representative\u2013 Coronary Division",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Petaling-Jaya-Selangor-Malaysia/Sales-Representative--Coronary-Division_R72660"
+    },
     "Medtronic:R72672": {
       "alerted": false,
       "first_seen": "2026-07-25T06:04:38.690193+00:00",
@@ -54877,6 +54926,13 @@
       "title": "CSOT-Sr Quality Engineer-Changzhou",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Changzhou-Jiangsu-China/CSOT-Sr-Quality-Engineer-Changzhou_R73050-1"
     },
+    "Medtronic:R73052": {
+      "alerted": false,
+      "first_seen": "2026-07-29T09:08:27.986637+00:00",
+      "location": "Shanghai, Shanghai, China",
+      "title": "MTC-Sr AME Engineer-Shanghai",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Shanghai-Shanghai-China/MTC-Sr-AME-Engineer-Shanghai_R73052-1"
+    },
     "Medtronic:R73069": {
       "alerted": false,
       "first_seen": "2026-07-27T04:50:04.861325+00:00",
@@ -55212,6 +55268,13 @@
       "location": "Tijuana, Baja California, Mexico",
       "title": "INGENIERO DE MANUFACTURA I (12 MESES)",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Tijuana-Baja-California-Mexico/INGENIERO-DE-MANUFACTURA-I--12-MESES-_R73388-1"
+    },
+    "Medtronic:R73424": {
+      "alerted": false,
+      "first_seen": "2026-07-29T09:08:27.986465+00:00",
+      "location": "Bangalore , Karnataka, India",
+      "title": "Assoc IT Business Analyst",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Bangalore--Karnataka-India/Assoc-IT-Business-Analyst_R73424-1"
     },
     "NVIDIA:JR1968313": {
       "alerted": true,
@@ -66693,6 +66756,13 @@
       "title": "Senior Site Reliability Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Remote/Senior-Site-Reliability-Engineer_JR2020225"
     },
+    "NVIDIA:JR2020227": {
+      "alerted": false,
+      "first_seen": "2026-07-29T09:08:27.985998+00:00",
+      "location": "India, Bengaluru",
+      "title": "High Speed IO Validation Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/High-Speed-IO-Validation-Engineer_JR2020227"
+    },
     "NVIDIA:JR2020228": {
       "alerted": false,
       "first_seen": "2026-06-30T17:28:59.693319+00:00",
@@ -67567,6 +67637,13 @@
       "location": "2 Locations",
       "title": "Senior Verification Engineer - Scalable Coherency Fabric",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Verification-Engineer---Scalable-Coherency-Fabric_JR2020540"
+    },
+    "NVIDIA:JR2020544": {
+      "alerted": false,
+      "first_seen": "2026-07-29T09:08:27.985865+00:00",
+      "location": "Israel, Yokneam",
+      "title": "Automation Infrastructure Student",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Automation-Infrastructure-Student_JR2020544"
     },
     "NVIDIA:JR2020545": {
       "alerted": false,
@@ -70270,6 +70347,13 @@
       "title": "Solutions Architect, Physical AI and Omniverse",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Solutions-Architect--Physical-AI-and-Omniverse_JR2021416"
     },
+    "NVIDIA:JR2021418": {
+      "alerted": false,
+      "first_seen": "2026-07-29T09:08:27.986161+00:00",
+      "location": "US, CA, Remote",
+      "title": "Senior Cyber Security Engineer - Vulnerability Operation",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Cyber-Security-Engineer---Vulnerability-Operation_JR2021418"
+    },
     "NVIDIA:JR2021428": {
       "alerted": false,
       "first_seen": "2026-07-20T14:26:48.508777+00:00",
@@ -70759,6 +70843,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Senior Manager, Business Operations \u2013 Global Events and Experiences",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--Business-Operations---Global-Events-and-Experiences_JR2021639"
+    },
+    "NVIDIA:JR2021643": {
+      "alerted": false,
+      "first_seen": "2026-07-29T09:08:27.986046+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Principal Software Engineer - Employee Productivity",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Software-Engineer---Employee-Productivity_JR2021643-1"
     },
     "NVIDIA:JR2021644": {
       "alerted": false,
@@ -71390,6 +71481,13 @@
       "title": "Senior AI Training Performance Architect",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-AI-Training-Performance-Architect_JR2021938"
     },
+    "NVIDIA:JR2021943": {
+      "alerted": false,
+      "first_seen": "2026-07-29T09:08:27.985913+00:00",
+      "location": "2 Locations",
+      "title": "Senior Product Marketing Manager - Data Processing",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Product-Marketing-Manager---Data-Processing_JR2021943"
+    },
     "NVIDIA:JR2021952": {
       "alerted": false,
       "first_seen": "2026-07-28T04:17:42.880382+00:00",
@@ -71466,6 +71564,13 @@
       "location": "2 Locations",
       "title": "Principal Engineer, Local AI - Agents and Systems",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Engineer--Local-AI---Agents-and-Systems_JR2021989"
+    },
+    "NVIDIA:JR2021993": {
+      "alerted": false,
+      "first_seen": "2026-07-29T09:08:27.985955+00:00",
+      "location": "India, Bengaluru",
+      "title": "Senior Design Verification Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Design-Verification-Engineer_JR2021993"
     },
     "NVIDIA:JR2021994": {
       "alerted": false,
@@ -71571,6 +71676,13 @@
       "location": "5 Locations",
       "title": "Senior Performance Engineer - DGX Cloud",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Performance-Engineer---DGX-Cloud_JR2022185"
+    },
+    "NVIDIA:JR2022190": {
+      "alerted": false,
+      "first_seen": "2026-07-29T09:08:27.986116+00:00",
+      "location": "2 Locations",
+      "title": "Senior Backend Platform Engineer - Profiling Services",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Backend-Platform-Engineer---Profiling-Services_JR2022190"
     },
     "NVIDIA:JR2022191": {
       "alerted": false,
@@ -84011,6 +84123,13 @@
       "title": "Operator / Operatorka Produkcji (Cleanroom)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Skawina-Poland/Operator---Operatorka-Produkcji--Cleanroom-_R568741"
     },
+    "Stryker:R568743": {
+      "alerted": false,
+      "first_seen": "2026-07-29T09:08:27.986350+00:00",
+      "location": "2 Locations",
+      "title": "Responsable commercial Instruments Orthop\u00e9diques / Med Tech (H-F)",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Toulouse-France/Responsable-commercial-Instruments-Orthopdiques---Med-Tech--H-F-_R568743"
+    },
     "Stryker:R568744": {
       "alerted": false,
       "first_seen": "2026-07-14T09:23:43.355199+00:00",
@@ -85579,6 +85698,13 @@
       "title": "Regional Sales Manager- Palms to Pines- Emergency Care",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Chandler-Arizona/Regional-Sales-Manager--Palms-to-Pines--Emergency-Care_R569367"
     },
+    "Stryker:R569373": {
+      "alerted": false,
+      "first_seen": "2026-07-29T09:08:27.986298+00:00",
+      "location": "Gold Coast, Australia",
+      "title": "Territory Manager - Joint Replacement",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Gold-Coast-Australia/Territory-Manager---Joint-Replacement_R569373"
+    },
     "Stryker:R569376": {
       "alerted": false,
       "first_seen": "2026-07-24T08:40:51.431237+00:00",
@@ -85732,6 +85858,13 @@
       "location": "Melbourne, Australia",
       "title": "Robotics Product Specialist",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Melbourne-Australia/Robotics-Product-Specialist_R569447"
+    },
+    "Stryker:R569449": {
+      "alerted": false,
+      "first_seen": "2026-07-29T09:08:27.986390+00:00",
+      "location": "Gurugram, India",
+      "title": "Engineer Advanced Operations",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Gurugram-India/Engineer-Advanced-Operations_R569449-2"
     },
     "Stryker:R569455": {
       "alerted": false,
@@ -85970,6 +86103,13 @@
       "location": "Toowoomba, Australia",
       "title": "Robotics Product Specialist",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Toowoomba-Australia/Robotics-Product-Specialist_R569601-1"
+    },
+    "Stryker:R569603": {
+      "alerted": false,
+      "first_seen": "2026-07-29T09:08:27.986209+00:00",
+      "location": "Gurugram, India",
+      "title": "Staff Engineer \u2013 DevOps",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Gurugram-India/Staff-Engineer---DevOps_R569603-1"
     },
     "Stryker:R569606": {
       "alerted": false,
@@ -86313,6 +86453,13 @@
       "location": "2 Locations",
       "title": "Product Support Specialist - Andalucia",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Malaga-Spain/Product-Support-Specialist---Andalucia_R570002"
+    },
+    "Stryker:R570148": {
+      "alerted": false,
+      "first_seen": "2026-07-29T09:08:27.986255+00:00",
+      "location": "Gold Coast, Australia",
+      "title": "Associate Territory Manager - Joint Replacement",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Gold-Coast-Australia/Associate-Territory-Manager---Joint-Replacement_R570148"
     },
     "Waymo:6367980": {
       "alerted": false,
