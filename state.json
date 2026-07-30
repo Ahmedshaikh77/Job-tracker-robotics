@@ -2825,6 +2825,13 @@
       "title": " Human-Robot Interaction Applied Scientist , Fauna",
       "url": "https://www.amazon.jobs/en/jobs/10488686/human-robot-interaction-applied-scientist-fauna"
     },
+    "Amazon:10488707": {
+      "alerted": false,
+      "first_seen": "2026-07-30T21:34:04.950194+00:00",
+      "location": "New York, New York, USA",
+      "title": "Software Development Engineer, ML Systems, Annapurna Labs",
+      "url": "https://www.amazon.jobs/en/jobs/10488707/software-development-engineer-ml-systems-annapurna-labs"
+    },
     "Anduril:4159543007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.742648+00:00",
@@ -27465,6 +27472,13 @@
       "title": "Manager, Mechanical Engineering",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5188161007?gh_jid=5188161007"
     },
+    "Anduril:5188179007": {
+      "alerted": false,
+      "first_seen": "2026-07-30T21:34:04.953293+00:00",
+      "location": "Colorado Springs, Colorado, United States",
+      "title": "Mission Operations Engineer, Connected Warfare",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5188179007?gh_jid=5188179007"
+    },
     "Anduril:5188183007": {
       "alerted": false,
       "first_seen": "2026-07-22T06:09:55.040184+00:00",
@@ -29061,6 +29075,20 @@
       "title": "Division Operations Lead",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5197123007?gh_jid=5197123007"
     },
+    "Anduril:5197127007": {
+      "alerted": false,
+      "first_seen": "2026-07-30T21:34:04.952097+00:00",
+      "location": "Chantilly, Virginia, United States",
+      "title": "Ground Software Engineer, Space",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5197127007?gh_jid=5197127007"
+    },
+    "Anduril:5197128007": {
+      "alerted": false,
+      "first_seen": "2026-07-30T21:34:04.954920+00:00",
+      "location": "Chantilly, Virginia, United States",
+      "title": "Senior Ground Software Engineer, Space",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5197128007?gh_jid=5197128007"
+    },
     "Anduril:5197221007": {
       "alerted": false,
       "first_seen": "2026-07-28T19:55:34.941468+00:00",
@@ -29390,6 +29418,13 @@
       "title": "Supply Planner",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5198437007?gh_jid=5198437007"
     },
+    "Anduril:5198612007": {
+      "alerted": false,
+      "first_seen": "2026-07-30T21:34:04.955760+00:00",
+      "location": "Ashville, Ohio, United States",
+      "title": "Senior Low Observables Technician - Coatings",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5198612007?gh_jid=5198612007"
+    },
     "Anduril:5198632007": {
       "alerted": false,
       "first_seen": "2026-07-29T21:01:11.259355+00:00",
@@ -29586,12 +29621,40 @@
       "title": "Staff, Electrical Engineer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5199770007?gh_jid=5199770007"
     },
+    "Anduril:5199928007": {
+      "alerted": false,
+      "first_seen": "2026-07-30T21:34:04.957576+00:00",
+      "location": "Boulder, Colorado, United States",
+      "title": "Senior System Architect, Space Electronics ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5199928007?gh_jid=5199928007"
+    },
+    "Anduril:5199930007": {
+      "alerted": false,
+      "first_seen": "2026-07-30T21:34:04.956675+00:00",
+      "location": "Lexington, Massachusetts, United States",
+      "title": "Senior System Architect, Space Electronics ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5199930007?gh_jid=5199930007"
+    },
+    "Anduril:5199933007": {
+      "alerted": false,
+      "first_seen": "2026-07-30T21:34:04.958488+00:00",
+      "location": "Boulder, Colorado, United States",
+      "title": "Staff Systems Architect, Space Electronics ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5199933007?gh_jid=5199933007"
+    },
     "Anduril:5199934007": {
       "alerted": false,
       "first_seen": "2026-07-30T20:17:14.113931+00:00",
       "location": "Boston, Massachusetts, United States",
       "title": "Chief Engineer, Maritime Integrated Systems",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5199934007?gh_jid=5199934007"
+    },
+    "Anduril:5199935007": {
+      "alerted": false,
+      "first_seen": "2026-07-30T21:34:04.959403+00:00",
+      "location": "Lexington, Massachusetts, United States",
+      "title": "Staff Systems Architect, Space Electronics ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5199935007?gh_jid=5199935007"
     },
     "Anduril:5199951007": {
       "alerted": false,
@@ -29606,6 +29669,20 @@
       "location": "Lexington, Massachusetts, United States",
       "title": "Micro-electronics Technician",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5199952007?gh_jid=5199952007"
+    },
+    "Anduril:5199983007": {
+      "alerted": false,
+      "first_seen": "2026-07-30T21:34:04.954191+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Product Operations Technical Specialist, Launched Effects",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5199983007?gh_jid=5199983007"
+    },
+    "Anduril:5199990007": {
+      "alerted": false,
+      "first_seen": "2026-07-30T21:34:04.951344+00:00",
+      "location": "Chantilly, Virginia, United States",
+      "title": "Ground Software Engineer, Space",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5199990007?gh_jid=5199990007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -34024,12 +34101,26 @@
       "title": "Global Supply Manager",
       "url": "https://careers.formlabs.com/job/8097350/apply/?gh_jid=8097350"
     },
+    "Formlabs:8097487": {
+      "alerted": false,
+      "first_seen": "2026-07-30T21:34:04.950120+00:00",
+      "location": "Somerville, MA",
+      "title": "Senior Manager, Global Amazon Marketplace",
+      "url": "https://careers.formlabs.com/job/8097487/apply/?gh_jid=8097487"
+    },
     "Formlabs:8097508": {
       "alerted": false,
       "first_seen": "2026-07-30T20:17:14.112721+00:00",
       "location": "Millbury, Ohio",
       "title": "Finance and Operations Analyst",
       "url": "https://careers.formlabs.com/job/8097508/apply/?gh_jid=8097508"
+    },
+    "Formlabs:8097694": {
+      "alerted": false,
+      "first_seen": "2026-07-30T21:34:04.949490+00:00",
+      "location": "Somerville, MA",
+      "title": "Hardware R&D Engineering Intern (Fall 2026)",
+      "url": "https://careers.formlabs.com/job/8097694/apply/?gh_jid=8097694"
     },
     "Medtronic:R26267": {
       "alerted": false,
@@ -55332,6 +55423,13 @@
       "title": "Facilities Technician III, 2nd Shift",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Eatontown-New-Jersey-United-States-of-America/Facilities-Technician-III--2nd-Shift_R72717-1"
     },
+    "Medtronic:R72719": {
+      "alerted": false,
+      "first_seen": "2026-07-30T21:34:04.950569+00:00",
+      "location": "Alajuela Coyol, Alajuela, Costa Rica",
+      "title": "Strategic Sourcing Spec.",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Alajuela-Coyol-Alajuela-Costa-Rica/Strategic-Sourcing-Spec_R72719-1"
+    },
     "Medtronic:R72723": {
       "alerted": false,
       "first_seen": "2026-07-21T19:56:44.611291+00:00",
@@ -55345,6 +55443,13 @@
       "location": "9 Locations",
       "title": "Senior Manager - Cybersecurity OT Manufacturing & Distribution",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Senior-Manager---Cybersecurity-OT-Manufacturing---Distribution_R72732"
+    },
+    "Medtronic:R72735": {
+      "alerted": false,
+      "first_seen": "2026-07-30T21:34:04.950467+00:00",
+      "location": "Austin, Texas, United States of America",
+      "title": "Surgical Onsite Specialist (Austin TX)",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Austin-Texas-United-States-of-America/Surgical-Onsite-Specialist--Austin-TX-_R72735-1"
     },
     "Medtronic:R72738": {
       "alerted": false,
@@ -55835,6 +55940,20 @@
       "location": "Brampton, Ontario, Canada",
       "title": "Executive Administrative Assistant",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Brampton-Ontario-Canada/Executive-Administrative-Assistant_R73028"
+    },
+    "Medtronic:R73037": {
+      "alerted": false,
+      "first_seen": "2026-07-30T21:34:04.950611+00:00",
+      "location": "Seattle, Washington, United States of America",
+      "title": "Territory Manager - Endoscopy (Seattle)",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Seattle-Washington-United-States-of-America/Territory-Manager---Endoscopy--Seattle-_R73037-1"
+    },
+    "Medtronic:R73042": {
+      "alerted": false,
+      "first_seen": "2026-07-30T21:34:04.950425+00:00",
+      "location": "2 Locations",
+      "title": "Hernia Sales Specialist (North Dallas, TX)",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Dallas-Texas-United-States-of-America/Hernia-Sales-Specialist--North-Dallas--TX-_R73042-1"
     },
     "Medtronic:R73046": {
       "alerted": false,
@@ -56556,6 +56675,13 @@
       "location": "Warsaw, Indiana, United States of America",
       "title": "Machinist III",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Warsaw-Indiana-United-States-of-America/Machinist-III_R73599-1"
+    },
+    "Medtronic:R73622": {
+      "alerted": false,
+      "first_seen": "2026-07-30T21:34:04.950505+00:00",
+      "location": "Juncos, Puerto Rico, United States of America",
+      "title": "Assoc. Inventory Analyst",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Juncos-Puerto-Rico-United-States-of-America/Assoc-Inventory-Analyst_R73622-1"
     },
     "NVIDIA:JR1968313": {
       "alerted": true,
@@ -72664,6 +72790,13 @@
       "title": "Senior Chip Design Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Chip-Design-Engineer_JR2021828"
     },
+    "NVIDIA:JR2021832": {
+      "alerted": false,
+      "first_seen": "2026-07-30T21:34:04.950379+00:00",
+      "location": "5 Locations",
+      "title": "Senior Full Stack Software Engineer - DGX Cloud",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-NC-Remote/Senior-Full-Stack-Software-Engineer---DGX-Cloud_JR2021832"
+    },
     "NVIDIA:JR2021838": {
       "alerted": false,
       "first_seen": "2026-07-25T00:16:19.033077+00:00",
@@ -81491,6 +81624,13 @@
       "title": "Field Service Technician (Neptune), Columbus GA",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Columbus-Georgia/Field-Service-Technician--Neptune---Columbus-GA_R567330"
     },
+    "Stryker:R567331": {
+      "alerted": false,
+      "first_seen": "2026-07-30T21:34:04.950238+00:00",
+      "location": "Tijuana, Mexico",
+      "title": "Lead Analyst Cost Accounting",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tijuana-Mexico/Lead-Analyst-Cost-Accounting_R567331"
+    },
     "Stryker:R567333": {
       "alerted": false,
       "first_seen": "2026-06-29T22:08:49.268389+00:00",
@@ -86482,6 +86622,13 @@
       "title": "Graduate Intern, Systems R&D",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Burnaby-Canada/Graduate-Intern--Systems-R-D_R569010"
     },
+    "Stryker:R569013": {
+      "alerted": false,
+      "first_seen": "2026-07-30T21:34:04.950333+00:00",
+      "location": "Florida, Orlando 8026 Sunport Drive STE 311",
+      "title": "Medical Device Driver - 1st Shift - $22.10/hr",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Florida-Orlando-8026-Sunport-Drive-STE-311/Medical-Device-Driver---1st-Shift----2210-hr_R569013"
+    },
     "Stryker:R569014": {
       "alerted": false,
       "first_seen": "2026-07-21T17:07:08.331805+00:00",
@@ -88077,6 +88224,13 @@
       "location": "Burnaby, British Columbia",
       "title": "Optical Engineering / Physics Co-op",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Burnaby-British-Columbia/Optical-Engineering---Physics-Co-op_R569720"
+    },
+    "Stryker:R569723": {
+      "alerted": false,
+      "first_seen": "2026-07-30T21:34:04.950284+00:00",
+      "location": "Toledo, Ohio",
+      "title": "Sales Representative - Toledo, OH - Endoscopy",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Toledo-Ohio/Sales-Representative---Toledo--OH---Endoscopy_R569723"
     },
     "Stryker:R569726": {
       "alerted": false,
