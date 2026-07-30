@@ -2804,6 +2804,20 @@
       "title": "Applied Scientist,  Amazon Robotics",
       "url": "https://www.amazon.jobs/en/jobs/10488207/applied-scientist-amazon-robotics"
     },
+    "Amazon:10488381": {
+      "alerted": false,
+      "first_seen": "2026-07-30T16:09:29.573214+00:00",
+      "location": "Austin, Texas, USA",
+      "title": "Business Intel Engineer, OIS/CXI Analytics , Ops Tech Solution Network Dev",
+      "url": "https://www.amazon.jobs/en/jobs/10488381/business-intel-engineer-ois-cxi-analytics-ops-tech-solution-network-dev"
+    },
+    "Amazon:10488399": {
+      "alerted": false,
+      "first_seen": "2026-07-30T16:09:29.573118+00:00",
+      "location": "Austin, Texas, USA",
+      "title": "Software Development Manager, CXI Analytics",
+      "url": "https://www.amazon.jobs/en/jobs/10488399/software-development-manager-cxi-analytics"
+    },
     "Anduril:4159543007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.742648+00:00",
@@ -23209,6 +23223,13 @@
       "title": "Deployment Lead, Air Defense",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5171009007?gh_jid=5171009007"
     },
+    "Anduril:5171012007": {
+      "alerted": false,
+      "first_seen": "2026-07-30T16:09:29.576830+00:00",
+      "location": "Santa Ana, California, United States",
+      "title": "Senior Full-Stack Software Engineer, SIG ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5171012007?gh_jid=5171012007"
+    },
     "Anduril:5171020007": {
       "alerted": false,
       "first_seen": "2026-06-24T21:00:08.207408+00:00",
@@ -29222,6 +29243,13 @@
       "title": "Environmental Safety and Health Manager, Maritime Division",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5198088007?gh_jid=5198088007"
     },
+    "Anduril:5198093007": {
+      "alerted": false,
+      "first_seen": "2026-07-30T16:09:29.575917+00:00",
+      "location": "Remote",
+      "title": "Senior Fellow, Energetics Safety",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5198093007?gh_jid=5198093007"
+    },
     "Anduril:5198095007": {
       "alerted": false,
       "first_seen": "2026-07-29T22:04:20.870524+00:00",
@@ -29284,6 +29312,13 @@
       "location": "Costa Mesa, California, United States",
       "title": "Environmental Health and Safety Associate Manager",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5198316007?gh_jid=5198316007"
+    },
+    "Anduril:5198318007": {
+      "alerted": false,
+      "first_seen": "2026-07-30T16:09:29.575065+00:00",
+      "location": "Ashville, Ohio, United States",
+      "title": "Environmental Health and Safety Senior Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5198318007?gh_jid=5198318007"
     },
     "Anduril:5198347007": {
       "alerted": false,
@@ -29355,6 +29390,13 @@
       "title": "Head of Operations, Air Dominance & Strike",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5198760007?gh_jid=5198760007"
     },
+    "Anduril:5198776007": {
+      "alerted": false,
+      "first_seen": "2026-07-30T16:09:29.577457+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Product Sourcing Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5198776007?gh_jid=5198776007"
+    },
     "Anduril:5198789007": {
       "alerted": false,
       "first_seen": "2026-07-30T14:33:41.236882+00:00",
@@ -29425,6 +29467,13 @@
       "title": "Staff Software Engineer, Quality Integration ",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5199079007?gh_jid=5199079007"
     },
+    "Anduril:5199224007": {
+      "alerted": false,
+      "first_seen": "2026-07-30T16:09:29.574458+00:00",
+      "location": "Irvine, California, United States",
+      "title": "Deployment Lead, Maritime",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5199224007?gh_jid=5199224007"
+    },
     "Anduril:5199446007": {
       "alerted": false,
       "first_seen": "2026-07-30T14:33:41.235663+00:00",
@@ -29452,6 +29501,13 @@
       "location": "Costa Mesa, California, United States",
       "title": "Senior Firmware Engineer - ESAD",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5199526007?gh_jid=5199526007"
+    },
+    "Anduril:5199641007": {
+      "alerted": false,
+      "first_seen": "2026-07-30T16:09:29.578082+00:00",
+      "location": "Huntsville, Alabama, United States",
+      "title": "Staff Product Sourcing Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5199641007?gh_jid=5199641007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -35423,6 +35479,13 @@
       "location": "Memphis, Tennessee, United States of America",
       "title": "Heavy Vehicle Operator II- 2nd Shift",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Memphis-Tennessee-United-States-of-America/Heavy-Vehicle-Operator-II--2nd-Shift_R63532-1"
+    },
+    "Medtronic:R63538": {
+      "alerted": false,
+      "first_seen": "2026-07-30T16:09:29.573617+00:00",
+      "location": "Mounds View, Minnesota, United States of America",
+      "title": "Senior Human Centered Design Researcher",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Senior-Human-Factors-Design-Engineer_R63538-1"
     },
     "Medtronic:R63545": {
       "alerted": false,
@@ -54345,6 +54408,13 @@
       "title": "Surgical Account Manager - Northern MN",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Duluth-Minnesota-United-States-of-America/Surgical-Account-Manager---Northern-MN_R72409-2"
     },
+    "Medtronic:R72412": {
+      "alerted": false,
+      "first_seen": "2026-07-30T16:09:29.573510+00:00",
+      "location": "2 Locations",
+      "title": "Software Automation Test Engineer I",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Software-Automation-Test-Engineer-I_R72412-1"
+    },
     "Medtronic:R72414": {
       "alerted": false,
       "first_seen": "2026-07-29T21:01:11.259474+00:00",
@@ -56221,6 +56291,13 @@
       "title": "Global Senior Product Marketing Manager - Pancreaticobiliary (Endoscopy)",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Global-Senior-Product-Marketing-Manager---Pancreaticobiliary--Endoscopy-_R73495-1"
     },
+    "Medtronic:R73496": {
+      "alerted": false,
+      "first_seen": "2026-07-30T16:09:29.573461+00:00",
+      "location": "Minneapolis, Minnesota, United States of America",
+      "title": "Principal Financial Analyst - Renal Denervation Marketing",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Principal-Financial-Analyst---Renal-Denervation-Marketing_R73496"
+    },
     "Medtronic:R73508": {
       "alerted": false,
       "first_seen": "2026-07-30T14:33:41.241648+00:00",
@@ -56249,12 +56326,26 @@
       "title": "",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers"
     },
+    "Medtronic:R73550": {
+      "alerted": false,
+      "first_seen": "2026-07-30T16:09:29.573571+00:00",
+      "location": "2 Locations",
+      "title": "Sales Representative III, Interventional Therapies -  Dallas / Fort Worth , TX",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Fort-Worth-Texas-United-States-of-America/Sales-Representative-III--Interventional-Therapies----Dallas---Fort-Worth---TX_R73550-1"
+    },
     "Medtronic:R73565": {
       "alerted": false,
       "first_seen": "2026-07-30T10:48:47.367739+00:00",
       "location": "Ho Chi Minh City, Ho Chi Minh City, Vietnam",
       "title": "Intern: Document controller",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Ho-Chi-Minh-City-Ho-Chi-Minh-City-Vietnam/Intern--Document-controller_R73565-1"
+    },
+    "Medtronic:R73599": {
+      "alerted": false,
+      "first_seen": "2026-07-30T16:09:29.573409+00:00",
+      "location": "Warsaw, Indiana, United States of America",
+      "title": "Machinist III",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Warsaw-Indiana-United-States-of-America/Machinist-III_R73599-1"
     },
     "NVIDIA:JR1968313": {
       "alerted": true,
@@ -73028,6 +73119,13 @@
       "title": "Scheduling Analyst - Business Operations",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Scheduling-Analyst---Business-Operations_JR2022370-1"
     },
+    "NVIDIA:JR2022381": {
+      "alerted": false,
+      "first_seen": "2026-07-30T16:09:29.573373+00:00",
+      "location": "US, NC, Remote",
+      "title": "Networking Product Sales Specialist",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-NC-Remote/Networking-Product-Sales-Specialist_JR2022381"
+    },
     "NVIDIA:JR2022385": {
       "alerted": false,
       "first_seen": "2026-07-29T21:01:11.256914+00:00",
@@ -87000,6 +87098,13 @@
       "title": "Office & Facilities Coordinator - Pay starting at $29.45/hr",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Waltham-Massachusetts/Office---Facilities-Coordinator---Pay-starting-at--2945-hr_R569340-1"
     },
+    "Stryker:R569341": {
+      "alerted": false,
+      "first_seen": "2026-07-30T16:09:29.573327+00:00",
+      "location": "Arlington, Tennessee",
+      "title": "Production Tech I - 1st Shift - $22.10/hr",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Arlington-Tennessee/Production-Tech-I---1st-Shift----2210-hr_R569341-1"
+    },
     "Stryker:R569343": {
       "alerted": false,
       "first_seen": "2026-07-17T14:16:57.462564+00:00",
@@ -87195,6 +87300,13 @@
       "location": "3 Locations",
       "title": "Clinical Specialist, Enabling Technologies (Lexington, KY)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Lexington-Kentucky/Clinical-Specialist--Enabling-Technologies--Lexington--KY-_R569422"
+    },
+    "Stryker:R569429": {
+      "alerted": false,
+      "first_seen": "2026-07-30T16:09:29.573275+00:00",
+      "location": "Florianopolis, Brazil",
+      "title": "Orthopaedic Surgical Instrument Technician (Florian\u00f3polis, SC)",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Florianopolis-Brazil/Orthopaedic-Surgical-Instrument-Technician--Florianpolis--SC-_R569429"
     },
     "Stryker:R569431": {
       "alerted": false,
