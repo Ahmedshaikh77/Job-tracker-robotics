@@ -2818,6 +2818,13 @@
       "title": "Software Development Manager, CXI Analytics",
       "url": "https://www.amazon.jobs/en/jobs/10488399/software-development-manager-cxi-analytics"
     },
+    "Amazon:10488686": {
+      "alerted": true,
+      "first_seen": "2026-07-30T20:17:14.112815+00:00",
+      "location": "New York, New York, USA",
+      "title": " Human-Robot Interaction Applied Scientist , Fauna",
+      "url": "https://www.amazon.jobs/en/jobs/10488686/human-robot-interaction-applied-scientist-fauna"
+    },
     "Anduril:4159543007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.742648+00:00",
@@ -29369,6 +29376,13 @@
       "title": "Engineering Test Technician",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5198420007?gh_jid=5198420007"
     },
+    "Anduril:5198428007": {
+      "alerted": false,
+      "first_seen": "2026-07-30T20:17:14.116460+00:00",
+      "location": "Lexington, Massachusetts, United States",
+      "title": "Wire bonding Technician",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5198428007?gh_jid=5198428007"
+    },
     "Anduril:5198437007": {
       "alerted": false,
       "first_seen": "2026-07-29T15:19:29.300026+00:00",
@@ -29571,6 +29585,27 @@
       "location": "McHenry, Mississippi, United States",
       "title": "Staff, Electrical Engineer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5199770007?gh_jid=5199770007"
+    },
+    "Anduril:5199934007": {
+      "alerted": false,
+      "first_seen": "2026-07-30T20:17:14.113931+00:00",
+      "location": "Boston, Massachusetts, United States",
+      "title": "Chief Engineer, Maritime Integrated Systems",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5199934007?gh_jid=5199934007"
+    },
+    "Anduril:5199951007": {
+      "alerted": false,
+      "first_seen": "2026-07-30T20:17:14.115763+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Industrial Engineer, Simulation",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5199951007?gh_jid=5199951007"
+    },
+    "Anduril:5199952007": {
+      "alerted": false,
+      "first_seen": "2026-07-30T20:17:14.114636+00:00",
+      "location": "Lexington, Massachusetts, United States",
+      "title": "Micro-electronics Technician",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5199952007?gh_jid=5199952007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -33988,6 +34023,13 @@
       "location": "Somerville, MA",
       "title": "Global Supply Manager",
       "url": "https://careers.formlabs.com/job/8097350/apply/?gh_jid=8097350"
+    },
+    "Formlabs:8097508": {
+      "alerted": false,
+      "first_seen": "2026-07-30T20:17:14.112721+00:00",
+      "location": "Millbury, Ohio",
+      "title": "Finance and Operations Analyst",
+      "url": "https://careers.formlabs.com/job/8097508/apply/?gh_jid=8097508"
     },
     "Medtronic:R26267": {
       "alerted": false,
@@ -54352,6 +54394,20 @@
       "title": "Regulatory Affairs Specialist",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Buenos-Aires-Ciudad-Autnoma-de-Buenos-Aires-Argentina/Regulatory-Affairs-Specialist_R72321-1"
     },
+    "Medtronic:R72326": {
+      "alerted": false,
+      "first_seen": "2026-07-30T20:17:14.116561+00:00",
+      "location": "2 Locations",
+      "title": "Sr. Clinical Market Development Specialist (Los Angeles)",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Los-Angeles-California-United-States-of-America/Sr-Clinical-Market-Development-Specialist--Los-Angeles-_R72326-1"
+    },
+    "Medtronic:R72327": {
+      "alerted": false,
+      "first_seen": "2026-07-30T20:17:14.116512+00:00",
+      "location": "Houston, Texas, United States of America",
+      "title": "Clinical Market Development Specialist (Houston TX)",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Houston-Texas-United-States-of-America/Clinical-Market-Development-Specialist--Houston-TX-_R72327-2"
+    },
     "Medtronic:R72328": {
       "alerted": false,
       "first_seen": "2026-07-23T18:53:14.845495+00:00",
@@ -74673,6 +74729,13 @@
       "title": "Area Sales Manager",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Nagpur-India/Area-Sales-Manager_R562514"
     },
+    "Stryker:R562530": {
+      "alerted": false,
+      "first_seen": "2026-07-30T20:17:14.113058+00:00",
+      "location": "Tempe, Arizona",
+      "title": "Principal Portfolio Manager",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tempe-Arizona/Principal-Portfolio-Manger_R562530"
+    },
     "Stryker:R562553": {
       "alerted": false,
       "first_seen": "2026-06-10T10:18:23.524967+00:00",
@@ -85334,6 +85397,13 @@
       "title": "Territory Manager, Trauma Hanwa",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Osaka-Japan/Territory-Manager--Trauma-Hanwa_R568567-1"
     },
+    "Stryker:R568569": {
+      "alerted": false,
+      "first_seen": "2026-07-30T20:17:14.113017+00:00",
+      "location": "Mahwah, New Jersey",
+      "title": "Director, Enterprise Digital & Technology Build Lead \u2013 GQRC",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Mahwah-New-Jersey/Director--Enterprise-Digital---Technology-Build-Lead---GQRC_R568569"
+    },
     "Stryker:R568570": {
       "alerted": false,
       "first_seen": "2026-07-10T17:04:07.287067+00:00",
@@ -88106,6 +88176,13 @@
       "title": "Upper Extremities Sales Associate - New York City,  NY",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/New-York-New-York/Upper-Extremities-Sales-Associate---New-York-City---NY_R569772"
     },
+    "Stryker:R569778": {
+      "alerted": false,
+      "first_seen": "2026-07-30T20:17:14.112866+00:00",
+      "location": "Portage, Michigan",
+      "title": "Senior Staff R&D Engineer, Mechanical",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Senior-Staff-R-D-Engineer--Mechanical_R569778-1"
+    },
     "Stryker:R569785": {
       "alerted": false,
       "first_seen": "2026-07-27T20:40:27.265704+00:00",
@@ -88330,6 +88407,13 @@
       "title": "Commercial Graduate",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Newbury-United-Kingdom/Commercial-Graduate_R570027"
     },
+    "Stryker:R570037": {
+      "alerted": false,
+      "first_seen": "2026-07-30T20:17:14.112960+00:00",
+      "location": "New York, New York Metro Virtual Address",
+      "title": "Sales Representative - JR - Queens/Staten Island, NY",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/New-York-New-York-Metro-Virtual-Address/Sales-Representative---JR---Queens-Staten-Island--NY_R570037"
+    },
     "Stryker:R570098": {
       "alerted": false,
       "first_seen": "2026-07-29T15:19:29.300078+00:00",
@@ -88371,6 +88455,13 @@
       "location": "London, United Kingdom",
       "title": "Territory Sales Manager, Sports Medicine - South West London",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/London-United-Kingdom/Territory-Sales-Manager--Sports-Medicine---South-West-London_R570158"
+    },
+    "Stryker:R570220": {
+      "alerted": false,
+      "first_seen": "2026-07-30T20:17:14.112911+00:00",
+      "location": "Slidell, Louisiana",
+      "title": "OnSite Specialist - Slidell, LA",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Slidell-Louisiana/OnSite-Specialist---Slidell--LA_R570220"
     },
     "Stryker:R570233": {
       "alerted": false,
