@@ -1,10 +1,5 @@
 {
   "company_failures": {
-    "Anduril": {
-      "count": 1,
-      "last_error": "Anduril (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
-      "last_failed_at": "2026-07-31T01:09:46.385660+00:00"
-    },
     "Boston Dynamics": {
       "count": 6,
       "last_error": "Boston Dynamics (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/bostondynamics/jobs?content=true",
@@ -3109,6 +3104,13 @@
       "location": "Costa Mesa, California, United States",
       "title": "Business Operations Associate, Production",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/4619191007?gh_jid=4619191007"
+    },
+    "Anduril:4624170007": {
+      "alerted": false,
+      "first_seen": "2026-07-31T04:35:21.381913+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Technical Recruiter, Production Engineering (Contract)",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4624170007?gh_jid=4624170007"
     },
     "Anduril:4629832007": {
       "alerted": false,
@@ -17754,6 +17756,13 @@
       "title": "Solutions Engineer, CorporateOS",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5144552007?gh_jid=5144552007"
     },
+    "Anduril:5144554007": {
+      "alerted": false,
+      "first_seen": "2026-07-31T04:35:21.381280+00:00",
+      "location": "Quonset, Rhode Island, United States",
+      "title": "Supplier Quality Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5144554007?gh_jid=5144554007"
+    },
     "Anduril:5144556007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.744915+00:00",
@@ -28548,6 +28557,13 @@
       "title": "Senior Global Sourcing Manager, Energetics/Munitions",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5194206007?gh_jid=5194206007"
     },
+    "Anduril:5194216007": {
+      "alerted": false,
+      "first_seen": "2026-07-31T04:35:21.379708+00:00",
+      "location": "Quonset, Rhode Island, United States",
+      "title": "Quality Specialist",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5194216007?gh_jid=5194216007"
+    },
     "Anduril:5194223007": {
       "alerted": false,
       "first_seen": "2026-07-23T16:20:52.646879+00:00",
@@ -29059,6 +29075,13 @@
       "title": "R&D Engineering Technician",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5196968007?gh_jid=5196968007"
     },
+    "Anduril:5196970007": {
+      "alerted": false,
+      "first_seen": "2026-07-31T04:35:21.379047+00:00",
+      "location": "Quonset, Rhode Island, United States",
+      "title": "Production Supervisor",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5196970007?gh_jid=5196970007"
+    },
     "Anduril:5197028007": {
       "alerted": false,
       "first_seen": "2026-07-28T19:55:34.943859+00:00",
@@ -29521,6 +29544,13 @@
       "title": "Copy of ",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5199008007?gh_jid=5199008007"
     },
+    "Anduril:5199023007": {
+      "alerted": false,
+      "first_seen": "2026-07-31T04:35:21.380373+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Technical Recruiter, Deployment Operations",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5199023007?gh_jid=5199023007"
+    },
     "Anduril:5199042007": {
       "alerted": false,
       "first_seen": "2026-07-29T22:04:20.875085+00:00",
@@ -29723,6 +29753,48 @@
       "location": "Costa Mesa, California, United States",
       "title": "(HVAC Specialist) Technical Operations Engineer - Connected Warfare",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5200126007?gh_jid=5200126007"
+    },
+    "Anduril:5200160007": {
+      "alerted": false,
+      "first_seen": "2026-07-31T04:35:21.375109+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Demand & Supply Planner, Air Defense",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5200160007?gh_jid=5200160007"
+    },
+    "Anduril:5200161007": {
+      "alerted": false,
+      "first_seen": "2026-07-31T04:35:21.375777+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Demand & Supply Planner, Precision Engagement Systems",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5200161007?gh_jid=5200161007"
+    },
+    "Anduril:5200163007": {
+      "alerted": false,
+      "first_seen": "2026-07-31T04:35:21.377087+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Demand & Supply Planning, Counter Intrusion",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5200163007?gh_jid=5200163007"
+    },
+    "Anduril:5200169007": {
+      "alerted": false,
+      "first_seen": "2026-07-31T04:35:21.376425+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Demand & Supply Planning, Connected Warfare",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5200169007?gh_jid=5200169007"
+    },
+    "Anduril:5200180007": {
+      "alerted": false,
+      "first_seen": "2026-07-31T04:35:21.377748+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Demand & Supply Planning, Electronic Warfare",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5200180007?gh_jid=5200180007"
+    },
+    "Anduril:5200181007": {
+      "alerted": false,
+      "first_seen": "2026-07-31T04:35:21.378381+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Demand & Supply Planning, Intelligence Systems",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5200181007?gh_jid=5200181007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -56499,6 +56571,13 @@
       "title": "Associate Clinical Specialist - Cardiac Rhythm Management - Downtown Chicago",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Chicago-Illinois-United-States-of-America/Associate-Clinical-Specialist---Cardiac-Rhythm-Management---Downtown-Chicago_R73354-1"
     },
+    "Medtronic:R73360": {
+      "alerted": false,
+      "first_seen": "2026-07-31T04:35:21.382010+00:00",
+      "location": "Lanzhou, Gansu, China",
+      "title": "CSOT-Senior Technical Sales Representative-Lanzhou",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lanzhou-Gansu-China/CSOT-Senior-Technical-Sales-Representative-Lanzhou_R73360-2"
+    },
     "Medtronic:R73365": {
       "alerted": false,
       "first_seen": "2026-07-30T22:39:51.223444+00:00",
@@ -56589,6 +56668,13 @@
       "location": "Guangzhou, Guangdong, China",
       "title": "Surgical-Technical Sales Representative-Guangzhou",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Guangzhou-Guangdong-China/Surgical-Technical-Sales-Representative-Guangzhou_R73438"
+    },
+    "Medtronic:R73439": {
+      "alerted": false,
+      "first_seen": "2026-07-31T04:35:21.381964+00:00",
+      "location": "Hangzhou, Zhejiang, China",
+      "title": "Surgical-Technical Sales Representative-Hangzhou",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Hangzhou-Zhejiang-China/Surgical-Technical-Sales-Representative-Hangzhou_R73439-1"
     },
     "Medtronic:R73451": {
       "alerted": false,
@@ -56729,6 +56815,13 @@
       "location": "Northridge, California, United States of America",
       "title": "Senior Field Clinical Engineer - NMPH - Remote within USA",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Northridge-California-United-States-of-America/Senior-Field-Clinical-Engineer---NMPH---Remote-within-USA_R73539-1"
+    },
+    "Medtronic:R73541": {
+      "alerted": false,
+      "first_seen": "2026-07-31T04:35:21.382054+00:00",
+      "location": "Chengdu, Sichuan, China",
+      "title": "CRM_CIED_Technical Sales Representative_Chengdu",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Chengdu-Sichuan-China/CRM-CIED-Technical-Sales-Representative-Chengdu_R73541-1"
     },
     "Medtronic:R73550": {
       "alerted": false,
@@ -70009,6 +70102,13 @@
       "title": "Business Development Manager, Metropolis",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Business-Development-Manager--Metropolis_JR2020820"
     },
+    "NVIDIA:JR2020823": {
+      "alerted": false,
+      "first_seen": "2026-07-31T04:35:21.374242+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Product Manager - BioNeMo Inference",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager---BioNeMo-Inference_JR2020823"
+    },
     "NVIDIA:JR2020825": {
       "alerted": false,
       "first_seen": "2026-07-13T15:49:00.747908+00:00",
@@ -71129,6 +71229,13 @@
       "title": "Senior ASIC Physical Design Engineer, Netlisting",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-ASIC-Physical-Design-Engineer--Netlisting_JR2021166"
     },
+    "NVIDIA:JR2021169": {
+      "alerted": false,
+      "first_seen": "2026-07-31T04:35:21.374386+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Software Technical Program Driver - OEM and NCP Escalations",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Technical-Program-Driver---OEM-and-NCP-Escalations_JR2021169"
+    },
     "NVIDIA:JR2021170": {
       "alerted": false,
       "first_seen": "2026-07-24T00:09:34.663880+00:00",
@@ -71660,6 +71767,13 @@
       "location": "2 Locations",
       "title": "Senior Software Engineer, DOCA SDK",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Raanana/Senior-Software-Engineer--DOCA-SDK_JR2021322"
+    },
+    "NVIDIA:JR2021324": {
+      "alerted": false,
+      "first_seen": "2026-07-31T04:35:21.374288+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Global CPU Segment Sales Manager",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Global-CPU-Segment-Sales-Manager_JR2021324"
     },
     "NVIDIA:JR2021329": {
       "alerted": false,
@@ -72570,6 +72684,13 @@
       "location": "3 Locations",
       "title": "Senior Software Engineer \u2013 Streaming",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---Streaming_JR2021692"
+    },
+    "NVIDIA:JR2021693": {
+      "alerted": false,
+      "first_seen": "2026-07-31T04:35:21.374337+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Account Manager, AI Factory - Global Segment Sales",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Account-Manager--AI-Factory---Global-Segment-Sales_JR2021693"
     },
     "NVIDIA:JR2021696": {
       "alerted": false,
@@ -73600,6 +73721,20 @@
       "title": "Senior System Software Engineer, AV Platform - New Platform Bringup",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer--AV-Platform---New-Platform-Bringup_JR2022284"
     },
+    "NVIDIA:JR2022307": {
+      "alerted": false,
+      "first_seen": "2026-07-31T04:35:21.374153+00:00",
+      "location": "Taiwan, Taipei",
+      "title": "Senior Embedded System Software Engineer - Hypervisor and Visualization",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Senior-Embedded-System-Software-Engineer---Hypervisor-and-Visualization_JR2022307"
+    },
+    "NVIDIA:JR2022308": {
+      "alerted": false,
+      "first_seen": "2026-07-31T04:35:21.374103+00:00",
+      "location": "Taiwan, Taipei",
+      "title": "Senior Embedded System Software Engineer - Camera and Display",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Senior-Embedded-System-Software-Engineer---Camera-and-Display_JR2022308"
+    },
     "NVIDIA:JR2022322": {
       "alerted": false,
       "first_seen": "2026-07-30T08:36:53.116492+00:00",
@@ -73649,6 +73784,13 @@
       "title": "Senior Storage Software Engineer - DGX Cloud",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Storage-Software-Engineer---DGX-Cloud_JR2022385"
     },
+    "NVIDIA:JR2022387": {
+      "alerted": false,
+      "first_seen": "2026-07-31T04:35:21.374199+00:00",
+      "location": "2 Locations",
+      "title": "Senior Technical Marketing Engineer - CAE Performance",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Marketing-Engineer---CAE-Performance_JR2022387"
+    },
     "NVIDIA:JR2022412": {
       "alerted": false,
       "first_seen": "2026-07-30T23:38:35.662399+00:00",
@@ -73690,6 +73832,13 @@
       "location": "6 Locations",
       "title": "Senior Software Engineer, Networking DGX Cloud",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-Remote/Senior-Software-Engineer--Networking-DGX-Cloud_JR2022482"
+    },
+    "NVIDIA:JR2022559": {
+      "alerted": false,
+      "first_seen": "2026-07-31T04:35:21.374430+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Technical Marketing Engineer  - AI Platform Software",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Marketing-Engineer----AI-Platform-Software_JR2022559"
     },
     "Stryker:R498593": {
       "alerted": false,
@@ -88251,6 +88400,13 @@
       "title": "Territory Sales Manager",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Kolkata-India/Territory-Sales-Manager_R569615"
     },
+    "Stryker:R569619": {
+      "alerted": false,
+      "first_seen": "2026-07-31T04:35:21.373942+00:00",
+      "location": "Niigata, Japan",
+      "title": "Territory Manager, Spine Hokuriku Koshinetsu",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Niigata-Japan/Territory-Manager--Spine-Hokuriku-Koshinetsu_R569619-7"
+    },
     "Stryker:R569622": {
       "alerted": false,
       "first_seen": "2026-07-22T12:16:35.048598+00:00",
@@ -88705,6 +88861,20 @@
       "location": "Fairfax, Virginia",
       "title": "Foot & Ankle Sales Representative - Fairfax, VA",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Fairfax-Virginia/Foot---Ankle-Sales-Representative---Fairfax--VA_R569901"
+    },
+    "Stryker:R569910": {
+      "alerted": false,
+      "first_seen": "2026-07-31T04:35:21.374053+00:00",
+      "location": "Tokyo, Japan",
+      "title": "Territory Manager, Trauma Shutoken",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tokyo-Japan/Territory-Manager--Trauma-Shutoken_R569910-6"
+    },
+    "Stryker:R569911": {
+      "alerted": false,
+      "first_seen": "2026-07-31T04:35:21.374007+00:00",
+      "location": "2 Locations",
+      "title": "Territory Manager, Trauma Hanwa",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Osaka-Japan/Territory-Manager--Trauma-Hanwa_R569911-1"
     },
     "Stryker:R569925": {
       "alerted": false,
