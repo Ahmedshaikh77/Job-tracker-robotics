@@ -1,5 +1,10 @@
 {
   "company_failures": {
+    "Anduril": {
+      "count": 1,
+      "last_error": "Anduril (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
+      "last_failed_at": "2026-07-31T01:09:46.385660+00:00"
+    },
     "Boston Dynamics": {
       "count": 6,
       "last_error": "Boston Dynamics (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/bostondynamics/jobs?content=true",
@@ -56676,6 +56681,13 @@
       "title": "Sales Representative III, Pain Interventions -  Billings, MT",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Billings-Montana-United-States-of-America/Sales-Representative-III--Pain-Interventions----Billings--MT_R73508-1"
     },
+    "Medtronic:R73511": {
+      "alerted": false,
+      "first_seen": "2026-07-31T01:09:46.388908+00:00",
+      "location": "Atlanta, Georgia, United States of America",
+      "title": "Surgical Onsite Specialist - Atlanta, GA",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Atlanta-Georgia-United-States-of-America/Surgical-Onsite-Specialist---Atlanta--GA_R73511"
+    },
     "Medtronic:R73515": {
       "alerted": false,
       "first_seen": "2026-07-30T14:33:41.241516+00:00",
@@ -56710,6 +56722,13 @@
       "location": "",
       "title": "",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers"
+    },
+    "Medtronic:R73539": {
+      "alerted": false,
+      "first_seen": "2026-07-31T01:09:46.388863+00:00",
+      "location": "Northridge, California, United States of America",
+      "title": "Senior Field Clinical Engineer - NMPH - Remote within USA",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Northridge-California-United-States-of-America/Senior-Field-Clinical-Engineer---NMPH---Remote-within-USA_R73539-1"
     },
     "Medtronic:R73550": {
       "alerted": false,
@@ -92781,6 +92800,13 @@
       "location": "Mountain View, CA, USA",
       "title": "Cybersecurity Counsel",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8042508"
+    },
+    "Waymo:8042571": {
+      "alerted": false,
+      "first_seen": "2026-07-31T01:09:46.388799+00:00",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
+      "title": "Operations Partner Manager",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8042571"
     },
     "Waymo:8042585": {
       "alerted": false,
