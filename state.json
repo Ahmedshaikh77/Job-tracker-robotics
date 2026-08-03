@@ -1,10 +1,5 @@
 {
   "company_failures": {
-    "Anduril": {
-      "count": 1,
-      "last_error": "Anduril (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
-      "last_failed_at": "2026-08-03T20:47:42.583728+00:00"
-    },
     "Boston Dynamics": {
       "count": 6,
       "last_error": "Boston Dynamics (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/bostondynamics/jobs?content=true",
@@ -12517,6 +12512,13 @@
       "location": "Costa Mesa, California, United States",
       "title": "Senior Manager - Electrical Engineering, Compute HW & HDL",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5100348007?gh_jid=5100348007"
+    },
+    "Anduril:5100585007": {
+      "alerted": false,
+      "first_seen": "2026-08-03T21:50:55.660181+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Lead Electrical Engineer, Maneuver Dominance",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5100585007?gh_jid=5100585007"
     },
     "Anduril:5100599007": {
       "alerted": false,
@@ -30067,12 +30069,33 @@
       "title": "Battery Technical Program Manager",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5200203007?gh_jid=5200203007"
     },
+    "Anduril:5200223007": {
+      "alerted": false,
+      "first_seen": "2026-08-03T21:50:55.662012+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Manager, Operations",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5200223007?gh_jid=5200223007"
+    },
+    "Anduril:5200225007": {
+      "alerted": false,
+      "first_seen": "2026-08-03T21:50:55.661136+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Manager, Compliance",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5200225007?gh_jid=5200225007"
+    },
     "Anduril:5200265007": {
       "alerted": false,
       "first_seen": "2026-07-31T07:26:10.094133+00:00",
       "location": "Costa Mesa, California, United States",
       "title": "Staff Fuel Systems Engineer, Air Vehicles",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5200265007?gh_jid=5200265007"
+    },
+    "Anduril:5200322007": {
+      "alerted": false,
+      "first_seen": "2026-08-03T21:50:55.666078+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Staff Materials Engineer, Design Allowables & Materials Data",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5200322007?gh_jid=5200322007"
     },
     "Anduril:5200328007": {
       "alerted": false,
@@ -30221,6 +30244,13 @@
       "title": "Automation Engineer, Manufacturing Automation",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5201063007?gh_jid=5201063007"
     },
+    "Anduril:5201115007": {
+      "alerted": false,
+      "first_seen": "2026-08-03T21:50:55.659333+00:00",
+      "location": "Reston, Virginia, United States",
+      "title": "Facility Security Officer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5201115007?gh_jid=5201115007"
+    },
     "Anduril:5201424007": {
       "alerted": false,
       "first_seen": "2026-08-03T11:21:21.532815+00:00",
@@ -30276,6 +30306,55 @@
       "location": "Costa Mesa, California, United States",
       "title": "Division Operations Analyst, TRS",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5201741007?gh_jid=5201741007"
+    },
+    "Anduril:5201924007": {
+      "alerted": false,
+      "first_seen": "2026-08-03T21:50:55.662672+00:00",
+      "location": "Seattle, Washington, United States",
+      "title": "Senior Software Engineer, Data Distribution ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5201924007?gh_jid=5201924007"
+    },
+    "Anduril:5202000007": {
+      "alerted": false,
+      "first_seen": "2026-08-03T21:50:55.663336+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Software Engineer, Data Distribution ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5202000007?gh_jid=5202000007"
+    },
+    "Anduril:5202192007": {
+      "alerted": false,
+      "first_seen": "2026-08-03T21:50:55.664592+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Technical Recruiter, Mission Readiness (Contract) ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5202192007?gh_jid=5202192007"
+    },
+    "Anduril:5202194007": {
+      "alerted": false,
+      "first_seen": "2026-08-03T21:50:55.667328+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Technical Recruiter, Technical Publications (Contract) ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5202194007?gh_jid=5202194007"
+    },
+    "Anduril:5202200007": {
+      "alerted": false,
+      "first_seen": "2026-08-03T21:50:55.666699+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Technical Recruiter, Supply Chain Procurement (Contract) ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5202200007?gh_jid=5202200007"
+    },
+    "Anduril:5202207007": {
+      "alerted": false,
+      "first_seen": "2026-08-03T21:50:55.665241+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Technical Recruiter, Training & Adoption (Contract) ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5202207007?gh_jid=5202207007"
+    },
+    "Anduril:5202215007": {
+      "alerted": false,
+      "first_seen": "2026-08-03T21:50:55.663985+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Technical Recruiter, Global Logistics (Contract) ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5202215007?gh_jid=5202215007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -55218,6 +55297,13 @@
       "title": "Sr Test Engineer",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Caesarea-Haifa-Israel/Sr-Test-Engineer_R72295-1"
     },
+    "Medtronic:R72297": {
+      "alerted": false,
+      "first_seen": "2026-08-03T21:50:55.667372+00:00",
+      "location": "Jacksonville, Florida, United States of America",
+      "title": "Executive Administrative Assistant",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Jacksonville-Florida-United-States-of-America/Executive-Administrative-Assistant_R72297-1"
+    },
     "Medtronic:R72301": {
       "alerted": false,
       "first_seen": "2026-07-27T20:40:27.269224+00:00",
@@ -57093,6 +57179,13 @@
       "location": "Richmond, Virginia, United States of America",
       "title": "Clinical Specialist CRM - Richmond, VA",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Richmond-Virginia-United-States-of-America/Clinical-Specialist-CRM---Richmond--VA_R73115-1"
+    },
+    "Medtronic:R73117": {
+      "alerted": false,
+      "first_seen": "2026-08-03T21:50:55.667418+00:00",
+      "location": "San Isidro, Santo Domingo, Dominican Republic",
+      "title": "Tecnico Especializado de Automatizacion Turno C",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/San-Isidro-Santo-Domingo-Dominican-Republic/Tecnico-Especializado-de-Automatizacion-Turno-C_R73117-1"
     },
     "Medtronic:R73127": {
       "alerted": false,
@@ -60069,6 +60162,13 @@
       "title": "Data Center Deployment Specialist",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Remote/Data-Center-Deployment-Specialist_JR2011242"
     },
+    "NVIDIA:JR2011273": {
+      "alerted": false,
+      "first_seen": "2026-08-03T21:50:55.658294+00:00",
+      "location": "3 Locations",
+      "title": "Senior Physical Design Methodology Engineer, PPA Fusion Compiler",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Physical-Design-Methodology-Engineer--PPA-Fusion-Compiler_JR2011273"
+    },
     "NVIDIA:JR2011295": {
       "alerted": false,
       "first_seen": "2026-07-22T18:18:41.369532+00:00",
@@ -61594,6 +61694,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Senior Manager, Systems Software Engineering - GeForce NOW Cloud",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--Systems-Software-Engineering---GeForce-NOW-Cloud_JR2014496"
+    },
+    "NVIDIA:JR2014505": {
+      "alerted": false,
+      "first_seen": "2026-08-03T21:50:55.658341+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Manager, Silicon Operations Production Planning",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--Silicon-Operations-Production-Planning_JR2014505"
     },
     "NVIDIA:JR2014509": {
       "alerted": false,
@@ -73054,6 +73161,13 @@
       "title": "Senior Security Software Engineer - AV Platform",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Security-Software-Engineer---AV-Platform_JR2021254"
     },
+    "NVIDIA:JR2021255": {
+      "alerted": false,
+      "first_seen": "2026-08-03T21:50:55.658221+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Director, Technical Program Management",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director--Technical-Program-Management_JR2021255"
+    },
     "NVIDIA:JR2021257": {
       "alerted": false,
       "first_seen": "2026-07-15T18:18:46.850271+00:00",
@@ -76728,6 +76842,13 @@
       "location": "Madrid, Spain",
       "title": "Regional Sales Manager - Orthopaedic Instruments",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Madrid-Spain/Regional-Sales-Manager-OI_R560827"
+    },
+    "Stryker:R560829": {
+      "alerted": false,
+      "first_seen": "2026-08-03T21:50:55.658395+00:00",
+      "location": "Long Island, New York",
+      "title": "Associate Field Service Technician - Suffolk County, Long Island - Transport",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Long-Island-New-York/Associate-Field-Service-Technician---Suffolk-County--Long-Island---Transport_R560829"
     },
     "Stryker:R560890": {
       "alerted": false,
@@ -91435,6 +91556,13 @@
       "location": "2 Locations",
       "title": "Product Support Specialist - Aberdeen",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Aberdeen-Scotland/Product-Support-Specialist---Aberdeen_R570172"
+    },
+    "Stryker:R570179": {
+      "alerted": false,
+      "first_seen": "2026-08-03T21:50:55.658443+00:00",
+      "location": "Birmingham, Alabama",
+      "title": "Sales Representative - Birmingham, AL - Injury Prevention",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Birmingham-Alabama/Sales-Representative---Birmingham--AL---Injury-Prevention_R570179"
     },
     "Stryker:R570201": {
       "alerted": false,
