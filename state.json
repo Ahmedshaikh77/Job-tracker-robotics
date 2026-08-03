@@ -2643,6 +2643,13 @@
       "title": "System Development Engineer II, Customer Experience Infrastructure (CXI)",
       "url": "https://www.amazon.jobs/en/jobs/10480197/system-development-engineer-ii-customer-experience-infrastructure-cxi"
     },
+    "Amazon:10480199": {
+      "alerted": false,
+      "first_seen": "2026-08-03T19:49:31.205415+00:00",
+      "location": "Bellevue, Washington, USA",
+      "title": "Software Development Engineer, Amazon Fulfillment Technologies (AFT)  - Platform Engineering & Services",
+      "url": "https://www.amazon.jobs/en/jobs/10480199/software-development-engineer-amazon-fulfillment-technologies-aft-platform-engineering-services"
+    },
     "Amazon:10480578": {
       "alerted": false,
       "first_seen": "2026-07-21T18:23:01.653225+00:00",
@@ -6877,6 +6884,13 @@
       "location": "Seattle, Washington, United States",
       "title": "Senior Director, Business Development, Edge Infrastructure",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5024629007?gh_jid=5024629007"
+    },
+    "Anduril:5024633007": {
+      "alerted": false,
+      "first_seen": "2026-08-03T19:49:31.207710+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Motor Control Electrical Systems Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5024633007?gh_jid=5024633007"
     },
     "Anduril:5024754007": {
       "alerted": false,
@@ -12400,6 +12414,13 @@
       "location": "Costa Mesa, California, United States",
       "title": "Launch Service Mission Manager",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5099255007?gh_jid=5099255007"
+    },
+    "Anduril:5099363007": {
+      "alerted": false,
+      "first_seen": "2026-08-03T19:49:31.207024+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Director of Space Planning",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5099363007?gh_jid=5099363007"
     },
     "Anduril:5099404007": {
       "alerted": false,
@@ -28389,6 +28410,13 @@
       "title": "Senior Product Quality Engineer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5192788007?gh_jid=5192788007"
     },
+    "Anduril:5192828007": {
+      "alerted": false,
+      "first_seen": "2026-08-03T19:49:31.208485+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Staff CAD Platform Engineer (NX / Teamcenter)",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5192828007?gh_jid=5192828007"
+    },
     "Anduril:5192830007": {
       "alerted": false,
       "first_seen": "2026-07-22T21:53:51.719568+00:00",
@@ -34703,12 +34731,26 @@
       "title": "Hardware R&D Engineering Intern (Fall 2026)",
       "url": "https://careers.formlabs.com/job/8097694/apply/?gh_jid=8097694"
     },
+    "Formlabs:8103032": {
+      "alerted": false,
+      "first_seen": "2026-08-03T19:49:31.205324+00:00",
+      "location": "Somerville, MA",
+      "title": "Marketing Manager",
+      "url": "https://careers.formlabs.com/job/8103032/apply/?gh_jid=8103032"
+    },
     "Formlabs:8103603": {
       "alerted": false,
       "first_seen": "2026-08-03T18:04:36.812485+00:00",
       "location": "Somerville, MA",
       "title": "NPI Operations Program Manager",
       "url": "https://careers.formlabs.com/job/8103603/apply/?gh_jid=8103603"
+    },
+    "Formlabs:8103744": {
+      "alerted": false,
+      "first_seen": "2026-08-03T19:49:31.204802+00:00",
+      "location": "Billerica, Massachusetts",
+      "title": "Marketing Manager",
+      "url": "https://careers.formlabs.com/job/8103744/apply/?gh_jid=8103744"
     },
     "Medtronic:R26267": {
       "alerted": false,
@@ -56221,6 +56263,13 @@
       "title": "Sr. Demand Planner-Medical Surgical",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Sr-Demand-Planner-Medical-Surgical_R72743-1"
     },
+    "Medtronic:R72744": {
+      "alerted": false,
+      "first_seen": "2026-08-03T19:49:31.208533+00:00",
+      "location": "San Isidro, Santo Domingo, Dominican Republic",
+      "title": "Project Coordinator IV",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/San-Isidro-Santo-Domingo-Dominican-Republic/Project-Coordinator-IV_R72744-1"
+    },
     "Medtronic:R72746": {
       "alerted": false,
       "first_seen": "2026-07-22T00:01:50.861806+00:00",
@@ -57228,6 +57277,13 @@
       "location": "Allentown, Pennsylvania, United States of America",
       "title": "Area Sales Manager, ENT - Lehigh Valley, PA",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Allentown-Pennsylvania-United-States-of-America/Area-Sales-Manager--ENT---Lehigh-Valley--PA_R73241-1"
+    },
+    "Medtronic:R73245": {
+      "alerted": false,
+      "first_seen": "2026-08-03T19:49:31.208579+00:00",
+      "location": "2 Locations",
+      "title": "Surgical Onsite Specialist - Madison/Milwaukee",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Madison-Wisconsin-United-States-of-America/Surgical-Onsite-Specialist---Madison-Milwaukee_R73245-1"
     },
     "Medtronic:R73251": {
       "alerted": false,
@@ -63423,6 +63479,13 @@
       "location": "2 Locations",
       "title": "Chip Design Verification Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Chip-Design-Verification-Engineer_JR2017409"
+    },
+    "NVIDIA:JR2017410": {
+      "alerted": false,
+      "first_seen": "2026-08-03T19:49:31.206049+00:00",
+      "location": "Israel, Tel Aviv",
+      "title": "Senior Deep Learning Researcher, LLM Inference",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Deep-Learning-Researcher--LLM-Inference_JR2017410-1"
     },
     "NVIDIA:JR2017413": {
       "alerted": false,
@@ -71411,6 +71474,13 @@
       "title": "Firmware Student",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Firmware-Student_JR2020809"
     },
+    "NVIDIA:JR2020811": {
+      "alerted": false,
+      "first_seen": "2026-08-03T19:49:31.205964+00:00",
+      "location": "4 Locations",
+      "title": "Senior Agentic AI For Data Science Applied Researcher",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Agentic-AI-For-Data-Science-Applied-Researcher_JR2020811"
+    },
     "NVIDIA:JR2020813": {
       "alerted": false,
       "first_seen": "2026-07-02T20:08:26.980674+00:00",
@@ -73454,6 +73524,13 @@
       "location": "India, Bengaluru",
       "title": "Senior Software Engineer - Applied Research in Robotics",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Software-Engineer---Applied-Research-in-Robotics_JR2021411"
+    },
+    "NVIDIA:JR2021412": {
+      "alerted": false,
+      "first_seen": "2026-08-03T19:49:31.205917+00:00",
+      "location": "2 Locations",
+      "title": "Dell Technologies Global Account Manager",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Dell-Technologies-Global-Account-Manager_JR2021412-1"
     },
     "NVIDIA:JR2021416": {
       "alerted": false,
@@ -75554,6 +75631,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Senior Site Reliability Engineer - Cloud",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Site-Reliability-Engineer---Cloud_JR2022489"
+    },
+    "NVIDIA:JR2022506": {
+      "alerted": false,
+      "first_seen": "2026-08-03T19:49:31.206003+00:00",
+      "location": "India, Pune",
+      "title": "Senior System Software Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Pune/Senior-System-Software-Engineer_JR2022506"
     },
     "NVIDIA:JR2022507": {
       "alerted": false,
@@ -90108,6 +90192,13 @@
       "title": "OnSite Specialist -Tyler, TX",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tyler-Texas/OnSite-Specialist--Tyler--TX_R569434"
     },
+    "Stryker:R569435": {
+      "alerted": false,
+      "first_seen": "2026-08-03T19:49:31.205467+00:00",
+      "location": "Chicago, Illinois",
+      "title": "Sales Representative - Chicago, IL - Sports Medicine",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Chicago-Illinois/Sales-Representative---Chicago--IL---Sports-Medicine_R569435"
+    },
     "Stryker:R569436": {
       "alerted": false,
       "first_seen": "2026-07-22T15:55:33.276391+00:00",
@@ -90352,6 +90443,13 @@
       "location": "San Antonio de Belen, Costa Rica",
       "title": "Senior Accountant",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Antonio-de-Belen-Costa-Rica/Senior-Accountant_R569556"
+    },
+    "Stryker:R569557": {
+      "alerted": false,
+      "first_seen": "2026-08-03T19:49:31.205705+00:00",
+      "location": "Weston, Florida",
+      "title": "Depot Service Technician",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Weston-Florida/Depot-Service-Technician_R569557"
     },
     "Stryker:R569562": {
       "alerted": false,
@@ -90674,6 +90772,13 @@
       "location": "Irvine, California",
       "title": "R&D Engineer (Onsite Irvine, CA)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Irvine-California/R-D-Engineer--Onsite-Irvine--CA-_R569714"
+    },
+    "Stryker:R569715": {
+      "alerted": false,
+      "first_seen": "2026-08-03T19:49:31.205804+00:00",
+      "location": "Las Vegas, Nevada",
+      "title": "Trauma Sales Representative - Las Vegas",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Las-Vegas-Nevada/Trauma-Sales-Representative---Las-Vegas_R569715"
     },
     "Stryker:R569716": {
       "alerted": false,
@@ -91081,6 +91186,13 @@
       "title": "Sales Systems Engineer East (Field based)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/New-York-New-York/Sales-Systems-Engineer-East--Field-based-_R569991"
     },
+    "Stryker:R569997": {
+      "alerted": false,
+      "first_seen": "2026-08-03T19:49:31.205873+00:00",
+      "location": "3 Locations",
+      "title": "Trauma Sales Representative - Plano/Frisco/McKinney, TX",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Plano-Texas/Trauma-Sales-Representative---Plano-Frisco-McKinney--TX_R569997"
+    },
     "Stryker:R569998": {
       "alerted": false,
       "first_seen": "2026-07-31T16:16:49.690174+00:00",
@@ -91123,6 +91235,13 @@
       "title": "Sales associate",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Pusignan-France/Direct-Sales----Senior-Specialist_R570044"
     },
+    "Stryker:R570076": {
+      "alerted": false,
+      "first_seen": "2026-08-03T19:49:31.205664+00:00",
+      "location": "Long Island, New York",
+      "title": "Sales Representative - Long Island, NY - Craniomaxillofacial (CMF)",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Long-Island-New-York/Sales-Representative---Long-Island--NY---Craniomaxillofacial--CMF-_R570076"
+    },
     "Stryker:R570091": {
       "alerted": false,
       "first_seen": "2026-08-03T18:04:36.815740+00:00",
@@ -91143,6 +91262,13 @@
       "location": "Los Angeles, California",
       "title": "Sales Representative - Los Angeles, CA - Sports Medicine",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Los-Angeles-California/Sales-Representative---Los-Angeles--CA---Sports-Medicine_R570110"
+    },
+    "Stryker:R570140": {
+      "alerted": false,
+      "first_seen": "2026-08-03T19:49:31.205760+00:00",
+      "location": "Arlington, Tennessee",
+      "title": "CNC Prep Tech - 2nd Shift - $21.90/hr + 1.00 Shift Premium",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Arlington-Tennessee/CNC-Prep-Tech---2nd-Shift----2190-hr---100-Shift-Premium_R570140"
     },
     "Stryker:R570142": {
       "alerted": false,
@@ -91186,6 +91312,13 @@
       "title": "Product Support Specialist - Aberdeen",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Aberdeen-Scotland/Product-Support-Specialist---Aberdeen_R570172"
     },
+    "Stryker:R570201": {
+      "alerted": false,
+      "first_seen": "2026-08-03T19:49:31.205611+00:00",
+      "location": "2 Locations",
+      "title": "Field Clinical Specialist - Pittsburgh East - Peripheral Vascular",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Pittsburgh-Pennsylvania/Field-Clinical-Specialist---Pittsburgh-East---Peripheral-Vascular_R570201"
+    },
     "Stryker:R570209": {
       "alerted": false,
       "first_seen": "2026-07-31T19:00:24.248696+00:00",
@@ -91206,6 +91339,13 @@
       "location": "Slidell, Louisiana",
       "title": "OnSite Specialist - Slidell, LA",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Slidell-Louisiana/OnSite-Specialist---Slidell--LA_R570220"
+    },
+    "Stryker:R570221": {
+      "alerted": false,
+      "first_seen": "2026-08-03T19:49:31.205517+00:00",
+      "location": "Fresno, California",
+      "title": "Field Clinical Specialist - Fresno, CA - Peripheral Vascular",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Fresno-California/Field-Clinical-Specialist---Fresno--CA---Peripheral-Vascular_R570221-1"
     },
     "Stryker:R570233": {
       "alerted": false,
@@ -91262,6 +91402,13 @@
       "location": "Richmond, Virginia",
       "title": "Field Service Technician (Power Tools) - Richmond, Virginia",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Richmond-Virginia/Field-Service-Technician--Power-Tools----Richmond--Virginia_R570371-1"
+    },
+    "Stryker:R570399": {
+      "alerted": false,
+      "first_seen": "2026-08-03T19:49:31.205561+00:00",
+      "location": "District of Columbia, Washington",
+      "title": "OnSite Specialist - FairFax, VA",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/District-of-Columbia-Washington/OnSite-Specialist---FairFax--VA_R570399"
     },
     "Stryker:R570442": {
       "alerted": false,
