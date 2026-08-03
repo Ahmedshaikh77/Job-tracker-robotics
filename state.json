@@ -1,5 +1,10 @@
 {
   "company_failures": {
+    "Anduril": {
+      "count": 1,
+      "last_error": "Anduril (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
+      "last_failed_at": "2026-08-03T20:47:42.583728+00:00"
+    },
     "Boston Dynamics": {
       "count": 6,
       "last_error": "Boston Dynamics (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/bostondynamics/jobs?content=true",
@@ -36544,6 +36549,13 @@
       "title": "Superviseur de Production Nuit F/H",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Trevoux-Rhne-Alpes-France/Superviseur-de-Production-Nuit-F-H_R63919-1"
     },
+    "Medtronic:R63938": {
+      "alerted": false,
+      "first_seen": "2026-08-03T20:47:42.588786+00:00",
+      "location": "4 Locations",
+      "title": "Regulatory Affairs Specialist",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Regulatory-Affairs-Specialist_R63938-1"
+    },
     "Medtronic:R63940": {
       "alerted": false,
       "first_seen": "2026-06-03T18:40:18.690167+00:00",
@@ -54310,6 +54322,13 @@
       "title": "Sales Representative III",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Seoul-Seoul-Korea/Sales-Representative-III_R71990-2"
     },
+    "Medtronic:R71997": {
+      "alerted": false,
+      "first_seen": "2026-08-03T20:47:42.589091+00:00",
+      "location": "Lafayette, Colorado, United States of America",
+      "title": "Product Manager - Clinical Software and AI (Onsite in Lafayette, CO)",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Product-Manager---Clinical-Software-and-AI--Onsite-in-Lafayette--CO-_R71997-2"
+    },
     "Medtronic:R72005": {
       "alerted": false,
       "first_seen": "2026-07-16T14:14:25.783344+00:00",
@@ -54631,6 +54650,13 @@
       "location": "Johnson City, Tennessee, United States of America",
       "title": "Sr. Surgical Account Manager (Johnson City TN)",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Johnson-City-Tennessee-United-States-of-America/Sr-Surgical-Account-Manager--Johnson-City-TN-_R72114-1"
+    },
+    "Medtronic:R72115": {
+      "alerted": false,
+      "first_seen": "2026-08-03T20:47:42.589044+00:00",
+      "location": "Fort Worth, Texas, United States of America",
+      "title": "Sustaining Engineer II - Fort Worth, TX",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Fort-Worth-Texas-United-States-of-America/Sustaining-Engineer-II---Fort-Worth--TX_R72115-1"
     },
     "Medtronic:R72117": {
       "alerted": false,
@@ -57159,6 +57185,13 @@
       "title": "BD & Strategy Intern",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Shanghai-Shanghai-China/BD---Strategy-Intern_R73191-1"
     },
+    "Medtronic:R73193": {
+      "alerted": false,
+      "first_seen": "2026-08-03T20:47:42.588822+00:00",
+      "location": "2 Locations",
+      "title": "Sr Contract Analyst",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Sr-Contract-Analyst_R73193-1"
+    },
     "Medtronic:R73194": {
       "alerted": false,
       "first_seen": "2026-08-03T11:21:21.535601+00:00",
@@ -57284,6 +57317,13 @@
       "location": "2 Locations",
       "title": "Surgical Onsite Specialist - Madison/Milwaukee",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Madison-Wisconsin-United-States-of-America/Surgical-Onsite-Specialist---Madison-Milwaukee_R73245-1"
+    },
+    "Medtronic:R73249": {
+      "alerted": false,
+      "first_seen": "2026-08-03T20:47:42.588866+00:00",
+      "location": "Brooklyn Park, Minnesota, United States of America",
+      "title": "Sr Marketing Specialist - Cardiac Surgery Therapies",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Brooklyn-Park-Minnesota-United-States-of-America/Sr-Marketing-Specialist---Cardiac-Surgery-Therapies_R73249"
     },
     "Medtronic:R73251": {
       "alerted": false,
@@ -57824,6 +57864,20 @@
       "title": "Senior Remote Sales Account Manager, Surgical - Northeast US",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/State-of-Massachusetts-United-States-of-America/Senior-Remote-Sales-Account-Manager--Surgical---Northeast-US_R73515-1"
     },
+    "Medtronic:R73519": {
+      "alerted": false,
+      "first_seen": "2026-08-03T20:47:42.588916+00:00",
+      "location": "Charlotte, North Carolina, United States of America",
+      "title": "Principal Training and Education Specialist - Robotics - Charlotte, NC",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Charlotte-North-Carolina-United-States-of-America/Principal-Training-and-Education-Specialist---Robotics---Charlotte--NC_R73519-1"
+    },
+    "Medtronic:R73521": {
+      "alerted": false,
+      "first_seen": "2026-08-03T20:47:42.588962+00:00",
+      "location": "Lafayette, Colorado, United States of America",
+      "title": "Principal Training and Education Specialist - Robotics - Lafayette, CO",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Principal-Training-and-Education-Specialist---Robotics---Lafayette--CO_R73521-1"
+    },
     "Medtronic:R73522": {
       "alerted": false,
       "first_seen": "2026-07-30T22:39:51.223409+00:00",
@@ -57907,6 +57961,13 @@
       "location": "Chico, California, United States of America",
       "title": "Clinical Specialist CRM - Chico",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Chico-California-United-States-of-America/Clinical-Specialist-CRM---Chico_R73596-1"
+    },
+    "Medtronic:R73598": {
+      "alerted": false,
+      "first_seen": "2026-08-03T20:47:42.589125+00:00",
+      "location": "Fridley, Minnesota, United States of America",
+      "title": "Lab Technician III",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Lab-Technician-III_R73598"
     },
     "Medtronic:R73599": {
       "alerted": false,
@@ -58047,6 +58108,13 @@
       "location": "Philadelphia, Pennsylvania, United States of America",
       "title": "Senior CoreValve Therapy Consultant - Philadelphia",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Philadelphia-Pennsylvania-United-States-of-America/Senior-CoreValve-Therapy-Consultant---Philadelphia_R73699-1"
+    },
+    "Medtronic:R73702": {
+      "alerted": false,
+      "first_seen": "2026-08-03T20:47:42.589003+00:00",
+      "location": "Lafayette, Colorado, United States of America",
+      "title": "Strategic Meeting Planning Specialist - CST",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Strategic-Meeting-Planning-Specialist---CST_R73702-1"
     },
     "Medtronic:R73732": {
       "alerted": false,
@@ -62163,6 +62231,13 @@
       "location": "2 Locations",
       "title": "AI Software Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Software-Engineer_JR2015357"
+    },
+    "NVIDIA:JR2015394": {
+      "alerted": false,
+      "first_seen": "2026-08-03T20:47:42.588346+00:00",
+      "location": "2 Locations",
+      "title": "Director, Business Development - Retail Intelligent Stores",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director--Business-Development---Retail-Intelligent-Stores_JR2015394-1"
     },
     "NVIDIA:JR2015398": {
       "alerted": false,
@@ -76941,6 +77016,13 @@
       "title": "Product Support Specialist",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Leicester-England/Product-Support-Specialist_R561783"
     },
+    "Stryker:R561788": {
+      "alerted": false,
+      "first_seen": "2026-08-03T20:47:42.588517+00:00",
+      "location": "4 Locations",
+      "title": "Sales Representative - Fort Wayne, South Bend, Toledo - Infection Prevention",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Fort-Wayne-Indiana/Sales-Representative---Fort-Wayne--South-Bend--Toledo---Infection-Prevention_R561788"
+    },
     "Stryker:R561804": {
       "alerted": false,
       "first_seen": "2026-07-24T14:04:53.279156+00:00",
@@ -77808,6 +77890,13 @@
       "location": "Ontario, Waterdown 2 Medicorum Place",
       "title": "Commercial Rebates Specialist - Hybrid",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Ontario-Waterdown-2-Medicorum-Place/Commercial-Rebates-Specialist---Hybrid_R563891"
+    },
+    "Stryker:R563894": {
+      "alerted": false,
+      "first_seen": "2026-08-03T20:47:42.588416+00:00",
+      "location": "5 Locations",
+      "title": "Sales Representative - Fort Wayne, South Bend, Toledo - Injury Prevention",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Fort-Wayne-Indiana/Sales-Representative---Fort-Wayne--South-Bend--Toledo---Injury-Prevention_R563894"
     },
     "Stryker:R563903": {
       "alerted": false,
@@ -79201,6 +79290,13 @@
       "location": "Portage, Michigan",
       "title": "Fabricator I \u2013 2nd Shift - $20.50/hr + $2.00 Shift Premium",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Fabricator-I---2nd-Shift----2050-hr----200-Shift-Premium_R565585"
+    },
+    "Stryker:R565588": {
+      "alerted": false,
+      "first_seen": "2026-08-03T20:47:42.588562+00:00",
+      "location": "2 Locations",
+      "title": "Sales Representative - Chicago South - Infection Prevention",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Chicago-Illinois/Sales-Representative---Chicago-South---Infection-Prevention_R565588"
     },
     "Stryker:R565597": {
       "alerted": false,
@@ -87532,6 +87628,13 @@
       "title": "Clinical Specialist, Enabling Technologies (Houston, TX)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Houston-Texas/Clinical-Specialist--Enabling-Technologies--Houston--TX-_R568462"
     },
+    "Stryker:R568463": {
+      "alerted": false,
+      "first_seen": "2026-08-03T20:47:42.588466+00:00",
+      "location": "Houston, Texas",
+      "title": "Clinical Specialist, Enabling Technologies (Houston, TX)",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Houston-Texas/Clinical-Specialist--Enabling-Technologies--Houston--TX-_R568463"
+    },
     "Stryker:R568464": {
       "alerted": false,
       "first_seen": "2026-07-13T15:49:00.748446+00:00",
@@ -90920,6 +91023,13 @@
       "title": "Senior Staff R&D Engineer, Mechanical",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Senior-Staff-R-D-Engineer--Mechanical_R569778-1"
     },
+    "Stryker:R569781": {
+      "alerted": false,
+      "first_seen": "2026-08-03T20:47:42.588745+00:00",
+      "location": "Portage, Michigan",
+      "title": "Production Team Leader (2nd Shift (2 pm to 12 am))",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Production-Team-Leader--2nd-Shift--2-pm-to-12-am--_R569781"
+    },
     "Stryker:R569785": {
       "alerted": false,
       "first_seen": "2026-07-27T20:40:27.265704+00:00",
@@ -91137,12 +91247,26 @@
       "title": "Senior Staff Clinical Data Systems Specialist",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Bengaluru-India/Senior-Staff-Clinical-Data-Systems-Specialist_R569935"
     },
+    "Stryker:R569948": {
+      "alerted": false,
+      "first_seen": "2026-08-03T20:47:42.588695+00:00",
+      "location": "Kalamazoo, Michigan",
+      "title": "Sales Regional Manager - Great Lakes - Sage",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Kalamazoo-Michigan/Sales-Regional-Manager---Great-Lakes---Sage_R569948-1"
+    },
     "Stryker:R569950": {
       "alerted": false,
       "first_seen": "2026-07-30T19:01:08.091726+00:00",
       "location": "Lexington, Kentucky",
       "title": "OnSite Specialist- Lexington, KY",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Lexington-Kentucky/OnSite-Specialist--Lexington--KY_R569950"
+    },
+    "Stryker:R569955": {
+      "alerted": false,
+      "first_seen": "2026-08-03T20:47:42.588648+00:00",
+      "location": "Cary, Illinois",
+      "title": "Sales Regional Manager - Chicago - Sage",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cary-Illinois/Sales-Regional-Manager---Chicago---Sage_R569955-1"
     },
     "Stryker:R569965": {
       "alerted": false,
@@ -91430,6 +91554,13 @@
       "location": "Skawina, Poland",
       "title": "Starszy Operator / Starsza Operatorka Produkcji (Cleanroom)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Skawina-Poland/Starszy-Operator---Starsza-Operatorka-Produkcji--Cleanroom-_R570446"
+    },
+    "Stryker:R570479": {
+      "alerted": false,
+      "first_seen": "2026-08-03T20:47:42.588606+00:00",
+      "location": "Cleveland, Ohio",
+      "title": "Sales Representative -Cleveland, OH- Communications",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cleveland-Ohio/Sales-Representative--Cleveland--OH--Communications_R570479"
     },
     "Waymo:6367980": {
       "alerted": false,
