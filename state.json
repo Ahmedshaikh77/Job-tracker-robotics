@@ -2986,6 +2986,13 @@
       "title": "Associate, ML Data Operations, GO-AI Operations",
       "url": "https://www.amazon.jobs/en/jobs/10492471/associate-ml-data-operations-go-ai-operations"
     },
+    "Amazon:10493477": {
+      "alerted": false,
+      "first_seen": "2026-08-05T21:11:00.053536+00:00",
+      "location": "New York, New York, USA",
+      "title": "Software Development Engineer III, Annapurna Labs",
+      "url": "https://www.amazon.jobs/en/jobs/10493477/software-development-engineer-iii-annapurna-labs"
+    },
     "Anduril:4159543007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.742648+00:00",
@@ -32085,6 +32092,20 @@
       "title": "Senior Product Manager, Hardware Platform",
       "url": "https://boards.greenhouse.io/apptronik/jobs/6134490004?gh_jid=6134490004"
     },
+    "Apptronik:6135669004": {
+      "alerted": true,
+      "first_seen": "2026-08-05T21:11:00.043059+00:00",
+      "location": "Austin, TX",
+      "title": "Reinforcement Learning Engineer",
+      "url": "https://boards.greenhouse.io/apptronik/jobs/6135669004?gh_jid=6135669004"
+    },
+    "Apptronik:6135687004": {
+      "alerted": true,
+      "first_seen": "2026-08-05T21:11:00.043587+00:00",
+      "location": "Austin, TX",
+      "title": "Software Engineer - Dexterous Manipulation",
+      "url": "https://boards.greenhouse.io/apptronik/jobs/6135687004?gh_jid=6135687004"
+    },
     "Formlabs:4994162": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.732746+00:00",
@@ -35626,6 +35647,174 @@
       "location": "Boston, MA",
       "title": "R&D Workshop Specialist",
       "url": "https://careers.formlabs.com/job/8109255/apply/?gh_jid=8109255"
+    },
+    "Formlabs:8109805": {
+      "alerted": false,
+      "first_seen": "2026-08-05T21:11:00.048191+00:00",
+      "location": "Somerville, MA",
+      "title": "Robotic Systems Integration Engineer (SLA & SLS)   ",
+      "url": "https://careers.formlabs.com/job/8109805/apply/?gh_jid=8109805"
+    },
+    "Formlabs:8109809": {
+      "alerted": true,
+      "first_seen": "2026-08-05T21:11:00.048581+00:00",
+      "location": "Boston, MA",
+      "title": "Robotic Systems Integration Engineer (SLA & SLS)   ",
+      "url": "https://careers.formlabs.com/job/8109809/apply/?gh_jid=8109809"
+    },
+    "Formlabs:8109811": {
+      "alerted": false,
+      "first_seen": "2026-08-05T21:11:00.051601+00:00",
+      "location": "Somerville, MA",
+      "title": "Senior Robotic Systems Integration Engineer (SLA & SLS)   ",
+      "url": "https://careers.formlabs.com/job/8109811/apply/?gh_jid=8109811"
+    },
+    "Formlabs:8109813": {
+      "alerted": false,
+      "first_seen": "2026-08-05T21:11:00.051947+00:00",
+      "location": "Boston, MA",
+      "title": "Senior Robotic Systems Integration Engineer (SLA & SLS)   ",
+      "url": "https://careers.formlabs.com/job/8109813/apply/?gh_jid=8109813"
+    },
+    "Formlabs:8109815": {
+      "alerted": false,
+      "first_seen": "2026-08-05T21:11:00.050725+00:00",
+      "location": "Somerville, MA",
+      "title": "Senior Mechanical Engineer",
+      "url": "https://careers.formlabs.com/job/8109815/apply/?gh_jid=8109815"
+    },
+    "Formlabs:8109816": {
+      "alerted": false,
+      "first_seen": "2026-08-05T21:11:00.051222+00:00",
+      "location": "Boston, MA",
+      "title": "Senior Mechanical Engineer",
+      "url": "https://careers.formlabs.com/job/8109816/apply/?gh_jid=8109816"
+    },
+    "Formlabs:8109820": {
+      "alerted": false,
+      "first_seen": "2026-08-05T21:11:00.044447+00:00",
+      "location": "Boston, MA",
+      "title": "3D Print Optimization Engineer",
+      "url": "https://careers.formlabs.com/job/8109820/apply/?gh_jid=8109820"
+    },
+    "Formlabs:8109821": {
+      "alerted": false,
+      "first_seen": "2026-08-05T21:11:00.044012+00:00",
+      "location": "Somerville, MA",
+      "title": "3D Print Optimization Engineer",
+      "url": "https://careers.formlabs.com/job/8109821/apply/?gh_jid=8109821"
+    },
+    "Formlabs:8109824": {
+      "alerted": false,
+      "first_seen": "2026-08-05T21:11:00.049012+00:00",
+      "location": "Somerville, MA",
+      "title": "Senior 3D Print Optimization Engineer",
+      "url": "https://careers.formlabs.com/job/8109824/apply/?gh_jid=8109824"
+    },
+    "Formlabs:8109826": {
+      "alerted": false,
+      "first_seen": "2026-08-05T21:11:00.049464+00:00",
+      "location": "Boston, MA",
+      "title": "Senior 3D Print Optimization Engineer",
+      "url": "https://careers.formlabs.com/job/8109826/apply/?gh_jid=8109826"
+    },
+    "Formlabs:8109834": {
+      "alerted": false,
+      "first_seen": "2026-08-05T21:11:00.047812+00:00",
+      "location": "Somerville, MA",
+      "title": "R&D Reliability/Test Engineer",
+      "url": "https://careers.formlabs.com/job/8109834/apply/?gh_jid=8109834"
+    },
+    "Formlabs:8109836": {
+      "alerted": true,
+      "first_seen": "2026-08-05T21:11:00.047345+00:00",
+      "location": "Boston, MA",
+      "title": "R&D Reliability/Test Engineer",
+      "url": "https://careers.formlabs.com/job/8109836/apply/?gh_jid=8109836"
+    },
+    "Formlabs:8109839": {
+      "alerted": true,
+      "first_seen": "2026-08-05T21:11:00.046446+00:00",
+      "location": "Boston, MA",
+      "title": "Mechanical Engineer",
+      "url": "https://careers.formlabs.com/job/8109839/apply/?gh_jid=8109839"
+    },
+    "Formlabs:8109845": {
+      "alerted": false,
+      "first_seen": "2026-08-05T21:11:00.046838+00:00",
+      "location": "Somerville, MA",
+      "title": "Mechanical Engineer",
+      "url": "https://careers.formlabs.com/job/8109845/apply/?gh_jid=8109845"
+    },
+    "Formlabs:8109870": {
+      "alerted": false,
+      "first_seen": "2026-08-05T21:11:00.044821+00:00",
+      "location": "Somerville, MA",
+      "title": "Materials Scientist",
+      "url": "https://careers.formlabs.com/job/8109870/apply/?gh_jid=8109870"
+    },
+    "Formlabs:8109879": {
+      "alerted": false,
+      "first_seen": "2026-08-05T21:11:00.045181+00:00",
+      "location": "Boston, MA",
+      "title": "Materials Scientist",
+      "url": "https://careers.formlabs.com/job/8109879/apply/?gh_jid=8109879"
+    },
+    "Formlabs:8109880": {
+      "alerted": false,
+      "first_seen": "2026-08-05T21:11:00.046018+00:00",
+      "location": "Somerville, MA",
+      "title": "Materials Scientist - Photopolymer Development",
+      "url": "https://careers.formlabs.com/job/8109880/apply/?gh_jid=8109880"
+    },
+    "Formlabs:8109882": {
+      "alerted": false,
+      "first_seen": "2026-08-05T21:11:00.045617+00:00",
+      "location": "Boston, MA",
+      "title": "Materials Scientist - Photopolymer Development",
+      "url": "https://careers.formlabs.com/job/8109882/apply/?gh_jid=8109882"
+    },
+    "Formlabs:8109883": {
+      "alerted": false,
+      "first_seen": "2026-08-05T21:11:00.049843+00:00",
+      "location": "Somerville, MA",
+      "title": "Senior Materials Scientist",
+      "url": "https://careers.formlabs.com/job/8109883/apply/?gh_jid=8109883"
+    },
+    "Formlabs:8109888": {
+      "alerted": false,
+      "first_seen": "2026-08-05T21:11:00.050204+00:00",
+      "location": "Boston, MA",
+      "title": "Senior Materials Scientist",
+      "url": "https://careers.formlabs.com/job/8109888/apply/?gh_jid=8109888"
+    },
+    "Formlabs:8109889": {
+      "alerted": false,
+      "first_seen": "2026-08-05T21:11:00.052729+00:00",
+      "location": "Boston, MA",
+      "title": "Senior SLS Materials Scientist",
+      "url": "https://careers.formlabs.com/job/8109889/apply/?gh_jid=8109889"
+    },
+    "Formlabs:8109894": {
+      "alerted": false,
+      "first_seen": "2026-08-05T21:11:00.052362+00:00",
+      "location": "Somerville, MA",
+      "title": "Senior SLS Materials Scientist",
+      "url": "https://careers.formlabs.com/job/8109894/apply/?gh_jid=8109894"
+    },
+    "Formlabs:8109895": {
+      "alerted": false,
+      "first_seen": "2026-08-05T21:11:00.053468+00:00",
+      "location": "Boston, MA",
+      "title": "SLS Materials Scientist",
+      "url": "https://careers.formlabs.com/job/8109895/apply/?gh_jid=8109895"
+    },
+    "Formlabs:8109900": {
+      "alerted": false,
+      "first_seen": "2026-08-05T21:11:00.053086+00:00",
+      "location": "Somerville, MA",
+      "title": "SLS Materials Scientist",
+      "url": "https://careers.formlabs.com/job/8109900/apply/?gh_jid=8109900"
     },
     "Medtronic:R26267": {
       "alerted": false,
@@ -61058,6 +61247,20 @@
       "title": "Senior Deep Learning Software Engineer - Autonomous Vehicles",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Deep-Learning-Software-Engineer---Autonomous-Vehicles_JR2005482"
     },
+    "NVIDIA:JR2005596": {
+      "alerted": false,
+      "first_seen": "2026-08-05T21:11:00.054063+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Research Scientist - Autonomous Vehicles",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Research-Scientist---Autonomous-Vehicles_JR2005596"
+    },
+    "NVIDIA:JR2005597": {
+      "alerted": false,
+      "first_seen": "2026-08-05T21:11:00.054018+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Research Engineer - Autonomous Vehicles",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Research-Engineer---Autonomous-Vehicles_JR2005597"
+    },
     "NVIDIA:JR2005807": {
       "alerted": false,
       "first_seen": "2026-07-27T08:16:45.062692+00:00",
@@ -61148,6 +61351,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Principal Technical Program Manager - Autonomous Vehicles",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager---Autonomous-Vehicles_JR2006767"
+    },
+    "NVIDIA:JR2006769": {
+      "alerted": false,
+      "first_seen": "2026-08-05T21:11:00.053971+00:00",
+      "location": "2 Locations",
+      "title": "Manager, Large Language Model Inference",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--Large-Language-Model-Inference_JR2006769"
     },
     "NVIDIA:JR2006779": {
       "alerted": false,
@@ -61995,6 +62205,13 @@
       "location": "Hong Kong, STP",
       "title": "Senior Production Planner",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Hong-Kong-STP/Senior-Production-Planner_JR2011439-1"
+    },
+    "NVIDIA:JR2011456": {
+      "alerted": false,
+      "first_seen": "2026-08-05T21:11:00.053927+00:00",
+      "location": "3 Locations",
+      "title": "Manager, GPU Accelerated Data Analytics",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--Developer-Technology_JR2011456-1"
     },
     "NVIDIA:JR2011473": {
       "alerted": true,
@@ -62849,6 +63066,20 @@
       "location": "6 Locations",
       "title": "Senior Software Engineer, AI Web Products",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--AI-Web-Products_JR2013475"
+    },
+    "NVIDIA:JR2013482": {
+      "alerted": false,
+      "first_seen": "2026-08-05T21:11:00.053883+00:00",
+      "location": "3 Locations",
+      "title": "Senior AI Developer Technology Engineer, Financial Sector",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-AI-Developer-Technology-Engineer--Financial-Sector_JR2013482"
+    },
+    "NVIDIA:JR2013483": {
+      "alerted": false,
+      "first_seen": "2026-08-05T21:11:00.053778+00:00",
+      "location": "3 Locations",
+      "title": "Senior Developer Technology Engineer, CPU Performance",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Developer-Technology-Engineer--CPU-Performance_JR2013483"
     },
     "NVIDIA:JR2013495": {
       "alerted": false,
@@ -63718,6 +63949,13 @@
       "title": "Senior Software Engineer - Cloud and Kubernetes",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---Cloud-and-Kubernetes_JR2014757"
     },
+    "NVIDIA:JR2014768": {
+      "alerted": false,
+      "first_seen": "2026-08-05T21:11:00.054149+00:00",
+      "location": "3 Locations",
+      "title": "Senior Developer Technology Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Developer-Technology-Engineer_JR2014768"
+    },
     "NVIDIA:JR2014770": {
       "alerted": false,
       "first_seen": "2026-06-23T20:21:42.414162+00:00",
@@ -63738,6 +63976,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Senior Developer Relations Manager \u2013 AgentOps",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Developer-Relations-Manager---AgentOps_JR2014797"
+    },
+    "NVIDIA:JR2014814": {
+      "alerted": false,
+      "first_seen": "2026-08-05T21:11:00.053832+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Software Engineer, Deep Learning Inference - Automotive Safety",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Deep-Learning-Inference---Automotive-Safety_JR2014814"
     },
     "NVIDIA:JR2014827": {
       "alerted": false,
@@ -64523,6 +64768,13 @@
       "title": "PhD Research Intern, Generative AI - 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI---2026_JR2016035"
     },
+    "NVIDIA:JR2016047": {
+      "alerted": false,
+      "first_seen": "2026-08-05T21:11:00.053731+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Software Engineer, Machine Learning Inference",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Machine-Learning-Inference_JR2016047"
+    },
     "NVIDIA:JR2016052": {
       "alerted": false,
       "first_seen": "2026-06-09T16:18:25.248270+00:00",
@@ -64557,6 +64809,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Manager, Software Architecture",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--Software-Architecture_JR2016110"
+    },
+    "NVIDIA:JR2016115": {
+      "alerted": false,
+      "first_seen": "2026-08-05T21:11:00.053682+00:00",
+      "location": "3 Locations",
+      "title": "Senior Developer Technology Engineer, Public Sector",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Developer-Technology-Engineer--Public-Sector_JR2016115"
     },
     "NVIDIA:JR2016116": {
       "alerted": false,
@@ -64718,6 +64977,13 @@
       "location": "4 Locations",
       "title": "Senior Software Engineer - AI Inference",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---AI-Inference_JR2016392"
+    },
+    "NVIDIA:JR2016396": {
+      "alerted": false,
+      "first_seen": "2026-08-05T21:11:00.053586+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior AI-Native Systems Software Engineer, TensorRT",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-AI-Native-Systems-Software-Engineer--TensorRT_JR2016396"
     },
     "NVIDIA:JR2016420": {
       "alerted": false,
@@ -65076,6 +65342,13 @@
       "title": "Cybersecurity Manager - India",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Pune/Cybersecurity-Manager---India_JR2016815"
     },
+    "NVIDIA:JR2016819": {
+      "alerted": true,
+      "first_seen": "2026-08-05T21:11:00.054104+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Product Development Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Development-Engineer_JR2016819"
+    },
     "NVIDIA:JR2016828": {
       "alerted": false,
       "first_seen": "2026-06-03T10:05:06.992855+00:00",
@@ -65173,6 +65446,13 @@
       "location": "2 Locations",
       "title": "Senior Software Architect, GPU Networking Research",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Senior-Software-Architect--GPU-Networking-Research_JR2016906"
+    },
+    "NVIDIA:JR2016917": {
+      "alerted": false,
+      "first_seen": "2026-08-05T21:11:00.053633+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Formal Verification Engineer, GPU Kernels",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Formal-Verification-Engineer--GPU-Kernels_JR2016917"
     },
     "NVIDIA:JR2016921": {
       "alerted": false,
@@ -94287,6 +94567,13 @@
       "title": "Senior Specialist, Human Resources - Brazil (Hybrid)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Sao-Paulo-Brazil/Senior-Specialist--Human-Resources--Hybrid-_R570128"
     },
+    "Stryker:R570136": {
+      "alerted": false,
+      "first_seen": "2026-08-05T21:11:00.054332+00:00",
+      "location": "Oklahoma City, Oklahoma",
+      "title": "Sales Representative - Oklahoma City, OK  - ENT",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Oklahoma-City-Oklahoma/Sales-Representative---Oklahoma-City--OK----ENT_R570136"
+    },
     "Stryker:R570137": {
       "alerted": false,
       "first_seen": "2026-08-04T20:21:43.322206+00:00",
@@ -94427,6 +94714,13 @@
       "title": "Staff Clinical Informaticist (Remote)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Kalamazoo-Michigan/Staff-Clinical-Informaticist--Remote-_R570216-1"
     },
+    "Stryker:R570217": {
+      "alerted": false,
+      "first_seen": "2026-08-05T21:11:00.054200+00:00",
+      "location": "Cary, Illinois",
+      "title": "Staff Quality Systems Specialist - Continuous Improvement",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cary-Illinois/Staff-Quality-Systems-Specialist---Continuous-Improvement_R570217"
+    },
     "Stryker:R570219": {
       "alerted": false,
       "first_seen": "2026-08-05T19:59:52.369613+00:00",
@@ -94482,6 +94776,13 @@
       "location": "Salem, Oregon",
       "title": "OnSite Specialist - Salem, OR",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Salem-Oregon/OnSite-Specialist---Salem--OR_R570270"
+    },
+    "Stryker:R570289": {
+      "alerted": false,
+      "first_seen": "2026-08-05T21:11:00.054282+00:00",
+      "location": "5 Locations",
+      "title": "Project Manager - Field Based - Open to Candidates in Arizona, Colorado, Washington, Oregon and Utah",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Denver-Colorado/Project-Manager---Field-Based---Open-to-Candidates-in-Arizona--Colorado--Washington--Oregon-and-Utah_R570289"
     },
     "Stryker:R570293": {
       "alerted": false,
