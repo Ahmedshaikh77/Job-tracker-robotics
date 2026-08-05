@@ -2979,6 +2979,13 @@
       "title": "Software Dev Engineer II, Amazon Pharmacy ",
       "url": "https://www.amazon.jobs/en/jobs/10492454/software-dev-engineer-ii-amazon-pharmacy"
     },
+    "Amazon:10492471": {
+      "alerted": false,
+      "first_seen": "2026-08-05T06:44:04.622203+00:00",
+      "location": "Kolkata, West Bengal, IND",
+      "title": "Associate, ML Data Operations, GO-AI Operations",
+      "url": "https://www.amazon.jobs/en/jobs/10492471/associate-ml-data-operations-go-ai-operations"
+    },
     "Anduril:4159543007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.742648+00:00",
@@ -30104,6 +30111,13 @@
       "title": "Staff, Electrical Engineer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5199770007?gh_jid=5199770007"
     },
+    "Anduril:5199800007": {
+      "alerted": false,
+      "first_seen": "2026-08-05T06:44:04.623692+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "IT Systems Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5199800007?gh_jid=5199800007"
+    },
     "Anduril:5199928007": {
       "alerted": false,
       "first_seen": "2026-07-30T21:34:04.957576+00:00",
@@ -30873,6 +30887,13 @@
       "location": "Costa Mesa, California, United States",
       "title": "Senior Environmental Test Technician (2nd Shift)",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5203808007?gh_jid=5203808007"
+    },
+    "Anduril:5204059007": {
+      "alerted": false,
+      "first_seen": "2026-08-05T06:44:04.623096+00:00",
+      "location": "Ashville, Ohio, United States",
+      "title": "Financial Analyst II, Arsenal-1",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5204059007?gh_jid=5204059007"
     },
     "Anduril:5204068007": {
       "alerted": false,
@@ -35725,6 +35746,13 @@
       "title": "Tax lawyer / Accountant",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Heerlen-Limburg-Netherlands/Tax-lawyer---Accountant_R57798-1"
     },
+    "Medtronic:R57823": {
+      "alerted": false,
+      "first_seen": "2026-08-05T06:44:04.623978+00:00",
+      "location": "Nanakramguda, Hyderabad, India",
+      "title": "Principal Cybersecurity Specialist",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Principle-Cybersecurity-Specialist_R57823-1"
+    },
     "Medtronic:R57824": {
       "alerted": false,
       "first_seen": "2026-07-07T08:49:04.246021+00:00",
@@ -35914,6 +35942,13 @@
       "title": "Exec Robotic Stapling Specialist (Richmond, VA)",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Richmond-Virginia-United-States-of-America/Exec-Robotic-Stapling-Specialist--Richmond--VA-_R59350-1"
     },
+    "Medtronic:R59481": {
+      "alerted": false,
+      "first_seen": "2026-08-05T06:44:04.623826+00:00",
+      "location": "Kulim, Kedah, Malaysia",
+      "title": "Sr. Supplier Quality Engineer",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Kulim-Kedah-Malaysia/Sr-Supplier-Quality-Engineer_R59481-1"
+    },
     "Medtronic:R59495": {
       "alerted": false,
       "first_seen": "2026-06-10T13:50:39.827881+00:00",
@@ -35969,6 +36004,13 @@
       "location": "Lafayette, Colorado, United States of America",
       "title": "Software Engineer II",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Software-Engineer-II_R59740-2"
+    },
+    "Medtronic:R59778": {
+      "alerted": false,
+      "first_seen": "2026-08-05T06:44:04.623742+00:00",
+      "location": "Gurgaon, Haryana, India",
+      "title": "Sales Representative II- Soft Tissue Implant",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Gurgaon-Haryana-India/Sales-Representative--II_R59778-1"
     },
     "Medtronic:R59823": {
       "alerted": false,
@@ -53939,6 +53981,13 @@
       "title": "",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers"
     },
+    "Medtronic:R71653": {
+      "alerted": false,
+      "first_seen": "2026-08-05T06:44:04.623786+00:00",
+      "location": "Bhubaneswar, Odisha, India",
+      "title": "Sales Executive - Surgical Innovation",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Bhubaneswar-Odisha-India/Sales-Executive---Surgical-Innovation_R71653-1"
+    },
     "Medtronic:R71654": {
       "alerted": false,
       "first_seen": "2026-07-13T07:54:40.018221+00:00",
@@ -58356,6 +58405,13 @@
       "title": "Senior Cybersecurity Specialist",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Senior-Cybersecurity-Specialist_R73293-1"
     },
+    "Medtronic:R73294": {
+      "alerted": false,
+      "first_seen": "2026-08-05T06:44:04.623941+00:00",
+      "location": "Nanakramguda, Hyderabad, India",
+      "title": "Principal Cybersecurity Specialist",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Principal-Cybersecurity-Specialist_R73294-1"
+    },
     "Medtronic:R73295": {
       "alerted": false,
       "first_seen": "2026-08-04T13:25:54.666770+00:00",
@@ -58376,6 +58432,13 @@
       "location": "Nanakramguda, Hyderabad, India",
       "title": "Principle Cybersecurity Specialist",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Principle-Cybersecurity-Specialist_R73298-1"
+    },
+    "Medtronic:R73300": {
+      "alerted": false,
+      "first_seen": "2026-08-05T06:44:04.623892+00:00",
+      "location": "Nanakramguda, Hyderabad, India",
+      "title": "Principle Cybersecurity Specialist",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Principle-Cybersecurity-Specialist_R73300-1"
     },
     "Medtronic:R73301": {
       "alerted": false,
@@ -85817,6 +85880,13 @@
       "title": "Quality Engineering Technician - 1st Shift - Pay Starting at $31.91/hr",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Jose-California/Quality-Engineering-Technician---1st-Shift---Pay-Starting-at--3191-hr_R567344"
     },
+    "Stryker:R567345": {
+      "alerted": false,
+      "first_seen": "2026-08-05T06:44:04.622351+00:00",
+      "location": "5 Locations",
+      "title": "Marketing Manager - Neurovascular",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Sydney-Australia/Marketing-Manager---Neurovascular_R567345"
+    },
     "Stryker:R567352": {
       "alerted": false,
       "first_seen": "2026-06-23T07:34:19.359683+00:00",
@@ -92775,6 +92845,13 @@
       "title": "Sales Representative - Palm Springs, CA - Sports Medicine",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Palm-Springs-California/Sales-Representative---Palm-Springs--CA---Sports-Medicine_R569739"
     },
+    "Stryker:R569741": {
+      "alerted": false,
+      "first_seen": "2026-08-05T06:44:04.622265+00:00",
+      "location": "Tokyo, Japan",
+      "title": "Territory Manager, CMF West Japan",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tokyo-Japan/Territory-Manager--CMF-West-Japan_R569741-1"
+    },
     "Stryker:R569742": {
       "alerted": false,
       "first_seen": "2026-08-04T09:46:04.341279+00:00",
@@ -93517,6 +93594,13 @@
       "title": "Sales Associate - Long Island, NY - Sports Medicine",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Long-Island-New-York/Sales-Associate---Long-Island--NY---Sports-Medicine_R570302"
     },
+    "Stryker:R570311": {
+      "alerted": false,
+      "first_seen": "2026-08-05T06:44:04.622309+00:00",
+      "location": "Bengaluru, India",
+      "title": "Senior Staff Software Engineer",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Bengaluru-India/Senior-Staff-Software-Engineer_R570311"
+    },
     "Stryker:R570346": {
       "alerted": false,
       "first_seen": "2026-08-04T21:41:34.477584+00:00",
@@ -93600,6 +93684,13 @@
       "location": "Dallas, Texas",
       "title": "OnSite Specialist - Fort Worth, TX",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Dallas-Texas/OnSite-Specialist---Fort-Worth--TX_R570585"
+    },
+    "Stryker:R570675": {
+      "alerted": false,
+      "first_seen": "2026-08-05T06:44:04.622398+00:00",
+      "location": "Wollongong, Australia",
+      "title": "Expression of Interest - Robotics Product Specialist",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Wollongong-Australia/Expression-of-Interest---Robotics-Product-Specialist_R570675"
     },
     "Waymo:6367980": {
       "alerted": false,
