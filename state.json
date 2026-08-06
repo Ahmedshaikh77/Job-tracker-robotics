@@ -59112,12 +59112,40 @@
       "title": "Sales Representative I",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lo-Barnechea-Santiago--Chile/Sales-Representative-I_R73342-1"
     },
+    "Medtronic:R73343": {
+      "alerted": false,
+      "first_seen": "2026-08-06T09:04:37.934718+00:00",
+      "location": "Tianjin, Tianjin, China",
+      "title": "CAS-Technical Sales Representative-Tianjin",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Tianjin-Tianjin-China/CAS-Technical-Sales-Representative-Tianjin_R73343-1"
+    },
+    "Medtronic:R73344": {
+      "alerted": false,
+      "first_seen": "2026-08-06T09:04:37.934754+00:00",
+      "location": "Tianjin, Tianjin, China",
+      "title": "CAS-TSR-Tianjin",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Tianjin-Tianjin-China/CAS-TSR-Tianjin_R73344-2"
+    },
+    "Medtronic:R73347": {
+      "alerted": false,
+      "first_seen": "2026-08-06T09:04:37.934799+00:00",
+      "location": "Beijing, Beijing, China",
+      "title": "CAS-Technical Sales Representative-Beijing",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Beijing-Beijing-China/CAS-Technical-Sales-Representative-Beijing_R73347-1"
+    },
     "Medtronic:R73351": {
       "alerted": false,
       "first_seen": "2026-07-30T10:48:47.367697+00:00",
       "location": "Beijing, Beijing, China",
       "title": "RGI-PH-Senior Technical Sales Representative-Beijing",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Beijing-Beijing-China/RGI-PH-Senior-Technical-Sales-Representative-Beijing_R73351"
+    },
+    "Medtronic:R73353": {
+      "alerted": false,
+      "first_seen": "2026-08-06T09:04:37.934889+00:00",
+      "location": "Guangzhou, Guangdong, China",
+      "title": "CSOT-Key Account Supervisor-Guangzhou",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Guangzhou-Guangdong-China/CSOT-Key-Account-Supervisor-Guangzhou_R73353-2"
     },
     "Medtronic:R73354": {
       "alerted": false,
@@ -60176,6 +60204,13 @@
       "title": "CAS-Senior Technical Sales Representative-Suzhou",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Suzhou-Jiangsu-China/CAS-Senior-Technical-Sales-Representative-Suzhou_R73898"
     },
+    "Medtronic:R73899": {
+      "alerted": false,
+      "first_seen": "2026-08-06T09:04:37.934845+00:00",
+      "location": "Qingdao, Shandong, China",
+      "title": "CAS-Senior Technical Sales Representative-Qingdao",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Qingdao-Shandong-China/CAS-Senior-Technical-Sales-Representative-Qingdao_R73899-1"
+    },
     "Medtronic:R73905": {
       "alerted": false,
       "first_seen": "2026-08-05T15:27:53.247299+00:00",
@@ -60253,6 +60288,13 @@
       "title": "Senior Manufacturing Engineer",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Senior-Manufacturing-Engineer_R74005-1"
     },
+    "Medtronic:R74008": {
+      "alerted": false,
+      "first_seen": "2026-08-06T09:04:37.934927+00:00",
+      "location": "Shanghai, Shanghai, China",
+      "title": "NMPH Operation Intern",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Shanghai-Shanghai-China/NMPH-Operation-Intern_R74008-1"
+    },
     "Medtronic:R74017": {
       "alerted": false,
       "first_seen": "2026-08-05T15:27:53.247164+00:00",
@@ -60294,6 +60336,13 @@
       "location": "St. Louis, Missouri, United States of America",
       "title": "Associate Clinical Specialist, Pain Interventions - St. Louis, MO",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/St-Louis-Missouri-United-States-of-America/Associate-Clinical-Specialist--Pain-Interventions---St-Louis--MO_R74055-2"
+    },
+    "Medtronic:R74111": {
+      "alerted": false,
+      "first_seen": "2026-08-06T09:04:37.934673+00:00",
+      "location": "Ho Chi Minh City, Ho Chi Minh City, Vietnam",
+      "title": "QC Inspector Team Leader",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Ho-Chi-Minh-City-Ho-Chi-Minh-City-Vietnam/QC-Inspector-Team-Leader_R74111-1"
     },
     "NVIDIA:JR1968313": {
       "alerted": true,
@@ -67777,6 +67826,13 @@
       "location": "4 Locations",
       "title": "Senior C++ Software Engineer - Infrastructure Tools",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-C---Software-Engineer---Infrastructure-Tools_JR2018693"
+    },
+    "NVIDIA:JR2018695": {
+      "alerted": false,
+      "first_seen": "2026-08-06T09:04:37.934631+00:00",
+      "location": "India, Bengaluru",
+      "title": "ASIC Verification Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/ASIC-Verification-Engineer_JR2018695"
     },
     "NVIDIA:JR2018697": {
       "alerted": false,
@@ -77549,6 +77605,13 @@
       "location": "2 Locations",
       "title": "Senior Deep Learning Scientist, Multimodal Agentic RL",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Deep-Learning-Scientist--Multimodal-Agentic-RL_JR2022039"
+    },
+    "NVIDIA:JR2022040": {
+      "alerted": false,
+      "first_seen": "2026-08-06T09:04:37.934588+00:00",
+      "location": "Singapore, Remote",
+      "title": "Senior Network Engineer, DGX Cloud - Backbone",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Singapore-Remote/Senior-Network-Engineer--DGX-Cloud---Backbone_JR2022040-1"
     },
     "NVIDIA:JR2022042": {
       "alerted": false,
@@ -93468,6 +93531,13 @@
       "title": "Product Support Specialist \u2013 Barcelona",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Barcelona-Spain/Product-Support-Specialist---Barcelona_R569462"
     },
+    "Stryker:R569464": {
+      "alerted": false,
+      "first_seen": "2026-08-06T09:04:37.934539+00:00",
+      "location": "Pune, India",
+      "title": "Territory Sales Manager SportsMed",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Pune-India/Territory-Sales-Manager-SportsMed_R569464"
+    },
     "Stryker:R569469": {
       "alerted": false,
       "first_seen": "2026-07-23T14:56:14.312551+00:00",
@@ -94657,6 +94727,13 @@
       "location": "Newbury, United Kingdom",
       "title": "Commercial Graduate",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Newbury-United-Kingdom/Commercial-Graduate_R570027"
+    },
+    "Stryker:R570035": {
+      "alerted": false,
+      "first_seen": "2026-08-06T09:04:37.934474+00:00",
+      "location": "Bhopal, India",
+      "title": "Area Sales manager",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Bhopal-India/Area-Sales-manager_R570035"
     },
     "Stryker:R570037": {
       "alerted": false,
