@@ -30951,6 +30951,13 @@
       "title": "Recruiting Coordinator (Contractor)",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5203475007?gh_jid=5203475007"
     },
+    "Anduril:5203761007": {
+      "alerted": false,
+      "first_seen": "2026-08-06T03:38:04.625641+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Assistant Contractor Special Security Officer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5203761007?gh_jid=5203761007"
+    },
     "Anduril:5203808007": {
       "alerted": false,
       "first_seen": "2026-08-04T21:41:34.476703+00:00",
@@ -31055,6 +31062,27 @@
       "location": "Santa Ana, California, United States",
       "title": "NPI Engineer, Core Technology Products",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5205050007?gh_jid=5205050007"
+    },
+    "Anduril:5205164007": {
+      "alerted": false,
+      "first_seen": "2026-08-06T03:38:04.626430+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior ERP Administrator, Oracle SCM",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5205164007?gh_jid=5205164007"
+    },
+    "Anduril:5205169007": {
+      "alerted": false,
+      "first_seen": "2026-08-06T03:38:04.627221+00:00",
+      "location": "Seattle, Washington, United States",
+      "title": "Senior ERP Administrator, Oracle SCM",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5205169007?gh_jid=5205169007"
+    },
+    "Anduril:5205178007": {
+      "alerted": false,
+      "first_seen": "2026-08-06T03:38:04.627885+00:00",
+      "location": "Boston, Massachusetts, United States",
+      "title": "Senior Technical Sourcer, Software",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5205178007?gh_jid=5205178007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -59447,6 +59475,13 @@
       "location": "Billings, Montana, United States of America",
       "title": "Sales Representative III, Pain Interventions -  Billings, MT",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Billings-Montana-United-States-of-America/Sales-Representative-III--Pain-Interventions----Billings--MT_R73508-1"
+    },
+    "Medtronic:R73509": {
+      "alerted": false,
+      "first_seen": "2026-08-06T03:38:04.627932+00:00",
+      "location": "Tempe, Arizona, United States of America",
+      "title": "Senior Quality Systems Specialist",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Tempe-Arizona-United-States-of-America/Senior-Quality-Systems-Specialist_R73509-1"
     },
     "Medtronic:R73510": {
       "alerted": true,
@@ -91340,6 +91375,13 @@
       "title": "Associate MPS",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Bengaluru-India/Associate-MPS_R568729"
     },
+    "Stryker:R568735": {
+      "alerted": false,
+      "first_seen": "2026-08-06T03:38:04.624870+00:00",
+      "location": "Sydney, Australia",
+      "title": "Site Supervisor - Communications",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Sydney-Australia/Site-Supervisor---Communications_R568735"
+    },
     "Stryker:R568740": {
       "alerted": false,
       "first_seen": "2026-07-08T15:03:35.449919+00:00",
@@ -99585,6 +99627,13 @@
       "location": "Mountain View, CA, USA; San Francisco, CA, USA",
       "title": "Staff Systems Test Engineer, Scenario Quality and Maintenance Systems",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8106385"
+    },
+    "Waymo:8107088": {
+      "alerted": true,
+      "first_seen": "2026-08-06T03:38:04.624802+00:00",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA; Kirkland, WA, USA; New York, NY, USA",
+      "title": "ML Engineer, Foundation Model Infrastructure",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8107088"
     },
     "Waymo:8109523": {
       "alerted": false,
