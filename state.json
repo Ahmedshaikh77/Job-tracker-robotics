@@ -20570,6 +20570,13 @@
       "title": "Manager, Workplace",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5156596007?gh_jid=5156596007"
     },
+    "Anduril:5156600007": {
+      "alerted": false,
+      "first_seen": "2026-08-07T16:12:05.448483+00:00",
+      "location": "Long Beach, California, United States",
+      "title": "Manager, Workplace",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5156600007?gh_jid=5156600007"
+    },
     "Anduril:5156602007": {
       "alerted": false,
       "first_seen": "2026-06-08T21:29:14.409013+00:00",
@@ -26415,6 +26422,13 @@
       "title": "Manufacturing Engineer, Fury",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5180868007?gh_jid=5180868007"
     },
+    "Anduril:5180879007": {
+      "alerted": false,
+      "first_seen": "2026-08-07T16:12:05.449906+00:00",
+      "location": "Irvine, California, United States; Remote",
+      "title": "Senior Program Manager, Asia-Pacific",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5180879007?gh_jid=5180879007"
+    },
     "Anduril:5180881007": {
       "alerted": false,
       "first_seen": "2026-07-17T16:46:25.965276+00:00",
@@ -31147,6 +31161,13 @@
       "title": "Assistant Contractor Special Security Officer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5203761007?gh_jid=5203761007"
     },
+    "Anduril:5203806007": {
+      "alerted": false,
+      "first_seen": "2026-08-07T16:12:05.449055+00:00",
+      "location": "Boston, Massachusetts, United States",
+      "title": "Manufacturing Engineer, Digital Tools",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5203806007?gh_jid=5203806007"
+    },
     "Anduril:5203808007": {
       "alerted": false,
       "first_seen": "2026-08-04T21:41:34.476703+00:00",
@@ -31181,6 +31202,13 @@
       "location": "Costa Mesa, California, United States",
       "title": "Senior Electro-Mechanical Engineer, EW",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5204131007?gh_jid=5204131007"
+    },
+    "Anduril:5204204007": {
+      "alerted": false,
+      "first_seen": "2026-08-07T16:12:05.447752+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Logistics Program Manager",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5204204007?gh_jid=5204204007"
     },
     "Anduril:5204301007": {
       "alerted": false,
@@ -31405,6 +31433,13 @@
       "location": "Costa Mesa, California, United States",
       "title": "Flight Test Engineer,  Maneuver Dominance ",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5206291007?gh_jid=5206291007"
+    },
+    "Anduril:5206527007": {
+      "alerted": false,
+      "first_seen": "2026-08-07T16:12:05.446912+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Embedded Software Engineer, Anti-Tamper",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5206527007?gh_jid=5206527007"
     },
     "Anduril:5206580007": {
       "alerted": false,
@@ -60855,6 +60890,13 @@
       "title": "District Sales Manager - Endoscopy (Mid Atlantic)",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Philadelphia-Pennsylvania-United-States-of-America/District-Sales-Manager---Endoscopy--Mid-Atlantic-_R73840-1"
     },
+    "Medtronic:R73841": {
+      "alerted": false,
+      "first_seen": "2026-08-07T16:12:05.449953+00:00",
+      "location": "2 Locations",
+      "title": "Global Supply Chain Program Manager",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Global-Supply-Chain-Program-Manager_R73841-1"
+    },
     "Medtronic:R73848": {
       "alerted": false,
       "first_seen": "2026-08-06T11:29:49.834542+00:00",
@@ -61225,6 +61267,20 @@
       "location": "Shanghai, Shanghai, China",
       "title": "Surgical-Senior Technical Sales Representative-Shanghai",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Shanghai-Shanghai-China/Surgical-Senior-Technical-Sales-Representative-Shanghai_R74244-1"
+    },
+    "Medtronic:R74253": {
+      "alerted": false,
+      "first_seen": "2026-08-07T16:12:05.449996+00:00",
+      "location": "Watford, Hertfordshire, United Kingdom",
+      "title": "Technical Service Specialist.",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Watford-Hertfordshire-United-Kingdom/Technical-Service-Specialist_R74253-1"
+    },
+    "Medtronic:R74291": {
+      "alerted": false,
+      "first_seen": "2026-08-07T16:12:05.450036+00:00",
+      "location": "Warsaw, Mazowieckie, Poland",
+      "title": "Business Center Associate",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Warsaw-Mazowieckie-Poland/Business-Center-Associate_R74291-1"
     },
     "NVIDIA:JR1968313": {
       "alerted": true,
@@ -91179,6 +91235,13 @@
       "title": "Senior Design Engineer, R&D",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Carrigtwohill-Ireland/Senior-Design-Engineer--R-D_R568186"
     },
+    "Stryker:R568188": {
+      "alerted": false,
+      "first_seen": "2026-08-07T16:12:05.446328+00:00",
+      "location": "Cork, Ireland",
+      "title": "Senior Engineer, Product Transfer",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cork-Ireland/Senior-Engineer--Product-Transfer_R568188"
+    },
     "Stryker:R568190": {
       "alerted": false,
       "first_seen": "2026-06-26T19:11:12.204961+00:00",
@@ -94973,6 +95036,13 @@
       "title": "Clinical Specialist, Joint Replacement - Columbia, MO",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Columbia-Missouri/Clinical-Specialist--Joint-Replacement---Columbia--MO_R569515"
     },
+    "Stryker:R569516": {
+      "alerted": false,
+      "first_seen": "2026-08-07T16:12:05.446208+00:00",
+      "location": "Ulloa, Costa Rica",
+      "title": "Technical Support Specialist - Digital Solutions",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Ulloa-Costa-Rica/Technical-Support-Specialist---Digital-Solutions_R569516"
+    },
     "Stryker:R569517": {
       "alerted": false,
       "first_seen": "2026-07-23T16:20:52.644899+00:00",
@@ -95925,6 +95995,13 @@
       "title": "Joint Replacement Sales Representative",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Fargo-North-Dakota/Joint-Replacement-Sales-Representative_R569893"
     },
+    "Stryker:R569894": {
+      "alerted": false,
+      "first_seen": "2026-08-07T16:12:05.446278+00:00",
+      "location": "2 Locations",
+      "title": "Clinical Specialist (Field based)",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Dallas-Texas/Clinical-Specialist--Field-based-_R569894-1"
+    },
     "Stryker:R569896": {
       "alerted": false,
       "first_seen": "2026-08-04T18:58:10.433384+00:00",
@@ -96380,6 +96457,13 @@
       "title": "Sales Representative - Birmingham, AL - Injury Prevention",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Birmingham-Alabama/Sales-Representative---Birmingham--AL---Injury-Prevention_R570179"
     },
+    "Stryker:R570183": {
+      "alerted": false,
+      "first_seen": "2026-08-07T16:12:05.446159+00:00",
+      "location": "Kalamazoo, Michigan",
+      "title": "Repair Technician - 1st Shift",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Kalamazoo-Michigan/Repair-Technician---1st-Shift_R570183"
+    },
     "Stryker:R570185": {
       "alerted": false,
       "first_seen": "2026-08-04T20:21:43.322132+00:00",
@@ -96652,6 +96736,13 @@
       "location": "Cleveland, Ohio",
       "title": "Sales Representative -Cleveland, OH- Communications",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cleveland-Ohio/Sales-Representative--Cleveland--OH--Communications_R570479"
+    },
+    "Stryker:R570485": {
+      "alerted": false,
+      "first_seen": "2026-08-07T16:12:05.446091+00:00",
+      "location": "San Antonio de Belen, Costa Rica",
+      "title": "HR project Associate (Fixed term)",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Antonio-de-Belen-Costa-Rica/HR-project-Associate--Fixed-term-_R570485"
     },
     "Stryker:R570489": {
       "alerted": false,
