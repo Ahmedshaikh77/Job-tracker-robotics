@@ -3070,6 +3070,13 @@
       "title": "Applied Scientist, Safe RL, Robotics, SAF Lab",
       "url": "https://www.amazon.jobs/en/jobs/10496287/applied-scientist-safe-rl-robotics-saf-lab"
     },
+    "Amazon:10496417": {
+      "alerted": true,
+      "first_seen": "2026-08-07T22:57:26.508272+00:00",
+      "location": "New York, New York, USA",
+      "title": "Robotics/AI Motor Control Scientist, Fauna",
+      "url": "https://www.amazon.jobs/en/jobs/10496417/robotics-ai-motor-control-scientist-fauna"
+    },
     "Anduril:4159543007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.742648+00:00",
@@ -31671,6 +31678,13 @@
       "location": "Abu Dhabi, United Arab Emirates",
       "title": "Trainer, Counter Intrusion ",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5207505007?gh_jid=5207505007"
+    },
+    "Anduril:5207557007": {
+      "alerted": false,
+      "first_seen": "2026-08-07T22:57:26.509039+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "System Engineer, Electrical Integration - Edge Compute and Communications",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5207557007?gh_jid=5207557007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -60519,6 +60533,13 @@
       "title": "Clinical Specialist, CST -  San Francisco Bay Area",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Bay-Area-California-United-States-of-America/Clinical-Specialist--CST----San-Francisco-Bay-Area_R73523-1"
     },
+    "Medtronic:R73524": {
+      "alerted": true,
+      "first_seen": "2026-08-07T22:57:26.508338+00:00",
+      "location": "Tijuana, Baja California, Mexico",
+      "title": "Manufacturing Engineer II.",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Tijuana-Baja-California-Mexico/Manufacturing-Engineer-II_R73524"
+    },
     "Medtronic:R73526": {
       "alerted": true,
       "first_seen": "2026-08-07T18:39:58.804786+00:00",
@@ -60959,6 +60980,13 @@
       "location": "Memphis, Tennessee, United States of America",
       "title": "Engineering Program Director - Americas Distribution Quality Operations",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Memphis-Tennessee-United-States-of-America/Engineering-Program-Director---Americas-Distribution-Quality-Operations_R73736"
+    },
+    "Medtronic:R73737": {
+      "alerted": false,
+      "first_seen": "2026-08-07T22:57:26.508391+00:00",
+      "location": "Fridley, Minnesota, United States of America",
+      "title": "Senior Principal Robotics & AMR Automation Platforms Engineer",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Senior-Principal-Robotics---AMR-Automation-Platforms-Engineer_R73737-1"
     },
     "Medtronic:R73743": {
       "alerted": false,
