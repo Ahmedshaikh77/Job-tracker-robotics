@@ -3049,6 +3049,13 @@
       "title": "Senior Applied Scientist",
       "url": "https://www.amazon.jobs/en/jobs/10495931/senior-applied-scientist"
     },
+    "Amazon:10496287": {
+      "alerted": false,
+      "first_seen": "2026-08-07T20:17:39.423670+00:00",
+      "location": "Pasadena, California, USA",
+      "title": "Applied Scientist, Safe RL, Robotics, SAF Lab",
+      "url": "https://www.amazon.jobs/en/jobs/10496287/applied-scientist-safe-rl-robotics-saf-lab"
+    },
     "Anduril:4159543007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.742648+00:00",
@@ -32701,6 +32708,13 @@
       "title": "Staff Software Engineer - Humanoid Controls",
       "url": "https://boards.greenhouse.io/apptronik/jobs/6135714004?gh_jid=6135714004"
     },
+    "Apptronik:6139116004": {
+      "alerted": false,
+      "first_seen": "2026-08-07T20:17:39.423586+00:00",
+      "location": "Sunnyvale, CA",
+      "title": "Senior Application Engineer - Customer Experience",
+      "url": "https://boards.greenhouse.io/apptronik/jobs/6139116004?gh_jid=6139116004"
+    },
     "Formlabs:4994162": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.732746+00:00",
@@ -57544,6 +57558,13 @@
       "title": "Principal Process Engineer, Additive Manufacturing",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Warsaw-Indiana-United-States-of-America/Principal-Process-Engineer--Additive-Manufacturing_R72441-1"
     },
+    "Medtronic:R72442": {
+      "alerted": false,
+      "first_seen": "2026-08-07T20:17:39.423941+00:00",
+      "location": "Fridley, Minnesota, United States of America",
+      "title": "Advanced Analytics Consultant - NMPH - Remote within US",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Advanced-Analytics-Consultant---NMPH---Remote-within-US_R72442-1"
+    },
     "Medtronic:R72446": {
       "alerted": false,
       "first_seen": "2026-07-24T17:09:39.832894+00:00",
@@ -62044,6 +62065,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Senior DFT Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DFT-Engineer_JR2000499"
+    },
+    "NVIDIA:JR2000528": {
+      "alerted": false,
+      "first_seen": "2026-08-07T20:17:39.423752+00:00",
+      "location": "India, Bengaluru",
+      "title": "Verification Engineer - HWPM",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Verification-Engineer---HWPM_JR2000528"
     },
     "NVIDIA:JR2000609": {
       "alerted": false,
@@ -96471,6 +96499,13 @@
       "title": "Commercial Graduate",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Newbury-United-Kingdom/Commercial-Graduate_R570027"
     },
+    "Stryker:R570032": {
+      "alerted": false,
+      "first_seen": "2026-08-07T20:17:39.423805+00:00",
+      "location": "3 Locations",
+      "title": "Associate Territory Manager, OR Renovation - Tampa, FL",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tampa-Florida/Associate-Territory-Manager--OR-Renovation---Tampa--FL_R570032"
+    },
     "Stryker:R570034": {
       "alerted": false,
       "first_seen": "2026-08-06T15:25:26.536781+00:00",
@@ -96856,6 +96891,13 @@
       "title": "OnSite Specialist - Salem, OR",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Salem-Oregon/OnSite-Specialist---Salem--OR_R570270"
     },
+    "Stryker:R570273": {
+      "alerted": false,
+      "first_seen": "2026-08-07T20:17:39.423851+00:00",
+      "location": "Arlington, Tennessee",
+      "title": "Machinist II - 1st Shift - $26.00/hr",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Arlington-Tennessee/Machinist-II---1st-Shift----2600-hr_R570273"
+    },
     "Stryker:R570289": {
       "alerted": false,
       "first_seen": "2026-08-05T21:11:00.054282+00:00",
@@ -97149,6 +97191,13 @@
       "location": "Chicago, Illinois",
       "title": "Field Clinical Specialist - Chicago/Chicago Suburbs, IL - Peripheral Vascular",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Chicago-Illinois/Field-Clinical-Specialist---Chicago-Chicago-Suburbs--IL---Peripheral-Vascular_R570826"
+    },
+    "Stryker:R570832": {
+      "alerted": false,
+      "first_seen": "2026-08-07T20:17:39.423893+00:00",
+      "location": "Flower Mound, Texas",
+      "title": "Staff Quality Engineer, Post Market",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Flower-Mound-Texas/Staff-Quality-Engineer--Post-Market_R570832-1"
     },
     "Stryker:R570868": {
       "alerted": false,
