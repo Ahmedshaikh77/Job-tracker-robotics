@@ -3035,6 +3035,13 @@
       "title": "Robot Embedded Senior Software Engineer",
       "url": "https://www.amazon.jobs/en/jobs/10495361/robot-embedded-senior-software-engineer"
     },
+    "Amazon:10495931": {
+      "alerted": false,
+      "first_seen": "2026-08-07T15:23:10.946759+00:00",
+      "location": "North Reading, Massachusetts, USA",
+      "title": "Senior Applied Scientist",
+      "url": "https://www.amazon.jobs/en/jobs/10495931/senior-applied-scientist"
+    },
     "Anduril:4159543007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.742648+00:00",
@@ -29663,6 +29670,20 @@
       "title": "Production Program Manager, Sentry Deployments",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5197221007?gh_jid=5197221007"
     },
+    "Anduril:5197253007": {
+      "alerted": false,
+      "first_seen": "2026-08-07T15:23:10.947824+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Applied LLM Systems Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5197253007?gh_jid=5197253007"
+    },
+    "Anduril:5197256007": {
+      "alerted": false,
+      "first_seen": "2026-08-07T15:23:10.955794+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Technical Publications Operations Manager",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5197256007?gh_jid=5197256007"
+    },
     "Anduril:5197266007": {
       "alerted": false,
       "first_seen": "2026-07-28T18:19:17.352613+00:00",
@@ -31350,6 +31371,13 @@
       "title": "Production Test Specialist, Barracuda",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5205902007?gh_jid=5205902007"
     },
+    "Anduril:5205961007": {
+      "alerted": false,
+      "first_seen": "2026-08-07T15:23:10.954226+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Product Sourcing Engineer ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5205961007?gh_jid=5205961007"
+    },
     "Anduril:5205977007": {
       "alerted": false,
       "first_seen": "2026-08-07T00:27:36.168128+00:00",
@@ -31405,6 +31433,55 @@
       "location": "Sydney, New South Wales, Australia",
       "title": "Mechanical Design Engineer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5206637007?gh_jid=5206637007"
+    },
+    "Anduril:5206844007": {
+      "alerted": false,
+      "first_seen": "2026-08-07T15:23:10.950829+00:00",
+      "location": "Waltham, Massachusetts, United States",
+      "title": "Material Planner",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5206844007?gh_jid=5206844007"
+    },
+    "Anduril:5206851007": {
+      "alerted": false,
+      "first_seen": "2026-08-07T15:23:10.955125+00:00",
+      "location": "Waltham, Massachusetts, United States",
+      "title": "Supply Planner",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5206851007?gh_jid=5206851007"
+    },
+    "Anduril:5206855007": {
+      "alerted": false,
+      "first_seen": "2026-08-07T15:23:10.951653+00:00",
+      "location": "Lexington, Massachusetts, United States",
+      "title": "Mechanical Designer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5206855007?gh_jid=5206855007"
+    },
+    "Anduril:5206862007": {
+      "alerted": false,
+      "first_seen": "2026-08-07T15:23:10.948694+00:00",
+      "location": "Lexington, Massachusetts, United States",
+      "title": "Electrical Hardware Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5206862007?gh_jid=5206862007"
+    },
+    "Anduril:5206872007": {
+      "alerted": false,
+      "first_seen": "2026-08-07T15:23:10.953440+00:00",
+      "location": "Boulder, Colorado, United States",
+      "title": "Senior Electrical Systems Engineer, Space ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5206872007?gh_jid=5206872007"
+    },
+    "Anduril:5206874007": {
+      "alerted": false,
+      "first_seen": "2026-08-07T15:23:10.952559+00:00",
+      "location": "Lexington, Massachusetts, United States",
+      "title": "Senior Electrical Systems Engineer, Space",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5206874007?gh_jid=5206874007"
+    },
+    "Anduril:5206877007": {
+      "alerted": false,
+      "first_seen": "2026-08-07T15:23:10.949680+00:00",
+      "location": "Lexington, Massachusetts, United States",
+      "title": "Manufacturing Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5206877007?gh_jid=5206877007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -32413,6 +32490,13 @@
       "location": "Austin, TX",
       "title": "Building / FacilitiesTechnician",
       "url": "https://boards.greenhouse.io/apptronik/jobs/6121724004?gh_jid=6121724004"
+    },
+    "Apptronik:6123030004": {
+      "alerted": false,
+      "first_seen": "2026-08-07T15:23:10.946636+00:00",
+      "location": "Mountain View, California",
+      "title": "Workplace Experience Manager",
+      "url": "https://boards.greenhouse.io/apptronik/jobs/6123030004?gh_jid=6123030004"
     },
     "Apptronik:6126593004": {
       "alerted": false,
@@ -60253,6 +60337,13 @@
       "title": "Customer Service Representative with Italian",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Warsaw-Mazowieckie-Poland/Customer-Service-Representative-with-Italian_R73579"
     },
+    "Medtronic:R73581": {
+      "alerted": false,
+      "first_seen": "2026-08-07T15:23:10.955838+00:00",
+      "location": "Grand Rapids, Michigan, United States of America",
+      "title": "Calibration/Metrology Tech I",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Grand-Rapids-Michigan-United-States-of-America/Calibration-Metrology-Tech-I_R73581-1"
+    },
     "Medtronic:R73595": {
       "alerted": false,
       "first_seen": "2026-08-04T15:43:31.310053+00:00",
@@ -79531,6 +79622,13 @@
       "title": "Senior Solutions Architect, Media and Broadcasting",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Solutions-Architect--Media-and-Broadcasting_JR2022644"
     },
+    "NVIDIA:JR2022648": {
+      "alerted": false,
+      "first_seen": "2026-08-07T15:23:10.946836+00:00",
+      "location": "India, Bengaluru",
+      "title": "Senior Memory Subsystem Architect",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Memory-Subsystem-Architect_JR2022648"
+    },
     "NVIDIA:JR2022660": {
       "alerted": false,
       "first_seen": "2026-08-07T00:27:36.151345+00:00",
@@ -79579,6 +79677,13 @@
       "location": "China, Shanghai",
       "title": "Senior Design Verification Engineer - Interconnect IP",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-Design-Verification-Engineer---Interconnect-IP_JR2022679"
+    },
+    "NVIDIA:JR2022682": {
+      "alerted": false,
+      "first_seen": "2026-08-07T15:23:10.946910+00:00",
+      "location": "India, Bengaluru",
+      "title": "System Software Engineer, GPU Development Tools",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/System-Software-Engineer--GPU-Development-Tools_JR2022682"
     },
     "NVIDIA:JR2022687": {
       "alerted": false,
