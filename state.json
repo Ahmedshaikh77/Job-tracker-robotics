@@ -78796,6 +78796,13 @@
       "title": "Senior Systems Software Engineer, Developer Productivity and Cloud Automation - GeForce NOW",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Pune/Senior-Systems-Software-Engineer--Developer-Productivity-and-Cloud-Automation---GeForce-NOW_JR2021957"
     },
+    "NVIDIA:JR2021961": {
+      "alerted": false,
+      "first_seen": "2026-08-07T23:28:32.492119+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Product Marketing Manager - Enterprise AI",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Marketing-Manager---Enterprise-AI_JR2021961"
+    },
     "NVIDIA:JR2021962": {
       "alerted": false,
       "first_seen": "2026-07-27T08:16:45.062771+00:00",
@@ -80182,6 +80189,13 @@
       "title": "Senior Machine Learning Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Machine-Learning-Engineer_JR2022719"
     },
+    "NVIDIA:JR2022720": {
+      "alerted": false,
+      "first_seen": "2026-08-07T23:28:32.492250+00:00",
+      "location": "US, AR, Remote",
+      "title": "Senior Account Manager Lead, Walmart",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-AR-Remote/Senior-Account-Manager-Lead--Walmart_JR2022720"
+    },
     "NVIDIA:JR2022724": {
       "alerted": false,
       "first_seen": "2026-08-05T19:59:52.372061+00:00",
@@ -80216,6 +80230,13 @@
       "location": "US, TX, Austin",
       "title": "Tech Lead Ethernet Networking Verification Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Tech-Lead-Ethernet-Networking-Verification-Engineer_JR2022745"
+    },
+    "NVIDIA:JR2022757": {
+      "alerted": false,
+      "first_seen": "2026-08-07T23:28:32.491960+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Manager, Performance Engineering \u2013 Kernel and Software Platforms",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--Performance-Engineering---Kernel-and-Software-Platforms_JR2022757"
     },
     "NVIDIA:JR2022759": {
       "alerted": false,
@@ -80301,6 +80322,13 @@
       "title": "Software Engineer, CUDA Deep Learning Systems",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--CUDA-Deep-Learning-Systems_JR2022831"
     },
+    "NVIDIA:JR2022837": {
+      "alerted": false,
+      "first_seen": "2026-08-07T23:28:32.492161+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior GPU System Software Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-GPU-System-Software-Engineer_JR2022837"
+    },
     "NVIDIA:JR2022839": {
       "alerted": false,
       "first_seen": "2026-08-07T00:27:36.151718+00:00",
@@ -80385,6 +80413,13 @@
       "title": "Principal Engineer, Cloud Site Reliability Engineering",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Engineer--Cloud-Site-Reliability-Engineering_JR2022907-1"
     },
+    "NVIDIA:JR2022908": {
+      "alerted": false,
+      "first_seen": "2026-08-07T23:28:32.492076+00:00",
+      "location": "6 Locations",
+      "title": "Senior Solution Engineer, Networking",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Solution-Engineer--Networking_JR2022908"
+    },
     "NVIDIA:JR2022910": {
       "alerted": false,
       "first_seen": "2026-08-07T00:27:36.151761+00:00",
@@ -80412,6 +80447,27 @@
       "location": "2 Locations",
       "title": "Principal Product Manager - DSX OS",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Product-Manager---DSX-OS_JR2022934"
+    },
+    "NVIDIA:JR2022948": {
+      "alerted": false,
+      "first_seen": "2026-08-07T23:28:32.492033+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Embedded System Software Engineer \u2013 Platform Execution Lead",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Embedded-System-Software-Engineer---Platform-Execution-Lead_JR2022948-1"
+    },
+    "NVIDIA:JR2022966": {
+      "alerted": false,
+      "first_seen": "2026-08-07T23:28:32.492210+00:00",
+      "location": "2 Locations",
+      "title": "Senior Software Engineer, Unified Access Management Platform",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Unified-Access-Management-Platform_JR2022966"
+    },
+    "NVIDIA:JR2022992": {
+      "alerted": false,
+      "first_seen": "2026-08-07T23:28:32.491899+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Mixed Signal Design Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Mixed-Signal-Design-Engineer_JR2022992-1"
     },
     "NVIDIA:JR2023036": {
       "alerted": false,
@@ -101930,6 +101986,20 @@
       "location": "Mountain View, CA, USA",
       "title": "Structured Testing Vendor Engineering Lead",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8113098"
+    },
+    "Waymo:8113176": {
+      "alerted": false,
+      "first_seen": "2026-08-07T23:28:32.491383+00:00",
+      "location": "Mountain View, CA, USA ; New York City, NY, USA ; Kirkland, WA, USA ; San Francisco, CA, USA",
+      "title": "Senior ML Engineer, Perception Research",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8113176"
+    },
+    "Waymo:8113233": {
+      "alerted": false,
+      "first_seen": "2026-08-07T23:28:32.491851+00:00",
+      "location": "Mountain View, CA, USA ; New York City, NY, USA ; Kirkland, WA, USA ; San Francisco, CA, USA",
+      "title": "Staff ML Engineer, Perception Research",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8113233"
     }
   }
 }
