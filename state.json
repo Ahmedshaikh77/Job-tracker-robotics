@@ -718,6 +718,13 @@
       "title": "Master Production Scheduler",
       "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6139191004"
     },
+    "Agility Robotics:6139701004": {
+      "alerted": false,
+      "first_seen": "2026-08-10T22:49:22.727421+00:00",
+      "location": "Onsite- Salem, OR",
+      "title": "Senior Assembly Technician I",
+      "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6139701004"
+    },
     "Agility Robotics:6139707004": {
       "alerted": false,
       "first_seen": "2026-08-10T20:42:43.868595+00:00",
@@ -31658,6 +31665,13 @@
       "title": "Mechanical Maintenance Technician",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5206617007?gh_jid=5206617007"
     },
+    "Anduril:5206628007": {
+      "alerted": false,
+      "first_seen": "2026-08-10T22:49:22.729583+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Lead Electrical Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5206628007?gh_jid=5206628007"
+    },
     "Anduril:5206637007": {
       "alerted": false,
       "first_seen": "2026-08-07T06:16:15.751476+00:00",
@@ -31783,6 +31797,13 @@
       "location": "Costa Mesa, California, United States",
       "title": "Senior Manager, Inventory Operations",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5207647007?gh_jid=5207647007"
+    },
+    "Anduril:5207653007": {
+      "alerted": false,
+      "first_seen": "2026-08-10T22:49:22.730544+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Product Manager, Salesforce (Government Cloud CRM)",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5207653007?gh_jid=5207653007"
     },
     "Anduril:5207725007": {
       "alerted": false,
@@ -36781,6 +36802,13 @@
       "location": "Somerville, MA",
       "title": "Director of Embedded Systems",
       "url": "https://careers.formlabs.com/job/8112161/apply/?gh_jid=8112161"
+    },
+    "Formlabs:8112196": {
+      "alerted": false,
+      "first_seen": "2026-08-10T22:49:22.727991+00:00",
+      "location": "Somerville, MA",
+      "title": "Materials Program Manager",
+      "url": "https://careers.formlabs.com/job/8112196/apply/?gh_jid=8112196"
     },
     "Formlabs:8112521": {
       "alerted": false,
@@ -61828,6 +61856,13 @@
       "title": "Principal Financial Analyst",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Principal-Financial-Analyst_R73954-1"
     },
+    "Medtronic:R73955": {
+      "alerted": false,
+      "first_seen": "2026-08-10T22:49:22.728527+00:00",
+      "location": "Tijuana, Baja California, Mexico",
+      "title": "Manufacturing Supervisor C (OXYSOFT)",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Tijuana-Baja-California-Mexico/Manufacturing-Supervisor-C--OXYSOFT-_R73955-2"
+    },
     "Medtronic:R73959": {
       "alerted": false,
       "first_seen": "2026-08-06T15:25:26.537353+00:00",
@@ -61862,6 +61897,13 @@
       "location": "Salt Lake City, Utah, United States of America",
       "title": "Sales Representative I, Spine - Salt Lake City, UT",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Salt-Lake-City-Utah-United-States-of-America/Sales-Representative-I--Spine---Salt-Lake-City--UT_R73992-1"
+    },
+    "Medtronic:R73995": {
+      "alerted": false,
+      "first_seen": "2026-08-10T22:49:22.728373+00:00",
+      "location": "Irvine, California, United States of America",
+      "title": "Senior Technical Supervisor- 1st Shift",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Irvine-California-United-States-of-America/Senior-Technical-Supervisor--1st-Shift_R73995-1"
     },
     "Medtronic:R74002": {
       "alerted": false,
@@ -62290,12 +62332,26 @@
       "title": "EP Mapping Specialist, CAS- Binghamton, NY",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Binghamton-New-York-United-States-of-America/EP-Mapping-Specialist--CAS--Binghamton--NY_R74383"
     },
+    "Medtronic:R74417": {
+      "alerted": false,
+      "first_seen": "2026-08-10T22:49:22.728301+00:00",
+      "location": "Tijuana, Baja California, Mexico",
+      "title": "ANALISTA DE IMPORT/EXPORT",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Tijuana-Baja-California-Mexico/ANALISTA-DE-IMPORT-EXPORT_R74417-1"
+    },
     "Medtronic:R74422": {
       "alerted": false,
       "first_seen": "2026-08-10T20:42:43.869576+00:00",
       "location": "Houston, Texas, United States of America",
       "title": "Principal Sales Rep, CAS - Houston, TX",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Houston-Texas-United-States-of-America/Principal-Sales-Rep--CAS---Houston--TX_R74422-1"
+    },
+    "Medtronic:R74424": {
+      "alerted": false,
+      "first_seen": "2026-08-10T22:49:22.728455+00:00",
+      "location": "Lafayette, Colorado, United States of America",
+      "title": "Principal Human Factors Design Eng - AiBLE Validation",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Principal-Human-Factors-Design-Eng---AiBLE-Validation_R74424-1"
     },
     "NVIDIA:JR1968313": {
       "alerted": true,
@@ -81176,6 +81232,13 @@
       "title": "Manager, Solutions Architecture - AI Labs",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--Solutions-Architecture---AI-Labs_JR2022765"
     },
+    "NVIDIA:JR2022766": {
+      "alerted": false,
+      "first_seen": "2026-08-10T22:49:22.728235+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Chip Engineering Operations Program Manager",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Chip-Engineering-Operations-Program-Manager_JR2022766"
+    },
     "NVIDIA:JR2022782": {
       "alerted": false,
       "first_seen": "2026-08-04T01:08:44.974465+00:00",
@@ -97353,6 +97416,13 @@
       "title": "Arterial Account Manager - Chicago, IL - Peripheral Vascular",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Chicago-Illinois/Arterial-Account-Manager---Chicago--IL---Peripheral-Vascular_R569797"
     },
+    "Stryker:R569798": {
+      "alerted": false,
+      "first_seen": "2026-08-10T22:49:22.728085+00:00",
+      "location": "Mahwah, New Jersey",
+      "title": "Portfolio Associate - Hybrid",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Mahwah-New-Jersey/Portfolio-Associate---Hybrid_R569798"
+    },
     "Stryker:R569799": {
       "alerted": false,
       "first_seen": "2026-07-24T17:09:39.832639+00:00",
@@ -98332,6 +98402,13 @@
       "location": "Tijuana, Mexico",
       "title": "Assembler",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tijuana-Mexico/Assembler_R570295"
+    },
+    "Stryker:R570296": {
+      "alerted": false,
+      "first_seen": "2026-08-10T22:49:22.728159+00:00",
+      "location": "Portage, Michigan",
+      "title": "Staff Advanced Quality Engineer",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Staff-Advanced-Quality-Engineer_R570296"
     },
     "Stryker:R570302": {
       "alerted": false,
