@@ -3098,6 +3098,13 @@
       "title": "Embedded Software Engineer II, Autonomy Platform, Data and Tools",
       "url": "https://www.amazon.jobs/en/jobs/10497369/embedded-software-engineer-ii-autonomy-platform-data-and-tools"
     },
+    "Amazon:10497796": {
+      "alerted": false,
+      "first_seen": "2026-08-10T19:59:43.316305+00:00",
+      "location": "San Francisco, California, USA",
+      "title": "Prototyping Architect (Physical AI), AWS Prototyping and AI Customer Engineering (PACE)",
+      "url": "https://www.amazon.jobs/en/jobs/10497796/prototyping-architect-physical-ai-aws-prototyping-and-ai-customer-engineering-pace"
+    },
     "Anduril:4159543007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.742648+00:00",
@@ -64138,6 +64145,13 @@
       "title": "Senior Software QA Test Development Engineer - Diagnostics",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-QA-Test-Development-Engineer---Diagnostics_JR2011118"
     },
+    "NVIDIA:JR2011122": {
+      "alerted": false,
+      "first_seen": "2026-08-10T19:59:43.316703+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Software Development Engineer in Test - Datacenter Server OS",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Development-Engineer-in-Test---Datacenter-Server-OS_JR2011122"
+    },
     "NVIDIA:JR2011154": {
       "alerted": false,
       "first_seen": "2026-05-28T23:43:50.801641+00:00",
@@ -66615,6 +66629,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Senior Manager, Software Engineering - Agentic Automation",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--Software-Engineering---Agentic-Automation_JR2015817"
+    },
+    "NVIDIA:JR2015837": {
+      "alerted": false,
+      "first_seen": "2026-08-10T19:59:43.316650+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Director - GenAI Data Strategy",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Director---GenAI-Data-Strategy_JR2015837"
     },
     "NVIDIA:JR2015843": {
       "alerted": false,
@@ -78663,6 +78684,13 @@
       "title": "Package Design Methodology Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Package-Design-Methodology-Engineer_JR2021653"
     },
+    "NVIDIA:JR2021654": {
+      "alerted": true,
+      "first_seen": "2026-08-10T19:59:43.316828+00:00",
+      "location": "US, TX, Remote",
+      "title": "Service Reliability Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Remote/Service-Reliability-Engineer_JR2021654-1"
+    },
     "NVIDIA:JR2021656": {
       "alerted": false,
       "first_seen": "2026-07-20T14:26:48.508537+00:00",
@@ -81134,6 +81162,13 @@
       "title": "Software Engineer, CUDA Deep Learning Systems",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--CUDA-Deep-Learning-Systems_JR2022831"
     },
+    "NVIDIA:JR2022834": {
+      "alerted": false,
+      "first_seen": "2026-08-10T19:59:43.316866+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Firmware Engineer - GPU",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Firmware-Engineer---GPU_JR2022834"
+    },
     "NVIDIA:JR2022835": {
       "alerted": false,
       "first_seen": "2026-08-10T06:55:31.044101+00:00",
@@ -81302,6 +81337,13 @@
       "title": "Senior Embedded System Software Engineer \u2013 Platform Execution Lead",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Embedded-System-Software-Engineer---Platform-Execution-Lead_JR2022948-1"
     },
+    "NVIDIA:JR2022959": {
+      "alerted": false,
+      "first_seen": "2026-08-10T19:59:43.316750+00:00",
+      "location": "4 Locations",
+      "title": "Senior System Software Engineer - Simulation Software",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---Simulation-Software_JR2022959"
+    },
     "NVIDIA:JR2022966": {
       "alerted": false,
       "first_seen": "2026-08-07T23:28:32.492210+00:00",
@@ -81343,6 +81385,13 @@
       "location": "2 Locations",
       "title": "Senior System Software Engineer, Automotive Performance",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer--Automotive-Performance_JR2023036"
+    },
+    "NVIDIA:JR2023052": {
+      "alerted": false,
+      "first_seen": "2026-08-10T19:59:43.316790+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Security Software Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Security-Software-Engineer_JR2023052"
     },
     "NVIDIA:JR2023056": {
       "alerted": false,
@@ -94385,6 +94434,13 @@
       "title": "Staff Product Safety Engineer",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Staff-Product-Safety-Engineer_R568777"
     },
+    "Stryker:R568779": {
+      "alerted": false,
+      "first_seen": "2026-08-10T19:59:43.316514+00:00",
+      "location": "Washington, Redmond 11811 Willows Rd Ne",
+      "title": "Director, Research",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Washington-Redmond-11811-Willows-Rd-Ne/Director--Research_R568779"
+    },
     "Stryker:R568782": {
       "alerted": false,
       "first_seen": "2026-07-22T20:47:28.780191+00:00",
@@ -98186,6 +98242,13 @@
       "title": "Staff Engineer Advanced Operations",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cork-Ireland/Staff-Engineer-Advanced-Operations_R570326"
     },
+    "Stryker:R570331": {
+      "alerted": false,
+      "first_seen": "2026-08-10T19:59:43.316556+00:00",
+      "location": "Fort Lauderdale, Florida",
+      "title": "Senior Coordinator Logistics",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Fort-Lauderdale-Florida/Senior-Coordinator-Logistics_R570331"
+    },
     "Stryker:R570346": {
       "alerted": false,
       "first_seen": "2026-08-04T21:41:34.477584+00:00",
@@ -98213,6 +98276,13 @@
       "location": "Kalamazoo, Michigan",
       "title": "Service Material Handler II - $22.10\\hr",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Kalamazoo-Michigan/Service-Material-Handler-II----2210-hr_R570378"
+    },
+    "Stryker:R570386": {
+      "alerted": false,
+      "first_seen": "2026-08-10T19:59:43.316438+00:00",
+      "location": "5 Locations",
+      "title": "Associate Technical Instructor (Remote)",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Denver-Colorado/Associate-Technical-Instructor--Remote-_R570386-1"
     },
     "Stryker:R570387": {
       "alerted": false,
@@ -98501,6 +98571,13 @@
       "title": "Arterial Account Manager - Utah - Peripheral Vascular",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Salt-Lake-City-Utah/Arterial-Account-Manager---Utah---Peripheral-Vascular_R570720"
     },
+    "Stryker:R570730": {
+      "alerted": false,
+      "first_seen": "2026-08-10T19:59:43.316607+00:00",
+      "location": "6 Locations",
+      "title": "Associate Sales Representative - Minneapolis. MN - Patient Care",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Minneapolis-Minnesota/Associate-Sales-Representative---Minneapolis-MN---Patient-Care_R570730"
+    },
     "Stryker:R570735": {
       "alerted": false,
       "first_seen": "2026-08-07T00:27:36.149903+00:00",
@@ -98570,6 +98647,13 @@
       "location": "4 Locations",
       "title": "Looking for a career change? Retail to Customer Service.",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Sydney-Australia/Looking-for-a-career-change--Retail-to-Customer-Service_R571033"
+    },
+    "Stryker:R571074": {
+      "alerted": false,
+      "first_seen": "2026-08-10T19:59:43.316391+00:00",
+      "location": "San Antonio, Texas",
+      "title": "Associate Field Service Technician - San Antonio, TX - Transport",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Antonio-Texas/Associate-Field-Service-Technician---San-Antonio--TX---Transport_R571074"
     },
     "Waymo:6367980": {
       "alerted": false,
