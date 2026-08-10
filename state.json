@@ -31798,6 +31798,13 @@
       "title": "Senior Logistics Coordinator",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5207744007?gh_jid=5207744007"
     },
+    "Anduril:5207955007": {
+      "alerted": false,
+      "first_seen": "2026-08-10T15:39:50.997980+00:00",
+      "location": "Hudson, New Hampshire, United States",
+      "title": "Director of Production - IDCA",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5207955007?gh_jid=5207955007"
+    },
     "Apptronik:5572958004": {
       "alerted": false,
       "first_seen": "2026-06-08T14:54:52.580418+00:00",
@@ -56326,6 +56333,13 @@
       "title": "Principal Supplier Quality Engineer",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Brooklyn-Park-Minnesota-United-States-of-America/Principal-Supplier-Quality-Engineer_R71943-1"
     },
+    "Medtronic:R71945": {
+      "alerted": false,
+      "first_seen": "2026-08-10T15:39:50.998025+00:00",
+      "location": "Mounds View, Minnesota, United States of America",
+      "title": "Principal Reliability Engineer",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Principal-Reliability-Engineer_R71945-1"
+    },
     "Medtronic:R71947": {
       "alerted": false,
       "first_seen": "2026-07-13T04:45:03.288881+00:00",
@@ -61765,6 +61779,13 @@
       "title": "Sales Representative",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Jakarta-Jakarta-Indonesia/Sales-Representative_R74137-1"
     },
+    "Medtronic:R74148": {
+      "alerted": false,
+      "first_seen": "2026-08-10T15:39:50.998059+00:00",
+      "location": "Fridley, Minnesota, United States of America",
+      "title": "Technician I",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Technician-I_R74148-1"
+    },
     "Medtronic:R74154": {
       "alerted": false,
       "first_seen": "2026-08-07T09:37:19.013107+00:00",
@@ -61778,6 +61799,13 @@
       "location": "Calgary, Alberta, Canada",
       "title": "Sales Representative I - Surgical Innovations",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Calgary-Alberta-Canada/Sales-Representative-I---Surgical-Innovations_R74157"
+    },
+    "Medtronic:R74158": {
+      "alerted": false,
+      "first_seen": "2026-08-10T15:39:50.998113+00:00",
+      "location": "2 Locations",
+      "title": "Facilities Program Manager.",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Villalba-Puerto-Rico-United-States-of-America/Facilities-Program-Manager_R74158-1"
     },
     "Medtronic:R74160": {
       "alerted": false,
@@ -92306,6 +92334,13 @@
       "title": "Field Service Engineer",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Perth-Australia/Field-Service-Engineer_R568229"
     },
+    "Stryker:R568231": {
+      "alerted": false,
+      "first_seen": "2026-08-10T15:39:50.997043+00:00",
+      "location": "5 Locations",
+      "title": "Marketing Manager: Neurovascular France (H/F)",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Pusignan-France/Marketing-Manager--Neurovascular-France--H-F-_R568231"
+    },
     "Stryker:R568232": {
       "alerted": false,
       "first_seen": "2026-07-22T14:24:55.841519+00:00",
@@ -94237,6 +94272,13 @@
       "location": "Flower Mound, Texas",
       "title": "Lead Accountant - Hybrid",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Flower-Mound-Texas/Lead-Accountant---Hybrid_R568868"
+    },
+    "Stryker:R568870": {
+      "alerted": false,
+      "first_seen": "2026-08-10T15:39:50.997215+00:00",
+      "location": "Amsterdam, Netherlands",
+      "title": "Lead Specialist HR Operations, Benefits Admin",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Amsterdam-Netherlands/Lead-Specialist-HR-Operations--Benefits-Admin_R568870"
     },
     "Stryker:R568871": {
       "alerted": false,
@@ -97339,6 +97381,13 @@
       "title": "Conseiller Commercial Junior Endoscopie (h/f) Marseille Nice",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Marseille-France/Conseiller-Commercial-Junior-Endoscopie--h-f--Marseille-Nice_R570050"
     },
+    "Stryker:R570072": {
+      "alerted": false,
+      "first_seen": "2026-08-10T15:39:50.996880+00:00",
+      "location": "Baltimore, Maryland",
+      "title": "Associate Sales Representative - Baltimore - Peripheral Vascular",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Baltimore-Maryland/Associate-Sales-Representative---Baltimore---Peripheral-Vascular_R570072"
+    },
     "Stryker:R570076": {
       "alerted": false,
       "first_seen": "2026-08-03T19:49:31.205664+00:00",
@@ -97871,6 +97920,13 @@
       "title": "Manager, Joint Replacement Sales - Columbus, OH",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Columbus-Ohio/Manager--Joint-Replacement-Sales---Columbus--OH_R570489"
     },
+    "Stryker:R570492": {
+      "alerted": false,
+      "first_seen": "2026-08-10T15:39:50.997167+00:00",
+      "location": "Minneapolis, Minnesota",
+      "title": "Associate Sales Representative - Minneapolis, MN - Injury/Infection Prevention",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Minneapolis-Minnesota/Associate-Sales-Representative---Minneapolis--MN---Injury-Infection-Prevention_R570492"
+    },
     "Stryker:R570493": {
       "alerted": false,
       "first_seen": "2026-08-06T15:25:26.536738+00:00",
@@ -97919,6 +97975,13 @@
       "location": "Tijuana, Mexico",
       "title": "Assembler",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tijuana-Mexico/Assembler_R570532"
+    },
+    "Stryker:R570584": {
+      "alerted": false,
+      "first_seen": "2026-08-10T15:39:50.996946+00:00",
+      "location": "Amsterdam, Netherlands",
+      "title": "Human Resources Intern",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Amsterdam-Netherlands/Human-Resources-Intern_R570584"
     },
     "Stryker:R570585": {
       "alerted": false,
@@ -98004,6 +98067,13 @@
       "title": "assembler I",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Grecia-Costa-Rica/assembler-I_R570735"
     },
+    "Stryker:R570773": {
+      "alerted": false,
+      "first_seen": "2026-08-10T15:39:50.997091+00:00",
+      "location": "Tucson, Arizona",
+      "title": "Sales Representative - Tucson - Orthopaedic Instruments",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tucson-Arizona/Sales-Representative---Tucson---Orthopaedic-Instruments_R570773"
+    },
     "Stryker:R570826": {
       "alerted": false,
       "first_seen": "2026-08-07T00:27:36.150312+00:00",
@@ -98031,6 +98101,13 @@
       "location": "Grecia, Costa Rica",
       "title": "Assembler I",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Grecia-Costa-Rica/Assembler-I_R570871"
+    },
+    "Stryker:R570984": {
+      "alerted": false,
+      "first_seen": "2026-08-10T15:39:50.996997+00:00",
+      "location": "3 Locations",
+      "title": "Sales Representative - Denver - Orthopaedic Instruments",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Denver-Colorado/Sales-Representative---Denver---Orthopaedic-Instruments_R570984"
     },
     "Stryker:R571033": {
       "alerted": false,
