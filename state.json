@@ -36684,6 +36684,13 @@
       "title": "NPI Program Manager",
       "url": "https://careers.formlabs.com/job/8119195/apply/?gh_jid=8119195"
     },
+    "Formlabs:8119291": {
+      "alerted": false,
+      "first_seen": "2026-08-10T13:52:42.083168+00:00",
+      "location": "Billerica, Massachusetts",
+      "title": "Marketing Manager, Form Now ",
+      "url": "https://careers.formlabs.com/job/8119291/apply/?gh_jid=8119291"
+    },
     "Medtronic:R26267": {
       "alerted": false,
       "first_seen": "2026-06-30T11:19:30.260637+00:00",
@@ -61163,6 +61170,13 @@
       "title": "Senior Principal Robotics & AMR Automation Platforms Engineer",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Senior-Principal-Robotics---AMR-Automation-Platforms-Engineer_R73737-1"
     },
+    "Medtronic:R73742": {
+      "alerted": true,
+      "first_seen": "2026-08-10T13:52:42.083363+00:00",
+      "location": "Lafayette, Colorado, United States of America",
+      "title": "Systems Engineer II: Medical Device Product Devepment",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Systems-Engineer-II--Medical-Device-Product-Devepment_R73742-1"
+    },
     "Medtronic:R73743": {
       "alerted": false,
       "first_seen": "2026-08-03T18:04:36.815667+00:00",
@@ -61414,6 +61428,13 @@
       "location": "Bogot\u00e1, Bogota, Colombia",
       "title": "Especialista clinico Asociado",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Bogot-Bogota-Colombia/Especialista-clinico-Asociado_R73860-1"
+    },
+    "Medtronic:R73863": {
+      "alerted": false,
+      "first_seen": "2026-08-10T13:52:42.083317+00:00",
+      "location": "Minneapolis, Minnesota, United States of America",
+      "title": "Principal Financial Analyst",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Principal-Financial-Analyst_R73863-1"
     },
     "Medtronic:R73865": {
       "alerted": false,
@@ -80930,6 +80951,20 @@
       "location": "US, CA, Santa Clara",
       "title": "Senior Mixed Signal Design Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Mixed-Signal-Design-Engineer_JR2022992-1"
+    },
+    "NVIDIA:JR2023023": {
+      "alerted": false,
+      "first_seen": "2026-08-10T13:52:42.083278+00:00",
+      "location": "3 Locations",
+      "title": "Senior Network Solution Architect",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Czechia-Remote/Senior-Network-Solution-Architect_JR2023023"
+    },
+    "NVIDIA:JR2023024": {
+      "alerted": false,
+      "first_seen": "2026-08-10T13:52:42.083236+00:00",
+      "location": "3 Locations",
+      "title": "Senior Network Solution Architect",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Cambridge/Senior-Network-Solution-Architect_JR2023024"
     },
     "NVIDIA:JR2023036": {
       "alerted": false,
