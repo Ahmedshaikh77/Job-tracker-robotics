@@ -10,11 +10,6 @@
       "last_error": "Covariant (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/covariant/jobs?content=true",
       "last_failed_at": "2026-05-28T22:16:18.588190+00:00"
     },
-    "Formlabs": {
-      "count": 1,
-      "last_error": "Formlabs (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
-      "last_failed_at": "2026-08-11T14:56:26.814342+00:00"
-    },
     "Shield AI": {
       "count": 6,
       "last_error": "Shield AI (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/shieldai/jobs?content=true",
@@ -29836,6 +29831,13 @@
       "title": "Production Program Manager, Sentry Deployments",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5197221007?gh_jid=5197221007"
     },
+    "Anduril:5197252007": {
+      "alerted": false,
+      "first_seen": "2026-08-11T15:52:19.240339+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Technical Publications Program Analyst",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5197252007?gh_jid=5197252007"
+    },
     "Anduril:5197253007": {
       "alerted": false,
       "first_seen": "2026-08-07T15:23:10.947824+00:00",
@@ -30200,6 +30202,13 @@
       "title": "Optomechanical Assembly Technician",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5198453007?gh_jid=5198453007"
     },
+    "Anduril:5198610007": {
+      "alerted": false,
+      "first_seen": "2026-08-11T15:52:19.230225+00:00",
+      "location": "Ashville, Ohio, United States",
+      "title": "Low Observables Technician",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5198610007?gh_jid=5198610007"
+    },
     "Anduril:5198612007": {
       "alerted": false,
       "first_seen": "2026-07-30T21:34:04.955760+00:00",
@@ -30437,6 +30446,13 @@
       "location": "Boulder, Colorado, United States",
       "title": "Sr. Realtime Software Engineer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5199481007?gh_jid=5199481007"
+    },
+    "Anduril:5199495007": {
+      "alerted": false,
+      "first_seen": "2026-08-11T15:52:19.239622+00:00",
+      "location": "Waltham, Massachusetts, United States",
+      "title": "Technical Operations Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5199495007?gh_jid=5199495007"
     },
     "Anduril:5199526007": {
       "alerted": false,
@@ -30871,6 +30887,13 @@
       "location": "Costa Mesa, California, United States",
       "title": "Senior Financial Analyst, Corporate Finance",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5201117007?gh_jid=5201117007"
+    },
+    "Anduril:5201151007": {
+      "alerted": false,
+      "first_seen": "2026-08-11T15:52:19.237010+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Staff Site Reliability Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5201151007?gh_jid=5201151007"
     },
     "Anduril:5201336007": {
       "alerted": false,
@@ -32097,6 +32120,27 @@
       "title": "Program Manager, Connected Warfare (Active Clearance)",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5208757007?gh_jid=5208757007"
     },
+    "Anduril:5208795007": {
+      "alerted": false,
+      "first_seen": "2026-08-11T15:52:19.238012+00:00",
+      "location": "Chantilly, Virginia, United States; Herndon, Virginia, United States",
+      "title": "Staff Systems Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5208795007?gh_jid=5208795007"
+    },
+    "Anduril:5208964007": {
+      "alerted": false,
+      "first_seen": "2026-08-11T15:52:19.235307+00:00",
+      "location": "Chantilly, Virginia, United States; Herndon, Virginia, United States",
+      "title": "Senior Principal Chief Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5208964007?gh_jid=5208964007"
+    },
+    "Anduril:5208966007": {
+      "alerted": false,
+      "first_seen": "2026-08-11T15:52:19.232043+00:00",
+      "location": "Chantilly, Virginia, United States; Herndon, Virginia, United States",
+      "title": "Principal Design Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5208966007?gh_jid=5208966007"
+    },
     "Anduril:5209103007": {
       "alerted": false,
       "first_seen": "2026-08-11T13:59:18.652837+00:00",
@@ -32124,6 +32168,62 @@
       "location": "Costa Mesa, California, United States",
       "title": "Senior Manager, M&A People Integration",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5209172007?gh_jid=5209172007"
+    },
+    "Anduril:5209208007": {
+      "alerted": false,
+      "first_seen": "2026-08-11T15:52:19.233508+00:00",
+      "location": "Lexington, Massachusetts, United States",
+      "title": "Senior Deployed Software Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5209208007?gh_jid=5209208007"
+    },
+    "Anduril:5209222007": {
+      "alerted": false,
+      "first_seen": "2026-08-11T15:52:19.234281+00:00",
+      "location": "Lexington, Massachusetts, United States",
+      "title": "Senior Mission Software Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5209222007?gh_jid=5209222007"
+    },
+    "Anduril:5209227007": {
+      "alerted": false,
+      "first_seen": "2026-08-11T15:52:19.236088+00:00",
+      "location": "Boulder, Colorado, United States",
+      "title": "Senior Realtime Software Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5209227007?gh_jid=5209227007"
+    },
+    "Anduril:5209236007": {
+      "alerted": false,
+      "first_seen": "2026-08-11T15:52:19.230916+00:00",
+      "location": "Lexington, Massachusetts, United States",
+      "title": "Micro-electronics Technician",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5209236007?gh_jid=5209236007"
+    },
+    "Anduril:5209237007": {
+      "alerted": false,
+      "first_seen": "2026-08-11T15:52:19.241021+00:00",
+      "location": "Lexington, Massachusetts, United States",
+      "title": "Wire bonding Technician",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5209237007?gh_jid=5209237007"
+    },
+    "Anduril:5209238007": {
+      "alerted": false,
+      "first_seen": "2026-08-11T15:52:19.232722+00:00",
+      "location": "Lexington, Massachusetts, United States",
+      "title": "Production Test Technician",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5209238007?gh_jid=5209238007"
+    },
+    "Anduril:5209239007": {
+      "alerted": false,
+      "first_seen": "2026-08-11T15:52:19.229290+00:00",
+      "location": "Lexington, Massachusetts, United States",
+      "title": "Electronics Test Technician",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5209239007?gh_jid=5209239007"
+    },
+    "Anduril:5209257007": {
+      "alerted": false,
+      "first_seen": "2026-08-11T15:52:19.238836+00:00",
+      "location": "Waltham, Massachusetts, United States",
+      "title": "Technical Field Operations Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5209257007?gh_jid=5209257007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -62008,6 +62108,13 @@
       "title": "CRDN-Technical Sales Representative-Taiyuan",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Taiyuan-Shanxi-China/CRDN-Technical-Sales-Representative-Taiyuan_R73894-2"
     },
+    "Medtronic:R73897": {
+      "alerted": false,
+      "first_seen": "2026-08-11T15:52:19.228493+00:00",
+      "location": "Taguig City, National Capital Region, Philippines",
+      "title": "Associate Quality Systems Specialist",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Taguig-City-National-Capital-Region-Philippines/Associate-Quality-Systems-Specialist_R73897-1"
+    },
     "Medtronic:R73898": {
       "alerted": false,
       "first_seen": "2026-08-05T09:24:59.774227+00:00",
@@ -62238,6 +62345,13 @@
       "location": "Fridley, Minnesota, United States of America",
       "title": "Sr. Software Systems Engineer",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Sr-Software-Systems-Engineer_R74046-1"
+    },
+    "Medtronic:R74050": {
+      "alerted": false,
+      "first_seen": "2026-08-11T15:52:19.228583+00:00",
+      "location": "Tijuana, Baja California, Mexico",
+      "title": "Practicante",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Tijuana-Baja-California-Mexico/Practicante_R74050-1"
     },
     "Medtronic:R74054": {
       "alerted": false,
@@ -62638,12 +62752,26 @@
       "title": "Assembler II",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lausanne-Vaud-Switzerland/Assembler-II_R74384-1"
     },
+    "Medtronic:R74398": {
+      "alerted": false,
+      "first_seen": "2026-08-11T15:52:19.228448+00:00",
+      "location": "Akron, Ohio, United States of America",
+      "title": "Clinical Specialist - Cardiac Rhythm Management - Akron/Canton, OH",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Akron-Ohio-United-States-of-America/Clinical-Specialist---Cardiac-Rhythm-Management---Akron-Canton--OH_R74398-1"
+    },
     "Medtronic:R74400": {
       "alerted": false,
       "first_seen": "2026-08-11T12:32:52.294940+00:00",
       "location": "Hartford, Connecticut, United States of America",
       "title": "Sales Representative II, Deep Brain Stimulation (DBS) -  Hartford, CT",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Hartford-Connecticut-United-States-of-America/Sales-Representative-II--Deep-Brain-Stimulation--DBS-----Hartford--CT_R74400-1"
+    },
+    "Medtronic:R74409": {
+      "alerted": false,
+      "first_seen": "2026-08-11T15:52:19.228550+00:00",
+      "location": "Chicago, Illinois, United States of America",
+      "title": "Clinical Specialist - Cardiac Rhythm Management - Chicagoland North/Northwest Suburbs",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Chicago-Illinois-United-States-of-America/Clinical-Specialist---Cardiac-Rhythm-Management---Chicagoland-North-Northwest-Suburbs_R74409-1"
     },
     "Medtronic:R74417": {
       "alerted": false,
@@ -62665,6 +62793,13 @@
       "location": "Lafayette, Colorado, United States of America",
       "title": "Principal Human Factors Design Eng - AiBLE Validation",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Principal-Human-Factors-Design-Eng---AiBLE-Validation_R74424-1"
+    },
+    "Medtronic:R74442": {
+      "alerted": false,
+      "first_seen": "2026-08-11T15:52:19.228398+00:00",
+      "location": "Dallas, Texas, United States of America",
+      "title": "Senior Surgical Onsite Specialist - Lung Health (Dallas)",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Dallas-Texas-United-States-of-America/Senior-Surgical-Onsite-Specialist---Lung-Health--Dallas-_R74442-1"
     },
     "Medtronic:R74458": {
       "alerted": false,
@@ -81874,6 +82009,13 @@
       "title": "Senior Mask Design Engineer \u2013 Hardware",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Mask-Design-Engineer---Hardware_JR2022912"
     },
+    "NVIDIA:JR2022913": {
+      "alerted": false,
+      "first_seen": "2026-08-11T15:52:19.228351+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Software Engineer, Platforms",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Platforms_JR2022913"
+    },
     "NVIDIA:JR2022919": {
       "alerted": false,
       "first_seen": "2026-08-10T02:25:54.753932+00:00",
@@ -96910,6 +97052,13 @@
       "title": "Senior Staff Regulatory Affairs/Quality Compliance Specialist, Pharmaceuticals (Remote)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Lansing-Michigan/Senior-Staff-Regulatory-Affairs-Quality-Compliance-Specialist--Pharmaceuticals--Remote-_R569402-1"
     },
+    "Stryker:R569406": {
+      "alerted": false,
+      "first_seen": "2026-08-11T15:52:19.228258+00:00",
+      "location": "Flower Mound, Texas",
+      "title": "Lead Contract Specialist",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Flower-Mound-Texas/Lead-Contract-Specialist_R569406"
+    },
     "Stryker:R569413": {
       "alerted": true,
       "first_seen": "2026-07-20T18:13:57.606771+00:00",
@@ -99261,6 +99410,13 @@
       "location": "Zhengzhou Shi, China",
       "title": "Endo_Senior Business Executive/Key Account Manager_Zhengzhou",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Zhengzhou-Shi-China/Endo-Senior-Business-Executive-Key-Account-Manager-Zhengzhou_R570670-1"
+    },
+    "Stryker:R570671": {
+      "alerted": false,
+      "first_seen": "2026-08-11T15:52:19.228307+00:00",
+      "location": "Knoxville, Tennessee",
+      "title": "Sales Representative - Knoxville, TN - ENT",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Knoxville-Tennessee/Sales-Representative---Knoxville--TN---ENT_R570671"
     },
     "Stryker:R570675": {
       "alerted": false,
@@ -104042,6 +104198,13 @@
       "location": "Mountain View, CA, USA; San Francisco, CA, USA; Kirkland, WA, USA; New York, NY, USA",
       "title": "ML Engineer, Foundation Model Infrastructure",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8107088"
+    },
+    "Waymo:8108995": {
+      "alerted": false,
+      "first_seen": "2026-08-11T15:52:19.228189+00:00",
+      "location": "Mountain View, CA, US",
+      "title": "Senior Seating and Restraints Architecture Engineer",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8108995"
     },
     "Waymo:8109035": {
       "alerted": false,
