@@ -3168,6 +3168,41 @@
       "title": "Research Scientist, Fauna",
       "url": "https://www.amazon.jobs/en/jobs/10499064/research-scientist-fauna"
     },
+    "Amazon:10499147": {
+      "alerted": true,
+      "first_seen": "2026-08-11T21:59:03.952470+00:00",
+      "location": "Seattle, Washington, USA",
+      "title": "Applied Scientist - On-Robot Learning,  Amazon Robotics - Vulcan Stow",
+      "url": "https://www.amazon.jobs/en/jobs/10499147/applied-scientist-on-robot-learning-amazon-robotics-vulcan-stow"
+    },
+    "Amazon:10499148": {
+      "alerted": false,
+      "first_seen": "2026-08-11T21:59:03.952674+00:00",
+      "location": "Seattle, Washington, USA",
+      "title": "Senior Applied Scientist - Manipulation RL,  Amazon Robotics - Vulcan Stow",
+      "url": "https://www.amazon.jobs/en/jobs/10499148/senior-applied-scientist-manipulation-rl-amazon-robotics-vulcan-stow"
+    },
+    "Amazon:10499150": {
+      "alerted": true,
+      "first_seen": "2026-08-11T21:59:03.952550+00:00",
+      "location": "Seattle, Washington, USA",
+      "title": "Applied Scientist - Simulation and Large-Scale RL,  Amazon Robotics - Vulcan Stow",
+      "url": "https://www.amazon.jobs/en/jobs/10499150/applied-scientist-simulation-and-large-scale-rl-amazon-robotics-vulcan-stow"
+    },
+    "Amazon:10499160": {
+      "alerted": false,
+      "first_seen": "2026-08-11T21:59:03.952352+00:00",
+      "location": "North Reading, Massachusetts, USA",
+      "title": "Software Development Engineer, Fleet Management",
+      "url": "https://www.amazon.jobs/en/jobs/10499160/software-development-engineer-fleet-management"
+    },
+    "Amazon:10499190": {
+      "alerted": true,
+      "first_seen": "2026-08-11T21:59:03.952614+00:00",
+      "location": "Seattle, Washington, USA",
+      "title": "Applied Scientist - On-Robot Learning,  Amazon Robotics - Vulcan Stow",
+      "url": "https://www.amazon.jobs/en/jobs/10499190/applied-scientist-on-robot-learning-amazon-robotics-vulcan-stow"
+    },
     "Anduril:4159543007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.742648+00:00",
@@ -62493,6 +62528,13 @@
       "title": "Risk Management Quality Engineer I - New Product Development (Surgical)",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/North-Haven-Connecticut-United-States-of-America/Risk-Management-Quality-Engineer-I---New-Product-Development--Surgical-_R74036-1"
     },
+    "Medtronic:R74037": {
+      "alerted": false,
+      "first_seen": "2026-08-11T21:59:03.952845+00:00",
+      "location": "Fridley, Minnesota, United States of America",
+      "title": "Sr. Strategic Sourcing Manager-Marketing & Consulting Services",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Sr-Strategic-Sourcing-Manager-Marketing---Consulting-Services_R74037-1"
+    },
     "Medtronic:R74043": {
       "alerted": false,
       "first_seen": "2026-08-05T23:25:33.017903+00:00",
@@ -63073,6 +63115,13 @@
       "location": "Bay Area, California, United States of America",
       "title": "Field Service Engineer III (California) - Electrophysiology Technologies",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Bay-Area-California-United-States-of-America/Field-Service-Engineer-III--California----Electrophysiology-Technologies_R74518"
+    },
+    "Medtronic:R74523": {
+      "alerted": false,
+      "first_seen": "2026-08-11T21:59:03.952894+00:00",
+      "location": "Amarillo, Texas, United States of America",
+      "title": "Associate Mapping Specialist  | In Training - CAS, Amarillo, TX",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Amarillo-Texas-United-States-of-America/Associate-Mapping-Specialist----In-Training---CAS--Amarillo--TX_R74523"
     },
     "NVIDIA:JR1968313": {
       "alerted": true,
@@ -82569,6 +82618,20 @@
       "title": "Senior Deep Learning Software Engineer, Inference",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Netherlands-Remote/Senior-Deep-Learning-Software-Engineer--Inference_JR2023106-1"
     },
+    "NVIDIA:JR2023115": {
+      "alerted": false,
+      "first_seen": "2026-08-11T21:59:03.952714+00:00",
+      "location": "2 Locations",
+      "title": "Sales Operations Analyst",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Sales-Operations-Analyst_JR2023115-1"
+    },
+    "NVIDIA:JR2023117": {
+      "alerted": false,
+      "first_seen": "2026-08-11T21:59:03.952754+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Account Manager - AI Natives",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Account-Manager---AI-Natives_JR2023117"
+    },
     "NVIDIA:JR2023118": {
       "alerted": false,
       "first_seen": "2026-08-11T19:34:54.118742+00:00",
@@ -98878,6 +98941,13 @@
       "location": "Kalamazoo, Michigan",
       "title": "Sales Regional Manager - Great Lakes - Sage",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Kalamazoo-Michigan/Sales-Regional-Manager---Great-Lakes---Sage_R569948-1"
+    },
+    "Stryker:R569949": {
+      "alerted": false,
+      "first_seen": "2026-08-11T21:59:03.952796+00:00",
+      "location": "Tampa, Florida",
+      "title": "Project Manager - Tampa, FL",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tampa-Florida/Project-Manager--Tampa--FL_R569949"
     },
     "Stryker:R569950": {
       "alerted": false,
