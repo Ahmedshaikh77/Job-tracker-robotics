@@ -3203,6 +3203,13 @@
       "title": "Applied Scientist - On-Robot Learning,  Amazon Robotics - Vulcan Stow",
       "url": "https://www.amazon.jobs/en/jobs/10499190/applied-scientist-on-robot-learning-amazon-robotics-vulcan-stow"
     },
+    "Amazon:10499383": {
+      "alerted": true,
+      "first_seen": "2026-08-12T02:34:56.364190+00:00",
+      "location": "Seattle, Washington, USA",
+      "title": "Software Engineer - Robot Learning,  Amazon Robotics - Vulcan Stow",
+      "url": "https://www.amazon.jobs/en/jobs/10499383/software-engineer-robot-learning-amazon-robotics-vulcan-stow"
+    },
     "Anduril:4159543007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.742648+00:00",
@@ -25253,6 +25260,13 @@
       "title": "Senior Data Protection Engineer, Classified Systems",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5176526007?gh_jid=5176526007"
     },
+    "Anduril:5176536007": {
+      "alerted": false,
+      "first_seen": "2026-08-12T02:34:56.367576+00:00",
+      "location": "Atlanta, Georgia, United States",
+      "title": "Staff Software Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5176536007?gh_jid=5176536007"
+    },
     "Anduril:5176538007": {
       "alerted": false,
       "first_seen": "2026-06-30T00:19:06.402036+00:00",
@@ -30202,6 +30216,13 @@
       "title": "Flight Test Engineering Lead",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5198229007?gh_jid=5198229007"
     },
+    "Anduril:5198230007": {
+      "alerted": false,
+      "first_seen": "2026-08-12T02:34:56.364910+00:00",
+      "location": "Sydney, New South Wales, Australia",
+      "title": "Flight Test Engineering Lead",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5198230007?gh_jid=5198230007"
+    },
     "Anduril:5198235007": {
       "alerted": false,
       "first_seen": "2026-07-29T06:14:47.765476+00:00",
@@ -32406,6 +32427,48 @@
       "location": "Costa Mesa, California, United States",
       "title": "Senior Maintenance Technician, 2nd Shift",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5209899007?gh_jid=5209899007"
+    },
+    "Anduril:5209970007": {
+      "alerted": false,
+      "first_seen": "2026-08-12T02:34:56.369446+00:00",
+      "location": "Sydney, New South Wales, Australia",
+      "title": "Warehouse Associate",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5209970007?gh_jid=5209970007"
+    },
+    "Anduril:5209995007": {
+      "alerted": false,
+      "first_seen": "2026-08-12T02:34:56.365611+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Software Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5209995007?gh_jid=5209995007"
+    },
+    "Anduril:5209996007": {
+      "alerted": false,
+      "first_seen": "2026-08-12T02:34:56.366256+00:00",
+      "location": "Boston, Massachusetts, United States",
+      "title": "Senior Software Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5209996007?gh_jid=5209996007"
+    },
+    "Anduril:5209997007": {
+      "alerted": false,
+      "first_seen": "2026-08-12T02:34:56.366914+00:00",
+      "location": "Atlanta, Georgia, United States",
+      "title": "Senior Software Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5209997007?gh_jid=5209997007"
+    },
+    "Anduril:5209998007": {
+      "alerted": false,
+      "first_seen": "2026-08-12T02:34:56.368868+00:00",
+      "location": "Boston, Massachusetts, United States",
+      "title": "Staff Software Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5209998007?gh_jid=5209998007"
+    },
+    "Anduril:5209999007": {
+      "alerted": false,
+      "first_seen": "2026-08-12T02:34:56.368213+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Staff Software Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5209999007?gh_jid=5209999007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -92047,6 +92110,13 @@
       "title": "Foot & Ankle Sales Associate - Central Houston, TX.",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Houston-Texas/Foot---Ankle-Sales-Associate---Central-Houston--TX_R567597"
     },
+    "Stryker:R567600": {
+      "alerted": false,
+      "first_seen": "2026-08-12T02:34:56.364448+00:00",
+      "location": "Fort Lauderdale, Florida",
+      "title": "Assembly technician I - 1st Shift - $23.80/hr",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Fort-Lauderdale-Florida/Assembly-technician-I---1st-Shift----2380-hr_R567600-1"
+    },
     "Stryker:R567603": {
       "alerted": false,
       "first_seen": "2026-07-08T20:49:53.950185+00:00",
@@ -99159,6 +99229,20 @@
       "title": "Lead Specialist, Japan Learning & Talent Development",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tokyo-Japan/Lead-Specialist--Japan-Learning---Talent-Development_R570011-9"
     },
+    "Stryker:R570016": {
+      "alerted": false,
+      "first_seen": "2026-08-12T02:34:56.364357+00:00",
+      "location": "Tokyo, Japan",
+      "title": "Territory Manager, Sports Medicine Kansai",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tokyo-Japan/Territory-Manager--Sports-Medicine-Kansai_R570016"
+    },
+    "Stryker:R570017": {
+      "alerted": false,
+      "first_seen": "2026-08-12T02:34:56.364399+00:00",
+      "location": "Tokyo, Japan",
+      "title": "Territory Manager, Sports Medicine Kansai",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tokyo-Japan/Territory-Manager--Sports-Medicine-Kansai_R570017"
+    },
     "Stryker:R570023": {
       "alerted": false,
       "first_seen": "2026-08-05T09:24:59.774021+00:00",
@@ -99697,6 +99781,20 @@
       "location": "2 Locations",
       "title": "Foot & Ankle Sales Associate - Ft Myers/Naples, FL",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Fort-Myers-Florida/Foot---Ankle-Sales-Associate---Ft-Myers-Naples--FL_R570347"
+    },
+    "Stryker:R570363": {
+      "alerted": false,
+      "first_seen": "2026-08-12T02:34:56.364312+00:00",
+      "location": "Portage, Michigan",
+      "title": "Staff Mechanical Engineer, R&D",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Staff-Mechanical-Engineer--R-D_R570363"
+    },
+    "Stryker:R570366": {
+      "alerted": false,
+      "first_seen": "2026-08-12T02:34:56.364263+00:00",
+      "location": "Portage, Michigan",
+      "title": "Senior Staff Mechanical Engineer, R&D",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Senior-Staff-Mechanical-Engineer--R-D_R570366"
     },
     "Stryker:R570370": {
       "alerted": false,
