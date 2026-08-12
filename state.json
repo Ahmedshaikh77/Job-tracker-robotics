@@ -28606,6 +28606,13 @@
       "title": "Supply Planner",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5190509007?gh_jid=5190509007"
     },
+    "Anduril:5190511007": {
+      "alerted": false,
+      "first_seen": "2026-08-12T17:28:22.051343+00:00",
+      "location": "Fort Collins, Colorado, United States",
+      "title": "Quality Inspection Associate",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5190511007?gh_jid=5190511007"
+    },
     "Anduril:5190515007": {
       "alerted": false,
       "first_seen": "2026-07-21T03:36:47.655582+00:00",
@@ -31812,6 +31819,13 @@
       "title": "Logistics Program Manager, Advanced Effects",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5206510007?gh_jid=5206510007"
     },
+    "Anduril:5206517007": {
+      "alerted": false,
+      "first_seen": "2026-08-12T17:28:22.050673+00:00",
+      "location": "Fort Collins, Colorado, United States",
+      "title": "Electro-Mechanical Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5206517007?gh_jid=5206517007"
+    },
     "Anduril:5206527007": {
       "alerted": false,
       "first_seen": "2026-08-07T16:12:05.446912+00:00",
@@ -31993,6 +32007,13 @@
       "location": "Costa Mesa, California, United States",
       "title": "Senior Manager, Inventory Operations",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5207647007?gh_jid=5207647007"
+    },
+    "Anduril:5207652007": {
+      "alerted": false,
+      "first_seen": "2026-08-12T17:28:22.051918+00:00",
+      "location": "San Clemente, California, United States",
+      "title": "Senior Airspace Management Specialist",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5207652007?gh_jid=5207652007"
     },
     "Anduril:5207653007": {
       "alerted": false,
@@ -63347,6 +63368,13 @@
       "title": "Sr Software Engineer",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Sr-Software-Engineer_R74426-1"
     },
+    "Medtronic:R74437": {
+      "alerted": false,
+      "first_seen": "2026-08-12T17:28:22.049921+00:00",
+      "location": "2 Locations",
+      "title": "Associate Clinical Specialist, Pain Interventions - Santa Barbara / Santa Maria / San Luis Obispo , CA",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Santa-Barbara-California-United-States-of-America/Associate-Clinical-Specialist--Pain-Interventions---Santa-Barbara---Santa-Maria---San-Luis-Obispo---CA_R74437-1"
+    },
     "Medtronic:R74442": {
       "alerted": false,
       "first_seen": "2026-08-11T15:52:19.228398+00:00",
@@ -63381,6 +63409,13 @@
       "location": "Columbus, Ohio, United States of America",
       "title": "Sr Vascular Sales Rep - OH",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Columbus-Ohio-United-States-of-America/Sr-Vascular-Sales-Rep---OH_R74477-1"
+    },
+    "Medtronic:R74478": {
+      "alerted": false,
+      "first_seen": "2026-08-12T17:28:22.050005+00:00",
+      "location": "North Haven, Connecticut, United States of America",
+      "title": "Manufacturing Supervisor - 3rd Shift",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/North-Haven-Connecticut-United-States-of-America/Manufacturing-Supervisor---3rd-Shift_R74478-1"
     },
     "Medtronic:R74486": {
       "alerted": false,
@@ -63437,6 +63472,27 @@
       "location": "Lafayette, Colorado, United States of America",
       "title": "Principal Manufacturing Engineer",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Principal-Manufacturing-Engineer_R74547-1"
+    },
+    "Medtronic:R74561": {
+      "alerted": false,
+      "first_seen": "2026-08-12T17:28:22.049964+00:00",
+      "location": "Victoria, British Columbia, Canada",
+      "title": "Sales Representative II - CRM & CAS",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Victoria-British-Columbia-Canada/Sales-Representative-II---CRM---CAS_R74561-1"
+    },
+    "Medtronic:R74562": {
+      "alerted": false,
+      "first_seen": "2026-08-12T17:28:22.049860+00:00",
+      "location": "Edmonton, Alberta, Canada",
+      "title": "Clinical Specialist - CRM",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Edmonton-Alberta-Canada/Clinical-Specialist---CRM_R74562"
+    },
+    "Medtronic:R74564": {
+      "alerted": false,
+      "first_seen": "2026-08-12T17:28:22.049821+00:00",
+      "location": "Vancouver, British Columbia, Canada",
+      "title": "Clinical Specialist - CRM",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Vancouver-British-Columbia-Canada/Clinical-Specialist---CRM_R74564-1"
     },
     "Medtronic:R74581": {
       "alerted": false,
@@ -72923,6 +72979,13 @@
       "title": "Senior Software Engineer - Autonomous Driving Simulation",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---Autonomous-Driving-Simulation_JR2019292"
     },
+    "NVIDIA:JR2019293": {
+      "alerted": false,
+      "first_seen": "2026-08-12T17:28:22.049645+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Director, Procurement Operations and Systems",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Director--Procurement-Operations-and-Systems_JR2019293"
+    },
     "NVIDIA:JR2019299": {
       "alerted": false,
       "first_seen": "2026-06-04T02:00:49.717614+00:00",
@@ -80126,6 +80189,13 @@
       "title": "Senior Account Manager, CSP - Networking Business",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Account-Manager--CSP---Networking-Business_JR2021682"
     },
+    "NVIDIA:JR2021687": {
+      "alerted": false,
+      "first_seen": "2026-08-12T17:28:22.049779+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Manager, Strategic Sourcing - Professional Services",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--Strategic-Sourcing---Professional-Services_JR2021687"
+    },
     "NVIDIA:JR2021689": {
       "alerted": false,
       "first_seen": "2026-08-07T21:02:04.399037+00:00",
@@ -83024,6 +83094,13 @@
       "title": "Emulation Front-End Infrastructure Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Emulation-Front-End-Infrastructure-Engineer_JR2023066"
     },
+    "NVIDIA:JR2023069": {
+      "alerted": false,
+      "first_seen": "2026-08-12T17:28:22.049685+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Manager, Social Media",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--Social-Media_JR2023069"
+    },
     "NVIDIA:JR2023082": {
       "alerted": false,
       "first_seen": "2026-08-11T20:19:09.174176+00:00",
@@ -83051,6 +83128,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Senior Customer Solution Architect and Application Engineering",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Customer-Solution-Architect-and-Application-Engineering_JR2023096"
+    },
+    "NVIDIA:JR2023097": {
+      "alerted": false,
+      "first_seen": "2026-08-12T17:28:22.049600+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Director, Marketing Platform Engineering and Personalization",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director--Marketing-Platform-Engineering-and-Personalization_JR2023097"
     },
     "NVIDIA:JR2023101": {
       "alerted": false,
@@ -83101,6 +83185,13 @@
       "title": "Senior ASIC Physical Design Engineer, Cache Coherent Interconnects",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-ASIC-Physical-Design-Engineer--Cache-Coherent-Interconnects_JR2023121"
     },
+    "NVIDIA:JR2023133": {
+      "alerted": false,
+      "first_seen": "2026-08-12T17:28:22.049550+00:00",
+      "location": "UAE, Remote",
+      "title": "Solutions Architect - NVIDIA Cloud Partners and Datacentre Infrastructure",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UAE-Remote/Solutions-Architect---NVIDIA-Cloud-Partners-and-Datacentre-Infrastructure_JR2023133"
+    },
     "NVIDIA:JR2023150": {
       "alerted": false,
       "first_seen": "2026-08-11T20:19:09.174273+00:00",
@@ -83121,6 +83212,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Audio Visual Technical Producer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Audio-Visual-Technical-Producer_JR2023166"
+    },
+    "NVIDIA:JR2023187": {
+      "alerted": false,
+      "first_seen": "2026-08-12T17:28:22.049731+00:00",
+      "location": "2 Locations",
+      "title": "GPU Verification Engineer - New College Grad 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/GPU-Verification-Engineer---New-College-Grad-2026_JR2023187"
     },
     "NVIDIA:JR2023238": {
       "alerted": false,
@@ -99502,6 +99600,13 @@
       "title": "GQO Finance Graduate",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cork-Ireland/GQO-Finance-Graduate_R569928"
     },
+    "Stryker:R569933": {
+      "alerted": false,
+      "first_seen": "2026-08-12T17:28:22.049425+00:00",
+      "location": "Newbury, United Kingdom",
+      "title": "ProCare Customer Experience Representative",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Newbury-United-Kingdom/ProCare-Customer-Experience-Representative_R569933"
+    },
     "Stryker:R569935": {
       "alerted": false,
       "first_seen": "2026-08-03T11:21:21.535379+00:00",
@@ -100894,6 +100999,13 @@
       "location": "3 Locations",
       "title": "Sales Representative - Denver - Orthopaedic Instruments",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Denver-Colorado/Sales-Representative---Denver---Orthopaedic-Instruments_R570984"
+    },
+    "Stryker:R571000": {
+      "alerted": false,
+      "first_seen": "2026-08-12T17:28:22.049494+00:00",
+      "location": "Arlington, Tennessee",
+      "title": "Machinist II - 1st Shift - $26.60/hr",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Arlington-Tennessee/Machinist-II---1st-Shift----2660-hr_R571000"
     },
     "Stryker:R571015": {
       "alerted": false,
