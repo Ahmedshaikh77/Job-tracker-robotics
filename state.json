@@ -2825,6 +2825,13 @@
       "title": "Senior Applied Scientist, AWS Neuron Science team",
       "url": "https://www.amazon.jobs/en/jobs/10483036/senior-applied-scientist-aws-neuron-science-team"
     },
+    "Amazon:10483818": {
+      "alerted": false,
+      "first_seen": "2026-08-12T20:11:06.089132+00:00",
+      "location": "Bellevue, Washington, USA",
+      "title": "Data Engineer II, Global Logistics, Exports",
+      "url": "https://www.amazon.jobs/en/jobs/10483818/data-engineer-ii-global-logistics-exports"
+    },
     "Amazon:10483935": {
       "alerted": false,
       "first_seen": "2026-07-24T23:17:42.767172+00:00",
@@ -6765,6 +6772,13 @@
       "location": "Costa Mesa, California, United States",
       "title": "Project Manager, Industrial Engineering",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5009261007?gh_jid=5009261007"
+    },
+    "Anduril:5009341007": {
+      "alerted": false,
+      "first_seen": "2026-08-12T20:11:06.090627+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Lead Software Engineer, Manufacturing Test",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5009341007?gh_jid=5009341007"
     },
     "Anduril:5009360007": {
       "alerted": false,
@@ -32183,12 +32197,33 @@
       "title": "Director of Production - IDCA",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5207955007?gh_jid=5207955007"
     },
+    "Anduril:5208004007": {
+      "alerted": false,
+      "first_seen": "2026-08-12T20:11:06.089911+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Lead, IT Service Desk, West Coast",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5208004007?gh_jid=5208004007"
+    },
     "Anduril:5208116007": {
       "alerted": false,
       "first_seen": "2026-08-10T17:24:22.242139+00:00",
       "location": "Washington, District of Columbia, United States",
       "title": "Manager, Proposal & Capture",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5208116007?gh_jid=5208116007"
+    },
+    "Anduril:5208162007": {
+      "alerted": false,
+      "first_seen": "2026-08-12T20:11:06.092067+00:00",
+      "location": "Mountain View, California, United States",
+      "title": "Staff Mechanical Engineer, Advanced Targeting & Sensing Systems",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5208162007?gh_jid=5208162007"
+    },
+    "Anduril:5208169007": {
+      "alerted": false,
+      "first_seen": "2026-08-12T20:11:06.092858+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Staff Mechanical Engineer, Advanced Targeting & Sensing Systems",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5208169007?gh_jid=5208169007"
     },
     "Anduril:5208194007": {
       "alerted": false,
@@ -32588,6 +32623,13 @@
       "location": "Costa Mesa, California, United States",
       "title": "Guidance, Navigation & Control (GNC) Engineer - Navigation and Estimation- Air Dominance & Strike",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5210670007?gh_jid=5210670007"
+    },
+    "Anduril:5210768007": {
+      "alerted": false,
+      "first_seen": "2026-08-12T20:11:06.091273+00:00",
+      "location": "Waltham, Massachusetts, United States",
+      "title": "Senior Supply Chain Manager, Procurement & Planning ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5210768007?gh_jid=5210768007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -63486,6 +63528,13 @@
       "location": "Shanghai, Shanghai, China",
       "title": "HR_Senior Compensation Analyst_Shanghai",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Shanghai-Shanghai-China/HR-Senior-Compensation-Analyst-Shanghai_R74466"
+    },
+    "Medtronic:R74476": {
+      "alerted": false,
+      "first_seen": "2026-08-12T20:11:06.089204+00:00",
+      "location": "Columbus, Ohio, United States of America",
+      "title": "Sr. Principal Vascular Sales Representative - OH",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Columbus-Ohio-United-States-of-America/Sr-Principal-Vascular-Sales-Representative---OH_R74476-1"
     },
     "Medtronic:R74477": {
       "alerted": false,
