@@ -10483,6 +10483,13 @@
       "title": "Production Technician, Drones",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5072894007?gh_jid=5072894007"
     },
+    "Anduril:5072922007": {
+      "alerted": false,
+      "first_seen": "2026-08-12T22:25:07.997278+00:00",
+      "location": "USA",
+      "title": "Structural Analyst",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5072922007?gh_jid=5072922007"
+    },
     "Anduril:5073077007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.743120+00:00",
@@ -30944,6 +30951,13 @@
       "title": "Buyer ",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5200843007?gh_jid=5200843007"
     },
+    "Anduril:5200903007": {
+      "alerted": false,
+      "first_seen": "2026-08-12T22:25:07.995960+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Materials Lab Technician, Mechanical Testing",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5200903007?gh_jid=5200903007"
+    },
     "Anduril:5200923007": {
       "alerted": false,
       "first_seen": "2026-07-31T20:21:13.933072+00:00",
@@ -32071,6 +32085,13 @@
       "title": "Senior Product Sourcing Engineer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5207219007?gh_jid=5207219007"
     },
+    "Anduril:5207496007": {
+      "alerted": false,
+      "first_seen": "2026-08-12T22:25:07.995277+00:00",
+      "location": "Irvine, California, United States",
+      "title": "Manufacturing Test Engineer, Electronic Warfare",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5207496007?gh_jid=5207496007"
+    },
     "Anduril:5207505007": {
       "alerted": false,
       "first_seen": "2026-08-07T21:48:06.318743+00:00",
@@ -32435,6 +32456,20 @@
       "title": "Staff Systems Engineer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5208795007?gh_jid=5208795007"
     },
+    "Anduril:5208877007": {
+      "alerted": false,
+      "first_seen": "2026-08-12T22:25:07.993555+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Director, Program Test & Evaluation Engineering - Advanced Effects",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5208877007?gh_jid=5208877007"
+    },
+    "Anduril:5208962007": {
+      "alerted": false,
+      "first_seen": "2026-08-12T22:25:07.994551+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Lab Asset Manager, Air Dominance and Strike",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5208962007?gh_jid=5208962007"
+    },
     "Anduril:5208964007": {
       "alerted": false,
       "first_seen": "2026-08-11T15:52:19.235307+00:00",
@@ -32707,6 +32742,13 @@
       "location": "Santa Ana, California, United States",
       "title": "Lead Production Technician, AFS (2nd Shift)",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5210901007?gh_jid=5210901007"
+    },
+    "Anduril:5210930007": {
+      "alerted": false,
+      "first_seen": "2026-08-12T22:25:07.996629+00:00",
+      "location": "Boston, Massachusetts, United States",
+      "title": "Software Engineer, Developer Platform",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5210930007?gh_jid=5210930007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -63508,6 +63550,13 @@
       "title": "Production Planner",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Danvers-Massachusetts-United-States-of-America/Production-Planner_R74379-1"
     },
+    "Medtronic:R74382": {
+      "alerted": false,
+      "first_seen": "2026-08-12T22:25:07.997322+00:00",
+      "location": "Memphis, Tennessee, United States of America",
+      "title": "Sr. Manager - Distribution Systems",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Memphis-Tennessee-United-States-of-America/Sr-Manager---Distribution-Systems_R74382-1"
+    },
     "Medtronic:R74383": {
       "alerted": false,
       "first_seen": "2026-08-10T19:11:34.405870+00:00",
@@ -82730,6 +82779,13 @@
       "title": "ASIC Physical Design Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/ASIC-Physical-Design-Engineer_JR2022692"
     },
+    "NVIDIA:JR2022693": {
+      "alerted": false,
+      "first_seen": "2026-08-12T22:25:07.992398+00:00",
+      "location": "Israel, Tel Aviv",
+      "title": "Senior C++ Software Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-C---Software-Engineer_JR2022693"
+    },
     "NVIDIA:JR2022695": {
       "alerted": false,
       "first_seen": "2026-08-10T02:25:54.753799+00:00",
@@ -83353,6 +83409,13 @@
       "title": "Senior System Software Engineer, Automotive Performance",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer--Automotive-Performance_JR2023036"
     },
+    "NVIDIA:JR2023042": {
+      "alerted": false,
+      "first_seen": "2026-08-12T22:25:07.992354+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Principal Photonics IC Design Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Photonics-IC-Design-Engineer_JR2023042"
+    },
     "NVIDIA:JR2023045": {
       "alerted": false,
       "first_seen": "2026-08-12T09:33:17.688285+00:00",
@@ -83415,6 +83478,20 @@
       "location": "Israel, Yokneam",
       "title": "Senior Post Silicon ATE Test Development Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Post-Silicon-ATE-Test-Development-Engineer_JR2023084"
+    },
+    "NVIDIA:JR2023088": {
+      "alerted": false,
+      "first_seen": "2026-08-12T22:25:07.992445+00:00",
+      "location": "Israel, Tel Aviv",
+      "title": "Senior Chip Design Dynamic Verification Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Chip-Design-Dynamic-Verification-Engineer_JR2023088"
+    },
+    "NVIDIA:JR2023089": {
+      "alerted": false,
+      "first_seen": "2026-08-12T22:25:07.992636+00:00",
+      "location": "2 Locations",
+      "title": "Manager, DFT - Post Silicon",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Manager--DFT---Post-Silicon_JR2023089-1"
     },
     "NVIDIA:JR2023093": {
       "alerted": false,
@@ -101314,6 +101391,13 @@
       "location": "Fresno, California",
       "title": "Associate Sales Representative - Central Valley California - Peripheral Vascular",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Fresno-California/Associate-Sales-Representative---Central-Valley-California---Peripheral-Vascular_R570978"
+    },
+    "Stryker:R570979": {
+      "alerted": false,
+      "first_seen": "2026-08-12T22:25:07.992289+00:00",
+      "location": "Lansing, Michigan",
+      "title": "OnSite Specialist - Lansing, MI",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Lansing-Michigan/OnSite-Specialist---Lansing--MI_R570979"
     },
     "Stryker:R570983": {
       "alerted": false,
