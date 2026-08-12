@@ -32533,6 +32533,20 @@
       "title": "Lead Software Architect, Rust",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5210357007?gh_jid=5210357007"
     },
+    "Anduril:5210602007": {
+      "alerted": false,
+      "first_seen": "2026-08-12T18:25:09.427443+00:00",
+      "location": "Atlanta, Georgia, United States",
+      "title": "Systems Engineer, Launched Effects ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5210602007?gh_jid=5210602007"
+    },
+    "Anduril:5210607007": {
+      "alerted": false,
+      "first_seen": "2026-08-12T18:25:09.426661+00:00",
+      "location": "Atlanta, Georgia, United States",
+      "title": "Senior Systems Engineer, Launched Effects ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5210607007?gh_jid=5210607007"
+    },
     "Apptronik:5572958004": {
       "alerted": false,
       "first_seen": "2026-06-08T14:54:52.580418+00:00",
@@ -33631,6 +33645,27 @@
       "location": "Austin, TX",
       "title": "Sr. Manager of Inventory Management, Logistics, and Procurement",
       "url": "https://boards.greenhouse.io/apptronik/jobs/6141049004?gh_jid=6141049004"
+    },
+    "Apptronik:6142283004": {
+      "alerted": false,
+      "first_seen": "2026-08-12T18:25:09.425521+00:00",
+      "location": "Sunnyvale, CA",
+      "title": "Staff Software Engineer - Humanoid Controls",
+      "url": "https://boards.greenhouse.io/apptronik/jobs/6142283004?gh_jid=6142283004"
+    },
+    "Apptronik:6142284004": {
+      "alerted": false,
+      "first_seen": "2026-08-12T18:25:09.424531+00:00",
+      "location": "Sunnyvale, CA",
+      "title": "Lead Software Engineer - Dexterous Manipulation",
+      "url": "https://boards.greenhouse.io/apptronik/jobs/6142284004?gh_jid=6142284004"
+    },
+    "Apptronik:6142286004": {
+      "alerted": false,
+      "first_seen": "2026-08-12T18:25:09.425008+00:00",
+      "location": "Sunnyvale, CA",
+      "title": "Senior Reinforcement Learning Engineer",
+      "url": "https://boards.greenhouse.io/apptronik/jobs/6142286004?gh_jid=6142286004"
     },
     "Formlabs:4994162": {
       "alerted": false,
@@ -63487,6 +63522,13 @@
       "title": "Clinical Specialist - CRM",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Edmonton-Alberta-Canada/Clinical-Specialist---CRM_R74562"
     },
+    "Medtronic:R74563": {
+      "alerted": false,
+      "first_seen": "2026-08-12T18:25:09.425797+00:00",
+      "location": "Saskatoon, Saskatchewan, Canada",
+      "title": "Clinical Specialist - CRM",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Saskatoon-Saskatchewan-Canada/Clinical-Specialist---CRM_R74563-1"
+    },
     "Medtronic:R74564": {
       "alerted": false,
       "first_seen": "2026-08-12T17:28:22.049821+00:00",
@@ -63514,6 +63556,20 @@
       "location": "Prague, Hlavni Mesto\u00a0Praha, Czech Republic",
       "title": "Associate AFFERA\u2122 Mapping Specialist CAS",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Prague-Hlavni-MestoPraha-Czech-Republic/Associate-AFFERA--Mapping-Specialist-CAS_R74592-1"
+    },
+    "Medtronic:R74618": {
+      "alerted": false,
+      "first_seen": "2026-08-12T18:25:09.425756+00:00",
+      "location": "Lafayette, Colorado, United States of America",
+      "title": "Principal Innovation Manager, Anesthesia Monitoring",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Principal-Innovation-Manager--Anesthesia-Monitoring_R74618-1"
+    },
+    "Medtronic:R74630": {
+      "alerted": false,
+      "first_seen": "2026-08-12T18:25:09.425709+00:00",
+      "location": "State of Mississippi, United States of America",
+      "title": "Vascular Prin. Clinical Specialist - Gulfport, MS",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/State-of-Mississippi-United-States-of-America/Vascular-Prin-Clinical-Specialist---Gulfport--MS_R74630-2"
     },
     "NVIDIA:JR1968313": {
       "alerted": true,
@@ -83220,6 +83276,13 @@
       "title": "GPU Verification Engineer - New College Grad 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/GPU-Verification-Engineer---New-College-Grad-2026_JR2023187"
     },
+    "NVIDIA:JR2023198": {
+      "alerted": false,
+      "first_seen": "2026-08-12T18:25:09.425662+00:00",
+      "location": "India, Bengaluru",
+      "title": "Senior Staff Site Reliability Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Staff-Site-Reliability-Engineer_JR2023198"
+    },
     "NVIDIA:JR2023238": {
       "alerted": false,
       "first_seen": "2026-08-12T16:29:00.356550+00:00",
@@ -100678,6 +100741,13 @@
       "title": "OnSite Specialist - San Antonio, TX",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Antonio-Texas/OnSite-Specialist---San-Antonio--TX_R570592"
     },
+    "Stryker:R570601": {
+      "alerted": false,
+      "first_seen": "2026-08-12T18:25:09.425573+00:00",
+      "location": "New York, New York",
+      "title": "Clinical Specialist, Enabling Technologies (NYC)",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/New-York-New-York/Clinical-Specialist--Enabling-Technologies--NYC-_R570601"
+    },
     "Stryker:R570611": {
       "alerted": false,
       "first_seen": "2026-08-07T00:27:36.150696+00:00",
@@ -101062,6 +101132,13 @@
       "location": "Atlanta, Georgia",
       "title": "Associate Sales Representative- Atlanta, GA- Peripheral Vascular",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Atlanta-Georgia/Associate-Sales-Representative--Atlanta--GA--Peripheral-Vascular_R571101"
+    },
+    "Stryker:R571111": {
+      "alerted": false,
+      "first_seen": "2026-08-12T18:25:09.425617+00:00",
+      "location": "Springfield, Illinois",
+      "title": "OnSite Specialist - Springfield, IL",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Springfield-Illinois/OnSite-Specialist---Springfield--IL_R571111"
     },
     "Stryker:R571136": {
       "alerted": false,
