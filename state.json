@@ -3763,6 +3763,13 @@
       "title": "Robotics Software Engineer, Vehicle Software",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/4672892007?gh_jid=4672892007"
     },
+    "Anduril:4672911007": {
+      "alerted": false,
+      "first_seen": "2026-08-13T23:06:28.517920+00:00",
+      "location": "Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States",
+      "title": "Mission Software Engineer, Vehicle Software, Frontend",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4672911007?gh_jid=4672911007"
+    },
     "Anduril:4672916007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.742688+00:00",
@@ -64138,6 +64145,20 @@
       "title": "Clinical Specialist - Cardiac Rhythm Management - Chicagoland North/Northwest Suburbs",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Chicago-Illinois-United-States-of-America/Clinical-Specialist---Cardiac-Rhythm-Management---Chicagoland-North-Northwest-Suburbs_R74409-1"
     },
+    "Medtronic:R74412": {
+      "alerted": false,
+      "first_seen": "2026-08-13T23:06:28.517986+00:00",
+      "location": "",
+      "title": "",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers"
+    },
+    "Medtronic:R74416": {
+      "alerted": false,
+      "first_seen": "2026-08-13T23:06:28.518053+00:00",
+      "location": "Fridley, Minnesota, United States of America",
+      "title": "Principal Software Engineer",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Principal-Software-Engineer_R74416-1"
+    },
     "Medtronic:R74417": {
       "alerted": false,
       "first_seen": "2026-08-10T22:49:22.728301+00:00",
@@ -64508,6 +64529,13 @@
       "location": "2 Locations",
       "title": "Senior Commercial Contracts Analyst, Future Opportunities - Minneapolis, MN",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Senior-Commercial-Contracts-Analyst--Future-Opportunities---Minneapolis--MN_R74749-1"
+    },
+    "Medtronic:R74767": {
+      "alerted": false,
+      "first_seen": "2026-08-13T23:06:28.518023+00:00",
+      "location": "Mounds View, Minnesota, United States of America",
+      "title": "PD Program Manager (ICT R&D), Mounds View, MN",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/PD-Program-Manager--ICT-R-D---Mounds-View--MN_R74767-1"
     },
     "Medtronic:R74779": {
       "alerted": false,
@@ -84507,6 +84535,13 @@
       "location": "UAE, Remote",
       "title": "Solutions Architect - NVIDIA Cloud Partners and Datacentre Infrastructure",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UAE-Remote/Solutions-Architect---NVIDIA-Cloud-Partners-and-Datacentre-Infrastructure_JR2023133"
+    },
+    "NVIDIA:JR2023144": {
+      "alerted": false,
+      "first_seen": "2026-08-13T23:06:28.517964+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Director, Industry Analyst Relations and Market Intelligence",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Director--Industry-Analyst-Relations-and-Market-Intelligence_JR2023144-1"
     },
     "NVIDIA:JR2023150": {
       "alerted": false,
@@ -107516,6 +107551,13 @@
       "location": "Mountain View, California, USA",
       "title": "Staff Hardware Reliability Engineer",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8124243"
+    },
+    "Waymo:8127006": {
+      "alerted": false,
+      "first_seen": "2026-08-13T23:06:28.517422+00:00",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
+      "title": "Perception Machine Learning Engineer - Continuous Learning",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8127006"
     }
   }
 }
