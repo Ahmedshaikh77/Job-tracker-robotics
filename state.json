@@ -1,10 +1,5 @@
 {
   "company_failures": {
-    "Anduril": {
-      "count": 1,
-      "last_error": "Anduril (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
-      "last_failed_at": "2026-08-13T15:35:12.187541+00:00"
-    },
     "Boston Dynamics": {
       "count": 6,
       "last_error": "Boston Dynamics (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/bostondynamics/jobs?content=true",
@@ -6196,6 +6191,13 @@
       "location": "Costa Mesa, California, United States",
       "title": "Supply Chain Master Data Analyst",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/4985350007?gh_jid=4985350007"
+    },
+    "Anduril:4985488007": {
+      "alerted": false,
+      "first_seen": "2026-08-13T16:28:57.515300+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Financial Analyst II, Software Platform",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4985488007?gh_jid=4985488007"
     },
     "Anduril:4985623007": {
       "alerted": false,
@@ -32146,6 +32148,13 @@
       "title": "Senior Product Manager, Salesforce (Government Cloud CRM)",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5207653007?gh_jid=5207653007"
     },
+    "Anduril:5207686007": {
+      "alerted": false,
+      "first_seen": "2026-08-13T16:28:57.516941+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Production Program Manager",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5207686007?gh_jid=5207686007"
+    },
     "Anduril:5207725007": {
       "alerted": false,
       "first_seen": "2026-08-10T02:25:54.758018+00:00",
@@ -32831,6 +32840,20 @@
       "location": "Hudson, New Hampshire, United States",
       "title": "Production Support Specialist - AIRS",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5211226007?gh_jid=5211226007"
+    },
+    "Anduril:5211453007": {
+      "alerted": false,
+      "first_seen": "2026-08-13T16:28:57.517798+00:00",
+      "location": "Washington, District of Columbia, United States",
+      "title": "Senior Technical Program Manager, Space Battle Management",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5211453007?gh_jid=5211453007"
+    },
+    "Anduril:5211457007": {
+      "alerted": false,
+      "first_seen": "2026-08-13T16:28:57.516177+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Operations Coordinator, Technical Publications ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5211457007?gh_jid=5211457007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -60867,6 +60890,13 @@
       "title": "Job Posting Title Sales Representative II - Surgical Innovations",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Brampton-Ontario-Canada/Job-Posting-Title-Sales-Representative-II---Surgical-Innovations_R73096"
     },
+    "Medtronic:R73099": {
+      "alerted": false,
+      "first_seen": "2026-08-13T16:28:57.514470+00:00",
+      "location": "2 Locations",
+      "title": "Sr Product  Marketing Manager.",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Bogot-Bogota-Colombia/Sr-Product--Marketing-Manager_R73099-1"
+    },
     "Medtronic:R73101": {
       "alerted": false,
       "first_seen": "2026-07-24T18:43:28.334008+00:00",
@@ -64143,6 +64173,13 @@
       "title": "Senior Sales Rep, Pelvic Health - Tulsa, OK",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Tulsa-Oklahoma-United-States-of-America/Senior-Sales-Rep--Pelvic-Health---Tulsa--OK_R74692"
     },
+    "Medtronic:R74696": {
+      "alerted": false,
+      "first_seen": "2026-08-13T16:28:57.514508+00:00",
+      "location": "Fridley, Minnesota, United States of America",
+      "title": "Senior Financial Analyst",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Senior-Financial-Analyst_R74696-1"
+    },
     "Medtronic:R74700": {
       "alerted": false,
       "first_seen": "2026-08-13T09:19:56.601750+00:00",
@@ -64520,6 +64557,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Senior ICV CAD Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-ICV-CAD-Engineer_JR1998042"
+    },
+    "NVIDIA:JR1998049": {
+      "alerted": false,
+      "first_seen": "2026-08-13T16:28:57.514426+00:00",
+      "location": "Israel, Yokneam",
+      "title": "Senior Test Design Architect",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Test-Design-Architect_JR1998049"
     },
     "NVIDIA:JR1998055": {
       "alerted": false,
@@ -83610,6 +83654,13 @@
       "title": "System Software Engineer - Local AI",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Pune/System-Software-Engineer---Local-AI_JR2022875"
     },
+    "NVIDIA:JR2022876": {
+      "alerted": false,
+      "first_seen": "2026-08-13T16:28:57.514248+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Product Manager \u2013 AI Inference Performance",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Product-Manager---AI-Inference-Performance_JR2022876"
+    },
     "NVIDIA:JR2022881": {
       "alerted": false,
       "first_seen": "2026-08-11T09:29:52.194838+00:00",
@@ -83813,6 +83864,13 @@
       "title": "Senior Manager, NCP and ISV Business Development",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--NCP-and-ISV-Business-Development_JR2023009"
     },
+    "NVIDIA:JR2023011": {
+      "alerted": false,
+      "first_seen": "2026-08-13T16:28:57.514296+00:00",
+      "location": "2 Locations",
+      "title": "Senior Signal and Power Integrity Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Senior-Signal-and-Power-Integrity-Engineer_JR2023011"
+    },
     "NVIDIA:JR2023021": {
       "alerted": false,
       "first_seen": "2026-08-11T05:17:56.498947+00:00",
@@ -84009,6 +84067,13 @@
       "title": "Senior Deep Learning Software Engineer, Inference",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Netherlands-Remote/Senior-Deep-Learning-Software-Engineer--Inference_JR2023106-1"
     },
+    "NVIDIA:JR2023111": {
+      "alerted": false,
+      "first_seen": "2026-08-13T16:28:57.514385+00:00",
+      "location": "Taiwan, Hsinchu",
+      "title": "Senior Packaging Technical Engineer - Hardware",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Senior-Packaging-Technical-Engineer---Hardware_JR2023111"
+    },
     "NVIDIA:JR2023115": {
       "alerted": false,
       "first_seen": "2026-08-11T21:59:03.952714+00:00",
@@ -84085,6 +84150,13 @@
       "location": "India, Bengaluru",
       "title": "Senior Staff Site Reliability Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Staff-Site-Reliability-Engineer_JR2023198"
+    },
+    "NVIDIA:JR2023212": {
+      "alerted": false,
+      "first_seen": "2026-08-13T16:28:57.514340+00:00",
+      "location": "China, Shanghai",
+      "title": "Circuit Design Engineer - Hardware",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Circuit-Design-Engineer---Hardware_JR2023212-1"
     },
     "NVIDIA:JR2023223": {
       "alerted": false,
@@ -101306,6 +101378,13 @@
       "title": "Staff Engineer Advanced Operations",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cork-Ireland/Staff-Engineer-Advanced-Operations_R570326"
     },
+    "Stryker:R570327": {
+      "alerted": false,
+      "first_seen": "2026-08-13T16:28:57.514107+00:00",
+      "location": "Florida, Jacksonville 7014 AC Skinner Pkwy",
+      "title": "Medical Device Driver - 1st Shift - $22.10/hr",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Florida-Jacksonville-7014-AC-Skinner-Pkwy/Medical-Device-Driver---1st-Shift----2210-hr_R570327-1"
+    },
     "Stryker:R570331": {
       "alerted": false,
       "first_seen": "2026-08-10T19:59:43.316556+00:00",
@@ -101704,6 +101783,13 @@
       "location": "New York, New York",
       "title": "Clinical Specialist, Enabling Technologies (NYC)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/New-York-New-York/Clinical-Specialist--Enabling-Technologies--NYC-_R570601"
+    },
+    "Stryker:R570610": {
+      "alerted": false,
+      "first_seen": "2026-08-13T16:28:57.514187+00:00",
+      "location": "2 Locations",
+      "title": "Regional Sales Manager- Southwest (Hospital) - Emergency Care",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Phoenix-Arizona/Regional-Sales-Manager--Southwest--Hospital----Emergency-Care_R570610"
     },
     "Stryker:R570611": {
       "alerted": false,
