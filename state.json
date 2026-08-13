@@ -3224,6 +3224,13 @@
       "title": "Senior Software Development Engineer",
       "url": "https://www.amazon.jobs/en/jobs/10500076/senior-software-development-engineer"
     },
+    "Amazon:10501206": {
+      "alerted": true,
+      "first_seen": "2026-08-13T18:25:58.864436+00:00",
+      "location": "Boston, Massachusetts, USA",
+      "title": "Applied Scientist II - Robotics Simulation, Amazon Robotics R&D",
+      "url": "https://www.amazon.jobs/en/jobs/10501206/applied-scientist-ii-robotics-simulation-amazon-robotics-r-d"
+    },
     "Anduril:4159543007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.742648+00:00",
@@ -31847,6 +31854,13 @@
       "title": "Production Test Specialist, Barracuda",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5205902007?gh_jid=5205902007"
     },
+    "Anduril:5205934007": {
+      "alerted": false,
+      "first_seen": "2026-08-13T18:25:58.866747+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Software Engineer - Maritime Integrated Solutions",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5205934007?gh_jid=5205934007"
+    },
     "Anduril:5205940007": {
       "alerted": false,
       "first_seen": "2026-08-07T17:05:32.663611+00:00",
@@ -32854,6 +32868,13 @@
       "location": "Costa Mesa, California, United States",
       "title": "Operations Coordinator, Technical Publications ",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5211457007?gh_jid=5211457007"
+    },
+    "Anduril:5211590007": {
+      "alerted": false,
+      "first_seen": "2026-08-13T18:25:58.865989+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Program Manager",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5211590007?gh_jid=5211590007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -59693,6 +59714,13 @@
       "title": "Prin Electrical Engineer",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Prin-Electrical-Engineer_R72632-2"
     },
+    "Medtronic:R72635": {
+      "alerted": false,
+      "first_seen": "2026-08-13T18:25:58.866887+00:00",
+      "location": "4 Locations",
+      "title": "Prin Quality Engineer",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Prin-Quality-Engineer_R72635-1"
+    },
     "Medtronic:R72637": {
       "alerted": false,
       "first_seen": "2026-08-07T09:37:19.013205+00:00",
@@ -63963,6 +63991,13 @@
       "title": "Sr Software Engineer",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Sr-Software-Engineer_R74426-1"
     },
+    "Medtronic:R74430": {
+      "alerted": false,
+      "first_seen": "2026-08-13T18:25:58.866846+00:00",
+      "location": "2 Locations",
+      "title": "Area Sales Manager, Enabling Technologies (Neurosurgery) - Chicago, IL",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Chicago-Illinois-United-States-of-America/Area-Sales-Manager--Enabling-Technologies--Neurosurgery----Chicago--IL_R74430-2"
+    },
     "Medtronic:R74437": {
       "alerted": false,
       "first_seen": "2026-08-12T17:28:22.049921+00:00",
@@ -64137,6 +64172,13 @@
       "location": "Prague, Hlavni Mesto\u00a0Praha, Czech Republic",
       "title": "Associate AFFERA\u2122 Mapping Specialist CAS",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Prague-Hlavni-MestoPraha-Czech-Republic/Associate-AFFERA--Mapping-Specialist-CAS_R74592-1"
+    },
+    "Medtronic:R74596": {
+      "alerted": false,
+      "first_seen": "2026-08-13T18:25:58.866934+00:00",
+      "location": "Philadelphia, Pennsylvania, United States of America",
+      "title": "Senior Clinical Specialist - Pelvic Health- Philadelphia, PA",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Philadelphia-Pennsylvania-United-States-of-America/Senior-Clinical-Specialist---Pelvic-Health--Philadelphia--PA_R74596-1"
     },
     "Medtronic:R74601": {
       "alerted": false,
@@ -66139,6 +66181,13 @@
       "location": "2 Locations",
       "title": "Senior ASIC Physical Design Engineer, Netlisting",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-ASIC-Physical-Design-Engineer--Netlisting_JR2010852-1"
+    },
+    "NVIDIA:JR2010856": {
+      "alerted": false,
+      "first_seen": "2026-08-13T18:25:58.864958+00:00",
+      "location": "4 Locations",
+      "title": "Senior HPC and Quantum Systems Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Senior-HPC-and-Quantum-Systems-Engineer_JR2010856"
     },
     "NVIDIA:JR2010874": {
       "alerted": false,
@@ -68625,6 +68674,13 @@
       "title": "Senior System Software Engineer, CUDA - Tegra",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-System-Software-Engineer--CUDA---Tegra_JR2015568"
     },
+    "NVIDIA:JR2015584": {
+      "alerted": false,
+      "first_seen": "2026-08-13T18:25:58.864877+00:00",
+      "location": "4 Locations",
+      "title": "Senior HPC and Quantum Systems Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Senior-HPC-and-Quantum-Systems-Engineer_JR2015584"
+    },
     "NVIDIA:JR2015588": {
       "alerted": false,
       "first_seen": "2026-06-11T11:02:09.557889+00:00",
@@ -69870,6 +69926,13 @@
       "location": "4 Locations",
       "title": "Product Program Manager",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Product-Program-Manager_JR2017192"
+    },
+    "NVIDIA:JR2017193": {
+      "alerted": false,
+      "first_seen": "2026-08-13T18:25:58.864995+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Contact Center Manager",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Contact-Center-Manager_JR2017193"
     },
     "NVIDIA:JR2017221": {
       "alerted": false,
@@ -83633,6 +83696,13 @@
       "title": "Senior Datacenter GPU Power Architect",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Datacenter-GPU-Power-Architect_JR2022846"
     },
+    "NVIDIA:JR2022848": {
+      "alerted": false,
+      "first_seen": "2026-08-13T18:25:58.864830+00:00",
+      "location": "5 Locations",
+      "title": "Senior ASIC Design Verification Infrastructure and Tools Engineer \u2013 GPU",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-ASIC-Design-Verification-Infrastructure-and-Tools-Engineer---GPU_JR2022848"
+    },
     "NVIDIA:JR2022850": {
       "alerted": false,
       "first_seen": "2026-08-07T12:02:31.292761+00:00",
@@ -83849,6 +83919,13 @@
       "location": "Israel, Yokneam",
       "title": "Software Verification Engineer, Networking",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Software-Verification-Engineer--Networking_JR2022969-1"
+    },
+    "NVIDIA:JR2022973": {
+      "alerted": false,
+      "first_seen": "2026-08-13T18:25:58.864918+00:00",
+      "location": "2 Locations",
+      "title": "Senior HPC DevOps Engineer, NCS",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-HPC-DevOps-Engineer--NCS_JR2022973"
     },
     "NVIDIA:JR2022978": {
       "alerted": false,
@@ -101448,6 +101525,13 @@
       "title": "Foot & Ankle Sales Associate - Ft Myers/Naples, FL",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Fort-Myers-Florida/Foot---Ankle-Sales-Associate---Ft-Myers-Naples--FL_R570347"
     },
+    "Stryker:R570361": {
+      "alerted": false,
+      "first_seen": "2026-08-13T18:25:58.864584+00:00",
+      "location": "2 Locations",
+      "title": "Sales Associate  - Columbia, MO - Sports Medicine",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Columbia-Missouri/Sales-Associate----Columbia--MO---Sports-Medicine_R570361"
+    },
     "Stryker:R570362": {
       "alerted": false,
       "first_seen": "2026-08-12T14:39:32.760035+00:00",
@@ -101994,6 +102078,13 @@
       "title": "Fabricator I - 2nd Shift - $20.50/hr + $2.00/hr Shift Premium",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Fabricator-I---2nd-Shift----2050-hr----200-hr-Shift-Premium_R570740"
     },
+    "Stryker:R570757": {
+      "alerted": false,
+      "first_seen": "2026-08-13T18:25:58.864497+00:00",
+      "location": "San Jose, California",
+      "title": "Repair Specialist",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Jose-California/Repair-Specialist_R570757"
+    },
     "Stryker:R570758": {
       "alerted": false,
       "first_seen": "2026-08-12T10:37:42.550563+00:00",
@@ -102021,6 +102112,13 @@
       "location": "2 Locations",
       "title": "Associate Sales Representative - Rochester/Syracuse - Interventional Spine (IVS)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Rochester-New-York/Associate-Sales-Representative---Rochester-Syracuse---Interventional-Spine--IVS-_R570763"
+    },
+    "Stryker:R570768": {
+      "alerted": false,
+      "first_seen": "2026-08-13T18:25:58.864535+00:00",
+      "location": "San Jose, California",
+      "title": "Repair Specialist",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Jose-California/Repair-Specialist_R570768"
     },
     "Stryker:R570769": {
       "alerted": false,
@@ -102288,6 +102386,13 @@
       "title": "Associate Sales Representative- Atlanta, GA- Peripheral Vascular",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Atlanta-Georgia/Associate-Sales-Representative--Atlanta--GA--Peripheral-Vascular_R571101"
     },
+    "Stryker:R571106": {
+      "alerted": false,
+      "first_seen": "2026-08-13T18:25:58.864639+00:00",
+      "location": "Kalamazoo, Michigan",
+      "title": "Assembly Technician II - 2nd Shift - $21.55 + $2.00 Shift Premium",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Kalamazoo-Michigan/Assembly-Technician-II---2nd-Shift----2155----200-Shift-Premium_R571106"
+    },
     "Stryker:R571108": {
       "alerted": false,
       "first_seen": "2026-08-13T15:35:12.192163+00:00",
@@ -102365,6 +102470,13 @@
       "title": "Field Clinical Specialist - Beaumont/Lufkin, TX - Peripheral Vascular",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Beaumont-Texas/Field-Clinical-Specialist---Beaumont-Lufkin--TX---Peripheral-Vascular_R571194"
     },
+    "Stryker:R571207": {
+      "alerted": false,
+      "first_seen": "2026-08-13T18:25:58.864687+00:00",
+      "location": "Portage, Michigan",
+      "title": "Staff Advanced Manufacturing Automation/Software Engineer",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Staff-Advanced-Manufacturing-Automation-Software-Engineer_R571207"
+    },
     "Stryker:R571217": {
       "alerted": false,
       "first_seen": "2026-08-12T10:37:42.550397+00:00",
@@ -102378,6 +102490,13 @@
       "location": "Venlo, Netherlands",
       "title": "Supply Chain Planner (6 month contract)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Venlo-Netherlands/Supply-Chain-Planner--6-month-contract-_R571231"
+    },
+    "Stryker:R571273": {
+      "alerted": false,
+      "first_seen": "2026-08-13T18:25:58.864736+00:00",
+      "location": "Savannah, Georgia",
+      "title": "Field Clinical Specialist- Savannah, GA- Peripheral Vascular",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Savannah-Georgia/Field-Clinical-Specialist--Savannah--GA--Peripheral-Vascular_R571273"
     },
     "Waymo:6367980": {
       "alerted": false,
