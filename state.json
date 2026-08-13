@@ -1,10 +1,5 @@
 {
   "company_failures": {
-    "Apptronik": {
-      "count": 1,
-      "last_error": "Apptronik (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
-      "last_failed_at": "2026-08-13T20:55:29.421710+00:00"
-    },
     "Boston Dynamics": {
       "count": 6,
       "last_error": "Boston Dynamics (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/bostondynamics/jobs?content=true",
@@ -29724,6 +29719,13 @@
       "title": "Senior Global Sourcing Manager, Raw Metals",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5195347007?gh_jid=5195347007"
     },
+    "Anduril:5195367007": {
+      "alerted": false,
+      "first_seen": "2026-08-13T21:33:37.540195+00:00",
+      "location": "Fort Stockton, Texas, United States",
+      "title": "Flight Test Operator - TRS",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5195367007?gh_jid=5195367007"
+    },
     "Anduril:5195457007": {
       "alerted": false,
       "first_seen": "2026-07-24T14:04:53.281723+00:00",
@@ -32979,6 +32981,13 @@
       "title": "Senior Production Recruiter",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5211645007?gh_jid=5211645007"
     },
+    "Anduril:5211676007": {
+      "alerted": false,
+      "first_seen": "2026-08-13T21:33:37.540911+00:00",
+      "location": "Washington, District of Columbia, United States",
+      "title": "Proposals Senior Analyst (Maritime)",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5211676007?gh_jid=5211676007"
+    },
     "Anduril:5211690007": {
       "alerted": false,
       "first_seen": "2026-08-13T19:32:07.482799+00:00",
@@ -33013,6 +33022,13 @@
       "location": "Aberdeen, Maryland, United States",
       "title": "Senior Mission Operations Engineer, Army Intelligence & C2 (Active Clearance)",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5211865007?gh_jid=5211865007"
+    },
+    "Anduril:5211896007": {
+      "alerted": false,
+      "first_seen": "2026-08-13T21:33:37.541952+00:00",
+      "location": "Broomfield, Colorado, United States; Fort Collins, Colorado, United States",
+      "title": "Technical Program Manager, Mathematical Software & Algorithms",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5211896007?gh_jid=5211896007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -60874,6 +60890,13 @@
       "title": "Quality Technician II",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Tijuana-Baja-California-Mexico/Quality-Technician-II_R73033-1"
     },
+    "Medtronic:R73034": {
+      "alerted": false,
+      "first_seen": "2026-08-13T21:33:37.541998+00:00",
+      "location": "Lafayette, Colorado, United States of America",
+      "title": "Sr. Software Automation Engineer",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Sr-Software-Engineer_R73034-1"
+    },
     "Medtronic:R73037": {
       "alerted": false,
       "first_seen": "2026-07-30T21:34:04.950611+00:00",
@@ -62525,6 +62548,13 @@
       "location": "Warsaw, Indiana, United States of America",
       "title": "Machinist III",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Warsaw-Indiana-United-States-of-America/Machinist-III_R73599-1"
+    },
+    "Medtronic:R73600": {
+      "alerted": false,
+      "first_seen": "2026-08-13T21:33:37.542053+00:00",
+      "location": "2 Locations",
+      "title": "PD Program Manager - CST - Lafayette, CO or Boxborough, MA (Onsite)",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/PD-Program-Manager---CST---Lafayette--CO-or-Boxborough--MA--Onsite-_R73600-1"
     },
     "Medtronic:R73614": {
       "alerted": false,
@@ -68482,6 +68512,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Senior Software Engineer, Firmware",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Firmware_JR2014879-1"
+    },
+    "NVIDIA:JR2014880": {
+      "alerted": false,
+      "first_seen": "2026-08-13T21:33:37.539467+00:00",
+      "location": "5 Locations",
+      "title": "Software Engineer, System Validation - EDA Infrastructure",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Next-Generation-Architecture---EDA-Infrastructure_JR2014880"
     },
     "NVIDIA:JR2014891": {
       "alerted": false,
@@ -84057,6 +84094,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Senior Software Engineer, Platforms",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Platforms_JR2022913"
+    },
+    "NVIDIA:JR2022915": {
+      "alerted": false,
+      "first_seen": "2026-08-13T21:33:37.539536+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Software Engineer, Networking",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Networking_JR2022915"
     },
     "NVIDIA:JR2022919": {
       "alerted": false,
@@ -102236,6 +102280,13 @@
       "location": "Los Angeles, California",
       "title": "OnSite Specialist - Mission Viejo, CA",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Los-Angeles-California/OnSite-Specialist---Mission-Viejo--CA_R570638"
+    },
+    "Stryker:R570647": {
+      "alerted": false,
+      "first_seen": "2026-08-13T21:33:37.539394+00:00",
+      "location": "San Antonio de Belen, Costa Rica",
+      "title": "Supplier Master Data Analyst- Fixed term",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Antonio-de-Belen-Costa-Rica/Supplier-Master-Data-Analyst--Fixed-term_R570647"
     },
     "Stryker:R570670": {
       "alerted": false,
