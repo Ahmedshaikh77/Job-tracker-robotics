@@ -1,5 +1,10 @@
 {
   "company_failures": {
+    "Apptronik": {
+      "count": 1,
+      "last_error": "Apptronik (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
+      "last_failed_at": "2026-08-13T20:55:29.421710+00:00"
+    },
     "Boston Dynamics": {
       "count": 6,
       "last_error": "Boston Dynamics (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/bostondynamics/jobs?content=true",
@@ -766,6 +771,13 @@
       "location": "Remote",
       "title": "Recruiting Coordinator (Contract)",
       "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6141052004"
+    },
+    "Agility Robotics:6142438004": {
+      "alerted": false,
+      "first_seen": "2026-08-13T20:55:29.425985+00:00",
+      "location": "Remote",
+      "title": "Director of Technical Accounting & Reporting",
+      "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6142438004"
     },
     "Amazon:10378626": {
       "alerted": false,
@@ -3237,6 +3249,13 @@
       "location": "Boston, Massachusetts, USA",
       "title": "Applied Scientist II - Robotics Simulation, Amazon Robotics R&D",
       "url": "https://www.amazon.jobs/en/jobs/10501206/applied-scientist-ii-robotics-simulation-amazon-robotics-r-d"
+    },
+    "Amazon:10501429": {
+      "alerted": false,
+      "first_seen": "2026-08-13T20:55:29.426085+00:00",
+      "location": "Seattle, Washington, USA",
+      "title": "Machine Learning Scientist - GenAI, KIT",
+      "url": "https://www.amazon.jobs/en/jobs/10501429/machine-learning-scientist-genai-kit"
     },
     "Anduril:4159543007": {
       "alerted": false,
@@ -32980,6 +32999,20 @@
       "location": "Costa Mesa, California, United States",
       "title": "Staff Global Sourcing Manager, Metals",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5211737007?gh_jid=5211737007"
+    },
+    "Anduril:5211809007": {
+      "alerted": false,
+      "first_seen": "2026-08-13T20:55:29.428029+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Staff DevOps Engineer ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5211809007?gh_jid=5211809007"
+    },
+    "Anduril:5211865007": {
+      "alerted": false,
+      "first_seen": "2026-08-13T20:55:29.427206+00:00",
+      "location": "Aberdeen, Maryland, United States",
+      "title": "Senior Mission Operations Engineer, Army Intelligence & C2 (Active Clearance)",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5211865007?gh_jid=5211865007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -67729,6 +67762,13 @@
       "title": "Senior Hardware System Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-System-Failure-Analysis-Engineer_JR2014028"
     },
+    "NVIDIA:JR2014033": {
+      "alerted": false,
+      "first_seen": "2026-08-13T20:55:29.426229+00:00",
+      "location": "6 Locations",
+      "title": "Senior Compiler Engineer - Backend GPU",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Compiler-Engineer---Backend-GPU_JR2014033-1"
+    },
     "NVIDIA:JR2014036": {
       "alerted": false,
       "first_seen": "2026-07-30T17:44:46.353624+00:00",
@@ -70661,6 +70701,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Director, Service Operations Fulfillment - Logistics and Supply Chain Intelligence",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director--Service-Operations-Fulfillment---Logistics-and-Supply-Chain-Intelligence_JR2017662-1"
+    },
+    "NVIDIA:JR2017681": {
+      "alerted": false,
+      "first_seen": "2026-08-13T20:55:29.426185+00:00",
+      "location": "2 Locations",
+      "title": "ASIC Physical Design Engineer, Netlisting - New College Grad 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Physical-Design-Engineer--Netlisting---New-College-Grad-2026_JR2017681"
     },
     "NVIDIA:JR2017697": {
       "alerted": false,
@@ -82428,6 +82475,13 @@
       "location": "3 Locations",
       "title": "Senior Software Technical Program Manager",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Technical-Program-Manager_JR2022214"
+    },
+    "NVIDIA:JR2022219": {
+      "alerted": false,
+      "first_seen": "2026-08-13T20:55:29.426288+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Applied Research Scientist, Multimodal Foundation Models \u2013 Healthcare",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Applied-Research-Scientist--Multimodal-Foundation-Models---Healthcare_JR2022219"
     },
     "NVIDIA:JR2022222": {
       "alerted": false,
@@ -101720,6 +101774,13 @@
       "location": "2 Locations",
       "title": "Foot & Ankle Sales Associate - Ft Myers/Naples, FL",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Fort-Myers-Florida/Foot---Ankle-Sales-Associate---Ft-Myers-Naples--FL_R570347"
+    },
+    "Stryker:R570349": {
+      "alerted": false,
+      "first_seen": "2026-08-13T20:55:29.426133+00:00",
+      "location": "Portage, Michigan",
+      "title": "Project Manager, Software",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Project-Manager--Software_R570349"
     },
     "Stryker:R570361": {
       "alerted": false,
