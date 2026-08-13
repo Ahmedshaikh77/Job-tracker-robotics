@@ -1,5 +1,10 @@
 {
   "company_failures": {
+    "Anduril": {
+      "count": 1,
+      "last_error": "Anduril (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
+      "last_failed_at": "2026-08-13T15:35:12.187541+00:00"
+    },
     "Boston Dynamics": {
       "count": 6,
       "last_error": "Boston Dynamics (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/bostondynamics/jobs?content=true",
@@ -33947,6 +33952,13 @@
       "title": "Senior Reinforcement Learning Engineer",
       "url": "https://boards.greenhouse.io/apptronik/jobs/6142286004?gh_jid=6142286004"
     },
+    "Apptronik:6142944004": {
+      "alerted": false,
+      "first_seen": "2026-08-13T15:35:12.191688+00:00",
+      "location": "Onsite - Austin, TX",
+      "title": "Senior Technical Program Manager",
+      "url": "https://boards.greenhouse.io/apptronik/jobs/6142944004?gh_jid=6142944004"
+    },
     "Formlabs:4994162": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.732746+00:00",
@@ -52035,6 +52047,13 @@
       "title": "Pricing Administration III",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Petaling-Jaya-Selangor-Malaysia/Pricing-Administration-III_R70175-1"
     },
+    "Medtronic:R70176": {
+      "alerted": false,
+      "first_seen": "2026-08-13T15:35:12.192465+00:00",
+      "location": "2 Locations",
+      "title": "Sales Representative in Acute Care & Monitoring (m/w/d)",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mollsfeld-Meerbusch-Germany/Sales-Representative-in-Acute-Care---Monitoring--m-w-d-_R70176"
+    },
     "Medtronic:R70179": {
       "alerted": false,
       "first_seen": "2026-06-23T20:21:42.414377+00:00",
@@ -60617,6 +60636,13 @@
       "title": "Senior Design Quality Engineer - Irvine",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Irvine-California-United-States-of-America/Senior-Design-Quality-Engineer---Irvine_R73018"
     },
+    "Medtronic:R73019": {
+      "alerted": false,
+      "first_seen": "2026-08-13T15:35:12.192679+00:00",
+      "location": "Minneapolis, Minnesota, United States of America",
+      "title": "Global Talent Strategy & Insights Program Manager",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Global-Talent-Strategy---Insights-Program-Manager_R73019-1"
+    },
     "Medtronic:R73022": {
       "alerted": false,
       "first_seen": "2026-08-04T18:58:10.433656+00:00",
@@ -63144,6 +63170,13 @@
       "title": "Clinical Specialist - Cardiac Rhythm Management - Columbus, Ohio",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Columbus-Ohio-United-States-of-America/Clinical-Specialist---Cardiac-Rhythm-Management---Columbus--Ohio_R73961-1"
     },
+    "Medtronic:R73967": {
+      "alerted": false,
+      "first_seen": "2026-08-13T15:35:12.192551+00:00",
+      "location": "4 Locations",
+      "title": "Field Service Engineer III (NJ, NY, PA, DE) - Electrophysiology Technologies",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/State-of-New-Jersey-United-States-of-America/Field-Service-Engineer-III--NJ--NY--PA--DE----Electrophysiology-Technologies_R73967-1"
+    },
     "Medtronic:R73975": {
       "alerted": false,
       "first_seen": "2026-08-04T22:43:12.889125+00:00",
@@ -64061,12 +64094,26 @@
       "title": "Associate AFFERA\u2122 Mapping Specialist CAS",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Prague-Hlavni-MestoPraha-Czech-Republic/Associate-AFFERA--Mapping-Specialist-CAS_R74592-1"
     },
+    "Medtronic:R74601": {
+      "alerted": false,
+      "first_seen": "2026-08-13T15:35:12.192496+00:00",
+      "location": "Humacao, Puerto Rico, United States of America",
+      "title": "Machinist l",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Humacao-Puerto-Rico-United-States-of-America/Machinist-l_R74601-1"
+    },
     "Medtronic:R74618": {
       "alerted": false,
       "first_seen": "2026-08-12T18:25:09.425756+00:00",
       "location": "Lafayette, Colorado, United States of America",
       "title": "Principal Innovation Manager, Anesthesia Monitoring",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Principal-Innovation-Manager--Anesthesia-Monitoring_R74618-1"
+    },
+    "Medtronic:R74620": {
+      "alerted": false,
+      "first_seen": "2026-08-13T15:35:12.192635+00:00",
+      "location": "Seattle, Washington, United States of America",
+      "title": "Senior Clinical Specialist - Pelvic Health- Seattle, WA",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Seattle-Washington-United-States-of-America/Senior-Clinical-Specialist---Pelvic-Health--Seattle--WA_R74620-1"
     },
     "Medtronic:R74630": {
       "alerted": false,
@@ -64075,6 +64122,27 @@
       "title": "Vascular Prin. Clinical Specialist - Gulfport, MS",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/State-of-Mississippi-United-States-of-America/Vascular-Prin-Clinical-Specialist---Gulfport--MS_R74630-2"
     },
+    "Medtronic:R74658": {
+      "alerted": false,
+      "first_seen": "2026-08-13T15:35:12.192589+00:00",
+      "location": "Alajuela Coyol, Alajuela, Costa Rica",
+      "title": "Machine Operator I.",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Alajuela-Coyol-Alajuela-Costa-Rica/Machine-Operator-I_R74658-1"
+    },
+    "Medtronic:R74667": {
+      "alerted": false,
+      "first_seen": "2026-08-13T15:35:12.192374+00:00",
+      "location": "Cleveland, Ohio, United States of America",
+      "title": "Sr. Surgical Account Manager (Cleveland OH)",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Cleveland-Ohio-United-States-of-America/Sr-Surgical-Account-Manager--Cleveland-OH-_R74667-1"
+    },
+    "Medtronic:R74692": {
+      "alerted": false,
+      "first_seen": "2026-08-13T15:35:12.192417+00:00",
+      "location": "Tulsa, Oklahoma, United States of America",
+      "title": "Senior Sales Rep, Pelvic Health - Tulsa, OK",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Tulsa-Oklahoma-United-States-of-America/Senior-Sales-Rep--Pelvic-Health---Tulsa--OK_R74692"
+    },
     "Medtronic:R74700": {
       "alerted": false,
       "first_seen": "2026-08-13T09:19:56.601750+00:00",
@@ -64082,12 +64150,33 @@
       "title": "Credit Services Supervisor- Cash Application (Mid-Shift)",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Taguig-City-National-Capital-Region-Philippines/Credit-Services-Supervisor--Cash-Application_R74700-1"
     },
+    "Medtronic:R74702": {
+      "alerted": false,
+      "first_seen": "2026-08-13T15:35:12.192300+00:00",
+      "location": "Ho Chi Minh City, Ho Chi Minh City, Vietnam",
+      "title": "Assembler I",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Ho-Chi-Minh-City-Ho-Chi-Minh-City-Vietnam/Assembler-I_R74702"
+    },
     "Medtronic:R74703": {
       "alerted": false,
       "first_seen": "2026-08-13T09:19:56.601689+00:00",
       "location": "Taguig City, National Capital Region, Philippines",
       "title": "Credit Services Supervisor, Back-Office (Mid Shift)",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Taguig-City-National-Capital-Region-Philippines/Back-office-Credit-Services-Supervisor_R74703-1"
+    },
+    "Medtronic:R74704": {
+      "alerted": false,
+      "first_seen": "2026-08-13T15:35:12.192331+00:00",
+      "location": "Ho Chi Minh City, Ho Chi Minh City, Vietnam",
+      "title": "Assembler I",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Ho-Chi-Minh-City-Ho-Chi-Minh-City-Vietnam/Assembler-I_R74704-1"
+    },
+    "Medtronic:R74705": {
+      "alerted": false,
+      "first_seen": "2026-08-13T15:35:12.192268+00:00",
+      "location": "Ho Chi Minh City, Ho Chi Minh City, Vietnam",
+      "title": "Assembler I",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Ho-Chi-Minh-City-Ho-Chi-Minh-City-Vietnam/Assembler-I_R74705-1"
     },
     "Medtronic:R74706": {
       "alerted": false,
@@ -97290,6 +97379,13 @@
       "title": "Territory Sales Manager, Trauma\u00a0",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Oslo-Norway/Territory-Sales-Manager--Trauma-_R568818"
     },
+    "Stryker:R568823": {
+      "alerted": false,
+      "first_seen": "2026-08-13T15:35:12.191886+00:00",
+      "location": "Cork, Ireland",
+      "title": "Associate Sourcing Manager",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cork-Ireland/Associate-Sourcing-Manager_R568823"
+    },
     "Stryker:R568825": {
       "alerted": false,
       "first_seen": "2026-07-24T08:40:51.431361+00:00",
@@ -100720,6 +100816,13 @@
       "title": "Test Lab Technician (Electrical/Software)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Test-Lab-Technician--Electrical-Software-_R570052"
     },
+    "Stryker:R570071": {
+      "alerted": false,
+      "first_seen": "2026-08-13T15:35:12.191993+00:00",
+      "location": "Harrisburg, Pennsylvania",
+      "title": "Associate Sales Representative - Harrisburg/York/Lancaster PA - Peripheral Vascular",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Harrisburg-Pennsylvania/Associate-Sales-Representative---Harrisburg-York-Lancaster-PA---Peripheral-Vascular_R570071"
+    },
     "Stryker:R570072": {
       "alerted": false,
       "first_seen": "2026-08-10T15:39:50.996880+00:00",
@@ -100754,6 +100857,13 @@
       "location": "Portage, Michigan",
       "title": "Senior Analyst, UDI Master Data - Remote",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Senior-Analyst--UDI-Master-Data---Remote_R570093"
+    },
+    "Stryker:R570095": {
+      "alerted": false,
+      "first_seen": "2026-08-13T15:35:12.192063+00:00",
+      "location": "Albany, New York",
+      "title": "Sales Associate - Albany, NY - Sports Medicine",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Albany-New-York/Sales-Associate---Albany--NY---Sports-Medicine_R570095"
     },
     "Stryker:R570096": {
       "alerted": false,
@@ -101175,6 +101285,20 @@
       "title": "Senior Staff Software Engineer",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Bengaluru-India/Senior-Staff-Software-Engineer_R570311"
     },
+    "Stryker:R570317": {
+      "alerted": false,
+      "first_seen": "2026-08-13T15:35:12.191844+00:00",
+      "location": "Carrigtwohill, Ireland",
+      "title": "Staff Mechanical Design Engineer R&D",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Carrigtwohill-Ireland/Staff-Mechanical-Design-Engineer-R-D_R570317"
+    },
+    "Stryker:R570320": {
+      "alerted": false,
+      "first_seen": "2026-08-13T15:35:12.191799+00:00",
+      "location": "Carrigtwohill, Ireland",
+      "title": "Mechanical Design Engineer R&D",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Carrigtwohill-Ireland/Mechanical-Design-Engineer-R-D_R570320"
+    },
     "Stryker:R570326": {
       "alerted": false,
       "first_seen": "2026-08-10T17:24:22.239610+00:00",
@@ -101518,12 +101642,26 @@
       "title": "Associate Sales Representative - Windy River - Injury/Infection Prevention",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Chicago-Illinois/Associate-Sales-Representative---Windy-River---Injury-Infection-Prevention_R570527"
     },
+    "Stryker:R570528": {
+      "alerted": false,
+      "first_seen": "2026-08-13T15:35:12.192229+00:00",
+      "location": "Phoenix, Arizona",
+      "title": "Senior Manufacturing Engineer",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Phoenix-Arizona/Senior-Manufacturing-Engineer_R570528"
+    },
     "Stryker:R570532": {
       "alerted": false,
       "first_seen": "2026-08-07T00:27:36.150606+00:00",
       "location": "Tijuana, Mexico",
       "title": "Assembler",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tijuana-Mexico/Assembler_R570532"
+    },
+    "Stryker:R570539": {
+      "alerted": false,
+      "first_seen": "2026-08-13T15:35:12.192106+00:00",
+      "location": "Cary, Illinois",
+      "title": "Senior Manufacturing Engineer",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cary-Illinois/Senior-Manufacturing-Engineer_R570539"
     },
     "Stryker:R570584": {
       "alerted": false,
@@ -101805,12 +101943,26 @@
       "title": "Field Clinical Specialist - Chicago/Chicago Suburbs, IL - Peripheral Vascular",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Chicago-Illinois/Field-Clinical-Specialist---Chicago-Chicago-Suburbs--IL---Peripheral-Vascular_R570826"
     },
+    "Stryker:R570828": {
+      "alerted": false,
+      "first_seen": "2026-08-13T15:35:12.192189+00:00",
+      "location": "",
+      "title": "",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers"
+    },
     "Stryker:R570832": {
       "alerted": false,
       "first_seen": "2026-08-07T20:17:39.423893+00:00",
       "location": "Flower Mound, Texas",
       "title": "Staff Quality Engineer, Post Market",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Flower-Mound-Texas/Staff-Quality-Engineer--Post-Market_R570832-1"
+    },
+    "Stryker:R570834": {
+      "alerted": false,
+      "first_seen": "2026-08-13T15:35:12.191753+00:00",
+      "location": "San Antonio, Texas",
+      "title": "Team Lead OnSite Operations- San Antonio, TX",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Antonio-Texas/Team-Lead-OnSite-Operations--San-Antonio--TX_R570834"
     },
     "Stryker:R570844": {
       "alerted": false,
@@ -101902,6 +102054,13 @@
       "location": "Selzach, Switzerland",
       "title": "Senior Staff Regulatory Affairs (m/f/d)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Selzach-Switzerland/Senior-Staff-Regulatory-Affairs--m-f-d-_R570952"
+    },
+    "Stryker:R570955": {
+      "alerted": false,
+      "first_seen": "2026-08-13T15:35:12.191936+00:00",
+      "location": "Detroit, Michigan",
+      "title": "Associate Sales Representative, Joint Replacement - Detroit, MI",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Detroit-Michigan/Associate-Sales-Representative--Joint-Replacement---Detroit--MI_R570955-1"
     },
     "Stryker:R570978": {
       "alerted": false,
@@ -102000,6 +102159,13 @@
       "location": "Atlanta, Georgia",
       "title": "Associate Sales Representative- Atlanta, GA- Peripheral Vascular",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Atlanta-Georgia/Associate-Sales-Representative--Atlanta--GA--Peripheral-Vascular_R571101"
+    },
+    "Stryker:R571108": {
+      "alerted": false,
+      "first_seen": "2026-08-13T15:35:12.192163+00:00",
+      "location": "Portage, Michigan",
+      "title": "Fabricator III - 2nd Shift - $23.80/hr + $2.00/hr Shift Differential",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Fabricator-III---2nd-Shift----2380-hr----200-hr-Shift-Differential_R571108"
     },
     "Stryker:R571111": {
       "alerted": false,
