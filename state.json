@@ -1,5 +1,10 @@
 {
   "company_failures": {
+    "Anduril": {
+      "count": 1,
+      "last_error": "Anduril (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
+      "last_failed_at": "2026-08-13T06:41:24.064069+00:00"
+    },
     "Boston Dynamics": {
       "count": 6,
       "last_error": "Boston Dynamics (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/bostondynamics/jobs?content=true",
@@ -61429,6 +61434,13 @@
       "title": "Senior Cybersecurity Specialist",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Senior-Cybersecurity-Specialist_R73301-1"
     },
+    "Medtronic:R73302": {
+      "alerted": false,
+      "first_seen": "2026-08-13T06:41:24.067667+00:00",
+      "location": "2 Locations",
+      "title": "Principal Product Specialist - Key Account Management",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Gurgaon-Haryana-India/Principal-Product-Specialist_R73302-1"
+    },
     "Medtronic:R73303": {
       "alerted": false,
       "first_seen": "2026-07-30T03:19:38.878531+00:00",
@@ -62598,6 +62610,13 @@
       "title": "CRM_Clinical Specialist_Shanghai",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Shanghai-Shanghai-China/CRM-Clinical-Specialist-Shanghai_R73750-1"
     },
+    "Medtronic:R73751": {
+      "alerted": false,
+      "first_seen": "2026-08-13T06:41:24.067778+00:00",
+      "location": "Chengdu, Sichuan, China",
+      "title": "CRM_CIED_Technical Sales Representative_Chengdu",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Chengdu-Sichuan-China/CRM-CIED-Technical-Sales-Representative-Chengdu_R73751-1"
+    },
     "Medtronic:R73754": {
       "alerted": false,
       "first_seen": "2026-08-07T00:27:36.169712+00:00",
@@ -63024,6 +63043,13 @@
       "location": "Tijuana, Baja California, Mexico",
       "title": "Process Engineer I",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Tijuana-Baja-California-Mexico/Process-Engineer-I_R73949-1"
+    },
+    "Medtronic:R73950": {
+      "alerted": false,
+      "first_seen": "2026-08-13T06:41:24.067730+00:00",
+      "location": "Tijuana, Baja California, Mexico",
+      "title": "Sr IT Business Analyst",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Tijuana-Baja-California-Mexico/Sr-IT-Business-Analyst_R73950"
     },
     "Medtronic:R73954": {
       "alerted": false,
@@ -67868,6 +67894,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Senior Developer Relations Manager \u2013 AgentOps",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Developer-Relations-Manager---AgentOps_JR2014797"
+    },
+    "NVIDIA:JR2014803": {
+      "alerted": false,
+      "first_seen": "2026-08-13T06:41:24.067618+00:00",
+      "location": "China, Shenzhen",
+      "title": "Supplier Operations Program Manager",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shenzhen/Supplier-Operations-Program-Manager_JR2014803"
     },
     "NVIDIA:JR2014814": {
       "alerted": false,
@@ -101342,6 +101375,13 @@
       "location": "Magdeburg, Germany",
       "title": "Talent Pool: Associate Mako Product Specialist (m/w/d) Gro\u00dfraum Magdeburg",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Magdeburg-Germany/Talent-Pool--Associate-Mako-Product-Specialist--m-w-d--Groraum-Magdeburg_R570680"
+    },
+    "Stryker:R570682": {
+      "alerted": false,
+      "first_seen": "2026-08-13T06:41:24.067560+00:00",
+      "location": "Gurugram, India",
+      "title": "Project Manager- Mechanical",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Gurugram-India/Project-Manager--Mechanical_R570682"
     },
     "Stryker:R570686": {
       "alerted": false,
