@@ -6080,6 +6080,13 @@
       "title": "Software Engineer, Discovery",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/4975955007?gh_jid=4975955007"
     },
+    "Anduril:4976024007": {
+      "alerted": false,
+      "first_seen": "2026-08-14T17:07:15.540561+00:00",
+      "location": "Washington, District of Columbia, United States",
+      "title": "Staff Program Manager, Strategic Defense",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4976024007?gh_jid=4976024007"
+    },
     "Anduril:4976038007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.742136+00:00",
@@ -32610,6 +32617,20 @@
       "title": "Senior Manufacturing Software Engineer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5209128007?gh_jid=5209128007"
     },
+    "Anduril:5209130007": {
+      "alerted": false,
+      "first_seen": "2026-08-14T17:07:15.540037+00:00",
+      "location": "Morrisville, North Carolina, United States",
+      "title": "Senior Manufacturing Engineer, Development",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5209130007?gh_jid=5209130007"
+    },
+    "Anduril:5209133007": {
+      "alerted": false,
+      "first_seen": "2026-08-14T17:07:15.539534+00:00",
+      "location": "Morrisville, North Carolina, United States",
+      "title": "Manufacturing Engineer, Development",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5209133007?gh_jid=5209133007"
+    },
     "Anduril:5209172007": {
       "alerted": false,
       "first_seen": "2026-08-11T14:56:26.819940+00:00",
@@ -33051,12 +33072,26 @@
       "title": "Senior Mission Operations Engineer, Army Intelligence & C2 (Active Clearance)",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5211865007?gh_jid=5211865007"
     },
+    "Anduril:5211875007": {
+      "alerted": false,
+      "first_seen": "2026-08-14T17:07:15.539035+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Director, Finance Systems",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5211875007?gh_jid=5211875007"
+    },
     "Anduril:5211896007": {
       "alerted": false,
       "first_seen": "2026-08-13T21:33:37.541952+00:00",
       "location": "Broomfield, Colorado, United States; Fort Collins, Colorado, United States",
       "title": "Technical Program Manager, Mathematical Software & Algorithms",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5211896007?gh_jid=5211896007"
+    },
+    "Anduril:5211980007": {
+      "alerted": false,
+      "first_seen": "2026-08-14T17:07:15.538480+00:00",
+      "location": "Irvine, California, United States",
+      "title": "Deployment Lead, West Coast",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5211980007?gh_jid=5211980007"
     },
     "Anduril:5212011007": {
       "alerted": false,
@@ -64586,6 +64621,13 @@
       "title": "Clinical Specialist - CRM",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Vancouver-British-Columbia-Canada/Clinical-Specialist---CRM_R74564-1"
     },
+    "Medtronic:R74566": {
+      "alerted": false,
+      "first_seen": "2026-08-14T17:07:15.540739+00:00",
+      "location": "Ciudad Juarez, Chihuahua, Mexico",
+      "title": "TECNICO DE CALIBRACION IV",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Ciudad-Juarez-Chihuahua-Mexico/TECNICO-DE-CALIBRACION-IV_R74566-2"
+    },
     "Medtronic:R74581": {
       "alerted": false,
       "first_seen": "2026-08-12T08:17:47.983566+00:00",
@@ -64837,6 +64879,13 @@
       "location": "Valencia, Comunidad Valenciana, Spain",
       "title": "Electrophysiology Mapping Specialist",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Valencia-Comunidad-Valenciana-Spain/Electrophysiology-Mapping-Specialist_R74809"
+    },
+    "Medtronic:R74844": {
+      "alerted": false,
+      "first_seen": "2026-08-14T17:07:15.540766+00:00",
+      "location": "Austin, Texas, United States of America",
+      "title": "Sr Clinical Specialist, CST - Austin, TX",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Austin-Texas-United-States-of-America/Sr-Clinical-Specialist--CST---Austin--TX_R74844-1"
     },
     "NVIDIA:JR1968313": {
       "alerted": true,
@@ -76045,6 +76094,13 @@
       "title": "AI Compute Engineer - NVIS",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Compute-Engineer---NVIS_JR2019842"
     },
+    "NVIDIA:JR2019844": {
+      "alerted": false,
+      "first_seen": "2026-08-14T17:07:15.540662+00:00",
+      "location": "6 Locations",
+      "title": "Senior Deep Learning Compiler Engineer - XLA",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Deep-Learning-Compiler-Engineer---XLA_JR2019844"
+    },
     "NVIDIA:JR2019846": {
       "alerted": false,
       "first_seen": "2026-06-24T19:20:29.770586+00:00",
@@ -85060,6 +85116,20 @@
       "location": "India, Bengaluru",
       "title": "Systems Software Engineer, CPU Manageability Stack",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Systems-Software-Engineer--CPU-Manageability-Stack_JR2023337"
+    },
+    "NVIDIA:JR2023339": {
+      "alerted": false,
+      "first_seen": "2026-08-14T17:07:15.540714+00:00",
+      "location": "2 Locations",
+      "title": "Forward Product Engineering Lead",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Forward-Product-Engineering-Lead_JR2023339"
+    },
+    "NVIDIA:JR2023372": {
+      "alerted": false,
+      "first_seen": "2026-08-14T17:07:15.540689+00:00",
+      "location": "2 Locations",
+      "title": "Compiler Engineer - AI Inference",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Remote/Compiler-Engineer---AI-Inference_JR2023372"
     },
     "NVIDIA:JR2023428": {
       "alerted": false,
@@ -102617,6 +102687,13 @@
       "title": "VTE Account Manager - St. Louis, MO - Peripheral Vascular",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/St-Louis-Missouri/VTE-Account-Manager---St-Louis--MO---Peripheral-Vascular_R570462-1"
     },
+    "Stryker:R570464": {
+      "alerted": false,
+      "first_seen": "2026-08-14T17:07:15.540598+00:00",
+      "location": "Florida, Jacksonville 7014 AC Skinner Pkwy",
+      "title": "Medical Device Driver - 1st Shift - $22.10/hr",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Florida-Jacksonville-7014-AC-Skinner-Pkwy/Medical-Device-Driver---1st-Shift----2210-hr_R570464-1"
+    },
     "Stryker:R570466": {
       "alerted": false,
       "first_seen": "2026-08-11T13:59:18.651740+00:00",
@@ -102931,6 +103008,13 @@
       "location": "Iowa City, Iowa",
       "title": "OnSite Specialist - Iowa City, IA",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Iowa-City-Iowa/OnSite-Specialist---Iowa-City--IA_R570704"
+    },
+    "Stryker:R570708": {
+      "alerted": false,
+      "first_seen": "2026-08-14T17:07:15.540634+00:00",
+      "location": "3 Locations",
+      "title": "Upper Extremities Associate Sales Representative - Phoenix, AZ",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Arizona-Virtual-Address/Upper-Extremities-Associate-Sales-Representative---Phoenix--AZ_R570708"
     },
     "Stryker:R570711": {
       "alerted": false,
