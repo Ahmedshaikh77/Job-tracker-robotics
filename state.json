@@ -63543,6 +63543,13 @@
       "title": "Senior Manufacturing Engineer",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Senior-Manufacturing-Engineer_R74005-1"
     },
+    "Medtronic:R74006": {
+      "alerted": false,
+      "first_seen": "2026-08-14T10:40:13.711671+00:00",
+      "location": "Nanakramguda, Hyderabad, India",
+      "title": "Senior Servicenow Developer",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Senior-Servicenow-Developer_R74006-1"
+    },
     "Medtronic:R74007": {
       "alerted": false,
       "first_seen": "2026-08-14T09:45:39.359936+00:00",
@@ -64662,6 +64669,13 @@
       "location": "Barcelona, Catalu\u00f1a, Spain",
       "title": "Senior Electrophysiology Mapping Specialist",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Barcelona-Catalua-Spain/Senior-Electrophysiology-Mapping-Specialist_R74808"
+    },
+    "Medtronic:R74809": {
+      "alerted": false,
+      "first_seen": "2026-08-14T10:40:13.711706+00:00",
+      "location": "Valencia, Comunidad Valenciana, Spain",
+      "title": "Electrophysiology Mapping Specialist",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Valencia-Comunidad-Valenciana-Spain/Electrophysiology-Mapping-Specialist_R74809"
     },
     "NVIDIA:JR1968313": {
       "alerted": true,
@@ -82135,6 +82149,13 @@
       "title": "Intellectual Property Security Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Intellectual-Property-Security-Engineer_JR2021915"
     },
+    "NVIDIA:JR2021916": {
+      "alerted": false,
+      "first_seen": "2026-08-14T10:40:13.711640+00:00",
+      "location": "Israel, Yokneam",
+      "title": "FC Verification Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/FC-Verification-Engineer_JR2021916-1"
+    },
     "NVIDIA:JR2021919": {
       "alerted": false,
       "first_seen": "2026-07-24T20:01:40.880574+00:00",
@@ -83654,6 +83675,13 @@
       "title": "Senior Memory Subsystem Architect",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Memory-Subsystem-Architect_JR2022648"
     },
+    "NVIDIA:JR2022650": {
+      "alerted": false,
+      "first_seen": "2026-08-14T10:40:13.711445+00:00",
+      "location": "Taiwan, Taipei",
+      "title": "Internal Auditor - Operations",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Internal-Auditor---Operations_JR2022650"
+    },
     "NVIDIA:JR2022657": {
       "alerted": false,
       "first_seen": "2026-08-11T05:17:56.498900+00:00",
@@ -84606,6 +84634,13 @@
       "title": "Director, Marketing Platform Engineering and Personalization",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director--Marketing-Platform-Engineering-and-Personalization_JR2023097"
     },
+    "NVIDIA:JR2023100": {
+      "alerted": false,
+      "first_seen": "2026-08-14T10:40:13.711504+00:00",
+      "location": "Thailand, Remote",
+      "title": "Senior Account Manager \u2013 Thailand",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Thailand-Remote/Senior-Account-Manager---Thailand_JR2023100"
+    },
     "NVIDIA:JR2023101": {
       "alerted": false,
       "first_seen": "2026-08-11T09:29:52.194552+00:00",
@@ -84746,12 +84781,33 @@
       "title": "Senior Verification Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Verification-Engineer_JR2023223"
     },
+    "NVIDIA:JR2023232": {
+      "alerted": false,
+      "first_seen": "2026-08-14T10:40:13.711579+00:00",
+      "location": "2 Locations",
+      "title": "ASIC Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/ASIC-Engineer_JR2023232"
+    },
     "NVIDIA:JR2023238": {
       "alerted": false,
       "first_seen": "2026-08-12T16:29:00.356550+00:00",
       "location": "2 Locations",
       "title": "Senior Account Manager, CSP - Networking",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Account-Manager--CSP---Networking_JR2023238"
+    },
+    "NVIDIA:JR2023239": {
+      "alerted": false,
+      "first_seen": "2026-08-14T10:40:13.711611+00:00",
+      "location": "2 Locations",
+      "title": "SOC Verification Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/SOC-Verification-Engineer_JR2023239"
+    },
+    "NVIDIA:JR2023252": {
+      "alerted": false,
+      "first_seen": "2026-08-14T10:40:13.711550+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Software Engineer, Deep Learning Libraries - New College Graduate 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Deep-Learning-Libraries---New-College-Graduate-2026_JR2023252"
     },
     "NVIDIA:JR2023254": {
       "alerted": false,
