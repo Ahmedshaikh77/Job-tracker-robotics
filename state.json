@@ -10,6 +10,11 @@
       "last_error": "Covariant (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/covariant/jobs?content=true",
       "last_failed_at": "2026-05-28T22:16:18.588190+00:00"
     },
+    "Formlabs": {
+      "count": 1,
+      "last_error": "Formlabs (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
+      "last_failed_at": "2026-08-14T23:33:06.030631+00:00"
+    },
     "Shield AI": {
       "count": 6,
       "last_error": "Shield AI (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/shieldai/jobs?content=true",
@@ -33261,12 +33266,33 @@
       "title": "Technical Writer, Autonomous Airpower",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5212880007?gh_jid=5212880007"
     },
+    "Anduril:5212897007": {
+      "alerted": false,
+      "first_seen": "2026-08-14T23:33:06.036926+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Manager, Asset Management",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5212897007?gh_jid=5212897007"
+    },
     "Anduril:5212971007": {
       "alerted": false,
       "first_seen": "2026-08-14T23:08:59.964910+00:00",
       "location": "Costa Mesa, California, United States",
       "title": "Copy of Head of Growth, Imaging",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5212971007?gh_jid=5212971007"
+    },
+    "Anduril:5212991007": {
+      "alerted": false,
+      "first_seen": "2026-08-14T23:33:06.036104+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Data Analyst, Manufacturing",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5212991007?gh_jid=5212991007"
+    },
+    "Anduril:5212993007": {
+      "alerted": false,
+      "first_seen": "2026-08-14T23:33:06.035423+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Lead Data Analyst,  Manufacturing",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5212993007?gh_jid=5212993007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -65194,6 +65220,13 @@
       "location": "S\u00e3o Sebasti\u00e3o do Para\u00edso, Minas Gerais, Brazil",
       "title": "Operador de Produ\u00e7\u00e3o II",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/So-Sebastio-do-Paraso-Minas-Gerais-Brazil/Operador-de-Produo-II_R74865"
+    },
+    "Medtronic:R74875": {
+      "alerted": false,
+      "first_seen": "2026-08-14T23:33:06.036975+00:00",
+      "location": "Tijuana, Baja California, Mexico",
+      "title": "OPERADOR N1 INICIAL",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Tijuana-Baja-California-Mexico/OPERADOR-N1-INICIAL_R74875-1"
     },
     "NVIDIA:JR1968313": {
       "alerted": true,
