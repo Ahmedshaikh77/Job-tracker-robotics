@@ -33065,6 +33065,13 @@
       "title": "Senior Recruiting Manager, Advanced Effects",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5212029007?gh_jid=5212029007"
     },
+    "Anduril:5212298007": {
+      "alerted": false,
+      "first_seen": "2026-08-14T15:21:47.757620+00:00",
+      "location": "Reston, Virginia, United States",
+      "title": "Mission Integration Engineer, Intelligence Systems",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5212298007?gh_jid=5212298007"
+    },
     "Apptronik:5572958004": {
       "alerted": false,
       "first_seen": "2026-06-08T14:54:52.580418+00:00",
@@ -64110,6 +64117,20 @@
       "title": "Sr. Software Systems Engineer",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Sr-Software-Systems-Engineer_R74266-1"
     },
+    "Medtronic:R74268": {
+      "alerted": false,
+      "first_seen": "2026-08-14T15:21:47.757714+00:00",
+      "location": "Memphis, Tennessee, United States of America",
+      "title": "Quality Engineer I - Memphis, TN",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Memphis-Tennessee-United-States-of-America/Quality-Engineer-I---Memphis--TN_R74268-1"
+    },
+    "Medtronic:R74270": {
+      "alerted": false,
+      "first_seen": "2026-08-14T15:21:47.757761+00:00",
+      "location": "Mounds View, Minnesota, United States of America",
+      "title": "Software Engineering Manager - Cardiac Ablation Solutions",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Software-Engineering-Manager---Cardiac-Ablation-Solutions_R74270-1"
+    },
     "Medtronic:R74283": {
       "alerted": false,
       "first_seen": "2026-08-08T05:09:23.123434+00:00",
@@ -64613,6 +64634,13 @@
       "location": "State of Mississippi, United States of America",
       "title": "Vascular Prin. Clinical Specialist - Gulfport, MS",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/State-of-Mississippi-United-States-of-America/Vascular-Prin-Clinical-Specialist---Gulfport--MS_R74630-2"
+    },
+    "Medtronic:R74638": {
+      "alerted": false,
+      "first_seen": "2026-08-14T15:21:47.757670+00:00",
+      "location": "Ciudad Juarez, Chihuahua, Mexico",
+      "title": "TECNICO DE MTTO DE EQUIPO V",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Ciudad-Juarez-Chihuahua-Mexico/TECNICO-DE-MTTO-DE-EQUIPO-V_R74638-1"
     },
     "Medtronic:R74658": {
       "alerted": false,
@@ -84949,6 +84977,13 @@
       "title": "Business Operations Technical Program Manager \u2014 DGX Cloud",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Business-Operations-Technical-Program-Manager---DGX-Cloud_JR2023286"
     },
+    "NVIDIA:JR2023304": {
+      "alerted": false,
+      "first_seen": "2026-08-14T15:21:47.756970+00:00",
+      "location": "2 Locations",
+      "title": "Senior System Software Engineer - Boot SW Engineering",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Hyderabad/Senior-System-Software-Engineer---Boot-SW-Engineer_JR2023304"
+    },
     "NVIDIA:JR2023309": {
       "alerted": false,
       "first_seen": "2026-08-13T08:03:15.398741+00:00",
@@ -102379,6 +102414,27 @@
       "title": "OnSite Specialist - FairFax, VA",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/District-of-Columbia-Washington/OnSite-Specialist---FairFax--VA_R570399"
     },
+    "Stryker:R570406": {
+      "alerted": false,
+      "first_seen": "2026-08-14T15:21:47.756875+00:00",
+      "location": "Arlington, Tennessee",
+      "title": "Machinist I - Weekend - $23.80/hr + $1.00 Shift Premium",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Arlington-Tennessee/Machinist-I---Weekend----2380-hr----100-Shift-Premium_R570406"
+    },
+    "Stryker:R570411": {
+      "alerted": false,
+      "first_seen": "2026-08-14T15:21:47.756823+00:00",
+      "location": "Tennessee, Arlington 11576 Memphis Arlington Rd",
+      "title": "Machinist II - Weekend Shift - $26.60/hr + $1.00 Shift Premium",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tennessee-Arlington-11576-Memphis-Arlington-Rd/Machinist-II---Weekend-Shift----2660-hr----100-Shift-Premium_R570411"
+    },
+    "Stryker:R570412": {
+      "alerted": false,
+      "first_seen": "2026-08-14T15:21:47.756764+00:00",
+      "location": "Arlington, Tennessee",
+      "title": "Machinist II \u2013 Weekend Shift - $26.60/hr + $1.00 Shift Premium",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Arlington-Tennessee/Machinist-II---Weekend-Shift----2660-hr----100-Shift-Premium_R570412"
+    },
     "Stryker:R570419": {
       "alerted": false,
       "first_seen": "2026-08-13T19:32:07.481073+00:00",
@@ -102974,6 +103030,13 @@
       "title": "Team Lead OnSite Operations- San Antonio, TX",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Antonio-Texas/Team-Lead-OnSite-Operations--San-Antonio--TX_R570834"
     },
+    "Stryker:R570842": {
+      "alerted": false,
+      "first_seen": "2026-08-14T15:21:47.756923+00:00",
+      "location": "Little Rock, Arkansas",
+      "title": "Sales Associate - Little Rock, AR - Sports Medicine",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Little-Rock-Arkansas/Sales-Associate---Little-Rock--AR---Sports-Medicine_R570842"
+    },
     "Stryker:R570844": {
       "alerted": false,
       "first_seen": "2026-08-11T10:25:03.901356+00:00",
@@ -103148,6 +103211,13 @@
       "location": "Lanzhou Shi, China",
       "title": "Endo_Senior Key Account Manager_Lanzhou",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Lanzhou-Shi-China/Endo-Senior-Key-Account-Manager-Lanzhou_R571043"
+    },
+    "Stryker:R571054": {
+      "alerted": false,
+      "first_seen": "2026-08-14T15:21:47.756674+00:00",
+      "location": "Cleveland, Ohio",
+      "title": "Associate Sales Representative - Cleveland, OH - Injury/Infection Prevention",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cleveland-Ohio/Associate-Sales-Representative---Cleveland--OH---Injury-Infection-Prevention_R571054"
     },
     "Stryker:R571069": {
       "alerted": false,
