@@ -3259,6 +3259,13 @@
       "title": "Machine Learning Scientist - GenAI, KIT",
       "url": "https://www.amazon.jobs/en/jobs/10501429/machine-learning-scientist-genai-kit"
     },
+    "Amazon:10502731": {
+      "alerted": false,
+      "first_seen": "2026-08-14T20:15:17.907504+00:00",
+      "location": "New York, New York, USA",
+      "title": "Sr Software Development Engineer, Perception, Fauna",
+      "url": "https://www.amazon.jobs/en/jobs/10502731/sr-software-development-engineer-perception-fauna"
+    },
     "Anduril:4159543007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.742648+00:00",
@@ -33184,6 +33191,13 @@
       "title": "Senior Commodity Engineer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5212690007?gh_jid=5212690007"
     },
+    "Anduril:5212780007": {
+      "alerted": false,
+      "first_seen": "2026-08-14T20:15:17.908399+00:00",
+      "location": "Reston, Virginia, United States",
+      "title": " PCB Layout Engineer, Intelligence Systems",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5212780007?gh_jid=5212780007"
+    },
     "Apptronik:5572958004": {
       "alerted": false,
       "first_seen": "2026-06-08T14:54:52.580418+00:00",
@@ -59756,6 +59770,13 @@
       "title": "Associate Clinical Specialist, Pain Interventions- White Plains, NY",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/White-Plains-New-York-United-States-of-America/Associate-Clinical-Specialist--Pain-Interventions--White-Plains--NY_R72497-1"
     },
+    "Medtronic:R72498": {
+      "alerted": false,
+      "first_seen": "2026-08-14T20:15:17.908445+00:00",
+      "location": "North Haven, Connecticut, United States of America",
+      "title": "Senior Process Engineer - North Haven, CT",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/North-Haven-Connecticut-United-States-of-America/Senior-Process-Engineer---North-Haven--CT_R72498-1"
+    },
     "Medtronic:R72499": {
       "alerted": false,
       "first_seen": "2026-07-29T13:15:28.050889+00:00",
@@ -64110,6 +64131,13 @@
       "title": "Product Engineer II",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/San-Isidro-Santo-Domingo-Dominican-Republic/Product-Engineer-II_R74170-1"
     },
+    "Medtronic:R74176": {
+      "alerted": false,
+      "first_seen": "2026-08-14T20:15:17.908494+00:00",
+      "location": "2 Locations",
+      "title": "Principal Workday Analyst \u2013 Security",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/State-of-Minnesota-United-States-of-America/Principal-Workday-Analyst---Security_R74176-1"
+    },
     "Medtronic:R74178": {
       "alerted": false,
       "first_seen": "2026-08-07T00:27:36.169969+00:00",
@@ -64642,6 +64670,13 @@
       "title": "Sr. Director, IT Business Partner to Finance, Planning, & Analysis",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Sr-Director--IT-Business-Partner-to-Finance--Planning----Analysis_R74495-1"
     },
+    "Medtronic:R74508": {
+      "alerted": false,
+      "first_seen": "2026-08-14T20:15:17.908640+00:00",
+      "location": "Mounds View, Minnesota, United States of America",
+      "title": "Principal IT Solution Architect - Hyperautomation and AI",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Principal-IT-Solution-Architect---Hyperautomation-and-AI_R74508-1"
+    },
     "Medtronic:R74518": {
       "alerted": false,
       "first_seen": "2026-08-11T21:07:15.651603+00:00",
@@ -64998,6 +65033,13 @@
       "location": "Valencia, Comunidad Valenciana, Spain",
       "title": "Electrophysiology Mapping Specialist",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Valencia-Comunidad-Valenciana-Spain/Electrophysiology-Mapping-Specialist_R74809"
+    },
+    "Medtronic:R74839": {
+      "alerted": false,
+      "first_seen": "2026-08-14T20:15:17.908589+00:00",
+      "location": "5 Locations",
+      "title": "Global Trade Classification & Country of Origin Specialist (US Remote)",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Boston-Massachusetts-United-States-of-America/Global-Trade-Classification---Country-of-Origin-Specialist--US-Remote-_R74839-1"
     },
     "Medtronic:R74844": {
       "alerted": false,
@@ -101560,6 +101602,13 @@
       "title": "OnSite Specialist - New York City, New York",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/New-York-New-York/OnSite-Specialist---New-York-City--New-York_R569853"
     },
+    "Stryker:R569861": {
+      "alerted": false,
+      "first_seen": "2026-08-14T20:15:17.907733+00:00",
+      "location": "Hamilton, Canada",
+      "title": "Senior Specialist, Operations Quality",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Hamilton-Canada/Senior-Specialist--Operations-Quality_R569861"
+    },
     "Stryker:R569866": {
       "alerted": false,
       "first_seen": "2026-08-10T18:09:09.989662+00:00",
@@ -103037,6 +103086,13 @@
       "title": "Associate Sales Representative \u2013 Nashville, TN - Patient Care",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Nashville-Tennessee/Associate-Sales-Representative---Nashville--TN---Patient-Care_R570611"
     },
+    "Stryker:R570615": {
+      "alerted": false,
+      "first_seen": "2026-08-14T20:15:17.907688+00:00",
+      "location": "Portage, Michigan",
+      "title": "Material Handler I - 2nd Shift - $20.75/hr + $2.00 Shift Differential",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Material-Handler-I---2nd-Shift----2075-hr----200-Shift-Differential_R570615"
+    },
     "Stryker:R570616": {
       "alerted": false,
       "first_seen": "2026-08-05T15:27:53.246536+00:00",
@@ -103512,6 +103568,13 @@
       "location": "Seattle, Washington",
       "title": "OnSite Specialist - Silverdale, WA",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Seattle-Washington/OnSite-Specialist---Silverdale--WA_R571015"
+    },
+    "Stryker:R571019": {
+      "alerted": false,
+      "first_seen": "2026-08-14T20:15:17.907626+00:00",
+      "location": "Portage, Michigan",
+      "title": "Assembler I - 2nd Shift - $20.25/hr +$2.00/hr Shift Premium",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Assembler-I---2nd-Shift----2025-hr---200-hr-Shift-Premium_R571019"
     },
     "Stryker:R571025": {
       "alerted": false,
