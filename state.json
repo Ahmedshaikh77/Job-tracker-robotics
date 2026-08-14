@@ -10,11 +10,6 @@
       "last_error": "Covariant (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/covariant/jobs?content=true",
       "last_failed_at": "2026-05-28T22:16:18.588190+00:00"
     },
-    "Formlabs": {
-      "count": 1,
-      "last_error": "Formlabs (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
-      "last_failed_at": "2026-08-14T23:33:06.030631+00:00"
-    },
     "Shield AI": {
       "count": 6,
       "last_error": "Shield AI (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/shieldai/jobs?content=true",
@@ -63799,6 +63794,13 @@
       "location": "Bogot\u00e1, Bogota, Colombia",
       "title": "Expense Analyst",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Bogot-Bogota-Colombia/Expense-Analyst_R73926-1"
+    },
+    "Medtronic:R73930": {
+      "alerted": false,
+      "first_seen": "2026-08-14T23:51:50.913493+00:00",
+      "location": "Lo Barnechea, Santiago , Chile",
+      "title": "Therapy Sales Specialist \u2013 (Zona Norte)",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lo-Barnechea-Santiago--Chile/Therapy-Sales-Specialist----Zona-Norte-_R73930-1"
     },
     "Medtronic:R73937": {
       "alerted": false,
