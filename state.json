@@ -10553,6 +10553,13 @@
       "title": "Quality Inspector",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5073077007?gh_jid=5073077007"
     },
+    "Anduril:5073608007": {
+      "alerted": false,
+      "first_seen": "2026-08-14T18:00:21.610723+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Production Technician, EagleEye",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5073608007?gh_jid=5073608007"
+    },
     "Anduril:5073639007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.742931+00:00",
@@ -38231,6 +38238,20 @@
       "title": "Technical Sales Consultant - Spanish Speaking (2026 Grads)",
       "url": "https://careers.formlabs.com/job/8130002/apply/?gh_jid=8130002"
     },
+    "Formlabs:8130537": {
+      "alerted": false,
+      "first_seen": "2026-08-14T18:00:21.609591+00:00",
+      "location": "Somerville, MA",
+      "title": "Senior Technical Program Manager",
+      "url": "https://careers.formlabs.com/job/8130537/apply/?gh_jid=8130537"
+    },
+    "Formlabs:8130552": {
+      "alerted": false,
+      "first_seen": "2026-08-14T18:00:21.610025+00:00",
+      "location": "Somerville, MA",
+      "title": "Technical Program Manager",
+      "url": "https://careers.formlabs.com/job/8130552/apply/?gh_jid=8130552"
+    },
     "Medtronic:R26267": {
       "alerted": false,
       "first_seen": "2026-06-30T11:19:30.260637+00:00",
@@ -64711,6 +64732,13 @@
       "location": "Fridley, Minnesota, United States of America",
       "title": "Executive Administrative Assistant",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Executive-Administrative-Assistant_R74671-2"
+    },
+    "Medtronic:R74684": {
+      "alerted": false,
+      "first_seen": "2026-08-14T18:00:21.610773+00:00",
+      "location": "Rockford, Illinois, United States of America",
+      "title": "Assoc. Mapping Spec - Rockford, IL",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Rockford-Illinois-United-States-of-America/Assoc-Mapping-Spec---Rockford--IL_R74684-2"
     },
     "Medtronic:R74692": {
       "alerted": false,
@@ -103351,6 +103379,13 @@
       "location": "Arlington, Tennessee",
       "title": "Machinist II - 1st Shift - $26.60/hr",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Arlington-Tennessee/Machinist-II---1st-Shift----2660-hr_R571000"
+    },
+    "Stryker:R571004": {
+      "alerted": false,
+      "first_seen": "2026-08-14T18:00:21.610084+00:00",
+      "location": "Grecia, Costa Rica",
+      "title": "Manufacturing Engineering Technician III (Grecia, Manufacturing Site)",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Grecia-Costa-Rica/Manufacturing-Engineering-Technician-III--Grecia--Manufacturing-Site-_R571004"
     },
     "Stryker:R571015": {
       "alerted": false,
