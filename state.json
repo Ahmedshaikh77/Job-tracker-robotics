@@ -1,10 +1,5 @@
 {
   "company_failures": {
-    "Apptronik": {
-      "count": 1,
-      "last_error": "Apptronik (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
-      "last_failed_at": "2026-08-15T19:07:33.208433+00:00"
-    },
     "Boston Dynamics": {
       "count": 6,
       "last_error": "Boston Dynamics (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/bostondynamics/jobs?content=true",
@@ -60516,6 +60511,13 @@
       "location": "Vancouver, British Columbia, Canada",
       "title": "Clinical Specialist",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Vancouver-British-Columbia-Canada/Clinical-Specialist_R72723"
+    },
+    "Medtronic:R72725": {
+      "alerted": false,
+      "first_seen": "2026-08-15T19:29:52.680148+00:00",
+      "location": "15 Locations",
+      "title": "Senior Manager, Site Inventory",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/State-of-California-United-States-of-America/Senior-Manager--Site-Inventory_R72725"
     },
     "Medtronic:R72727": {
       "alerted": false,
