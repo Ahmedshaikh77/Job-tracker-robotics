@@ -33261,6 +33261,13 @@
       "title": "Technical Writer, Autonomous Airpower",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5212880007?gh_jid=5212880007"
     },
+    "Anduril:5212894007": {
+      "alerted": false,
+      "first_seen": "2026-08-15T01:53:42.316768+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Personnel Security Specialist",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5212894007?gh_jid=5212894007"
+    },
     "Anduril:5212897007": {
       "alerted": false,
       "first_seen": "2026-08-14T23:33:06.036926+00:00",
@@ -63892,6 +63899,13 @@
       "location": "Brooklyn Center, Minnesota, United States of America",
       "title": "Principal R&D Process Engineer - Battery",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Brooklyn-Center-Minnesota-United-States-of-America/Principal-R-D-Process-Engineer---Battery_R73978-1"
+    },
+    "Medtronic:R73990": {
+      "alerted": false,
+      "first_seen": "2026-08-15T01:53:42.316812+00:00",
+      "location": "Concepcion, B\u00edo B\u00edo, Chile",
+      "title": "Therapy Sales Specialist \u2013 (Zona Sur)",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Concepcion-Bo-Bo-Chile/Therapy-Sales-Specialist----Zona-Sur-_R73990-1"
     },
     "Medtronic:R73992": {
       "alerted": false,
@@ -106082,6 +106096,13 @@
       "title": "Staff iOS Engineer, Growth",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=7815237"
     },
+    "Waymo:7816014": {
+      "alerted": false,
+      "first_seen": "2026-08-15T01:53:42.316115+00:00",
+      "location": "Mountain View, CA, United States; Remote, United States",
+      "title": "Staff Software Quality Safety Operations Specialist",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=7816014"
+    },
     "Waymo:7816359": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.731897+00:00",
@@ -108699,6 +108720,13 @@
       "location": "Mountain View, CA, USA; San Francisco, CA, USA",
       "title": "Perception Machine Learning Engineer - Continuous Learning",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8127006"
+    },
+    "Waymo:8131378": {
+      "alerted": false,
+      "first_seen": "2026-08-15T01:53:42.315574+00:00",
+      "location": "Mountain View, CA, USA;Novi, MI, USA",
+      "title": "Senior Vehicle Structures Engineer",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8131378"
     }
   }
 }
