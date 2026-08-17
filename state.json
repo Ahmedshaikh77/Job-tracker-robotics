@@ -1,10 +1,5 @@
 {
   "company_failures": {
-    "Anduril": {
-      "count": 1,
-      "last_error": "Anduril (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
-      "last_failed_at": "2026-08-17T09:30:05.249951+00:00"
-    },
     "Boston Dynamics": {
       "count": 6,
       "last_error": "Boston Dynamics (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/bostondynamics/jobs?content=true",
@@ -56464,6 +56459,13 @@
       "title": "MyanCor - Key Account Supervisor - Suzhou",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Suzhou-Jiangsu-China/MyanCor---Key-Account-Supervisor---Suzhou_R71397-1"
     },
+    "Medtronic:R71404": {
+      "alerted": false,
+      "first_seen": "2026-08-17T10:05:16.152461+00:00",
+      "location": "Chennai Kilpaak, Tamil Nadu, India",
+      "title": "Associate Clinical Specialist",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Chennai-Kilpaak-Tamil-Nadu-India/Assoc-Clinical--Specialist_R71404"
+    },
     "Medtronic:R71406": {
       "alerted": false,
       "first_seen": "2026-07-13T13:06:56.055309+00:00",
@@ -63996,6 +63998,13 @@
       "title": "Senior Software Engineering Manager - CRM",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Senior-Software-Engineering-Manager---CRM_R73937-1"
     },
+    "Medtronic:R73941": {
+      "alerted": false,
+      "first_seen": "2026-08-17T10:05:16.152419+00:00",
+      "location": "Nagpur, Maharashtra, India",
+      "title": "Territory Manager - Energy Based Devices",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Nagpur-Maharashtra-India/Territory-Manager---Energy-Based-Devices_R73941-1"
+    },
     "Medtronic:R73946": {
       "alerted": false,
       "first_seen": "2026-08-15T00:23:48.730665+00:00",
@@ -64800,6 +64809,13 @@
       "location": "Tokyo, Tokyo, Japan",
       "title": "Robotic Startup Specialist (Surgical @ Tokyo-2)",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Tokyo-Tokyo-Japan/Robotic-Startup-Specialist--Surgical---Tokyo-2-_R74372-2"
+    },
+    "Medtronic:R74374": {
+      "alerted": false,
+      "first_seen": "2026-08-17T10:05:16.152371+00:00",
+      "location": "Lausanne, Vaud, Switzerland",
+      "title": "Senior Supplier Quality Engineering Supervisor",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lausanne-Vaud-Switzerland/Senior-Supplier-Quality-Engineering-Supervisor_R74374-1"
     },
     "Medtronic:R74379": {
       "alerted": false,
@@ -84260,6 +84276,13 @@
       "location": "Israel, Yokneam",
       "title": "Senior System Management Architect",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-System-Management-Architect_JR2022518"
+    },
+    "NVIDIA:JR2022521": {
+      "alerted": false,
+      "first_seen": "2026-08-17T10:05:16.152273+00:00",
+      "location": "Israel, Yokneam",
+      "title": "Laser and Optics Development Student",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Laser-and-Optics-Development-Student_JR2022521"
     },
     "NVIDIA:JR2022528": {
       "alerted": false,
