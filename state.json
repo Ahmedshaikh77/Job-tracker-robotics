@@ -57775,6 +57775,13 @@
       "title": "Software Engineering Manager",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Software-Engineering-Mgr_R71760-1"
     },
+    "Medtronic:R71761": {
+      "alerted": false,
+      "first_seen": "2026-08-17T08:55:23.033717+00:00",
+      "location": "Bangalore , Karnataka, India",
+      "title": "Sales Representative  II",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Bangalore--Karnataka-India/Sales-Representative--II_R71761-1"
+    },
     "Medtronic:R71764": {
       "alerted": false,
       "first_seen": "2026-07-10T09:53:23.070034+00:00",
@@ -65012,6 +65019,20 @@
       "location": "Tempe, Arizona, United States of America",
       "title": "Senior Lean Sigma Program Manager - Tempe, AZ",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Tempe-Arizona-United-States-of-America/Senior-Lean-Sigma-Program-Manager---Tempe--AZ_R74497-1"
+    },
+    "Medtronic:R74498": {
+      "alerted": false,
+      "first_seen": "2026-08-17T08:55:23.033755+00:00",
+      "location": "Kulim, Kedah, Malaysia",
+      "title": "Manufacturing Supervisor",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Kulim-Kedah-Malaysia/Manufacturing-Supervisor_R74498-1"
+    },
+    "Medtronic:R74499": {
+      "alerted": false,
+      "first_seen": "2026-08-17T08:55:23.033677+00:00",
+      "location": "Kulim, Kedah, Malaysia",
+      "title": "Manufacturing Engineer II",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Kulim-Kedah-Malaysia/Manufacturing-Engineer-II_R74499-2"
     },
     "Medtronic:R74508": {
       "alerted": false,
@@ -85250,6 +85271,13 @@
       "title": "Senior Software Solutions Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/Senior-Software-Solutions-Engineer_JR2022960"
     },
+    "NVIDIA:JR2022961": {
+      "alerted": false,
+      "first_seen": "2026-08-17T08:55:23.033456+00:00",
+      "location": "Israel, Tel Aviv",
+      "title": "Senior Network Architect, Advanced Packaging",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Network-Architect--Advanced-Packaging_JR2022961"
+    },
     "NVIDIA:JR2022962": {
       "alerted": false,
       "first_seen": "2026-08-12T10:37:42.550301+00:00",
@@ -85284,6 +85312,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Senior Solutions Architect, NVIDIA Cloud Partner Operations",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Solutions-Architect--NVIDIA-Cloud-Partner-Operations_JR2022978"
+    },
+    "NVIDIA:JR2022985": {
+      "alerted": false,
+      "first_seen": "2026-08-17T08:55:23.033503+00:00",
+      "location": "Israel, Tel Aviv",
+      "title": "Senior Firmware Architect, Management Power and Thermal",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Firmware-Architect--Management-Power-and-Thermal_JR2022985"
     },
     "NVIDIA:JR2022992": {
       "alerted": false,
@@ -85670,6 +85705,13 @@
       "title": "Senior Staff Site Reliability Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Staff-Site-Reliability-Engineer_JR2023198"
     },
+    "NVIDIA:JR2023203": {
+      "alerted": false,
+      "first_seen": "2026-08-17T08:55:23.033632+00:00",
+      "location": "China, Shanghai",
+      "title": "Senior Site Reliability Engineer in Test, SDET",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-Site-Reliability-Engineer-in-Test--SDET_JR2023203-1"
+    },
     "NVIDIA:JR2023211": {
       "alerted": false,
       "first_seen": "2026-08-13T19:32:07.481345+00:00",
@@ -85789,6 +85831,13 @@
       "title": "Senior Software Engineer - AI Networking",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-Software-Engineer---AI-Networking_JR2023361"
     },
+    "NVIDIA:JR2023370": {
+      "alerted": false,
+      "first_seen": "2026-08-17T08:55:23.033553+00:00",
+      "location": "2 Locations",
+      "title": "PCB Design EDA and AI Engineer - New College Graduate 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/PCB-Design-EDA-and-AI-Engineer---New-College-Graduate-2027_JR2023370"
+    },
     "NVIDIA:JR2023372": {
       "alerted": false,
       "first_seen": "2026-08-14T17:07:15.540689+00:00",
@@ -85796,12 +85845,26 @@
       "title": "Compiler Engineer - AI Inference",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Remote/Compiler-Engineer---AI-Inference_JR2023372"
     },
+    "NVIDIA:JR2023393": {
+      "alerted": false,
+      "first_seen": "2026-08-17T08:55:23.033363+00:00",
+      "location": "US, AR, Remote",
+      "title": "Senior Account Manager - Walmart",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-AR-Remote/Senior-Account-Manager---Walmart_JR2023393"
+    },
     "NVIDIA:JR2023428": {
       "alerted": false,
       "first_seen": "2026-08-13T22:20:54.508350+00:00",
       "location": "4 Locations",
       "title": "Senior HPC and Quantum Systems Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Senior-HPC-and-Quantum-Systems-Engineer_JR2023428"
+    },
+    "NVIDIA:JR2023498": {
+      "alerted": false,
+      "first_seen": "2026-08-17T08:55:23.033411+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Software Engineer, Developer Experience",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Developer-Experience_JR2023498"
     },
     "Stryker:R498593": {
       "alerted": false,
@@ -103141,6 +103204,13 @@
       "location": "Fort Lauderdale, Florida",
       "title": "Senior Coordinator Logistics",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Fort-Lauderdale-Florida/Senior-Coordinator-Logistics_R570331"
+    },
+    "Stryker:R570341": {
+      "alerted": false,
+      "first_seen": "2026-08-17T08:55:23.033298+00:00",
+      "location": "Cork, Ireland",
+      "title": "Associate Finance Manager , NPI & Advanced Operations",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cork-Ireland/Associate-Finance-Manager---NPI---Advanced-Operations_R570341-1"
     },
     "Stryker:R570346": {
       "alerted": false,
