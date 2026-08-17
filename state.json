@@ -3322,6 +3322,13 @@
       "title": "Senior Embedded Software Development Engineer - Sensor & Compute, Amazon Robotics",
       "url": "https://www.amazon.jobs/en/jobs/10504210/senior-embedded-software-development-engineer-sensor-compute-amazon-robotics"
     },
+    "Amazon:10504265": {
+      "alerted": false,
+      "first_seen": "2026-08-17T22:23:44.154365+00:00",
+      "location": "San Francisco, California, USA",
+      "title": "Member of Technical Staff, Frontier AI & Robotics (FAR)",
+      "url": "https://www.amazon.jobs/en/jobs/10504265/member-of-technical-staff-frontier-ai-robotics-far"
+    },
     "Anduril:4159543007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.742648+00:00",
@@ -33610,6 +33617,13 @@
       "location": "Ashville, Ohio, United States",
       "title": "Senior Technical Program Manager, Quality",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5213863007?gh_jid=5213863007"
+    },
+    "Anduril:5214234007": {
+      "alerted": false,
+      "first_seen": "2026-08-17T22:23:44.155336+00:00",
+      "location": "Herndon, Virginia, United States",
+      "title": "Mission Operations Engineer, Connected Warfare",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5214234007?gh_jid=5214234007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -86433,6 +86447,13 @@
       "title": "SOC Verification Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/SOC-Verification-Engineer_JR2023239"
     },
+    "NVIDIA:JR2023241": {
+      "alerted": false,
+      "first_seen": "2026-08-17T22:23:44.154463+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Software Engineer \u2013 Platform Engineering",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---Platform-Engineering_JR2023241"
+    },
     "NVIDIA:JR2023252": {
       "alerted": false,
       "first_seen": "2026-08-14T10:40:13.711550+00:00",
@@ -86453,6 +86474,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Customer Success Insights Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Customer-Success-Insights-Engineer_JR2023258-1"
+    },
+    "NVIDIA:JR2023268": {
+      "alerted": false,
+      "first_seen": "2026-08-17T22:23:44.154418+00:00",
+      "location": "6 Locations",
+      "title": "Insider Threat Detection Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Insider-Threat-Detection-Engineer_JR2023268"
     },
     "NVIDIA:JR2023286": {
       "alerted": false,
@@ -86481,6 +86509,13 @@
       "location": "2 Locations",
       "title": "Senior Software Engineer, AIOps",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Raanana/Senior-Software-Engineer--AIOps_JR2023309-1"
+    },
+    "NVIDIA:JR2023311": {
+      "alerted": false,
+      "first_seen": "2026-08-17T22:23:44.154502+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Director, Board Product Development Engineering",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Director--Board-Product-Development-Engineering_JR2023311"
     },
     "NVIDIA:JR2023337": {
       "alerted": false,
@@ -86586,6 +86621,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Silicon Product Development Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Silicon-Product-Development-Engineer_JR2023585"
+    },
+    "NVIDIA:JR2023589": {
+      "alerted": false,
+      "first_seen": "2026-08-17T22:23:44.154535+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Solutions Architect, RoCE end-to-end",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Solutions-Architect--RoCE-end-to-end_JR2023589"
     },
     "Stryker:R498593": {
       "alerted": false,
