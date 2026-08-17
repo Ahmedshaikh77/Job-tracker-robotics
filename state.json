@@ -1,10 +1,5 @@
 {
   "company_failures": {
-    "Anduril": {
-      "count": 1,
-      "last_error": "Anduril (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
-      "last_failed_at": "2026-08-17T15:26:00.433707+00:00"
-    },
     "Boston Dynamics": {
       "count": 6,
       "last_error": "Boston Dynamics (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/bostondynamics/jobs?content=true",
@@ -3284,6 +3279,13 @@
       "location": "New York, New York, USA",
       "title": "Sr Software Development Engineer, Perception, Fauna",
       "url": "https://www.amazon.jobs/en/jobs/10502731/sr-software-development-engineer-perception-fauna"
+    },
+    "Amazon:10503677": {
+      "alerted": true,
+      "first_seen": "2026-08-17T15:46:57.122110+00:00",
+      "location": "Boston, Massachusetts, USA",
+      "title": "Software Development Engineer II, Amazon Robotics",
+      "url": "https://www.amazon.jobs/en/jobs/10503677/software-development-engineer-ii-amazon-robotics"
     },
     "Anduril:4159543007": {
       "alerted": false,
@@ -32930,6 +32932,13 @@
       "title": "Lead Software Architect, Rust",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5210357007?gh_jid=5210357007"
     },
+    "Anduril:5210477007": {
+      "alerted": false,
+      "first_seen": "2026-08-17T15:46:57.122950+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Director, Site Reliability Engineering",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5210477007?gh_jid=5210477007"
+    },
     "Anduril:5210598007": {
       "alerted": false,
       "first_seen": "2026-08-14T16:09:08.744406+00:00",
@@ -33343,6 +33352,13 @@
       "title": "Lead Data Analyst,  Manufacturing",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5212993007?gh_jid=5212993007"
     },
+    "Anduril:5213196007": {
+      "alerted": false,
+      "first_seen": "2026-08-17T15:46:57.124291+00:00",
+      "location": "Remote",
+      "title": "Technical Recruiter, Production Engineering - Connected Warfare (Contract)",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5213196007?gh_jid=5213196007"
+    },
     "Anduril:5213218007": {
       "alerted": false,
       "first_seen": "2026-08-16T21:57:01.946616+00:00",
@@ -33468,6 +33484,20 @@
       "location": "Boston, Massachusetts, United States",
       "title": "Staff Product Manager, Advanced Costing Systems",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5213498007?gh_jid=5213498007"
+    },
+    "Anduril:5213540007": {
+      "alerted": false,
+      "first_seen": "2026-08-17T15:46:57.125614+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Technical Recruiter, Production Engineering - Connected Warfare (Contract)",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5213540007?gh_jid=5213540007"
+    },
+    "Anduril:5213541007": {
+      "alerted": false,
+      "first_seen": "2026-08-17T15:46:57.126968+00:00",
+      "location": "Seattle, Washington, United States",
+      "title": "Technical Recruiter, Production Engineering - Connected Warfare (Contract)",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5213541007?gh_jid=5213541007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -34609,6 +34639,13 @@
       "location": "Austin, TX",
       "title": "Staff Electrical Engineer - Aggregator",
       "url": "https://boards.greenhouse.io/apptronik/jobs/6144140004?gh_jid=6144140004"
+    },
+    "Apptronik:6145262004": {
+      "alerted": false,
+      "first_seen": "2026-08-17T15:46:57.122013+00:00",
+      "location": "Austin, TX",
+      "title": "Senior Perception Hardware Engineer ",
+      "url": "https://boards.greenhouse.io/apptronik/jobs/6145262004?gh_jid=6145262004"
     },
     "Formlabs:4994162": {
       "alerted": false,
@@ -65333,6 +65370,13 @@
       "title": "Senior Clinical Specialist - Pelvic Health- Philadelphia, PA",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Philadelphia-Pennsylvania-United-States-of-America/Senior-Clinical-Specialist---Pelvic-Health--Philadelphia--PA_R74596-1"
     },
+    "Medtronic:R74600": {
+      "alerted": false,
+      "first_seen": "2026-08-17T15:46:57.127099+00:00",
+      "location": "Madrid, Madrid, Spain",
+      "title": "Marketing Intern",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Madrid-Madrid-Spain/Marketing-Intern_R74600-1"
+    },
     "Medtronic:R74601": {
       "alerted": false,
       "first_seen": "2026-08-13T15:35:12.192496+00:00",
@@ -65549,6 +65593,13 @@
       "location": "Lafayette, Colorado, United States of America",
       "title": "Sr. Medical Device Connectivity Specialist (Cranial and Spinal Technologies)",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Sr-Medical-Device-Connectivity-Specialist--Cranial-and-Spinal-Technologies-_R74761-1"
+    },
+    "Medtronic:R74766": {
+      "alerted": false,
+      "first_seen": "2026-08-17T15:46:57.127060+00:00",
+      "location": "Memphis, Tennessee, United States of America",
+      "title": "Returned Goods Coord II - 1st Shift",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Memphis-Tennessee-United-States-of-America/Returned-Goods-Coord-II---1st-Shift_R74766-1"
     },
     "Medtronic:R74767": {
       "alerted": false,
@@ -85457,6 +85508,13 @@
       "location": "US, CA, Santa Clara",
       "title": "EMC Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/EMC-Engineer_JR2022950"
+    },
+    "NVIDIA:JR2022953": {
+      "alerted": false,
+      "first_seen": "2026-08-17T15:46:57.127013+00:00",
+      "location": "3 Locations",
+      "title": "Senior AIC Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/France-Remote/Senior-AIC-Engineer_JR2022953"
     },
     "NVIDIA:JR2022959": {
       "alerted": false,
