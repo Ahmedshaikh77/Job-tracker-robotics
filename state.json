@@ -3315,6 +3315,13 @@
       "title": "Data Engineer, CIA-Core Engine",
       "url": "https://www.amazon.jobs/en/jobs/10503757/data-engineer-cia-core-engine"
     },
+    "Amazon:10504210": {
+      "alerted": false,
+      "first_seen": "2026-08-17T21:43:32.524121+00:00",
+      "location": "North Reading, Massachusetts, USA",
+      "title": "Senior Embedded Software Development Engineer - Sensor & Compute, Amazon Robotics",
+      "url": "https://www.amazon.jobs/en/jobs/10504210/senior-embedded-software-development-engineer-sensor-compute-amazon-robotics"
+    },
     "Anduril:4159543007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.742648+00:00",
@@ -64320,6 +64327,13 @@
       "title": "Dispute Analyst with European Languages",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Warsaw-Mazowieckie-Poland/Dispute-Analyst-with-European-Languages_R73920-1"
     },
+    "Medtronic:R73924": {
+      "alerted": false,
+      "first_seen": "2026-08-17T21:43:32.524451+00:00",
+      "location": "Boston, Massachusetts, United States of America",
+      "title": "Director, Commercial Process & Technology - Surgical",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Boston-Massachusetts-United-States-of-America/Director--Commercial-Process---Technology---Surgical_R73924-1"
+    },
     "Medtronic:R73926": {
       "alerted": false,
       "first_seen": "2026-08-13T22:20:54.508446+00:00",
@@ -64991,6 +65005,13 @@
       "location": "Mounds View, Minnesota, United States of America",
       "title": "Software Engineering Manager - Cardiac Ablation Solutions",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Software-Engineering-Manager---Cardiac-Ablation-Solutions_R74270-1"
+    },
+    "Medtronic:R74279": {
+      "alerted": false,
+      "first_seen": "2026-08-17T21:43:32.524408+00:00",
+      "location": "Minneapolis, Minnesota, United States of America",
+      "title": "Director, Public Relations and Issues Management",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Director--Public-Relations-and-Issues-Management_R74279-1"
     },
     "Medtronic:R74281": {
       "alerted": false,
@@ -66000,12 +66021,26 @@
       "title": "Package Assembler II",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Trevoux-Rhne-Alpes-France/Package-Assembler-II_R74939-1"
     },
+    "Medtronic:R74957": {
+      "alerted": false,
+      "first_seen": "2026-08-17T21:43:32.524334+00:00",
+      "location": "Ciudad Juarez, Chihuahua, Mexico",
+      "title": "TECNICO DE CALIBRACION II",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Ciudad-Juarez-Chihuahua-Mexico/TECNICO-DE-CALIBRACION-II_R74957-1"
+    },
     "Medtronic:R74962": {
       "alerted": false,
       "first_seen": "2026-08-17T19:46:25.945821+00:00",
       "location": "Houston, Texas, United States of America",
       "title": "Clinical Specialist CRM - Houston",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Houston-Texas-United-States-of-America/Clinical-Specialist-CRM---Houston_R74962-1"
+    },
+    "Medtronic:R75007": {
+      "alerted": false,
+      "first_seen": "2026-08-17T21:43:32.524368+00:00",
+      "location": "Ciudad Juarez, Chihuahua, Mexico",
+      "title": "INSPECTOR DE CALIDAD",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Ciudad-Juarez-Chihuahua-Mexico/INSPECTOR-DE-CALIDAD_R75007-2"
     },
     "NVIDIA:JR1968313": {
       "alerted": true,
@@ -86412,6 +86447,13 @@
       "title": "Senior System Software Engineer Platform - OpenBMC",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer-Platform---OpenBMC_JR2023254"
     },
+    "NVIDIA:JR2023258": {
+      "alerted": false,
+      "first_seen": "2026-08-17T21:43:32.524243+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Customer Success Insights Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Customer-Success-Insights-Engineer_JR2023258-1"
+    },
     "NVIDIA:JR2023286": {
       "alerted": false,
       "first_seen": "2026-08-13T03:16:52.246569+00:00",
@@ -86537,6 +86579,13 @@
       "location": "2 Locations",
       "title": "Product Management and Configuration Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Product-Management-and-Configuration-Engineer_JR2023537"
+    },
+    "NVIDIA:JR2023585": {
+      "alerted": true,
+      "first_seen": "2026-08-17T21:43:32.524297+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Silicon Product Development Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Silicon-Product-Development-Engineer_JR2023585"
     },
     "Stryker:R498593": {
       "alerted": false,
@@ -104975,6 +105024,13 @@
       "location": "Cork, Ireland",
       "title": "Regulatory Affairs Specialist",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cork-Ireland/Regulatory-Affairs-Specialist_R570947"
+    },
+    "Stryker:R570951": {
+      "alerted": false,
+      "first_seen": "2026-08-17T21:43:32.524190+00:00",
+      "location": "Hamilton, Canada",
+      "title": "Sales Coordinator, Sales Support (15 - month contract)",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Hamilton-Canada/Sales-Coordinator--Sales-Support--15---month-contract-_R570951"
     },
     "Stryker:R570952": {
       "alerted": false,
