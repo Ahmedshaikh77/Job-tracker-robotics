@@ -1,5 +1,10 @@
 {
   "company_failures": {
+    "Anduril": {
+      "count": 1,
+      "last_error": "Anduril (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
+      "last_failed_at": "2026-08-17T09:30:05.249951+00:00"
+    },
     "Boston Dynamics": {
       "count": 6,
       "last_error": "Boston Dynamics (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/bostondynamics/jobs?content=true",
@@ -60743,6 +60748,13 @@
       "title": "Intern, Cardiovascular Team (12-month contract; part-time)",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Hong-Kong-Hong-Kong/Intern--Cardiovascular-Team--12-month-contract--part-time-_R72760-1"
     },
+    "Medtronic:R72761": {
+      "alerted": false,
+      "first_seen": "2026-08-17T09:30:05.253886+00:00",
+      "location": "Hong Kong, Hong Kong",
+      "title": "CV Intern",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Hong-Kong-Hong-Kong/CV-Intern_R72761-1"
+    },
     "Medtronic:R72762": {
       "alerted": false,
       "first_seen": "2026-07-24T03:38:40.381509+00:00",
@@ -60875,6 +60887,13 @@
       "location": "Sao Jose do Rio Preto, Sao Paulo, Brazil",
       "title": "Assessor T\u00e9cnico Junior",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Sao-Jose-do-Rio-Preto-Sao-Paulo-Brazil/Assessor-Tcnico-Junior_R72804-2"
+    },
+    "Medtronic:R72806": {
+      "alerted": false,
+      "first_seen": "2026-08-17T09:30:05.253848+00:00",
+      "location": "Galway, County Galway, Ireland",
+      "title": "Quality Engineer I - Microbiology Laboratory (Evening Shift)",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Galway-County-Galway-Ireland/Quality-Engineer-I---Microbiology-Laboratory--Evening-Shift-_R72806-1"
     },
     "Medtronic:R72812": {
       "alerted": false,
@@ -101853,6 +101872,13 @@
       "location": "Patna, India",
       "title": "Territory Sales Manager",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Patna-India/Territory-Sales-Manager_R569748-1"
+    },
+    "Stryker:R569749": {
+      "alerted": false,
+      "first_seen": "2026-08-17T09:30:05.253782+00:00",
+      "location": "9 Locations",
+      "title": "Regional Sales Manager (m/w/d) Endoskopie - Nord/Mitte",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Hannover--Germany/Regional-Sales-Manager--m-w-d--Endoskopie---Nord-Mitte_R569749"
     },
     "Stryker:R569750": {
       "alerted": false,
