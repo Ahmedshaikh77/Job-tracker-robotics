@@ -1,5 +1,10 @@
 {
   "company_failures": {
+    "Anduril": {
+      "count": 1,
+      "last_error": "Anduril (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
+      "last_failed_at": "2026-08-17T15:26:00.433707+00:00"
+    },
     "Boston Dynamics": {
       "count": 6,
       "last_error": "Boston Dynamics (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/bostondynamics/jobs?content=true",
@@ -38609,6 +38614,13 @@
       "title": "Founding Marketer, Form Now ",
       "url": "https://careers.formlabs.com/job/8131035/apply/?gh_jid=8131035"
     },
+    "Formlabs:8132320": {
+      "alerted": false,
+      "first_seen": "2026-08-17T15:26:00.437843+00:00",
+      "location": "Perrysburg, OH",
+      "title": "Quality Technician",
+      "url": "https://careers.formlabs.com/job/8132320/apply/?gh_jid=8132320"
+    },
     "Medtronic:R26267": {
       "alerted": false,
       "first_seen": "2026-06-30T11:19:30.260637+00:00",
@@ -65012,6 +65024,13 @@
       "location": "Fridley, Minnesota, United States of America",
       "title": "Sr Software Engineer",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Sr-Software-Engineer_R74426-1"
+    },
+    "Medtronic:R74428": {
+      "alerted": false,
+      "first_seen": "2026-08-17T15:26:00.437888+00:00",
+      "location": "Chicago, Illinois, United States of America",
+      "title": "Sales Representative I, Spine - Chicago, IL",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Chicago-Illinois-United-States-of-America/Sales-Representative-I--Spine---Chicago--IL_R74428-1"
     },
     "Medtronic:R74430": {
       "alerted": false,
