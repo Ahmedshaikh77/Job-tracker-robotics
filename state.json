@@ -20,6 +20,11 @@
       "last_error": "Skydio (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/skydio/jobs?content=true",
       "last_failed_at": "2026-05-28T22:16:18.605376+00:00"
     },
+    "Waymo": {
+      "count": 1,
+      "last_error": "Waymo (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
+      "last_failed_at": "2026-08-18T13:09:13.629371+00:00"
+    },
     "Zipline": {
       "count": 6,
       "last_error": "Zipline (lever): HTTPError: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/zipline?mode=json",
@@ -13730,6 +13735,13 @@
       "location": "Reston, Virginia, United States",
       "title": "Counterintelligence Embedded Program Lead",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5107085007?gh_jid=5107085007"
+    },
+    "Anduril:5107130007": {
+      "alerted": false,
+      "first_seen": "2026-08-18T13:09:15.169681+00:00",
+      "location": "Santa Ana, California, United States",
+      "title": "Process Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5107130007?gh_jid=5107130007"
     },
     "Anduril:5107162007": {
       "alerted": false,
@@ -33702,6 +33714,13 @@
       "title": "Staff Electrical Harness Design Engineer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5214416007?gh_jid=5214416007"
     },
+    "Anduril:5214661007": {
+      "alerted": false,
+      "first_seen": "2026-08-18T13:09:15.170421+00:00",
+      "location": "Remote",
+      "title": "Recruiter, Legal (Contract)",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5214661007?gh_jid=5214661007"
+    },
     "Apptronik:5572958004": {
       "alerted": false,
       "first_seen": "2026-06-08T14:54:52.580418+00:00",
@@ -52328,6 +52347,13 @@
       "location": "Cairo, Cairo, Egypt",
       "title": "Associate Regulatory Affairs Specialist",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Cairo-Cairo-Egypt/Associate-Regulatory-Affairs-Specialist_R69940-1"
+    },
+    "Medtronic:R69941": {
+      "alerted": false,
+      "first_seen": "2026-08-18T13:09:15.169021+00:00",
+      "location": "Taguig City, National Capital Region, Philippines",
+      "title": "Strategic Account Conversion Lead, Philippines",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Taguig-City-National-Capital-Region-Philippines/Strategic-Account-Conversion-Lead--Philippines_R69941-1"
     },
     "Medtronic:R69942": {
       "alerted": false,
@@ -82149,6 +82175,13 @@
       "title": "Director, Software Architecture",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Director--Software-Architecture_JR2021299"
     },
+    "NVIDIA:JR2021300": {
+      "alerted": false,
+      "first_seen": "2026-08-18T13:09:15.168701+00:00",
+      "location": "4 Locations",
+      "title": "Senior Data Scientist - Security",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Data-Scientist---Security_JR2021300-1"
+    },
     "NVIDIA:JR2021302": {
       "alerted": false,
       "first_seen": "2026-07-16T15:47:24.672735+00:00",
@@ -105137,6 +105170,13 @@
       "title": "Expression of Interest - Robotics Product Specialist",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Wollongong-Australia/Expression-of-Interest---Robotics-Product-Specialist_R570675"
     },
+    "Stryker:R570676": {
+      "alerted": false,
+      "first_seen": "2026-08-18T13:09:15.168894+00:00",
+      "location": "Gurugram, India",
+      "title": "Senior  Engineer Validation",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Gurugram-India/Senior--Engineer-Validation_R570676"
+    },
     "Stryker:R570680": {
       "alerted": false,
       "first_seen": "2026-08-05T09:24:59.773958+00:00",
@@ -105157,6 +105197,13 @@
       "location": "Houston, Texas",
       "title": "Associate Sales Representative - Houston, Texas - Injury/Infection Prevention",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Houston-Texas/Associate-Sales-Representative---Houston--Texas---Injury-Infection-Prevention_R570686"
+    },
+    "Stryker:R570689": {
+      "alerted": false,
+      "first_seen": "2026-08-18T13:09:15.168765+00:00",
+      "location": "Cork, Ireland",
+      "title": "Senior Engineer, Software Engineering - R&D",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cork-Ireland/Senior-Engineer--Software-Engineer-R-D_R570689"
     },
     "Stryker:R570699": {
       "alerted": false,
@@ -105508,6 +105555,13 @@
       "title": "Cleaner I \u2013 1st Shift - $20.25/hr",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Chandler-Arizona/Cleaner-I---1st-Shift----2025-hr_R570904"
     },
+    "Stryker:R570932": {
+      "alerted": false,
+      "first_seen": "2026-08-18T13:09:15.168808+00:00",
+      "location": "Freiburg, Germany",
+      "title": "Human Resources Specialist (m/w/d)",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Freiburg-Germany/Human-Resources-Specialist--m-w-d-_R570932-1"
+    },
     "Stryker:R570944": {
       "alerted": false,
       "first_seen": "2026-08-14T18:58:26.029613+00:00",
@@ -105683,6 +105737,13 @@
       "title": "Associate Field Service Technician - San Antonio, TX - Transport",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Antonio-Texas/Associate-Field-Service-Technician---San-Antonio--TX---Transport_R571074"
     },
+    "Stryker:R571078": {
+      "alerted": false,
+      "first_seen": "2026-08-18T13:09:15.168856+00:00",
+      "location": "2 Locations",
+      "title": "Sales Representative - Southern Virginias - Communications",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Charleston-West-Virginia/Sales-Representative---Southern-Virginias---Communications_R571078"
+    },
     "Stryker:R571083": {
       "alerted": false,
       "first_seen": "2026-08-11T21:07:15.651525+00:00",
@@ -105830,6 +105891,13 @@
       "title": "Field Clinical Specialist - Beaumont/Lufkin, TX - Peripheral Vascular",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Beaumont-Texas/Field-Clinical-Specialist---Beaumont-Lufkin--TX---Peripheral-Vascular_R571194"
     },
+    "Stryker:R571197": {
+      "alerted": false,
+      "first_seen": "2026-08-18T13:09:15.168973+00:00",
+      "location": "Los Angeles, California",
+      "title": "Sales Representative - Los Angeles - Craniomaxillofacial",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Los-Angeles-California/Sales-Representative---Los-Angeles---Craniomaxillofacial_R571197"
+    },
     "Stryker:R571199": {
       "alerted": false,
       "first_seen": "2026-08-18T09:51:20.921964+00:00",
@@ -105934,6 +106002,13 @@
       "location": "Skawina, Poland",
       "title": "Team Leader, Manufacturing",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Skawina-Poland/Team-Leader--Manufacturing_R571513-1"
+    },
+    "Stryker:R571595": {
+      "alerted": false,
+      "first_seen": "2026-08-18T13:09:15.168928+00:00",
+      "location": "Cork, Ireland",
+      "title": "Manufacturing Operator",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cork-Ireland/Manufacturing-Operator_R571595-1"
     },
     "Waymo:6367980": {
       "alerted": false,
