@@ -1,10 +1,5 @@
 {
   "company_failures": {
-    "Anduril": {
-      "count": 1,
-      "last_error": "Anduril (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
-      "last_failed_at": "2026-08-18T13:53:30.380684+00:00"
-    },
     "Boston Dynamics": {
       "count": 6,
       "last_error": "Boston Dynamics (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/bostondynamics/jobs?content=true",
@@ -66061,6 +66056,13 @@
       "title": "Associate IT Technologist",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Associate-IT-Technologist_R74708-2"
     },
+    "Medtronic:R74722": {
+      "alerted": false,
+      "first_seen": "2026-08-18T14:19:06.576943+00:00",
+      "location": "Dexter, Michigan, United States of America",
+      "title": "Production Group Lead IV- 1st Shift",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Dexter-Michigan-United-States-of-America/Production-Group-Lead-IV--1st-Shift_R74722-1"
+    },
     "Medtronic:R74723": {
       "alerted": false,
       "first_seen": "2026-08-18T07:06:24.175623+00:00",
@@ -82608,6 +82610,13 @@
       "location": "US, CA, Remote",
       "title": "Senior Cyber Security Engineer - Vulnerability Operation",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Cyber-Security-Engineer---Vulnerability-Operation_JR2021418"
+    },
+    "NVIDIA:JR2021427": {
+      "alerted": false,
+      "first_seen": "2026-08-18T14:19:06.576900+00:00",
+      "location": "2 Locations",
+      "title": "Senior Site Reliability Engineer, DGX Cloud",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Senior-Site-Reliability-Engineer--DGX-Cloud_JR2021427-1"
     },
     "NVIDIA:JR2021428": {
       "alerted": false,
@@ -104519,6 +104528,13 @@
       "title": "Mechanical Design Engineer R&D",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Carrigtwohill-Ireland/Mechanical-Design-Engineer-R-D_R570320"
     },
+    "Stryker:R570321": {
+      "alerted": false,
+      "first_seen": "2026-08-18T14:19:06.576851+00:00",
+      "location": "Gurugram, India",
+      "title": "Engineer  Validation",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Gurugram-India/Engineer--Validation_R570321"
+    },
     "Stryker:R570324": {
       "alerted": false,
       "first_seen": "2026-08-14T09:45:39.359891+00:00",
@@ -105848,6 +105864,13 @@
       "location": "Skawina, Poland",
       "title": "Mistrz Operator\u2013Ustawiacz CNC / Mistrzyni Operatorka\u2013Ustawiaczka CNC",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Skawina-Poland/Mistrz-Operator-Ustawiacz-CNC---Mistrzyni-Operatorka-Ustawiaczka-CNC_R571143"
+    },
+    "Stryker:R571155": {
+      "alerted": false,
+      "first_seen": "2026-08-18T14:19:06.576791+00:00",
+      "location": "Santiago, Chile",
+      "title": "Sales Representative , Endoscopy (Santiago)",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Santiago-Chile/Sales-Representative---Endoscopy--Santiago-_R571155"
     },
     "Stryker:R571163": {
       "alerted": false,
