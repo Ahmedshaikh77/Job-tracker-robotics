@@ -1,5 +1,10 @@
 {
   "company_failures": {
+    "Anduril": {
+      "count": 1,
+      "last_error": "Anduril (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
+      "last_failed_at": "2026-08-18T13:53:30.380684+00:00"
+    },
     "Boston Dynamics": {
       "count": 6,
       "last_error": "Boston Dynamics (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/bostondynamics/jobs?content=true",
@@ -19,11 +24,6 @@
       "count": 6,
       "last_error": "Skydio (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/skydio/jobs?content=true",
       "last_failed_at": "2026-05-28T22:16:18.605376+00:00"
-    },
-    "Waymo": {
-      "count": 1,
-      "last_error": "Waymo (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
-      "last_failed_at": "2026-08-18T13:09:13.629371+00:00"
     },
     "Zipline": {
       "count": 6,
@@ -64409,6 +64409,13 @@
       "title": "Senior Downstream Product Manager, Remote Monitoring and Analytics - Acute Care and Monitoring",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Senior-Downstream-Product-Manager--Remote-Monitoring-and-Analytics---Acute-Care-and-Monitoring_R73881"
     },
+    "Medtronic:R73890": {
+      "alerted": false,
+      "first_seen": "2026-08-18T13:53:30.383858+00:00",
+      "location": "Dehradun, Uttarakhand, India",
+      "title": "Sales Executive - Surgical Innovation",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Dehradun-Uttarakhand-India/Sales-Executive---Surgical-Innovation_R73890-1"
+    },
     "Medtronic:R73891": {
       "alerted": false,
       "first_seen": "2026-08-07T12:02:31.292883+00:00",
@@ -66235,6 +66242,13 @@
       "location": "Tijuana, Baja California, Mexico",
       "title": "OPERADOR N1 INICIAL",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Tijuana-Baja-California-Mexico/OPERADOR-N1-INICIAL_R74875-1"
+    },
+    "Medtronic:R74894": {
+      "alerted": false,
+      "first_seen": "2026-08-18T13:53:30.383931+00:00",
+      "location": "Chennai Kilpaak, Tamil Nadu, India",
+      "title": "Territory Manager - Cardiac Surgery",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Chennai-Kilpaak-Tamil-Nadu-India/Territory-Manager---Cardiac-Surgery_R74894-1"
     },
     "Medtronic:R74895": {
       "alerted": false,
@@ -105995,6 +106009,13 @@
       "location": "Santa Monica, California",
       "title": "Associate Sales Representative - North LA - ENT",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Santa-Monica-California/Associate-Sales-Representative---North-LA---ENT_R571436"
+    },
+    "Stryker:R571458": {
+      "alerted": false,
+      "first_seen": "2026-08-18T13:53:30.383993+00:00",
+      "location": "Tampa, Florida",
+      "title": "Sales Associate - Tampa, FL - Sports Medicine",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tampa-Florida/Sales-Associate---Tampa--FL---Sports-Medicine_R571458"
     },
     "Stryker:R571513": {
       "alerted": false,
