@@ -3343,6 +3343,13 @@
       "title": "Associate, ML Data Operations, GO-AI Operations",
       "url": "https://www.amazon.jobs/en/jobs/10504525/associate-ml-data-operations-go-ai-operations"
     },
+    "Amazon:10505273": {
+      "alerted": false,
+      "first_seen": "2026-08-18T16:47:42.047051+00:00",
+      "location": "Bellevue, Washington, USA",
+      "title": "Sr. Applied Scientist - Machine Learning, Amazon Transportation",
+      "url": "https://www.amazon.jobs/en/jobs/10505273/sr-applied-scientist-machine-learning-amazon-transportation"
+    },
     "Anduril:4159543007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.742648+00:00",
@@ -30468,6 +30475,13 @@
       "title": "Manager, Environmental Safety and Health",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5198080007?gh_jid=5198080007"
     },
+    "Anduril:5198082007": {
+      "alerted": false,
+      "first_seen": "2026-08-18T16:47:42.049728+00:00",
+      "location": "Santa Ana, California, United States",
+      "title": "Mechanical Engineer, Propulsion",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5198082007?gh_jid=5198082007"
+    },
     "Anduril:5198088007": {
       "alerted": false,
       "first_seen": "2026-07-29T17:52:47.441335+00:00",
@@ -33344,6 +33358,20 @@
       "location": "Broomfield, Colorado, United States; Fort Collins, Colorado, United States",
       "title": "Technical Program Manager, Mathematical Software & Algorithms",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5211896007?gh_jid=5211896007"
+    },
+    "Anduril:5211965007": {
+      "alerted": false,
+      "first_seen": "2026-08-18T16:47:42.048049+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Air Vehicle Lead, Advanced Effects ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5211965007?gh_jid=5211965007"
+    },
+    "Anduril:5211974007": {
+      "alerted": false,
+      "first_seen": "2026-08-18T16:47:42.049014+00:00",
+      "location": "Ashville, Ohio, United States",
+      "title": "Low Observables Technician",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5211974007?gh_jid=5211974007"
     },
     "Anduril:5211980007": {
       "alerted": false,
@@ -65510,6 +65538,13 @@
       "title": "Sr. Principal Clinical Specialist - San Antonio",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/San-Antonio-Texas-United-States-of-America/Sr-Principal-Clinical-Specialist---San-Antonio_R74402-1"
     },
+    "Medtronic:R74407": {
+      "alerted": false,
+      "first_seen": "2026-08-18T16:47:42.047301+00:00",
+      "location": "Indianapolis, Indiana, United States of America",
+      "title": "Clinical Specialist - Cardiac Rhythm Management - Indianapolis",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Indianapolis-Indiana-United-States-of-America/Clinical-Specialist---Cardiac-Rhythm-Management---Indianapolis_R74407"
+    },
     "Medtronic:R74408": {
       "alerted": false,
       "first_seen": "2026-08-11T16:41:06.564185+00:00",
@@ -84641,6 +84676,13 @@
       "title": "Senior Account Manager",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Singapore-Remote/Senior-Account-Manager_JR2022227-1"
     },
+    "NVIDIA:JR2022232": {
+      "alerted": false,
+      "first_seen": "2026-08-18T16:47:42.047252+00:00",
+      "location": "Israel, Tel Aviv",
+      "title": "Senior VLSI Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-VLSI-Engineer_JR2022232"
+    },
     "NVIDIA:JR2022233": {
       "alerted": false,
       "first_seen": "2026-07-30T22:39:51.223018+00:00",
@@ -86986,6 +87028,13 @@
       "title": "Business Operations Technical Program Manager \u2014 DGX Cloud",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Business-Operations-Technical-Program-Manager---DGX-Cloud_JR2023286"
     },
+    "NVIDIA:JR2023301": {
+      "alerted": false,
+      "first_seen": "2026-08-18T16:47:42.047215+00:00",
+      "location": "Vietnam, Remote",
+      "title": "Senior SMTA Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Vietnam-Remote/Senior-SMTA-Engineer_JR2023301"
+    },
     "NVIDIA:JR2023304": {
       "alerted": false,
       "first_seen": "2026-08-14T15:21:47.756970+00:00",
@@ -87146,6 +87195,13 @@
       "location": "2 Locations",
       "title": "Product Management and Configuration Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Product-Management-and-Configuration-Engineer_JR2023537"
+    },
+    "NVIDIA:JR2023540": {
+      "alerted": false,
+      "first_seen": "2026-08-18T16:47:42.047176+00:00",
+      "location": "2 Locations",
+      "title": "Verification Engineer -  ARM Fabric Unit Level",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Verification-Engineer----ARM-Fabric-Unit-Level_JR2023540"
     },
     "NVIDIA:JR2023585": {
       "alerted": true,
@@ -106200,6 +106256,13 @@
       "location": "Tampa, Florida",
       "title": "Sales Associate - Tampa, FL - Sports Medicine",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tampa-Florida/Sales-Associate---Tampa--FL---Sports-Medicine_R571458"
+    },
+    "Stryker:R571510": {
+      "alerted": false,
+      "first_seen": "2026-08-18T16:47:42.047126+00:00",
+      "location": "Portland, Maine",
+      "title": "Trauma Sales Representative, Portland ME",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portland-Maine/Trauma-Sales-Representative--Portland-ME_R571510"
     },
     "Stryker:R571513": {
       "alerted": false,
