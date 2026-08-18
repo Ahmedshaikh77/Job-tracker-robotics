@@ -3350,6 +3350,13 @@
       "title": "Sr. Applied Scientist - Machine Learning, Amazon Transportation",
       "url": "https://www.amazon.jobs/en/jobs/10505273/sr-applied-scientist-machine-learning-amazon-transportation"
     },
+    "Amazon:10506069": {
+      "alerted": false,
+      "first_seen": "2026-08-18T22:54:22.013290+00:00",
+      "location": "Toronto, Ontario, CAN",
+      "title": "Software Development Engineer, Amazon Fulfillment Technologies (AFT) - Outbound/Flow, AFT Outbound Execution Teams",
+      "url": "https://www.amazon.jobs/en/jobs/10506069/software-development-engineer-amazon-fulfillment-technologies-aft-outbound-flow-aft-outbound-execution-teams"
+    },
     "Anduril:4159543007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.742648+00:00",
@@ -33932,6 +33939,13 @@
       "location": "Reston, Virginia, United States",
       "title": "Mission Software Engineer, Senior",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5215609007?gh_jid=5215609007"
+    },
+    "Anduril:5215627007": {
+      "alerted": false,
+      "first_seen": "2026-08-18T22:54:22.014054+00:00",
+      "location": "Broomfield, Colorado, United States; Fort Collins, Colorado, United States",
+      "title": "Software Engineer, Battlespace Awareness",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5215627007?gh_jid=5215627007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -65412,6 +65426,13 @@
       "title": "Associate Credit Services Representative- Market (Mid-Shift)",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Taguig-City-National-Capital-Region-Philippines/Associate-Credit-Services-Representative--Market--Mid-Shift-_R74226-1"
     },
+    "Medtronic:R74230": {
+      "alerted": false,
+      "first_seen": "2026-08-18T22:54:22.014126+00:00",
+      "location": "Tokyo, Tokyo, Japan",
+      "title": "Sr Product Specialist",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Tokyo-Tokyo-Japan/Senior-Product-Specialist--Surgical---Tokyo-_R74230-3"
+    },
     "Medtronic:R74231": {
       "alerted": false,
       "first_seen": "2026-08-10T05:42:21.234036+00:00",
@@ -72502,6 +72523,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Contact Center Manager",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Contact-Center-Manager_JR2017193"
+    },
+    "NVIDIA:JR2017210": {
+      "alerted": false,
+      "first_seen": "2026-08-18T22:54:22.014094+00:00",
+      "location": "4 Locations",
+      "title": "Senior Compiler Engineer - Backend",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Senior-Compiler-Engineer---Backend_JR2017210"
     },
     "NVIDIA:JR2017221": {
       "alerted": false,
