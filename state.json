@@ -66819,6 +66819,13 @@
       "title": "\u751f\u4ea7\u4f5c\u4e1a\u5458I",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Changzhou-Jiangsu-China/I_R75077-1"
     },
+    "Medtronic:R75084": {
+      "alerted": false,
+      "first_seen": "2026-08-19T04:06:46.849922+00:00",
+      "location": "Hong Kong, Hong Kong",
+      "title": "Territory Supervisor",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Hong-Kong-Hong-Kong/Territory-Supervisor_R75084-1"
+    },
     "Medtronic:R75114": {
       "alerted": false,
       "first_seen": "2026-08-18T23:50:16.999527+00:00",
@@ -86909,6 +86916,13 @@
       "title": "Software Verification Engineer, Networking",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Software-Verification-Engineer--Networking_JR2022969-1"
     },
+    "NVIDIA:JR2022972": {
+      "alerted": false,
+      "first_seen": "2026-08-19T04:06:46.849797+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Tegra Software Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Tegra-Software-Engineer_JR2022972-1"
+    },
     "NVIDIA:JR2022973": {
       "alerted": false,
       "first_seen": "2026-08-13T18:25:58.864918+00:00",
@@ -87532,6 +87546,13 @@
       "title": "Senior SMTA Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Vietnam-Remote/Senior-SMTA-Engineer_JR2023301"
     },
+    "NVIDIA:JR2023302": {
+      "alerted": false,
+      "first_seen": "2026-08-19T04:06:46.849886+00:00",
+      "location": "Germany, Munich",
+      "title": "Software Engineering Intern, Test Automation \u2014 Autonomous Vehicles",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern--Test-Automation---Autonomous-Vehicles_JR2023302"
+    },
     "NVIDIA:JR2023304": {
       "alerted": false,
       "first_seen": "2026-08-14T15:21:47.756970+00:00",
@@ -87573,6 +87594,13 @@
       "location": "2 Locations",
       "title": "Forward Product Engineering Lead",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Forward-Product-Engineering-Lead_JR2023339"
+    },
+    "NVIDIA:JR2023340": {
+      "alerted": true,
+      "first_seen": "2026-08-19T04:06:46.849671+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "System Software Engineer - Trusted Firmware",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---Trusted-Firmware_JR2023340"
     },
     "NVIDIA:JR2023352": {
       "alerted": false,
@@ -87636,6 +87664,20 @@
       "location": "US, AR, Remote",
       "title": "Senior Account Manager - Walmart",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-AR-Remote/Senior-Account-Manager---Walmart_JR2023393"
+    },
+    "NVIDIA:JR2023397": {
+      "alerted": true,
+      "first_seen": "2026-08-19T04:06:46.849717+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Robotics Research Engineer - Robot Simulation and Evaluation",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Robotics-Research-Engineer---Robot-Simulation-and-Evaluation_JR2023397"
+    },
+    "NVIDIA:JR2023408": {
+      "alerted": false,
+      "first_seen": "2026-08-19T04:06:46.849761+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Linux Software Engineer - Chip System Software",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Linux-Software-Engineer---Chip-System-Software_JR2023408"
     },
     "NVIDIA:JR2023428": {
       "alerted": false,
@@ -87727,6 +87769,27 @@
       "location": "2 Locations",
       "title": "Senior Software Engineer, DGX Cloud Production Engineering",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--DGX-Cloud-Production-Engineering_JR2023607-1"
+    },
+    "NVIDIA:JR2023628": {
+      "alerted": false,
+      "first_seen": "2026-08-19T04:06:46.849548+00:00",
+      "location": "Taiwan, Taipei",
+      "title": "System Software Engineer \u2013 GPU and SOC (2027 RDSS Intern)",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---GPU-and-SOC--2027-RDSS-Intern-_JR2023628"
+    },
+    "NVIDIA:JR2023661": {
+      "alerted": false,
+      "first_seen": "2026-08-19T04:06:46.849626+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Technical Program Manager \u2013 Humanoid Robotics Operations",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager---Humanoid-Robotics-Operations_JR2023661"
+    },
+    "NVIDIA:JR2023733": {
+      "alerted": false,
+      "first_seen": "2026-08-19T04:06:46.849834+00:00",
+      "location": "4 Locations",
+      "title": "CPU Design Methodology Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/CPU-Design-Methodology-Engineer_JR2023733"
     },
     "Stryker:R498593": {
       "alerted": false,
