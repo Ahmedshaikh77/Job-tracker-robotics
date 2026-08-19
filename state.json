@@ -107916,6 +107916,13 @@
       "title": "Associate Sales Representative - North LA - ENT",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Santa-Monica-California/Associate-Sales-Representative---North-LA---ENT_R571436"
     },
+    "Stryker:R571446": {
+      "alerted": false,
+      "first_seen": "2026-08-19T19:14:08.254361+00:00",
+      "location": "Bozeman, Montana",
+      "title": "Sales Representative - Montana - Surgical Technologies",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Bozeman-Montana/Sales-Representative---Montana---Surgical-Technologies_R571446-1"
+    },
     "Stryker:R571458": {
       "alerted": false,
       "first_seen": "2026-08-18T13:53:30.383993+00:00",
@@ -112682,6 +112689,13 @@
       "location": "Taipei, Taiwan; Hsinchu, Taiwan",
       "title": "Software Engineer, Compute Systems",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8131788"
+    },
+    "Waymo:8142158": {
+      "alerted": false,
+      "first_seen": "2026-08-19T19:14:08.254286+00:00",
+      "location": "Mountain View, CA, USA",
+      "title": "Director, FP&A - Supply Chain",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8142158"
     }
   }
 }
