@@ -1,5 +1,10 @@
 {
   "company_failures": {
+    "Anduril": {
+      "count": 1,
+      "last_error": "Anduril (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
+      "last_failed_at": "2026-08-19T06:59:13.045851+00:00"
+    },
     "Boston Dynamics": {
       "count": 6,
       "last_error": "Boston Dynamics (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/bostondynamics/jobs?content=true",
@@ -106718,6 +106723,13 @@
       "location": "Springfield, Illinois",
       "title": "OnSite Specialist - Springfield, IL",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Springfield-Illinois/OnSite-Specialist---Springfield--IL_R571111"
+    },
+    "Stryker:R571121": {
+      "alerted": false,
+      "first_seen": "2026-08-19T06:59:13.048755+00:00",
+      "location": "Gurugram, India",
+      "title": "Mechanical Design Engineer",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Gurugram-India/Mechanical-Design-Engineer_R571121"
     },
     "Stryker:R571127": {
       "alerted": false,
