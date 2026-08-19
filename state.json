@@ -33926,6 +33926,13 @@
       "title": "Mission Software Engineer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5214858007?gh_jid=5214858007"
     },
+    "Anduril:5214926007": {
+      "alerted": false,
+      "first_seen": "2026-08-19T05:14:48.430276+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Recruiter, People Operations",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5214926007?gh_jid=5214926007"
+    },
     "Anduril:5214985007": {
       "alerted": false,
       "first_seen": "2026-08-18T17:40:13.914602+00:00",
@@ -34016,6 +34023,13 @@
       "location": "Lexington, Massachusetts, United States",
       "title": "Micro-electronics Technician",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5215803007?gh_jid=5215803007"
+    },
+    "Anduril:5215871007": {
+      "alerted": false,
+      "first_seen": "2026-08-19T05:14:48.429544+00:00",
+      "location": "McHenry, Mississippi, United States",
+      "title": "Recruiting Coordinator (Contractor)",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5215871007?gh_jid=5215871007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -66805,6 +66819,13 @@
       "title": "Machinist lll",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Warsaw-Indiana-United-States-of-America/Machinist-lll_R75052-1"
     },
+    "Medtronic:R75063": {
+      "alerted": false,
+      "first_seen": "2026-08-19T05:14:48.430509+00:00",
+      "location": "Shijiazhuang, Hebei, China",
+      "title": "SHAPE_Aortic_Senior Technical Sales Representative_Shijiazhuang",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Shijiazhuang-Hebei-China/SHAPE-Aortic-Senior-Technical-Sales-Representative-Shijiazhuang_R75063-1"
+    },
     "Medtronic:R75072": {
       "alerted": false,
       "first_seen": "2026-08-18T07:48:13.821703+00:00",
@@ -86846,6 +86867,13 @@
       "title": "Networking Field Applications Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Networking-Field-Applications-Engineer_JR2022945"
     },
+    "NVIDIA:JR2022946": {
+      "alerted": false,
+      "first_seen": "2026-08-19T05:14:48.430435+00:00",
+      "location": "China, Shanghai",
+      "title": "Senior Deep Learning Engineer, 4D Foundation Model",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-Deep-Learning-Engineer--4D-Foundation-Model_JR2022946-1"
+    },
     "NVIDIA:JR2022948": {
       "alerted": false,
       "first_seen": "2026-08-07T23:28:32.492033+00:00",
@@ -87574,6 +87602,13 @@
       "title": "Senior Software Engineer, AIOps",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Raanana/Senior-Software-Engineer--AIOps_JR2023309-1"
     },
+    "NVIDIA:JR2023310": {
+      "alerted": false,
+      "first_seen": "2026-08-19T05:14:48.430467+00:00",
+      "location": "Israel, Tel Aviv",
+      "title": "Senior Architect, IC-System",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Architect--IC-System_JR2023310"
+    },
     "NVIDIA:JR2023311": {
       "alerted": false,
       "first_seen": "2026-08-17T22:23:44.154502+00:00",
@@ -87651,6 +87686,13 @@
       "title": "Compiler Engineer - AI Inference",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Remote/Compiler-Engineer---AI-Inference_JR2023372"
     },
+    "NVIDIA:JR2023383": {
+      "alerted": false,
+      "first_seen": "2026-08-19T05:14:48.430322+00:00",
+      "location": "6 Locations",
+      "title": "Principal Process Architect, Automotive Software",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Process-Architect--Automotive-Software_JR2023383"
+    },
     "NVIDIA:JR2023390": {
       "alerted": false,
       "first_seen": "2026-08-18T02:16:46.972025+00:00",
@@ -87707,12 +87749,26 @@
       "title": "HPC Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Singapore-Singapore-Suntec-Tower/HPC-Engineer_JR2023451"
     },
+    "NVIDIA:JR2023452": {
+      "alerted": false,
+      "first_seen": "2026-08-19T05:14:48.430398+00:00",
+      "location": "3 Locations",
+      "title": "Developer Technology Engineer \u2013 AI",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Developer-Technology-Engineer---AI_JR2023452"
+    },
     "NVIDIA:JR2023468": {
       "alerted": false,
       "first_seen": "2026-08-17T20:32:42.814324+00:00",
       "location": "US, CA, Santa Clara",
       "title": "Relational Foundation Model Engineer, Modern Data Stack",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Relational-Foundation-Model-Engineer--Modern-Data-Stack_JR2023468"
+    },
+    "NVIDIA:JR2023479": {
+      "alerted": false,
+      "first_seen": "2026-08-19T05:14:48.430360+00:00",
+      "location": "2 Locations",
+      "title": "Senior ASIC Verification Engineer - HSIO",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Senior-ASIC-Verification-Engineer---HSIO_JR2023479"
     },
     "NVIDIA:JR2023494": {
       "alerted": false,
