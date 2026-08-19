@@ -3364,6 +3364,13 @@
       "title": "Software Development Engineer, Amazon Fulfillment Technologies (AFT) - Outbound/Flow, AFT Outbound Execution Teams",
       "url": "https://www.amazon.jobs/en/jobs/10506069/software-development-engineer-amazon-fulfillment-technologies-aft-outbound-flow-aft-outbound-execution-teams"
     },
+    "Amazon:10507398": {
+      "alerted": false,
+      "first_seen": "2026-08-19T21:36:26.583172+00:00",
+      "location": "Berlin, Berlin, DEU",
+      "title": "Applied Scientist II, AFT AI, Amazon AFT AI",
+      "url": "https://www.amazon.jobs/en/jobs/10507398/applied-scientist-ii-aft-ai-amazon-aft-ai"
+    },
     "Anduril:4159543007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.742648+00:00",
@@ -34324,6 +34331,20 @@
       "location": "McHenry, Mississippi, United States",
       "title": "Senior Supplier Industrialization Engineer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5216700007?gh_jid=5216700007"
+    },
+    "Anduril:5216708007": {
+      "alerted": false,
+      "first_seen": "2026-08-19T21:36:26.584893+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Systems Integration & Test Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5216708007?gh_jid=5216708007"
+    },
+    "Anduril:5216711007": {
+      "alerted": false,
+      "first_seen": "2026-08-19T21:36:26.584140+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior RF Systems Integration & Test Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5216711007?gh_jid=5216711007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -67288,6 +67309,13 @@
       "title": "Senior CoreValve Therapy Consultant - Oregon",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/State-of-Oregon-United-States-of-America/Senior-CoreValve-Therapy-Consultant---Oregon_R74964-1"
     },
+    "Medtronic:R74975": {
+      "alerted": false,
+      "first_seen": "2026-08-19T21:36:26.583374+00:00",
+      "location": "Alajuela Coyol, Alajuela, Costa Rica",
+      "title": "Machinist l.",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Alajuela-Coyol-Alajuela-Costa-Rica/Machinist-l_R74975-1"
+    },
     "Medtronic:R75007": {
       "alerted": false,
       "first_seen": "2026-08-17T21:43:32.524368+00:00",
@@ -72117,6 +72145,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Senior Design Engineer, Coherent High Speed Interconnect",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Design-Engineer--Coherent-High-Speed-Interconnect_JR2015857"
+    },
+    "NVIDIA:JR2015858": {
+      "alerted": false,
+      "first_seen": "2026-08-19T21:36:26.583290+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Package Modeling Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Package-Modeling-Engineer_JR2015858"
     },
     "NVIDIA:JR2015868": {
       "alerted": false,
@@ -88624,6 +88659,13 @@
       "title": "Verification Engineer -  ARM Fabric Unit Level",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Verification-Engineer----ARM-Fabric-Unit-Level_JR2023540"
     },
+    "NVIDIA:JR2023561": {
+      "alerted": false,
+      "first_seen": "2026-08-19T21:36:26.583339+00:00",
+      "location": "5 Locations",
+      "title": "Senior Software Engineer, Attestation Services - DGX Cloud",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Attestation-Services---DGX-Cloud_JR2023561"
+    },
     "NVIDIA:JR2023585": {
       "alerted": true,
       "first_seen": "2026-08-17T21:43:32.524297+00:00",
@@ -88742,6 +88784,13 @@
       "location": "US, CA, Santa Clara",
       "title": "NVIDIA 2027 Summer Internships: Ph.D. Engineering",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Summer-Internships--PhD-Engineering_JR2023856"
+    },
+    "NVIDIA:JR2023857": {
+      "alerted": false,
+      "first_seen": "2026-08-19T21:36:26.583247+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Software QA Test Development Engineer - Diagnostics",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-QA-Test-Development-Engineer---Diagnostics_JR2023857"
     },
     "Stryker:R498593": {
       "alerted": false,
