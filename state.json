@@ -32953,6 +32953,13 @@
       "title": "Staff Systems Engineer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5208795007?gh_jid=5208795007"
     },
+    "Anduril:5208821007": {
+      "alerted": false,
+      "first_seen": "2026-08-20T21:36:13.332223+00:00",
+      "location": "Quonset, Rhode Island, United States",
+      "title": "Equipment Specialist",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5208821007?gh_jid=5208821007"
+    },
     "Anduril:5208877007": {
       "alerted": false,
       "first_seen": "2026-08-12T22:25:07.993555+00:00",
@@ -34457,6 +34464,13 @@
       "location": "Huntsville, Alabama, United States",
       "title": "Senior Materials & Process Engineer, Rocket Motor Systems (Polymeric Ablatives)",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5216922007?gh_jid=5216922007"
+    },
+    "Anduril:5216938007": {
+      "alerted": false,
+      "first_seen": "2026-08-20T21:36:13.331268+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Arsenal-1 Operations Lead",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5216938007?gh_jid=5216938007"
     },
     "Anduril:5217019007": {
       "alerted": false,
@@ -66567,6 +66581,13 @@
       "title": "Clinical Specialist - Cardiac Rhythm Management - Chicagoland North/Northwest Suburbs",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Chicago-Illinois-United-States-of-America/Clinical-Specialist---Cardiac-Rhythm-Management---Chicagoland-North-Northwest-Suburbs_R74409-1"
     },
+    "Medtronic:R74411": {
+      "alerted": false,
+      "first_seen": "2026-08-20T21:36:13.332359+00:00",
+      "location": "6 Locations",
+      "title": "Associate Sales Representative (Minneapolis) - Acute Care and Monitoring",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Associate-Sales-Representative--Minneapolis----Acute-Care-and-Monitoring_R74411-1"
+    },
     "Medtronic:R74412": {
       "alerted": false,
       "first_seen": "2026-08-13T23:06:28.517986+00:00",
@@ -66671,6 +66692,13 @@
       "location": "Tempe, Arizona, United States of America",
       "title": "Process Engineer II",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Tempe-Arizona-United-States-of-America/Process-Engineer-II_R74434-1"
+    },
+    "Medtronic:R74436": {
+      "alerted": false,
+      "first_seen": "2026-08-20T21:36:13.332279+00:00",
+      "location": "3 Locations",
+      "title": "Associate Sales Representative (LA/OC) - Acute Care and Monitoring",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/State-of-California-United-States-of-America/Associate-Sales-Representative--LA-OC----Acute-Care-and-Monitoring_R74436-1"
     },
     "Medtronic:R74437": {
       "alerted": false,
@@ -67896,6 +67924,13 @@
       "location": "State of Minnesota, United States of America",
       "title": "Senior Remote Sales Representative, Cardiovascular - Remote (USA)",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/State-of-Minnesota-United-States-of-America/Senior-Remote-Sales-Representative--Cardiovascular---Remote--USA-_R75185-1"
+    },
+    "Medtronic:R75187": {
+      "alerted": false,
+      "first_seen": "2026-08-20T21:36:13.332411+00:00",
+      "location": "2 Locations",
+      "title": "Associate Sales Representative (Boston/NYC) - Acute Care and Monitoring",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/New-York-New-York-United-States-of-America/Associate-Sales-Representative--Boston-NYC----Acute-Care-and-Monitoring_R75187-1"
     },
     "Medtronic:R75212": {
       "alerted": false,
@@ -109260,6 +109295,13 @@
       "title": "Associate Installation Technician - Denver, CO",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Denver-Colorado/Associate-Installation-Technician---Denver--CO_R571635"
     },
+    "Stryker:R571637": {
+      "alerted": false,
+      "first_seen": "2026-08-20T21:36:13.330447+00:00",
+      "location": "Chicago, Illinois",
+      "title": "Associate Installation Technician - Chicago",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Chicago-Illinois/Associate-Installation-Technician---Chicago_R571637"
+    },
     "Stryker:R571654": {
       "alerted": false,
       "first_seen": "2026-08-20T14:39:42.255850+00:00",
@@ -114041,12 +114083,33 @@
       "title": "Software Engineer, Compute Systems",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8131788"
     },
+    "Waymo:8140624": {
+      "alerted": false,
+      "first_seen": "2026-08-20T21:36:13.329366+00:00",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
+      "title": "Incident Readiness Exercises",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8140624"
+    },
     "Waymo:8142158": {
       "alerted": false,
       "first_seen": "2026-08-19T19:14:08.254286+00:00",
       "location": "Mountain View, CA, USA",
       "title": "Director, FP&A - Supply Chain",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8142158"
+    },
+    "Waymo:8143380": {
+      "alerted": false,
+      "first_seen": "2026-08-20T21:36:13.330396+00:00",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
+      "title": "Manager, Resilience Risk",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8143380"
+    },
+    "Waymo:8143391": {
+      "alerted": false,
+      "first_seen": "2026-08-20T21:36:13.329838+00:00",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA; Tempe, AZ, USA",
+      "title": "Lead, Resilience Governance",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8143391"
     }
   }
 }
