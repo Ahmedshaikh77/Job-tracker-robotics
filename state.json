@@ -3371,6 +3371,13 @@
       "title": "Applied Scientist II, AFT AI, Amazon AFT AI",
       "url": "https://www.amazon.jobs/en/jobs/10507398/applied-scientist-ii-aft-ai-amazon-aft-ai"
     },
+    "Amazon:10508030": {
+      "alerted": true,
+      "first_seen": "2026-08-20T14:39:42.255605+00:00",
+      "location": "Westboro, Wisconsin, USA",
+      "title": "Software Development Engineer, Amazon Robotics Firmware",
+      "url": "https://www.amazon.jobs/en/jobs/10508030/software-development-engineer-amazon-robotics-firmware"
+    },
     "Anduril:4159543007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.742648+00:00",
@@ -34409,6 +34416,13 @@
       "title": "Vehicle Energy Systems Lead",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5217019007?gh_jid=5217019007"
     },
+    "Anduril:5217232007": {
+      "alerted": false,
+      "first_seen": "2026-08-20T14:39:42.256621+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Staff PCB Design Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5217232007?gh_jid=5217232007"
+    },
     "Apptronik:5572958004": {
       "alerted": false,
       "first_seen": "2026-06-08T14:54:52.580418+00:00",
@@ -65195,6 +65209,13 @@
       "title": "District Sales Manager, ENT - Mid South",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Louisville-Kentucky-United-States-of-America/District-Sales-Manager--ENT---Mid-South_R73865-1"
     },
+    "Medtronic:R73866": {
+      "alerted": false,
+      "first_seen": "2026-08-20T14:39:42.256689+00:00",
+      "location": "2 Locations",
+      "title": "Executivo de Vendas I (H\u00e9rnia) Belo Horizonte/MG & Ribeir\u00e3o Preto/SP",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Belo-Horizonte-Minas-Gerais-Brazil/Executivo-de-Vendas-I--Hrnia--Belo-Horizonte-MG---Ribeiro-Preto-SP_R73866-1"
+    },
     "Medtronic:R73869": {
       "alerted": true,
       "first_seen": "2026-08-17T19:46:25.945860+00:00",
@@ -67435,6 +67456,13 @@
       "title": "AFFERA\u2122 Therapy Account Consultant",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Athens-Attica-Greece/AFFERA--Therapy-Account-Consultant_R74926-1"
     },
+    "Medtronic:R74933": {
+      "alerted": false,
+      "first_seen": "2026-08-20T14:39:42.256741+00:00",
+      "location": "Herzliya, Tel Aviv, Israel",
+      "title": "Software Automation Engineer",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Herzliya-Tel-Aviv-Israel/Software-Automation-Engineer_R74933-1"
+    },
     "Medtronic:R74939": {
       "alerted": false,
       "first_seen": "2026-08-17T13:47:45.543791+00:00",
@@ -67714,6 +67742,13 @@
       "location": "Shanghai, Shanghai, China",
       "title": "Intern",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Shanghai-Shanghai-China/Intern_R75235-2"
+    },
+    "Medtronic:R75278": {
+      "alerted": false,
+      "first_seen": "2026-08-20T14:39:42.256824+00:00",
+      "location": "Orlando, Florida, United States of America",
+      "title": "Senior Symplicity Spyral Territory Manager - Orlando East",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Orlando-Florida-United-States-of-America/Senior-Symplicity-Spyral-Territory-Manager---Orlando-East_R75278-2"
     },
     "Medtronic:R75316": {
       "alerted": false,
@@ -108735,6 +108770,13 @@
       "title": "Receiving Technician",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Jose-California/Receiving-Technician_R571537"
     },
+    "Stryker:R571557": {
+      "alerted": false,
+      "first_seen": "2026-08-20T14:39:42.255761+00:00",
+      "location": "Memphis, Tennessee",
+      "title": "Arterial Account Manager - Memphis, TN - Peripheral Vascular",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Memphis-Tennessee/Arterial-Account-Manager---Memphis--TN---Peripheral-Vascular_R571557"
+    },
     "Stryker:R571595": {
       "alerted": false,
       "first_seen": "2026-08-18T13:09:15.168928+00:00",
@@ -108742,12 +108784,26 @@
       "title": "Manufacturing Operator",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cork-Ireland/Manufacturing-Operator_R571595-1"
     },
+    "Stryker:R571612": {
+      "alerted": false,
+      "first_seen": "2026-08-20T14:39:42.255697+00:00",
+      "location": "2 Locations",
+      "title": "Sales Representative - Central Virginia - Emergency Care (Fire/EMS)",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Charlottesville-Virginia/Sales-Representative---Central-Virginia---Emergency-Care--Fire-EMS-_R571612"
+    },
     "Stryker:R571627": {
       "alerted": false,
       "first_seen": "2026-08-18T20:35:20.771378+00:00",
       "location": "Redmond, Washington",
       "title": "Biomedical Technician",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Redmond-Washington/Biomedical-Technician_R571627"
+    },
+    "Stryker:R571654": {
+      "alerted": false,
+      "first_seen": "2026-08-20T14:39:42.255850+00:00",
+      "location": "New Orleans, Louisiana",
+      "title": "Arterial Account Manager - New Orleans, LA - Peripheral Vascular",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/New-Orleans-Louisiana/Arterial-Account-Manager---New-Orleans--LA---Peripheral-Vascular_R571654"
     },
     "Stryker:R571672": {
       "alerted": false,
