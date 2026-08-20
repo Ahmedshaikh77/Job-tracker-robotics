@@ -63718,6 +63718,13 @@
       "title": "RGI-PH-Senior Technical Sales Representative-Beijing",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Beijing-Beijing-China/RGI-PH-Senior-Technical-Sales-Representative-Beijing_R73351"
     },
+    "Medtronic:R73352": {
+      "alerted": false,
+      "first_seen": "2026-08-20T07:14:04.126717+00:00",
+      "location": "Nanning, Guangxi, China",
+      "title": "RGI-ER-Technical Sales Representative-Nanning",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Nanning-Guangxi-China/RGI-ER-Technical-Sales-Representative-Nanning_R73352-2"
+    },
     "Medtronic:R73353": {
       "alerted": false,
       "first_seen": "2026-08-06T09:04:37.934889+00:00",
@@ -67329,6 +67336,13 @@
       "location": "Changzhou, Jiangsu, China",
       "title": "\u533a\u57df\u9500\u552e\u4ee3\u8868",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Changzhou-Jiangsu-China/_R74902-1"
+    },
+    "Medtronic:R74905": {
+      "alerted": false,
+      "first_seen": "2026-08-20T07:14:04.126761+00:00",
+      "location": "Changzhou, Jiangsu, China",
+      "title": "Supplier Quality Engineer_Changzhou",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Changzhou-Jiangsu-China/Supplier-Quality-Engineer-Changzhou_R74905-1"
     },
     "Medtronic:R74907": {
       "alerted": false,
@@ -88974,6 +88988,20 @@
       "title": "Senior Software QA Test Development Engineer - Diagnostics",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-QA-Test-Development-Engineer---Diagnostics_JR2023857"
     },
+    "NVIDIA:JR2023864": {
+      "alerted": false,
+      "first_seen": "2026-08-20T07:14:04.126623+00:00",
+      "location": "China, Shenzhen",
+      "title": "Senior CUDA Test Development Software Engineer, SDET",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shenzhen/Senior-CUDA-Test-Development-Software-Engineer--SDET_JR2023864-1"
+    },
+    "NVIDIA:JR2023952": {
+      "alerted": true,
+      "first_seen": "2026-08-20T07:14:04.126668+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "ML and Agentic Systems Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ML-and-Agentic-Systems-Engineer_JR2023952"
+    },
     "Stryker:R498593": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.741260+00:00",
@@ -90254,6 +90282,13 @@
       "location": "Mumbai, India",
       "title": "Associate-MPS",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Mumbai-India/Associate-MPS_R561985"
+    },
+    "Stryker:R561986": {
+      "alerted": false,
+      "first_seen": "2026-08-20T07:14:04.126548+00:00",
+      "location": "Ahmedabad, India",
+      "title": "Associate-MPS",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Ahmedabad-India/Associate-MPS_R561986"
     },
     "Stryker:R561991": {
       "alerted": false,
