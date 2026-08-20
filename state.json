@@ -1,10 +1,5 @@
 {
   "company_failures": {
-    "Anduril": {
-      "count": 1,
-      "last_error": "Anduril (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
-      "last_failed_at": "2026-08-20T20:11:21.929984+00:00"
-    },
     "Boston Dynamics": {
       "count": 6,
       "last_error": "Boston Dynamics (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/bostondynamics/jobs?content=true",
@@ -813,6 +808,13 @@
       "location": "Hybrid- Fremont, CA",
       "title": "Staff Software Engineer, Hardware Interface",
       "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6146407004"
+    },
+    "Agility Robotics:6148969004": {
+      "alerted": false,
+      "first_seen": "2026-08-20T20:43:41.335946+00:00",
+      "location": "Remote",
+      "title": "Senior Software Engineer, AI/ML Platform",
+      "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6148969004"
     },
     "Amazon:10378626": {
       "alerted": false,
@@ -67993,6 +67995,13 @@
       "title": "Principal Clinical Specialist, Deep Brain Stimulation (DBS) - Connecticut",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Hartford-Connecticut-United-States-of-America/Principal-Clinical-Specialist--Deep-Brain-Stimulation--DBS----Connecticut_R75392-1"
     },
+    "Medtronic:R75401": {
+      "alerted": false,
+      "first_seen": "2026-08-20T20:43:41.336077+00:00",
+      "location": "3 Locations",
+      "title": "Senior Principal Symplicity Spyral Territory Manager - Hartford, CT",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Hartford-Connecticut-United-States-of-America/Senior-Principal-Symplicity-Spyral-Territory-Manager---Hartford--CT_R75401-1"
+    },
     "NVIDIA:JR1968313": {
       "alerted": true,
       "first_seen": "2026-06-26T19:11:12.205321+00:00",
@@ -89447,6 +89456,13 @@
       "location": "4 Locations",
       "title": "CPU Design Methodology Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/CPU-Design-Methodology-Engineer_JR2023733"
+    },
+    "NVIDIA:JR2023813": {
+      "alerted": false,
+      "first_seen": "2026-08-20T20:43:41.336022+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Software Test Developer \u2013 DriveOS",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Test-Developer---DriveOS_JR2023813"
     },
     "NVIDIA:JR2023827": {
       "alerted": false,
