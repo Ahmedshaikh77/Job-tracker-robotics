@@ -1,5 +1,10 @@
 {
   "company_failures": {
+    "Anduril": {
+      "count": 1,
+      "last_error": "Anduril (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
+      "last_failed_at": "2026-08-20T20:11:21.929984+00:00"
+    },
     "Boston Dynamics": {
       "count": 6,
       "last_error": "Boston Dynamics (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/bostondynamics/jobs?content=true",
@@ -67974,6 +67979,20 @@
       "title": "ACM-(Associate) Product Manager-Shanghai",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Shanghai-Shanghai-China/ACM--Associate--Product-Manager-Shanghai_R75348-1"
     },
+    "Medtronic:R75370": {
+      "alerted": false,
+      "first_seen": "2026-08-20T20:11:21.933346+00:00",
+      "location": "Atlanta, Georgia, United States of America",
+      "title": "CRM Associate Clinical Specialist - Atlanta, GA",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Atlanta-Georgia-United-States-of-America/CRM-Associate-Clinical-Specialist---Atlanta--GA_R75370"
+    },
+    "Medtronic:R75392": {
+      "alerted": false,
+      "first_seen": "2026-08-20T20:11:21.933419+00:00",
+      "location": "Hartford, Connecticut, United States of America",
+      "title": "Principal Clinical Specialist, Deep Brain Stimulation (DBS) - Connecticut",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Hartford-Connecticut-United-States-of-America/Principal-Clinical-Specialist--Deep-Brain-Stimulation--DBS----Connecticut_R75392-1"
+    },
     "NVIDIA:JR1968313": {
       "alerted": true,
       "first_seen": "2026-06-26T19:11:12.205321+00:00",
@@ -70213,6 +70232,13 @@
       "location": "2 Locations",
       "title": "Senior DFT Design Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-DFT-Design-Engineer_JR2011660"
+    },
+    "NVIDIA:JR2011699": {
+      "alerted": false,
+      "first_seen": "2026-08-20T20:11:21.933303+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Software Program Manager",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Program-Manager_JR2011699"
     },
     "NVIDIA:JR2011705": {
       "alerted": false,
@@ -108392,6 +108418,13 @@
       "title": "Senior Engineering Technician - 1st Shift - Pay Starting at $36.42/hr.",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Jose-California/Senior-Engineering-Technician---1st-Shift---Pay-Starting-at--3642-hr_R570971"
     },
+    "Stryker:R570972": {
+      "alerted": false,
+      "first_seen": "2026-08-20T20:11:21.933265+00:00",
+      "location": "San Jose, California",
+      "title": "Associate Machine Shop Manager (Onsite)",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Jose-California/Associate-Machine-Shop-Manager--Onsite-_R570972"
+    },
     "Stryker:R570973": {
       "alerted": false,
       "first_seen": "2026-08-20T18:51:56.222897+00:00",
@@ -109092,6 +109125,13 @@
       "title": "Team Leader, Manufacturing",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Skawina-Poland/Team-Leader--Manufacturing_R571513-1"
     },
+    "Stryker:R571519": {
+      "alerted": false,
+      "first_seen": "2026-08-20T20:11:21.933221+00:00",
+      "location": "Minneapolis, Minnesota",
+      "title": "Arterial Account Manager - Minnesota - Peripheral Vascular",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Minneapolis-Minnesota/Arterial-Account-Manager---Minnesota---Peripheral-Vascular_R571519"
+    },
     "Stryker:R571537": {
       "alerted": false,
       "first_seen": "2026-08-19T18:13:01.591737+00:00",
@@ -109203,6 +109243,13 @@
       "location": "Charlotte, North Carolina",
       "title": "VTE Account Manager- Charlotte, NC- Peripheral Vascular",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Charlotte-North-Carolina/VTE-Account-Manager--Charlotte--NC--Peripheral-Vascular_R571713"
+    },
+    "Stryker:R571714": {
+      "alerted": false,
+      "first_seen": "2026-08-20T20:11:21.933157+00:00",
+      "location": "Oklahoma City, Oklahoma",
+      "title": "Foot & Ankle Sales Associate - Oklahoma, City, OK",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Oklahoma-City-Oklahoma/Foot---Ankle-Sales-Associate---Oklahoma--City--OK_R571714-1"
     },
     "Waymo:6367980": {
       "alerted": false,
