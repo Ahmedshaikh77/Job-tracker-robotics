@@ -31315,6 +31315,13 @@
       "title": "Metrology Specialist ",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5200828007?gh_jid=5200828007"
     },
+    "Anduril:5200839007": {
+      "alerted": false,
+      "first_seen": "2026-08-20T23:36:48.497026+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior PLM Developer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5200839007?gh_jid=5200839007"
+    },
     "Anduril:5200843007": {
       "alerted": false,
       "first_seen": "2026-07-31T19:00:24.250151+00:00",
@@ -34541,6 +34548,13 @@
       "location": "Costa Mesa, California, United States",
       "title": "Chief Engineer, Fury Advanced Concepts",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218065007?gh_jid=5218065007"
+    },
+    "Anduril:5218111007": {
+      "alerted": false,
+      "first_seen": "2026-08-20T23:36:48.496120+00:00",
+      "location": "Santa Ana, California, United States",
+      "title": "Propulsion Technician",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218111007?gh_jid=5218111007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -67603,6 +67617,13 @@
       "title": "Senior Research & Development Engineer - Onsite",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Memphis-Tennessee-United-States-of-America/Senior-Research---Development-Engineer---Onsite_R74879-2"
     },
+    "Medtronic:R74885": {
+      "alerted": false,
+      "first_seen": "2026-08-20T23:36:48.497079+00:00",
+      "location": "Mounds View, Minnesota, United States of America",
+      "title": "Finance Director (EPT Sales Finance), Mounds View, MN",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Finance-Director--EPT-Sales-Finance---Mounds-View--MN_R74885-1"
+    },
     "Medtronic:R74886": {
       "alerted": false,
       "first_seen": "2026-08-19T18:13:01.591884+00:00",
@@ -89562,12 +89583,26 @@
       "title": "Senior Software Test Developer \u2013 DriveOS",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Test-Developer---DriveOS_JR2023813"
     },
+    "NVIDIA:JR2023826": {
+      "alerted": false,
+      "first_seen": "2026-08-20T23:36:48.495321+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Research Engineer, Interactive World Models",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Research-Engineer--Interactive-World-Models_JR2023826"
+    },
     "NVIDIA:JR2023827": {
       "alerted": false,
       "first_seen": "2026-08-20T16:13:54.910636+00:00",
       "location": "US, CA, Santa Clara",
       "title": "Senior ASIC Verification Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-ASIC-Verification-Engineer_JR2023827"
+    },
+    "NVIDIA:JR2023830": {
+      "alerted": false,
+      "first_seen": "2026-08-20T23:36:48.495391+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Research Engineer, Interactive World Models",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Engineer--Interactive-World-Models_JR2023830"
     },
     "NVIDIA:JR2023833": {
       "alerted": false,
@@ -89645,6 +89680,13 @@
       "location": "China, Shenzhen",
       "title": "Senior CUDA Test Development Software Engineer, SDET",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shenzhen/Senior-CUDA-Test-Development-Software-Engineer--SDET_JR2023864-1"
+    },
+    "NVIDIA:JR2023906": {
+      "alerted": false,
+      "first_seen": "2026-08-20T23:36:48.495444+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Software Development Engineer in Test - Datacenter Server OS",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Development-Engineer-in-Test---Datacenter-Server-OS_JR2023906"
     },
     "NVIDIA:JR2023952": {
       "alerted": true,
@@ -108958,6 +109000,13 @@
       "location": "4 Locations",
       "title": "Customer Success Manager (Remote)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Kalamazoo-Michigan/Customer-Success-Manager--Remote-_R571181"
+    },
+    "Stryker:R571186": {
+      "alerted": false,
+      "first_seen": "2026-08-20T23:36:48.495492+00:00",
+      "location": "San Jose, California",
+      "title": "Senior Manager, Sourcing Endoscopy Business Unit (Hybrid)",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Jose-California/Senior-Manager--Sourcing-Endoscopy-Business-Unit--Hybrid-_R571186"
     },
     "Stryker:R571192": {
       "alerted": false,
