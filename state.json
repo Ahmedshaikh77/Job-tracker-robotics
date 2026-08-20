@@ -3378,6 +3378,13 @@
       "title": "Software Development Engineer, Amazon Robotics Firmware",
       "url": "https://www.amazon.jobs/en/jobs/10508030/software-development-engineer-amazon-robotics-firmware"
     },
+    "Amazon:10508095": {
+      "alerted": false,
+      "first_seen": "2026-08-20T15:47:35.531571+00:00",
+      "location": "Boston, Massachusetts, USA",
+      "title": "Sr. Software Development Engineer, Amazon Robotics R&D",
+      "url": "https://www.amazon.jobs/en/jobs/10508095/sr-software-development-engineer-amazon-robotics-r-d"
+    },
     "Anduril:4159543007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.742648+00:00",
@@ -31168,6 +31175,13 @@
       "title": "Demand & Supply Planning, Intelligence Systems",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5200181007?gh_jid=5200181007"
     },
+    "Anduril:5200192007": {
+      "alerted": false,
+      "first_seen": "2026-08-20T15:47:35.532382+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Electrical Systems Integration Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5200192007?gh_jid=5200192007"
+    },
     "Anduril:5200203007": {
       "alerted": false,
       "first_seen": "2026-08-03T18:04:36.813682+00:00",
@@ -34352,6 +34366,13 @@
       "location": "Quincy, Massachusetts, United States",
       "title": "Field Test Engineer, Maritime ",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5216623007?gh_jid=5216623007"
+    },
+    "Anduril:5216647007": {
+      "alerted": false,
+      "first_seen": "2026-08-20T15:47:35.533162+00:00",
+      "location": "Remote",
+      "title": "Senior Airworthiness Engineer - Advanced Effects",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5216647007?gh_jid=5216647007"
     },
     "Anduril:5216654007": {
       "alerted": false,
@@ -65398,6 +65419,13 @@
       "title": "Dispute Analyst with European Languages",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Warsaw-Mazowieckie-Poland/Dispute-Analyst-with-European-Languages_R73920-1"
     },
+    "Medtronic:R73922": {
+      "alerted": false,
+      "first_seen": "2026-08-20T15:47:35.533211+00:00",
+      "location": "Galway, County Galway, Ireland",
+      "title": "Senior Reliability Engineer",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Galway-County-Galway-Ireland/Senior-Reliability-Engineer_R73922-1"
+    },
     "Medtronic:R73924": {
       "alerted": false,
       "first_seen": "2026-08-17T21:43:32.524451+00:00",
@@ -67707,6 +67735,13 @@
       "location": "Lafayette, Colorado, United States of America",
       "title": "Associate Technical Service Specialist (Cranial and Spinal Technologies)",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Associate-Technical-Service-Specialist--Cranial-and-Spinal-Technologies-_R75145-1"
+    },
+    "Medtronic:R75148": {
+      "alerted": false,
+      "first_seen": "2026-08-20T15:47:35.533253+00:00",
+      "location": "Sao Paulo, Sao Paulo, Brazil",
+      "title": "Talent Acquisition Specialist",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Sao-Paulo-Sao-Paulo-Brazil/Talent-Acquisition-Specialist_R75148-1"
     },
     "Medtronic:R75151": {
       "alerted": false,
@@ -108616,6 +108651,13 @@
       "title": "Clinical Specialist, Joint Replacement - Central Jersey/Ocean County",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Red-Bank-New-Jersey/Clinical-Specialist--Joint-Replacement---Central-Jersey-Ocean-County_R571240"
     },
+    "Stryker:R571244": {
+      "alerted": false,
+      "first_seen": "2026-08-20T15:47:35.531681+00:00",
+      "location": "Limerick, Ireland",
+      "title": "Supply Planner",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Limerick-Ireland/Supply-Planner_R571244"
+    },
     "Stryker:R571258": {
       "alerted": false,
       "first_seen": "2026-08-14T18:58:26.029704+00:00",
@@ -108867,6 +108909,13 @@
       "location": "Rockhampton, Australia",
       "title": "Associate Territory Manager - Rockhampton",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Rockhampton-Australia/Associate-Territory-Manager---Rockhampton_R571672"
+    },
+    "Stryker:R571705": {
+      "alerted": false,
+      "first_seen": "2026-08-20T15:47:35.531642+00:00",
+      "location": "Buffalo, New York",
+      "title": "OnSite Specialist - Buffalo, NY",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Buffalo-New-York/OnSite-Specialist---Buffalo--NY_R571705"
     },
     "Waymo:6367980": {
       "alerted": false,
