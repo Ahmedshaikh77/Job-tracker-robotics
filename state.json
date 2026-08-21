@@ -1,5 +1,10 @@
 {
   "company_failures": {
+    "Anduril": {
+      "count": 1,
+      "last_error": "Anduril (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
+      "last_failed_at": "2026-08-21T17:45:10.997627+00:00"
+    },
     "Boston Dynamics": {
       "count": 6,
       "last_error": "Boston Dynamics (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/bostondynamics/jobs?content=true",
@@ -68310,6 +68315,13 @@
       "title": "THIS POSTING IS INTENDED FOR THOSE REGISTERED TO ATTEND THE 2026 AISES NATIONAL CONFERENCE, OCT 15 - 17th in Portland, OR",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/THIS-POSTING-IS-INTENDED-FOR-THOSE-REGISTERED-TO-ATTEND-THE-2026-AISES-NATIONAL-CONFERENCE--OCT-15---17th-in-Portland--OR_R75324-1"
     },
+    "Medtronic:R75325": {
+      "alerted": false,
+      "first_seen": "2026-08-21T17:45:11.000255+00:00",
+      "location": "Madison, Wisconsin, United States of America",
+      "title": "Area Sales Manager, ENT - Madison, WI",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Madison-Wisconsin-United-States-of-America/Area-Sales-Manager--ENT---Madison--WI_R75325-1"
+    },
     "Medtronic:R75330": {
       "alerted": false,
       "first_seen": "2026-08-21T15:14:44.111798+00:00",
@@ -109427,6 +109439,13 @@
       "location": "San Jose, California",
       "title": "Sales Representative - South Bay, CA - Neurosurgical",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Jose-California/Sales-Representative---South-Bay--CA---Neurosurgical_R571112"
+    },
+    "Stryker:R571114": {
+      "alerted": false,
+      "first_seen": "2026-08-21T17:45:11.000209+00:00",
+      "location": "Portage, Michigan",
+      "title": "Senior Portfolio Manager - Orthopaedic Disposables (ORD)",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Senior-Portfolio-Manager---Orthopaedic-Disposables--ORD-_R571114"
     },
     "Stryker:R571121": {
       "alerted": false,
