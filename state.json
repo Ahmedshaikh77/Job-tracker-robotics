@@ -1,10 +1,5 @@
 {
   "company_failures": {
-    "Anduril": {
-      "count": 1,
-      "last_error": "Anduril (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
-      "last_failed_at": "2026-08-21T17:45:10.997627+00:00"
-    },
     "Boston Dynamics": {
       "count": 6,
       "last_error": "Boston Dynamics (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/bostondynamics/jobs?content=true",
@@ -34645,6 +34640,13 @@
       "title": "Chief Digital Systems Engineer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218217007?gh_jid=5218217007"
     },
+    "Anduril:5218291007": {
+      "alerted": false,
+      "first_seen": "2026-08-21T18:03:00.140286+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Environmental Test Technician (3rd Shift)",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218291007?gh_jid=5218291007"
+    },
     "Anduril:5218586007": {
       "alerted": false,
       "first_seen": "2026-08-21T15:48:29.574256+00:00",
@@ -34665,6 +34667,34 @@
       "location": "Boston, Massachusetts, United States",
       "title": "Security Operations Analyst",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218594007?gh_jid=5218594007"
+    },
+    "Anduril:5218761007": {
+      "alerted": false,
+      "first_seen": "2026-08-21T18:03:00.142501+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Electrical Engineer, Intelligence Systems",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218761007?gh_jid=5218761007"
+    },
+    "Anduril:5218764007": {
+      "alerted": false,
+      "first_seen": "2026-08-21T18:03:00.141391+00:00",
+      "location": "Waltham, Massachusetts, United States",
+      "title": "Senior Buyer ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218764007?gh_jid=5218764007"
+    },
+    "Anduril:5218809007": {
+      "alerted": false,
+      "first_seen": "2026-08-21T18:03:00.139263+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Endpoint Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218809007?gh_jid=5218809007"
+    },
+    "Anduril:5218813007": {
+      "alerted": false,
+      "first_seen": "2026-08-21T18:03:00.143380+00:00",
+      "location": "Atlanta, Georgia, United States",
+      "title": "Senior Software Systems Engineer, Launched Effects ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5218813007?gh_jid=5218813007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -110203,12 +110233,33 @@
       "title": "Foot & Ankle Sales Associate - Oklahoma, City, OK",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Oklahoma-City-Oklahoma/Foot---Ankle-Sales-Associate---Oklahoma--City--OK_R571714-1"
     },
+    "Stryker:R571719": {
+      "alerted": false,
+      "first_seen": "2026-08-21T18:03:00.138264+00:00",
+      "location": "San Diego, California",
+      "title": "Arterial Account Manager - San Diego - Peripheral Vascular",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Diego-California/Arterial-Account-Manager---San-Diego---Peripheral-Vascular_R571719"
+    },
+    "Stryker:R571720": {
+      "alerted": false,
+      "first_seen": "2026-08-21T18:03:00.138359+00:00",
+      "location": "California, Virtual Address",
+      "title": "Arterial Account Manager - Orange County - Peripheral Vascular",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/California-Virtual-Address/Arterial-Account-Manager---Orange-County---Peripheral-Vascular_R571720"
+    },
     "Stryker:R571793": {
       "alerted": false,
       "first_seen": "2026-08-21T06:18:47.286414+00:00",
       "location": "Boise, Idaho",
       "title": "Sales Associate - Boise, ID - Sports Medicine",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Boise-Idaho/Sales-Associate---Boise--ID---Sports-Medicine_R571793"
+    },
+    "Stryker:R571829": {
+      "alerted": false,
+      "first_seen": "2026-08-21T18:03:00.138139+00:00",
+      "location": "California, San Francisco Bay Area Virtual Address",
+      "title": "Arterial Account Manager - Bay Area - Peripheral Vascular",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/California-San-Francisco-Bay-Area-Virtual-Address/Arterial-Account-Manager---Bay-Area---Peripheral-Vascular_R571829"
     },
     "Stryker:R571857": {
       "alerted": false,
