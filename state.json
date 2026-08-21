@@ -35802,6 +35802,13 @@
       "title": "Staff Electrical Engineer - Sensor FPGA and PCB (Aggregator)",
       "url": "https://boards.greenhouse.io/apptronik/jobs/6145687004?gh_jid=6145687004"
     },
+    "Apptronik:6150106004": {
+      "alerted": false,
+      "first_seen": "2026-08-21T16:13:28.063462+00:00",
+      "location": "Sunnyvale, CA",
+      "title": "Technical Sourcer",
+      "url": "https://boards.greenhouse.io/apptronik/jobs/6150106004?gh_jid=6150106004"
+    },
     "Formlabs:4994162": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.732746+00:00",
@@ -67253,6 +67260,13 @@
       "title": "Senior Software - Verification Engineer - CRM",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Senior-Software---Verification-Engineer---CRM_R74602-1"
     },
+    "Medtronic:R74614": {
+      "alerted": false,
+      "first_seen": "2026-08-21T16:13:28.063574+00:00",
+      "location": "Bogot\u00e1, Bogota, Colombia",
+      "title": "Assoc Clinical Specialist",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Bogot-Bogota-Colombia/Assoc-Clinical-Specialist_R74614-2"
+    },
     "Medtronic:R74617": {
       "alerted": false,
       "first_seen": "2026-08-14T20:46:03.919614+00:00",
@@ -89932,6 +89946,13 @@
       "location": "China, Shanghai",
       "title": "SWQA Test Development Intern, GPU Communications Libraries - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/SWQA-Test-Development-Intern--GPU-Communications-Libraries---2027_JR2023690"
+    },
+    "NVIDIA:JR2023701": {
+      "alerted": false,
+      "first_seen": "2026-08-21T16:13:28.063530+00:00",
+      "location": "China, Shanghai",
+      "title": "Senior DPU Test Development Engineer, SDET",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-DPU-Test-Development-Engineer--SDET_JR2023701"
     },
     "NVIDIA:JR2023708": {
       "alerted": false,
