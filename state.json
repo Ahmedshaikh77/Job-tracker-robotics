@@ -66497,6 +66497,13 @@
       "title": "Vascular Therapy Development Specialist  - Kansas City",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Kansas-City-Missouri-United-States-of-America/Vascular-Therapy-Development-Specialist----Kansas-City_R74329-1"
     },
+    "Medtronic:R74346": {
+      "alerted": false,
+      "first_seen": "2026-08-21T04:00:10.625605+00:00",
+      "location": "Seoul, Seoul, Korea",
+      "title": "Sales Representative I",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Seoul-Seoul-Korea/Sales-Representative-I_R74346-1"
+    },
     "Medtronic:R74349": {
       "alerted": false,
       "first_seen": "2026-08-17T05:18:07.558525+00:00",
@@ -86762,6 +86769,13 @@
       "title": "AI Computing Software Development Engineer, TensorRT-LLM",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/AI-Computing-Software-Development-Engineer--TensorRT-LLM_JR2022327"
     },
+    "NVIDIA:JR2022330": {
+      "alerted": false,
+      "first_seen": "2026-08-21T04:00:10.625439+00:00",
+      "location": "Singapore, Singapore-Suntec Tower",
+      "title": "Solutions Architect, Speech AI",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Singapore-Singapore-Suntec-Tower/Solutions-Architect--Speech-AI_JR2022330"
+    },
     "NVIDIA:JR2022332": {
       "alerted": false,
       "first_seen": "2026-08-04T15:43:31.309197+00:00",
@@ -88659,6 +88673,13 @@
       "title": "Senior Post Silicon ATE Test Development Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Post-Silicon-ATE-Test-Development-Engineer_JR2023084"
     },
+    "NVIDIA:JR2023086": {
+      "alerted": false,
+      "first_seen": "2026-08-21T04:00:10.625565+00:00",
+      "location": "Taiwan, Taipei",
+      "title": "Solutions Architect",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Solutions-Architect_JR2023086"
+    },
     "NVIDIA:JR2023088": {
       "alerted": false,
       "first_seen": "2026-08-12T22:25:07.992445+00:00",
@@ -89751,6 +89772,13 @@
       "title": "Senior CUDA Test Development Software Engineer, SDET",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shenzhen/Senior-CUDA-Test-Development-Software-Engineer--SDET_JR2023864-1"
     },
+    "NVIDIA:JR2023905": {
+      "alerted": false,
+      "first_seen": "2026-08-21T04:00:10.625396+00:00",
+      "location": "Taiwan, Taipei",
+      "title": "Enterprise Software Test Development Engineer (RDSS Intern)",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Enterprise-Software-Test-Development-Engineer--RDSS-Intern-_JR2023905"
+    },
     "NVIDIA:JR2023906": {
       "alerted": false,
       "first_seen": "2026-08-20T23:36:48.495444+00:00",
@@ -89800,12 +89828,40 @@
       "title": "Compute Platform Engineer, License Scheduling",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compute-Platform-Engineer--License-Scheduling_JR2023965"
     },
+    "NVIDIA:JR2023988": {
+      "alerted": false,
+      "first_seen": "2026-08-21T04:00:10.625484+00:00",
+      "location": "Singapore, Singapore-Suntec Tower",
+      "title": "Solutions Architect, Data Center Infrastructure",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Singapore-Singapore-Suntec-Tower/Solutions-Architect--Data-Center-Infrastructure_JR2023988"
+    },
+    "NVIDIA:JR2023991": {
+      "alerted": false,
+      "first_seen": "2026-08-21T04:00:10.625529+00:00",
+      "location": "Singapore, Singapore-Suntec Tower",
+      "title": "Solutions Architect, NVIDIA Cloud Partners",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Singapore-Singapore-Suntec-Tower/Solutions-Architect--NVIDIA-Cloud-Partners_JR2023991"
+    },
     "NVIDIA:JR2024062": {
       "alerted": false,
       "first_seen": "2026-08-20T22:48:35.213767+00:00",
       "location": "2 Locations",
       "title": "Custom SOC IP Verification Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Custom-SOC-IP-Verification-Engineer_JR2024062"
+    },
+    "NVIDIA:JR2024108": {
+      "alerted": false,
+      "first_seen": "2026-08-21T04:00:10.625265+00:00",
+      "location": "3 Locations",
+      "title": "NVIDIA 2027 New College Graduate: GPU Architecture Engineering - China",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--GPU-Architecture-Engineering---China_JR2024108"
+    },
+    "NVIDIA:JR2024110": {
+      "alerted": false,
+      "first_seen": "2026-08-21T04:00:10.625343+00:00",
+      "location": "China, Shanghai",
+      "title": "NVIDIA 2027 New College Graduate: Hardware ASIC Engineering - China",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--Hardware-ASIC-Engineering---China_JR2024110"
     },
     "Stryker:R498593": {
       "alerted": false,
