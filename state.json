@@ -20,6 +20,11 @@
       "last_error": "Skydio (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/skydio/jobs?content=true",
       "last_failed_at": "2026-05-28T22:16:18.605376+00:00"
     },
+    "Waymo": {
+      "count": 1,
+      "last_error": "Waymo (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
+      "last_failed_at": "2026-08-22T20:54:13.838985+00:00"
+    },
     "Zipline": {
       "count": 6,
       "last_error": "Zipline (lever): HTTPError: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/zipline?mode=json",
