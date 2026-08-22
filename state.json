@@ -20,11 +20,6 @@
       "last_error": "Skydio (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/skydio/jobs?content=true",
       "last_failed_at": "2026-05-28T22:16:18.605376+00:00"
     },
-    "Waymo": {
-      "count": 1,
-      "last_error": "Waymo (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
-      "last_failed_at": "2026-08-22T20:54:13.838985+00:00"
-    },
     "Zipline": {
       "count": 6,
       "last_error": "Zipline (lever): HTTPError: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/zipline?mode=json",
@@ -90371,6 +90366,13 @@
       "location": "4 Locations",
       "title": "Senior Firmware Security Architect, Networking",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Firmware-Security-Architect--Networking_JR2023671"
+    },
+    "NVIDIA:JR2023673": {
+      "alerted": false,
+      "first_seen": "2026-08-22T21:08:42.288101+00:00",
+      "location": "2 Locations",
+      "title": "Data Center Network Engineer - NVIS",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Data-Center-Network-Engineer---NVIS_JR2023673"
     },
     "NVIDIA:JR2023690": {
       "alerted": false,
