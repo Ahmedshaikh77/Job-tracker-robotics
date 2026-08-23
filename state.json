@@ -115545,6 +115545,13 @@
       "location": "San Francisco, CA; Mountain View, CA",
       "title": "Staff Site Reliability Engineer, Waymo Fleet",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8148444"
+    },
+    "Waymo:8152061": {
+      "alerted": false,
+      "first_seen": "2026-08-23T14:31:11.683856+00:00",
+      "location": "Mountain View, CA, USA",
+      "title": "Senior Signal and Power Integrity Engineer",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8152061"
     }
   }
 }
