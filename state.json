@@ -34892,12 +34892,47 @@
       "title": "Senior Software Engineer - Maritime Integrated Systems",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5219858007?gh_jid=5219858007"
     },
+    "Anduril:5219954007": {
+      "alerted": false,
+      "first_seen": "2026-08-24T19:35:54.977828+00:00",
+      "location": "Santa Ana, California, United States",
+      "title": "Program Operations, Maritime (Heavy Metal)",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5219954007?gh_jid=5219954007"
+    },
     "Anduril:5220095007": {
       "alerted": false,
       "first_seen": "2026-08-24T17:53:16.593349+00:00",
       "location": "Costa Mesa, California, United States",
       "title": "Software Engineer - Maritime Integrated Solutions",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5220095007?gh_jid=5220095007"
+    },
+    "Anduril:5220325007": {
+      "alerted": false,
+      "first_seen": "2026-08-24T19:35:54.976923+00:00",
+      "location": "Hudson, New Hampshire, United States",
+      "title": "Production Support Specialist - AIRS",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5220325007?gh_jid=5220325007"
+    },
+    "Anduril:5220326007": {
+      "alerted": false,
+      "first_seen": "2026-08-24T19:35:54.975468+00:00",
+      "location": "Hudson, New Hampshire, United States",
+      "title": "Customer Success Manager - AIRS",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5220326007?gh_jid=5220326007"
+    },
+    "Anduril:5220329007": {
+      "alerted": false,
+      "first_seen": "2026-08-24T19:35:54.978493+00:00",
+      "location": "Waltham, Massachusetts, United States",
+      "title": "Senior Supply Chain Manager, Procurement & Planning ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5220329007?gh_jid=5220329007"
+    },
+    "Anduril:5220336007": {
+      "alerted": false,
+      "first_seen": "2026-08-24T19:35:54.976171+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Principal Engineer, Rapid Integration & Test",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5220336007?gh_jid=5220336007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -68303,6 +68338,13 @@
       "title": "Senior Regulatory Affairs Specialist - Onsite",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Irvine-California-United-States-of-America/Senior-Regulatory-Affairs-Specialist---Onsite_R74886-1"
     },
+    "Medtronic:R74888": {
+      "alerted": false,
+      "first_seen": "2026-08-24T19:35:54.974697+00:00",
+      "location": "Bogot\u00e1, Bogota, Colombia",
+      "title": "Rebate Analyst",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Bogot-Bogota-Colombia/Rebate-Analyst_R74888-1"
+    },
     "Medtronic:R74889": {
       "alerted": false,
       "first_seen": "2026-08-21T14:45:10.063987+00:00",
@@ -69177,6 +69219,13 @@
       "location": "Detroit, Michigan, United States of America",
       "title": "Sr. Principal Vascular Sales Rep - Detroit",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Detroit-Michigan-United-States-of-America/Sr-Principal-Vascular-Sales-Rep---Detroit_R75682-1"
+    },
+    "Medtronic:R75683": {
+      "alerted": false,
+      "first_seen": "2026-08-24T19:35:54.974657+00:00",
+      "location": "Houston, Texas, United States of America",
+      "title": "Senior Principal Coronary Cathworks Territory Manager - Houston, TX",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Houston-Texas-United-States-of-America/Senior-Principal-Coronary-Cathworks-Territory-Manager---Houston--TX_R75683-1"
     },
     "NVIDIA:JR1968313": {
       "alerted": true,
@@ -111542,6 +111591,13 @@
       "title": "Manufacturing Operator - Day Shift (Permanent Contract)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Belfast-United-Kingdom/Manufacturing-Operator---Day-Shift--Permanent-Contract-_R571860"
     },
+    "Stryker:R571869": {
+      "alerted": false,
+      "first_seen": "2026-08-24T19:35:54.974604+00:00",
+      "location": "2 Locations",
+      "title": "Senior Staff Software Systems Engineer- Medical Device",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Senior-Staff-Software-Systems-Engineer--Medical-Device_R571869"
+    },
     "Stryker:R571958": {
       "alerted": false,
       "first_seen": "2026-08-24T09:59:07.376529+00:00",
@@ -116308,6 +116364,13 @@
       "location": "Mountain View, CA, USA",
       "title": "Senior Signal and Power Integrity Engineer",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8152061"
+    },
+    "Waymo:8152556": {
+      "alerted": false,
+      "first_seen": "2026-08-24T19:35:54.974525+00:00",
+      "location": "Mountain View, CA, USA ",
+      "title": "Software Engineer",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8152556"
     }
   }
 }
