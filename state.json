@@ -35949,6 +35949,20 @@
       "title": "Staff Electrical Engineer - Sensor FPGA and PCB (Aggregator)",
       "url": "https://boards.greenhouse.io/apptronik/jobs/6145687004?gh_jid=6145687004"
     },
+    "Apptronik:6148660004": {
+      "alerted": false,
+      "first_seen": "2026-08-24T02:49:04.979477+00:00",
+      "location": "Austin, TX",
+      "title": "Senior PCBA Design Engineer",
+      "url": "https://boards.greenhouse.io/apptronik/jobs/6148660004?gh_jid=6148660004"
+    },
+    "Apptronik:6150041004": {
+      "alerted": false,
+      "first_seen": "2026-08-24T02:49:04.978950+00:00",
+      "location": "Austin, TX",
+      "title": "Senior Electrical Engineer - Power",
+      "url": "https://boards.greenhouse.io/apptronik/jobs/6150041004?gh_jid=6150041004"
+    },
     "Apptronik:6150106004": {
       "alerted": false,
       "first_seen": "2026-08-21T16:13:28.063462+00:00",
@@ -65755,6 +65769,13 @@
       "title": "Senior Downstream Product Manager, Remote Monitoring and Analytics - Acute Care and Monitoring",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Senior-Downstream-Product-Manager--Remote-Monitoring-and-Analytics---Acute-Care-and-Monitoring_R73881"
     },
+    "Medtronic:R73883": {
+      "alerted": false,
+      "first_seen": "2026-08-24T02:49:04.979704+00:00",
+      "location": "Chongqing, Chongqing, China",
+      "title": "MyanCor-Technical Sales Representative - Chongqing",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Chongqing-Chongqing-China/MyanCor-Technical-Sales-Representative---Chongqing_R73883-1"
+    },
     "Medtronic:R73885": {
       "alerted": false,
       "first_seen": "2026-08-21T13:24:51.434903+00:00",
@@ -68715,6 +68736,13 @@
       "location": "Oakland, California, United States of America",
       "title": "Clinical Specialist CRM - Walnut Creek",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Oakland-California-United-States-of-America/Clinical-Specialist-CRM---Walnut-Creek_R75452-1"
+    },
+    "Medtronic:R75462": {
+      "alerted": false,
+      "first_seen": "2026-08-24T02:49:04.979746+00:00",
+      "location": "Shanghai, Shanghai, China",
+      "title": "(Sr.) Principal Legal Counsel",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Shanghai-Shanghai-China/XMLNAME--Sr--Principal-Legal-Counsel_R75462-1"
     },
     "Medtronic:R75476": {
       "alerted": false,
@@ -89849,6 +89877,13 @@
       "title": "Senior Director, Board Product Development Engineering",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Director--Board-Product-Development-Engineering_JR2023311"
     },
+    "NVIDIA:JR2023320": {
+      "alerted": false,
+      "first_seen": "2026-08-24T02:49:04.979621+00:00",
+      "location": "2 Locations",
+      "title": "Senior Technical Program Manager, DGX Cloud Software - Product and Services",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager--DGX-Cloud-Software---Product-and-Services_JR2023320"
+    },
     "NVIDIA:JR2023337": {
       "alerted": false,
       "first_seen": "2026-08-14T16:09:08.742964+00:00",
@@ -90276,6 +90311,13 @@
       "title": "Verification Engineer -  ARM Fabric Unit Level",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Verification-Engineer----ARM-Fabric-Unit-Level_JR2023540"
     },
+    "NVIDIA:JR2023556": {
+      "alerted": false,
+      "first_seen": "2026-08-24T02:49:04.979569+00:00",
+      "location": "Israel, Yokneam",
+      "title": "Senior Site Reliability Engineering - Storage",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Site-Reliability-Engineering---Storage_JR2023556"
+    },
     "NVIDIA:JR2023561": {
       "alerted": false,
       "first_seen": "2026-08-19T21:36:26.583339+00:00",
@@ -90633,6 +90675,13 @@
       "title": "Enterprise Software Test Development Engineer (RDSS Intern)",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Enterprise-Software-Test-Development-Engineer--RDSS-Intern-_JR2023913"
     },
+    "NVIDIA:JR2023915": {
+      "alerted": false,
+      "first_seen": "2026-08-24T02:49:04.979525+00:00",
+      "location": "Israel, Yokneam",
+      "title": "Senior Site Reliability Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Site-Reliability-Engineer_JR2023915"
+    },
     "NVIDIA:JR2023950": {
       "alerted": false,
       "first_seen": "2026-08-21T21:55:31.780049+00:00",
@@ -90702,6 +90751,13 @@
       "location": "Singapore, Singapore-Suntec Tower",
       "title": "Solutions Architect, NVIDIA Cloud Partners",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Singapore-Singapore-Suntec-Tower/Solutions-Architect--NVIDIA-Cloud-Partners_JR2023991"
+    },
+    "NVIDIA:JR2024060": {
+      "alerted": false,
+      "first_seen": "2026-08-24T02:49:04.979657+00:00",
+      "location": "3 Locations",
+      "title": "NCX Senior Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NCX-Senior-Engineer_JR2024060"
     },
     "NVIDIA:JR2024062": {
       "alerted": false,
