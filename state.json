@@ -20,6 +20,11 @@
       "last_error": "Skydio (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/skydio/jobs?content=true",
       "last_failed_at": "2026-05-28T22:16:18.605376+00:00"
     },
+    "Waymo": {
+      "count": 1,
+      "last_error": "Waymo (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
+      "last_failed_at": "2026-08-24T17:24:56.462950+00:00"
+    },
     "Zipline": {
       "count": 6,
       "last_error": "Zipline (lever): HTTPError: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/zipline?mode=json",
@@ -18735,6 +18740,13 @@
       "location": "Ashville, Ohio, United States",
       "title": "Senior Quality Systems Engineer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5145035007?gh_jid=5145035007"
+    },
+    "Anduril:5145036007": {
+      "alerted": false,
+      "first_seen": "2026-08-24T17:24:56.467592+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Chief Engineer, Space",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5145036007?gh_jid=5145036007"
     },
     "Anduril:5145230007": {
       "alerted": false,
@@ -68149,6 +68161,13 @@
       "title": "Senior Quality Engineer",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Senior-Quality-Engineer_R74817-2"
     },
+    "Medtronic:R74819": {
+      "alerted": false,
+      "first_seen": "2026-08-24T17:24:56.467710+00:00",
+      "location": "2 Locations",
+      "title": "Senior Equipment Engineer",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Senior-Equipment-Engineer_R74819-1"
+    },
     "Medtronic:R74836": {
       "alerted": false,
       "first_seen": "2026-08-17T18:56:54.986054+00:00",
@@ -69115,6 +69134,13 @@
       "title": "Assembler II",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Trevoux-Rhne-Alpes-France/Assembler-II_R75669-2"
     },
+    "Medtronic:R75682": {
+      "alerted": false,
+      "first_seen": "2026-08-24T17:24:56.467678+00:00",
+      "location": "Detroit, Michigan, United States of America",
+      "title": "Sr. Principal Vascular Sales Rep - Detroit",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Detroit-Michigan-United-States-of-America/Sr-Principal-Vascular-Sales-Rep---Detroit_R75682-1"
+    },
     "NVIDIA:JR1968313": {
       "alerted": true,
       "first_seen": "2026-06-26T19:11:12.205321+00:00",
@@ -70017,6 +70043,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Software Engineer, TensorRT Specialized Platforms - New College Grad 2025",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--TensorRT-Specialized-Platforms---New-College-Grad-2025_JR2002870"
+    },
+    "NVIDIA:JR2002944": {
+      "alerted": false,
+      "first_seen": "2026-08-24T17:24:56.467640+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Solutions Architect, AI Models",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Solutions-Architect--Applied-AI_JR2002944"
     },
     "NVIDIA:JR2003100": {
       "alerted": false,
