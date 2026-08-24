@@ -20,11 +20,6 @@
       "last_error": "Skydio (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/skydio/jobs?content=true",
       "last_failed_at": "2026-05-28T22:16:18.605376+00:00"
     },
-    "Waymo": {
-      "count": 1,
-      "last_error": "Waymo (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
-      "last_failed_at": "2026-08-24T17:24:56.462950+00:00"
-    },
     "Zipline": {
       "count": 6,
       "last_error": "Zipline (lever): HTTPError: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/zipline?mode=json",
@@ -34897,6 +34892,13 @@
       "title": "Senior Software Engineer - Maritime Integrated Systems",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5219858007?gh_jid=5219858007"
     },
+    "Anduril:5220095007": {
+      "alerted": false,
+      "first_seen": "2026-08-24T17:53:16.593349+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Software Engineer - Maritime Integrated Solutions",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5220095007?gh_jid=5220095007"
+    },
     "Apptronik:5572958004": {
       "alerted": false,
       "first_seen": "2026-06-08T14:54:52.580418+00:00",
@@ -66404,6 +66406,13 @@
       "title": "Sr. Software Systems Engineer",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Sr-Software-Systems-Engineer_R74046-1"
     },
+    "Medtronic:R74049": {
+      "alerted": false,
+      "first_seen": "2026-08-24T17:53:16.593397+00:00",
+      "location": "Alajuela Coyol, Alajuela, Costa Rica",
+      "title": "Calibration/Metrology Tech II.",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Alajuela-Coyol-Alajuela-Costa-Rica/Calibration-Metrology-Tech-II_R74049-1"
+    },
     "Medtronic:R74050": {
       "alerted": false,
       "first_seen": "2026-08-11T15:52:19.228583+00:00",
@@ -86486,6 +86495,13 @@
       "location": "Canada, Remote",
       "title": "Senior Software Engineer, Compute Sanitizer - GPU",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Canada-Remote/Senior-Software-Engineer--Compute-Sanitizer---GPU_JR2021736"
+    },
+    "NVIDIA:JR2021738": {
+      "alerted": false,
+      "first_seen": "2026-08-24T17:53:16.592462+00:00",
+      "location": "US, VA, Remote",
+      "title": "Public Sector Program Support",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-VA-Remote/Public-Sector-Program-Support_JR2021738"
     },
     "NVIDIA:JR2021742": {
       "alerted": false,
@@ -111280,6 +111296,13 @@
       "location": "2 Locations",
       "title": "Sales Representative - Central Virginia - Emergency Care (Fire/EMS)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Charlottesville-Virginia/Sales-Representative---Central-Virginia---Emergency-Care--Fire-EMS-_R571612"
+    },
+    "Stryker:R571613": {
+      "alerted": false,
+      "first_seen": "2026-08-24T17:53:16.592395+00:00",
+      "location": "El Paso, Texas",
+      "title": "Sales Representative - El Paso, TX - Sports Medicine",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/El-Paso-Texas/Sales-Representative---El-Paso--TX---Sports-Medicine_R571613"
     },
     "Stryker:R571627": {
       "alerted": false,
