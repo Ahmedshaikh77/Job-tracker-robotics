@@ -3434,6 +3434,20 @@
       "title": "Embedded Software Development Engineer - Sensor & Compute, Amazon Robotics",
       "url": "https://www.amazon.jobs/en/jobs/10512938/embedded-software-development-engineer-sensor-compute-amazon-robotics"
     },
+    "Amazon:10512991": {
+      "alerted": false,
+      "first_seen": "2026-08-24T22:35:55.624486+00:00",
+      "location": "Bellevue, Washington, USA",
+      "title": "Senior Manufacturing Cost Engineer, Amazon Manufacturing Services",
+      "url": "https://www.amazon.jobs/en/jobs/10512991/senior-manufacturing-cost-engineer-amazon-manufacturing-services"
+    },
+    "Amazon:10512999": {
+      "alerted": false,
+      "first_seen": "2026-08-24T22:35:55.624556+00:00",
+      "location": "Bellevue, Washington, USA",
+      "title": "Front End Development Engineer, Automation Integration Technologies",
+      "url": "https://www.amazon.jobs/en/jobs/10512999/front-end-development-engineer-automation-integration-technologies"
+    },
     "Anduril:4159543007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.742648+00:00",
@@ -34969,6 +34983,13 @@
       "title": "Principal Engineer, Rapid Integration & Test",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5220336007?gh_jid=5220336007"
     },
+    "Anduril:5220647007": {
+      "alerted": false,
+      "first_seen": "2026-08-24T22:35:55.625179+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Energy Systems Engineer, Maritime",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5220647007?gh_jid=5220647007"
+    },
     "Apptronik:5572958004": {
       "alerted": false,
       "first_seen": "2026-06-08T14:54:52.580418+00:00",
@@ -65797,6 +65818,13 @@
       "title": "Sr DSM",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Beijing-Beijing-China/Sr-DSM_R73805-1"
     },
+    "Medtronic:R73806": {
+      "alerted": false,
+      "first_seen": "2026-08-24T22:35:55.625654+00:00",
+      "location": "Bogot\u00e1, Bogota, Colombia",
+      "title": "Accountant",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Bogot-Bogota-Colombia/Accountant_R73806-2"
+    },
     "Medtronic:R73807": {
       "alerted": false,
       "first_seen": "2026-08-04T13:25:54.666729+00:00",
@@ -69101,6 +69129,13 @@
       "title": "Senior Principal Symplicity Spyral Territory Manager - Hartford, CT",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Hartford-Connecticut-United-States-of-America/Senior-Principal-Symplicity-Spyral-Territory-Manager---Hartford--CT_R75401-1"
     },
+    "Medtronic:R75402": {
+      "alerted": false,
+      "first_seen": "2026-08-24T22:35:55.625628+00:00",
+      "location": "Ciudad Juarez, Chihuahua, Mexico",
+      "title": "Sr Supplier Qual Engineer",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Ciudad-Juarez-Chihuahua-Mexico/Sr-Supplier-Qual-Engineer_R75402-1"
+    },
     "Medtronic:R75423": {
       "alerted": false,
       "first_seen": "2026-08-24T15:49:35.663979+00:00",
@@ -69191,6 +69226,13 @@
       "location": "Baltimore, Maryland, United States of America",
       "title": "Senior Clinical Specialist - Pelvic Health- Baltimore, MD",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Baltimore-Maryland-United-States-of-America/Senior-Clinical-Specialist---Pelvic-Health--Baltimore--MD_R75522-1"
+    },
+    "Medtronic:R75532": {
+      "alerted": false,
+      "first_seen": "2026-08-24T22:35:55.625683+00:00",
+      "location": "Mexico City, Distrito Federal, Mexico",
+      "title": "Clinical Specialist",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mexico-City-Distrito-Federal-Mexico/Clinical-Specialist_R75532-1"
     },
     "Medtronic:R75558": {
       "alerted": false,
@@ -90934,6 +90976,13 @@
       "title": "Senior Solutions Architect, RoCE end-to-end",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Solutions-Architect--RoCE-end-to-end_JR2023589"
     },
+    "NVIDIA:JR2023603": {
+      "alerted": false,
+      "first_seen": "2026-08-24T22:35:55.625532+00:00",
+      "location": "3 Locations",
+      "title": "System Software Engineer, Multi-Node Analysis",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-IL-Champaign/System-Software-Engineer--Multi-Node-Analysis_JR2023603"
+    },
     "NVIDIA:JR2023607": {
       "alerted": false,
       "first_seen": "2026-08-18T19:08:58.206593+00:00",
@@ -91116,6 +91165,13 @@
       "title": "Senior Software Test Developer \u2013 DriveOS",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Test-Developer---DriveOS_JR2023813"
     },
+    "NVIDIA:JR2023825": {
+      "alerted": false,
+      "first_seen": "2026-08-24T22:35:55.625498+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Director, Software Engineering",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director--Software-Engineering_JR2023825"
+    },
     "NVIDIA:JR2023826": {
       "alerted": false,
       "first_seen": "2026-08-20T23:36:48.495321+00:00",
@@ -91270,6 +91326,13 @@
       "title": "Senior Software Engineer, Fleet Intelligence Agent Systems",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Fleet-Intelligence-Agent-Systems_JR2023940"
     },
+    "NVIDIA:JR2023946": {
+      "alerted": false,
+      "first_seen": "2026-08-24T22:35:55.625598+00:00",
+      "location": "2 Locations",
+      "title": "Senior Software Engineer, Fleet Intelligence Backend",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Fleet-Intelligence-Backend_JR2023946"
+    },
     "NVIDIA:JR2023950": {
       "alerted": false,
       "first_seen": "2026-08-21T21:55:31.780049+00:00",
@@ -91395,6 +91458,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Systems Software Engineer - AI and Cloud",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer---AI-and-Cloud_JR2024087"
+    },
+    "NVIDIA:JR2024094": {
+      "alerted": false,
+      "first_seen": "2026-08-24T22:35:55.625565+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Automation and Tools Development Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Automation-and-Tools-Development-Engineer_JR2024094"
     },
     "NVIDIA:JR2024107": {
       "alerted": false,
@@ -108868,6 +108938,13 @@
       "title": "Advanced Quality Engineer",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tempe-Arizona/Advanced-Quality-Engineer_R570204"
     },
+    "Stryker:R570206": {
+      "alerted": false,
+      "first_seen": "2026-08-24T22:35:55.625468+00:00",
+      "location": "Portage, Michigan",
+      "title": "Senior Coordinator, Field Operations - 1st Shift",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Senior-Coordinator--Field-Operations---1st-Shift_R570206"
+    },
     "Stryker:R570209": {
       "alerted": false,
       "first_seen": "2026-07-31T19:00:24.248696+00:00",
@@ -110128,6 +110205,20 @@
       "title": "Casual Service Administration Support",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/St-Leonards-Australia/Casual-Service-Administration-Support_R570769"
     },
+    "Stryker:R570770": {
+      "alerted": false,
+      "first_seen": "2026-08-24T22:35:55.625287+00:00",
+      "location": "Irvine, California",
+      "title": "Assembler I - 2nd Shift - $23.30/hr + $1.50/hr Shift Differential",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Irvine-California/Assembler-I---2nd-Shift----2330-hr----150-hr-Shift-Differential_R570770"
+    },
+    "Stryker:R570771": {
+      "alerted": false,
+      "first_seen": "2026-08-24T22:35:55.625245+00:00",
+      "location": "Irvine, California",
+      "title": "Assembler II - 2nd Shift - $24.80/hr + $1.50/hr Shift Differential",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Irvine-California/Assembler-II---2nd-Shift----2480-hr----150-hr-Shift-Differential_R570771"
+    },
     "Stryker:R570773": {
       "alerted": false,
       "first_seen": "2026-08-10T15:39:50.997091+00:00",
@@ -110695,6 +110786,20 @@
       "title": "Clinical Specialist (San Juan, Puerto Rico)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Juan-Puerto-Rico/Clinical-Specialist--San-Juan--Puerto-Rico-_R571096"
     },
+    "Stryker:R571098": {
+      "alerted": false,
+      "first_seen": "2026-08-24T22:35:55.625371+00:00",
+      "location": "Irvine, California",
+      "title": "Assembler I - 1st Shift - $23.30/hr",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Irvine-California/Assembler-I---1st-Shift----2330-hr_R571098"
+    },
+    "Stryker:R571099": {
+      "alerted": false,
+      "first_seen": "2026-08-24T22:35:55.625407+00:00",
+      "location": "Irvine, California",
+      "title": "Assembler II - 1st Shift - $24.80/hr",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Irvine-California/Assembler-II---1st-Shift----2480-hr_R571099"
+    },
     "Stryker:R571101": {
       "alerted": false,
       "first_seen": "2026-08-11T18:30:33.384094+00:00",
@@ -110967,6 +111072,13 @@
       "location": "Portage, Michigan",
       "title": "Staff Advanced Manufacturing Automation/Software Engineer",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Staff-Advanced-Manufacturing-Automation-Software-Engineer_R571207"
+    },
+    "Stryker:R571214": {
+      "alerted": false,
+      "first_seen": "2026-08-24T22:35:55.625336+00:00",
+      "location": "Salt Lake City, Utah",
+      "title": "Production Associate I - Part Time Weekend - $21.25/hr + $2.00/hr Shift Premium",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Salt-Lake-City-Utah/Production-Associate-I---Part-Time-Weekend----2125-hr----200-hr-Shift-Premium_R571214"
     },
     "Stryker:R571217": {
       "alerted": false,
@@ -111478,6 +111590,13 @@
       "location": "San Jose, California",
       "title": "Receiving Technician",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Jose-California/Receiving-Technician_R571537"
+    },
+    "Stryker:R571543": {
+      "alerted": true,
+      "first_seen": "2026-08-24T22:35:55.625432+00:00",
+      "location": "Irvine, California",
+      "title": "R&D Engineer",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Irvine-California/R-D-Engineer_R571543-1"
     },
     "Stryker:R571553": {
       "alerted": false,
