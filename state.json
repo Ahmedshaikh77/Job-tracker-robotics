@@ -1,5 +1,10 @@
 {
   "company_failures": {
+    "Agility Robotics": {
+      "count": 1,
+      "last_error": "Agility Robotics (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
+      "last_failed_at": "2026-08-25T14:34:15.230540+00:00"
+    },
     "Boston Dynamics": {
       "count": 6,
       "last_error": "Boston Dynamics (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/bostondynamics/jobs?content=true",
@@ -35060,6 +35065,13 @@
       "title": "Mechanical Engineer - Undersea Reconnaissance & Strike",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5220900007?gh_jid=5220900007"
     },
+    "Anduril:5221175007": {
+      "alerted": false,
+      "first_seen": "2026-08-25T14:34:15.235643+00:00",
+      "location": "Lexington, Massachusetts, United States",
+      "title": "Senior Production Software Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5221175007?gh_jid=5221175007"
+    },
     "Apptronik:5572958004": {
       "alerted": false,
       "first_seen": "2026-06-08T14:54:52.580418+00:00",
@@ -67806,6 +67818,13 @@
       "title": "PD Program Manager - NV - Irvine, CA (Onsite)",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Irvine-California-United-States-of-America/PD-Program-Manager---NV---Irvine--CA--Onsite-_R74549-1"
     },
+    "Medtronic:R74558": {
+      "alerted": false,
+      "first_seen": "2026-08-25T14:34:15.234816+00:00",
+      "location": "Juncos, Puerto Rico, United States of America",
+      "title": "Process Engineer II",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Juncos-Puerto-Rico-United-States-of-America/Process-Engineer-II_R74558-1"
+    },
     "Medtronic:R74559": {
       "alerted": false,
       "first_seen": "2026-08-14T04:59:55.807856+00:00",
@@ -69555,6 +69574,13 @@
       "location": "Houston, Texas, United States of America",
       "title": "Senior Principal Coronary Cathworks Territory Manager - Houston, TX",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Houston-Texas-United-States-of-America/Senior-Principal-Coronary-Cathworks-Territory-Manager---Houston--TX_R75683-1"
+    },
+    "Medtronic:R75687": {
+      "alerted": false,
+      "first_seen": "2026-08-25T14:34:15.234890+00:00",
+      "location": "Quebec, Quebec, Canada",
+      "title": "Account Manager II - Cathlab TAVI",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Quebec-Quebec-Canada/Account-Manager-II---Cathlab-TAVI_R75687-2"
     },
     "Medtronic:R75706": {
       "alerted": false,
@@ -107825,6 +107851,13 @@
       "title": "Trauma Sales Representative, New York",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/New-York-New-York/Trauma-Sales-Representative--New-York_R569581"
     },
+    "Stryker:R569584": {
+      "alerted": false,
+      "first_seen": "2026-08-25T14:34:15.234688+00:00",
+      "location": "3 Locations",
+      "title": "Global Facilitator",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/North-Holland-Amsterdam-Luna-Arena/Global-Facilitator_R569584-1"
+    },
     "Stryker:R569585": {
       "alerted": false,
       "first_seen": "2026-07-24T20:01:40.880342+00:00",
@@ -110723,6 +110756,13 @@
       "title": "Clinical Specialist, Enabling Technologies (Lake Havasu, AZ)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Lake-Havasu-City-Arizona/Clinical-Specialist--Enabling-Technologies--Lake-Havasu--AZ-_R570742"
     },
+    "Stryker:R570745": {
+      "alerted": false,
+      "first_seen": "2026-08-25T14:34:15.234742+00:00",
+      "location": "2 Locations",
+      "title": "Upper Extremities Sales Associate - Raleigh/Durham North Carolina",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Raleigh-North-Carolina/Upper-Extremities-Sales-Associate---Raleigh-Durham-North-Carolina_R570745"
+    },
     "Stryker:R570753": {
       "alerted": false,
       "first_seen": "2026-08-24T22:02:57.498476+00:00",
@@ -111093,6 +111133,13 @@
       "location": "Freiburg, Germany",
       "title": "Human Resources Specialist (m/w/d)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Freiburg-Germany/Human-Resources-Specialist--m-w-d-_R570932-1"
+    },
+    "Stryker:R570935": {
+      "alerted": false,
+      "first_seen": "2026-08-25T14:34:15.234780+00:00",
+      "location": "Cork, Ireland",
+      "title": "Technician, Proccess",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cork-Ireland/Technician--Proccess_R570935"
     },
     "Stryker:R570944": {
       "alerted": false,
@@ -112227,6 +112274,13 @@
       "location": "Hartford, Connecticut",
       "title": "Associate Installation Technician - Connecticut",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Hartford-Connecticut/Associate-Installation-Technician---Connecticut_R571516"
+    },
+    "Stryker:R571518": {
+      "alerted": false,
+      "first_seen": "2026-08-25T14:34:15.234635+00:00",
+      "location": "Philadelphia, Pennsylvania",
+      "title": "Associate Installation Technician - Philadelphia, PA",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Philadelphia-Pennsylvania/Associate-Installation-Technician---Philadelphia--PA_R571518"
     },
     "Stryker:R571519": {
       "alerted": false,
