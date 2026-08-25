@@ -1,5 +1,10 @@
 {
   "company_failures": {
+    "Anduril": {
+      "count": 1,
+      "last_error": "Anduril (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
+      "last_failed_at": "2026-08-25T21:55:53.326439+00:00"
+    },
     "Boston Dynamics": {
       "count": 6,
       "last_error": "Boston Dynamics (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/bostondynamics/jobs?content=true",
@@ -69696,6 +69701,13 @@
       "title": "Machinist l.",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Alajuela-Coyol-Alajuela-Costa-Rica/Machinist-l_R75468-1"
     },
+    "Medtronic:R75469": {
+      "alerted": false,
+      "first_seen": "2026-08-25T21:55:53.329227+00:00",
+      "location": "Irvine, California, United States of America",
+      "title": "Senior Manufacturing Engineer",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Irvine-California-United-States-of-America/Senior-Manufacturing-Engineer_R75469-1"
+    },
     "Medtronic:R75476": {
       "alerted": false,
       "first_seen": "2026-08-21T12:26:59.523432+00:00",
@@ -113137,6 +113149,13 @@
       "location": "California, San Francisco Bay Area Virtual Address",
       "title": "Arterial Account Manager - Bay Area - Peripheral Vascular",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/California-San-Francisco-Bay-Area-Virtual-Address/Arterial-Account-Manager---Bay-Area---Peripheral-Vascular_R571829"
+    },
+    "Stryker:R571841": {
+      "alerted": false,
+      "first_seen": "2026-08-25T21:55:53.329184+00:00",
+      "location": "Kalispell, Montana",
+      "title": "Trauma Sales Representative - Kalispell, MT",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Kalispell-Montana/Trauma-Sales-Representative---Kalispell--MT_R571841"
     },
     "Stryker:R571844": {
       "alerted": false,
