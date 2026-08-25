@@ -1,10 +1,5 @@
 {
   "company_failures": {
-    "Anduril": {
-      "count": 1,
-      "last_error": "Anduril (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
-      "last_failed_at": "2026-08-25T21:55:53.326439+00:00"
-    },
     "Boston Dynamics": {
       "count": 6,
       "last_error": "Boston Dynamics (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/bostondynamics/jobs?content=true",
@@ -9885,6 +9880,13 @@
       "location": "Costa Mesa, California, United States",
       "title": "Forward Deployed Engineer, Air Defense (FDE)",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5057206007?gh_jid=5057206007"
+    },
+    "Anduril:5057315007": {
+      "alerted": false,
+      "first_seen": "2026-08-25T22:16:01.800342+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Project Engineer - Unmanned Systems",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5057315007?gh_jid=5057315007"
     },
     "Anduril:5057558007": {
       "alerted": false,
@@ -69764,6 +69766,13 @@
       "title": "Regulatory Affairs Specialist",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Memphis-Tennessee-United-States-of-America/Regulatory-Affairs-Specialist_R75549-1"
     },
+    "Medtronic:R75554": {
+      "alerted": false,
+      "first_seen": "2026-08-25T22:16:01.800429+00:00",
+      "location": "Tempe, Arizona, United States of America",
+      "title": "Senior Quality Engineer",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Tempe-Arizona-United-States-of-America/Senior-Quality-Engineer_R75554-1"
+    },
     "Medtronic:R75558": {
       "alerted": false,
       "first_seen": "2026-08-21T23:42:07.919309+00:00",
@@ -69952,6 +69961,13 @@
       "location": "Gurgaon, Haryana, India",
       "title": "Assoc Regulatory Affairs Spec",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Gurgaon-Haryana-India/Assoc-Regulatory-Affairs-Spec_R75789-2"
+    },
+    "Medtronic:R75843": {
+      "alerted": false,
+      "first_seen": "2026-08-25T22:16:01.800387+00:00",
+      "location": "San Juan, Puerto Rico, United States of America",
+      "title": "Assoc Clinical Spec Diabetes",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/San-Juan-Puerto-Rico-United-States-of-America/Assoc-Clinical-Spec-Diabetes_R75843-1"
     },
     "Medtronic:R75847": {
       "alerted": false,
@@ -92534,6 +92550,13 @@
       "location": "3 Locations",
       "title": "Principal Software Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Software-Engineer_JR2024363"
+    },
+    "NVIDIA:JR2024374": {
+      "alerted": false,
+      "first_seen": "2026-08-25T22:16:01.799547+00:00",
+      "location": "3 Locations",
+      "title": "Senior Technical Program Manager - GPU Software",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Redmond/Senior-Technical-Program-Manager---GPU-Software_JR2024374"
     },
     "Stryker:R498593": {
       "alerted": false,
@@ -118029,6 +118052,13 @@
       "title": "Staff Site Reliability Engineer, Waymo Fleet",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8148444"
     },
+    "Waymo:8148705": {
+      "alerted": false,
+      "first_seen": "2026-08-25T22:16:01.799004+00:00",
+      "location": "San Francisco, CA, USA; Tempe, AZ, USA; Washington, D.C., USA",
+      "title": "Operational Risk Manager",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8148705"
+    },
     "Waymo:8152061": {
       "alerted": false,
       "first_seen": "2026-08-23T14:31:11.683856+00:00",
@@ -118049,6 +118079,13 @@
       "location": "London, England, United Kingdom",
       "title": "Legal Counsel - UK",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8157441"
+    },
+    "Waymo:8157842": {
+      "alerted": false,
+      "first_seen": "2026-08-25T22:16:01.799492+00:00",
+      "location": "Mountain View, CA, USA",
+      "title": "Software Quality Ops Scenarios Specialist (DiscSim)",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8157842"
     }
   }
 }
