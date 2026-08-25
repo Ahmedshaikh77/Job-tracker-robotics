@@ -1,10 +1,5 @@
 {
   "company_failures": {
-    "Agility Robotics": {
-      "count": 1,
-      "last_error": "Agility Robotics (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
-      "last_failed_at": "2026-08-25T14:34:15.230540+00:00"
-    },
     "Boston Dynamics": {
       "count": 6,
       "last_error": "Boston Dynamics (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/bostondynamics/jobs?content=true",
@@ -31824,6 +31819,13 @@
       "title": "Senior Software Engineer, Data Distribution ",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5202000007?gh_jid=5202000007"
     },
+    "Anduril:5202118007": {
+      "alerted": false,
+      "first_seen": "2026-08-25T15:24:10.995119+00:00",
+      "location": "Huntsville, Alabama, United States",
+      "title": "Staff Program Manager",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5202118007?gh_jid=5202118007"
+    },
     "Anduril:5202192007": {
       "alerted": false,
       "first_seen": "2026-08-03T21:50:55.664592+00:00",
@@ -33279,6 +33281,13 @@
       "location": "Lexington, Massachusetts, United States",
       "title": "Electronics Test Technician",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5209239007?gh_jid=5209239007"
+    },
+    "Anduril:5209250007": {
+      "alerted": false,
+      "first_seen": "2026-08-25T15:24:10.997683+00:00",
+      "location": "Dublin, Dublin, Ireland",
+      "title": "Warehouse Associate",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5209250007?gh_jid=5209250007"
     },
     "Anduril:5209257007": {
       "alerted": false,
@@ -34995,12 +35004,26 @@
       "title": "Program Operations, Maritime (Heavy Metal)",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5219954007?gh_jid=5219954007"
     },
+    "Anduril:5220065007": {
+      "alerted": false,
+      "first_seen": "2026-08-25T15:24:10.995734+00:00",
+      "location": "Washington, District of Columbia, United States",
+      "title": "Strategic Execution Associate Director, International",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5220065007?gh_jid=5220065007"
+    },
     "Anduril:5220095007": {
       "alerted": false,
       "first_seen": "2026-08-24T17:53:16.593349+00:00",
       "location": "Costa Mesa, California, United States",
       "title": "Software Engineer - Maritime Integrated Solutions",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5220095007?gh_jid=5220095007"
+    },
+    "Anduril:5220149007": {
+      "alerted": false,
+      "first_seen": "2026-08-25T15:24:10.996342+00:00",
+      "location": "London, England, United Kingdom",
+      "title": "Strategic Execution Associate Director, International",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5220149007?gh_jid=5220149007"
     },
     "Anduril:5220166007": {
       "alerted": false,
@@ -35071,6 +35094,48 @@
       "location": "Lexington, Massachusetts, United States",
       "title": "Senior Production Software Engineer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5221175007?gh_jid=5221175007"
+    },
+    "Anduril:5221253007": {
+      "alerted": false,
+      "first_seen": "2026-08-25T15:24:10.993525+00:00",
+      "location": "Quincy, Massachusetts, United States",
+      "title": "Mission Software Engineer - Undersea Reconnaissance & Strike",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5221253007?gh_jid=5221253007"
+    },
+    "Anduril:5221259007": {
+      "alerted": false,
+      "first_seen": "2026-08-25T15:24:10.992080+00:00",
+      "location": "Irvine, California, United States",
+      "title": "Manufacturing Engineer, Electromagnetic Warfare",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5221259007?gh_jid=5221259007"
+    },
+    "Anduril:5221263007": {
+      "alerted": false,
+      "first_seen": "2026-08-25T15:24:10.994179+00:00",
+      "location": "Irvine, California, United States",
+      "title": "Senior Manufacturing Engineer, Electronic Warfare",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5221263007?gh_jid=5221263007"
+    },
+    "Anduril:5221266007": {
+      "alerted": false,
+      "first_seen": "2026-08-25T15:24:10.992818+00:00",
+      "location": "Irvine, California, United States",
+      "title": "Manufacturing Test Engineer, Electronic Warfare",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5221266007?gh_jid=5221266007"
+    },
+    "Anduril:5221272007": {
+      "alerted": false,
+      "first_seen": "2026-08-25T15:24:10.997051+00:00",
+      "location": "Waltham, Massachusetts, United States",
+      "title": "Technical Operations Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5221272007?gh_jid=5221272007"
+    },
+    "Anduril:5221278007": {
+      "alerted": false,
+      "first_seen": "2026-08-25T15:24:10.991418+00:00",
+      "location": "Quincy, Massachusetts, United States",
+      "title": "Field Reliability Engineer - Undersea Reconnaissance & Strike",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5221278007?gh_jid=5221278007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -67818,6 +67883,13 @@
       "title": "PD Program Manager - NV - Irvine, CA (Onsite)",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Irvine-California-United-States-of-America/PD-Program-Manager---NV---Irvine--CA--Onsite-_R74549-1"
     },
+    "Medtronic:R74553": {
+      "alerted": false,
+      "first_seen": "2026-08-25T15:24:10.990697+00:00",
+      "location": "Ciudad Juarez, Chihuahua, Mexico",
+      "title": "Prin Quality Engineer.",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Ciudad-Juarez-Chihuahua-Mexico/Prin-Quality-Engineer_R74553-1"
+    },
     "Medtronic:R74558": {
       "alerted": false,
       "first_seen": "2026-08-25T14:34:15.234816+00:00",
@@ -68678,6 +68750,13 @@
       "location": "Trevoux, Rh\u00f4ne Alpes, France",
       "title": "Package Assembler II",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Trevoux-Rhne-Alpes-France/Package-Assembler-II_R74939-1"
+    },
+    "Medtronic:R74940": {
+      "alerted": false,
+      "first_seen": "2026-08-25T15:24:10.990657+00:00",
+      "location": "Newcastle upon Tyne, Tyne and Wear, United Kingdom",
+      "title": "Sales Representative",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Newcastle-upon-Tyne-Tyne-and-Wear-United-Kingdom/Sales-Representative_R74940-1"
     },
     "Medtronic:R74943": {
       "alerted": false,
@@ -110973,6 +111052,13 @@
       "title": "Manufacturing Operations Co-op 2027 - Cork",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cork-Ireland/Manufacturing-Operations-Co-op-2027---Cork_R570846"
     },
+    "Stryker:R570847": {
+      "alerted": false,
+      "first_seen": "2026-08-25T15:24:10.990574+00:00",
+      "location": "Denver, Colorado",
+      "title": "Upper Extremities Sales Associate - Denver",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Denver-Colorado/Upper-Extremities-Sales-Associate_R570847"
+    },
     "Stryker:R570863": {
       "alerted": false,
       "first_seen": "2026-08-17T19:46:25.945592+00:00",
@@ -111568,6 +111654,13 @@
       "title": "Clinical Specialist, Enabling Technologies  (Knoxville, TN)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Knoxville-Tennessee/Clinical-Specialist--Enabling-Technologies---Knoxville--TN-_R571146"
     },
+    "Stryker:R571148": {
+      "alerted": false,
+      "first_seen": "2026-08-25T15:24:10.990615+00:00",
+      "location": "Limerick, Ireland",
+      "title": "Laboratory Analyst",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Limerick-Ireland/Laboratory-Analyst_R571148"
+    },
     "Stryker:R571152": {
       "alerted": false,
       "first_seen": "2026-08-19T13:09:33.228074+00:00",
@@ -111854,6 +111947,13 @@
       "location": "Portage, Michigan",
       "title": "Fabricator I - 1st Shift - $20.50/hr",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Fabricator-I---1st-Shift----2050-hr_R571259-1"
+    },
+    "Stryker:R571262": {
+      "alerted": false,
+      "first_seen": "2026-08-25T15:24:10.990524+00:00",
+      "location": "Fort Lauderdale, Florida",
+      "title": "Field Service Technician (Neptune)  - Fort Lauderdale, FL",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Fort-Lauderdale-Florida/Field-Service-Technician--Neptune-----Fort-Lauderdale--FL_R571262"
     },
     "Stryker:R571268": {
       "alerted": false,
@@ -117328,6 +117428,13 @@
       "location": "London, United Kingdom, UK",
       "title": "Global Threat Intelligence Regional Lead - Europe",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8121986"
+    },
+    "Waymo:8122146": {
+      "alerted": false,
+      "first_seen": "2026-08-25T15:24:10.990446+00:00",
+      "location": "London, United Kingdom, UK",
+      "title": "EMobility Deployment Lead",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8122146"
     },
     "Waymo:8124243": {
       "alerted": false,
