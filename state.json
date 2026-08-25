@@ -3497,6 +3497,13 @@
       "title": "Software Development Engineer, AFT Quality",
       "url": "https://www.amazon.jobs/en/jobs/10514328/software-development-engineer-aft-quality"
     },
+    "Amazon:10514583": {
+      "alerted": false,
+      "first_seen": "2026-08-25T20:42:54.543553+00:00",
+      "location": "New York, New York, USA",
+      "title": "Software Engineer, XR , Fauna",
+      "url": "https://www.amazon.jobs/en/jobs/10514583/software-engineer-xr-fauna"
+    },
     "Anduril:4159543007": {
       "alerted": false,
       "first_seen": "2026-05-28T04:05:57.742648+00:00",
@@ -22775,6 +22782,13 @@
       "title": "Deployment Operations Manager, Roadrunner",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162926007?gh_jid=5162926007"
     },
+    "Anduril:5162943007": {
+      "alerted": false,
+      "first_seen": "2026-08-25T20:42:54.546445+00:00",
+      "location": "Santa Ana, California, United States",
+      "title": "Inventory Specialist ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162943007?gh_jid=5162943007"
+    },
     "Anduril:5162945007": {
       "alerted": false,
       "first_seen": "2026-06-18T17:36:43.994703+00:00",
@@ -35095,6 +35109,34 @@
       "title": "Dangerous Goods Logistics Driver",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5220366007?gh_jid=5220366007"
     },
+    "Anduril:5220401007": {
+      "alerted": false,
+      "first_seen": "2026-08-25T20:42:54.545201+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Fuel Systems Engineer, Air Vehicles",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5220401007?gh_jid=5220401007"
+    },
+    "Anduril:5220408007": {
+      "alerted": false,
+      "first_seen": "2026-08-25T20:42:54.548351+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior PCB Layout Engineer, Air Dominance and Strike",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5220408007?gh_jid=5220408007"
+    },
+    "Anduril:5220410007": {
+      "alerted": false,
+      "first_seen": "2026-08-25T20:42:54.547046+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "PCB Layout Engineer, Air Dominance and Strike",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5220410007?gh_jid=5220410007"
+    },
+    "Anduril:5220418007": {
+      "alerted": false,
+      "first_seen": "2026-08-25T20:42:54.547670+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Fuel Systems Engineer, Air Vehicles",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5220418007?gh_jid=5220418007"
+    },
     "Anduril:5220624007": {
       "alerted": false,
       "first_seen": "2026-08-25T01:57:13.713965+00:00",
@@ -35213,6 +35255,13 @@
       "location": "Costa Mesa, California, United States",
       "title": "Air Vehicle Lead",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5221660007?gh_jid=5221660007"
+    },
+    "Anduril:5221778007": {
+      "alerted": false,
+      "first_seen": "2026-08-25T20:42:54.544594+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Flight Test Instrumentation Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5221778007?gh_jid=5221778007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -69871,6 +69920,13 @@
       "title": "Engineering Intern Summer 2027 - Candidates Attending 2026 O4U Engineering Conference",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027---Candidates-Attending-2026-O4U-Engineering-Conference_R75847-1"
     },
+    "Medtronic:R75866": {
+      "alerted": false,
+      "first_seen": "2026-08-25T20:42:54.548603+00:00",
+      "location": "Alajuela Coyol, Alajuela, Costa Rica",
+      "title": "Senior Software Engineering Manager - Azure Product Owner.",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Alajuela-Coyol-Alajuela-Costa-Rica/Senior-Software-Engineering-Manager---Azure-Product-Owner_R75866-1"
+    },
     "Medtronic:R75874": {
       "alerted": false,
       "first_seen": "2026-08-25T17:17:06.378360+00:00",
@@ -69912,6 +69968,13 @@
       "location": "Galway, County Galway, Ireland",
       "title": "Principal Software Test Engineer",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Galway-County-Galway-Ireland/Principal-Software-Test-Engineer_R75892-1"
+    },
+    "Medtronic:R75907": {
+      "alerted": false,
+      "first_seen": "2026-08-25T20:42:54.548649+00:00",
+      "location": "Minneapolis, Minnesota, United States of America",
+      "title": "Financial Analyst - Structural Heart Sales",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Financial-Analyst---Structural-Heart-Sales_R75907-1"
     },
     "NVIDIA:JR1968313": {
       "alerted": true,
@@ -91368,6 +91431,13 @@
       "title": "Relational Foundation Model Engineer, Modern Data Stack",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Relational-Foundation-Model-Engineer--Modern-Data-Stack_JR2023468"
     },
+    "NVIDIA:JR2023471": {
+      "alerted": false,
+      "first_seen": "2026-08-25T20:42:54.543606+00:00",
+      "location": "2 Locations",
+      "title": "Senior Product Manager, HPC and AI for Physics",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Product-Manager--HPC-and-AI-for-Physics_JR2023471"
+    },
     "NVIDIA:JR2023475": {
       "alerted": false,
       "first_seen": "2026-08-19T07:37:07.393147+00:00",
@@ -91612,6 +91682,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Senior Solutions Architect, RoCE end-to-end",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Solutions-Architect--RoCE-end-to-end_JR2023589"
+    },
+    "NVIDIA:JR2023599": {
+      "alerted": false,
+      "first_seen": "2026-08-25T20:42:54.543652+00:00",
+      "location": "3 Locations",
+      "title": "System Software Engineer, HPC Performance",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-IL-Champaign/System-Software-Engineer--HPC-Performance_JR2023599"
     },
     "NVIDIA:JR2023603": {
       "alerted": false,
@@ -92201,6 +92278,13 @@
       "title": "Senior Automation and Tools Development Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Automation-and-Tools-Development-Engineer_JR2024094"
     },
+    "NVIDIA:JR2024097": {
+      "alerted": false,
+      "first_seen": "2026-08-25T20:42:54.543735+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Software Engineer, Performance Lab and Tools",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Performance-Lab-and-Tools_JR2024097"
+    },
     "NVIDIA:JR2024107": {
       "alerted": false,
       "first_seen": "2026-08-21T05:14:46.552199+00:00",
@@ -92403,6 +92487,13 @@
       "location": "2 Locations",
       "title": "Technical Program Manager -Local AI Agents",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Program-Manager--Local-AI-Agents_JR2024270"
+    },
+    "NVIDIA:JR2024363": {
+      "alerted": false,
+      "first_seen": "2026-08-25T20:42:54.543692+00:00",
+      "location": "3 Locations",
+      "title": "Principal Software Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Software-Engineer_JR2024363"
     },
     "Stryker:R498593": {
       "alerted": false,
@@ -117890,6 +117981,13 @@
       "location": "Mountain View, CA, USA ",
       "title": "Software Engineer",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8152556"
+    },
+    "Waymo:8157441": {
+      "alerted": false,
+      "first_seen": "2026-08-25T20:42:54.543464+00:00",
+      "location": "London, England, United Kingdom",
+      "title": "Legal Counsel - UK",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8157441"
     }
   }
 }
