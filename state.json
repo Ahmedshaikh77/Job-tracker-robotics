@@ -851,12 +851,26 @@
       "title": "Senior Service Technician II",
       "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6155870004"
     },
+    "Agility Robotics:6161662004": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.051028+00:00",
+      "location": "Remote",
+      "title": "Senior Safety Software Engineer",
+      "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6161662004"
+    },
     "Agility Robotics:6164697004": {
       "alerted": false,
       "first_seen": "2026-08-26T23:40:14.645170+00:00",
       "location": "Remote",
       "title": "Senior Manager, Learning from Demonstration",
       "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6164697004"
+    },
+    "Agility Robotics:6164974004": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.051915+00:00",
+      "location": "Hybrid- Salem, OR",
+      "title": "Senior Staff Manufacturing Systems Engineer",
+      "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6164974004"
     },
     "Amazon:10378626": {
       "alerted": false,
@@ -3552,6 +3566,27 @@
       "location": "Berlin, Berlin, DEU",
       "title": "Applied Scientist II,  Amazon Robotics",
       "url": "https://www.amazon.jobs/en/jobs/10516839/applied-scientist-ii-amazon-robotics"
+    },
+    "Amazon:10517149": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.052716+00:00",
+      "location": "Westboro, Wisconsin, USA",
+      "title": "Robotics - Software Development Engineer Fall Intern/Co-op - 2026",
+      "url": "https://www.amazon.jobs/en/jobs/10517149/robotics-software-development-engineer-fall-intern-co-op-2026"
+    },
+    "Amazon:10517267": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.052880+00:00",
+      "location": "Bellevue, Washington, USA",
+      "title": "Senior Software Engineer - Fauna Robotics Inc, Fauna Robotics",
+      "url": "https://www.amazon.jobs/en/jobs/10517267/senior-software-engineer-fauna-robotics-inc-fauna-robotics"
+    },
+    "Amazon:10517467": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.052821+00:00",
+      "location": "Austin, Texas, USA",
+      "title": "Applied Scientist, Last Mile Science",
+      "url": "https://www.amazon.jobs/en/jobs/10517467/applied-scientist-last-mile-science"
     },
     "Anduril:4159543007": {
       "alerted": false,
@@ -30685,6 +30720,13 @@
       "title": "Senior Global Sourcing Manager, Electromechanical (Actuators/Motors) ",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5197277007?gh_jid=5197277007"
     },
+    "Anduril:5197317007": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.059321+00:00",
+      "location": "Quincy, Massachusetts, United States",
+      "title": "R&D Engineering Technician",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5197317007?gh_jid=5197317007"
+    },
     "Anduril:5197325007": {
       "alerted": false,
       "first_seen": "2026-07-28T18:19:17.351876+00:00",
@@ -31917,6 +31959,13 @@
       "title": "Quality Specialist",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5201861007?gh_jid=5201861007"
     },
+    "Anduril:5201899007": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.061237+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior People Program Manager, Site Expansions",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5201899007?gh_jid=5201899007"
+    },
     "Anduril:5201924007": {
       "alerted": false,
       "first_seen": "2026-08-03T21:50:55.662672+00:00",
@@ -32539,6 +32588,13 @@
       "location": "Costa Mesa, California, United States",
       "title": "Senior Test Firmware Engineer, Electrical Test",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5205502007?gh_jid=5205502007"
+    },
+    "Anduril:5205509007": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.054995+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Explosive Operations Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5205509007?gh_jid=5205509007"
     },
     "Anduril:5205552007": {
       "alerted": false,
@@ -34486,6 +34542,20 @@
       "title": "Technical Operations Engineer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5214743007?gh_jid=5214743007"
     },
+    "Anduril:5214772007": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.057157+00:00",
+      "location": "Reston, Virginia, United States",
+      "title": "Network Administrator ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5214772007?gh_jid=5214772007"
+    },
+    "Anduril:5214847007": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.054219+00:00",
+      "location": "London, England, United Kingdom",
+      "title": "Emerging Talent Programme & Operations Specialist",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5214847007?gh_jid=5214847007"
+    },
     "Anduril:5214858007": {
       "alerted": false,
       "first_seen": "2026-08-18T22:34:16.921776+00:00",
@@ -35207,6 +35277,13 @@
       "title": "Program Operations, Maritime (Heavy Metal)",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5219954007?gh_jid=5219954007"
     },
+    "Anduril:5220062007": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.060581+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Financial Analyst, Corporate Finance",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5220062007?gh_jid=5220062007"
+    },
     "Anduril:5220065007": {
       "alerted": false,
       "first_seen": "2026-08-25T15:24:10.995734+00:00",
@@ -35759,6 +35836,55 @@
       "location": "Costa Mesa, California, United States",
       "title": "Module Design Engineer (BMS)",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5224014007?gh_jid=5224014007"
+    },
+    "Anduril:5224068007": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.056402+00:00",
+      "location": "Irvine, California, United States",
+      "title": "Manufacturing Test Engineering Manager",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5224068007?gh_jid=5224068007"
+    },
+    "Anduril:5224081007": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.057776+00:00",
+      "location": "Huntsville, Alabama, United States",
+      "title": "Product Sourcing Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5224081007?gh_jid=5224081007"
+    },
+    "Anduril:5224110007": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.061832+00:00",
+      "location": "Huntsville, Alabama, United States",
+      "title": "Senior Product Sourcing Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5224110007?gh_jid=5224110007"
+    },
+    "Anduril:5224306007": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.058680+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Quality Manager, Intelligence Systems",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5224306007?gh_jid=5224306007"
+    },
+    "Anduril:5224713007": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.055682+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Firmware Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5224713007?gh_jid=5224713007"
+    },
+    "Anduril:5224716007": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.053575+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Embedded Firmware Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5224716007?gh_jid=5224716007"
+    },
+    "Anduril:5224758007": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.060011+00:00",
+      "location": "Sydney, New South Wales, Australia",
+      "title": "Senior Contracts Manager",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5224758007?gh_jid=5224758007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -41226,6 +41352,27 @@
       "location": "Budapest, Hungary",
       "title": "Technical Support Engineer - Italian speaking",
       "url": "https://careers.formlabs.com/job/8161165/apply/?gh_jid=8161165"
+    },
+    "Formlabs:8162825": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.065398+00:00",
+      "location": "Frankfurt, Germany",
+      "title": "Field Service Technician",
+      "url": "https://careers.formlabs.com/job/8162825/apply/?gh_jid=8162825"
+    },
+    "Formlabs:8162826": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.064995+00:00",
+      "location": "Frankfurt, Germany",
+      "title": "Field Service Engineer",
+      "url": "https://careers.formlabs.com/job/8162826/apply/?gh_jid=8162826"
+    },
+    "Formlabs:8162830": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.064576+00:00",
+      "location": "Frankfurt, Germany",
+      "title": "Au\u00dfendiensttechniker - Frankfurt",
+      "url": "https://careers.formlabs.com/job/8162830/apply/?gh_jid=8162830"
     },
     "Medtronic:R26267": {
       "alerted": false,
@@ -68569,6 +68716,13 @@
       "title": "Senior Surgical Onsite Specialist - Lung Health (Dallas)",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Dallas-Texas-United-States-of-America/Senior-Surgical-Onsite-Specialist---Lung-Health--Dallas-_R74442-1"
     },
+    "Medtronic:R74444": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.063592+00:00",
+      "location": "Tijuana, Baja California, Mexico",
+      "title": "Operador C",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Tijuana-Baja-California-Mexico/Operador-C_R74444-1"
+    },
     "Medtronic:R74455": {
       "alerted": false,
       "first_seen": "2026-08-12T04:24:55.860496+00:00",
@@ -68813,6 +68967,13 @@
       "location": "Irvine, California, United States of America",
       "title": "PD Program Manager - NV - Irvine, CA (Onsite)",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Irvine-California-United-States-of-America/PD-Program-Manager---NV---Irvine--CA--Onsite-_R74549-1"
+    },
+    "Medtronic:R74550": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.063780+00:00",
+      "location": "Villalba, Puerto Rico, United States of America",
+      "title": "Mfg. Mant. Tech II",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Villalba-Puerto-Rico-United-States-of-America/Mfg-Mant-Tech-II_R74550"
     },
     "Medtronic:R74553": {
       "alerted": false,
@@ -69563,6 +69724,13 @@
       "title": "Principal Financial Analyst",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Boulder-Colorado-United-States-of-America/Principal-Financial-Analyst_R74868-1"
     },
+    "Medtronic:R74873": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.063706+00:00",
+      "location": "Lafayette, Colorado, United States of America",
+      "title": "Sr User Experience Engineer",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Sr-User-Experience-Engineer_R74873"
+    },
     "Medtronic:R74875": {
       "alerted": false,
       "first_seen": "2026-08-14T23:33:06.036975+00:00",
@@ -69864,6 +70032,13 @@
       "title": "INGENIERO DE MANUFACTURA I (6 MESES)",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Tijuana-Baja-California-Mexico/INGENIERO-DE-MANUFACTURA-I--6-MESES-_R75031-1"
     },
+    "Medtronic:R75032": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.063960+00:00",
+      "location": "Dexter, Michigan, United States of America",
+      "title": "Principal Process Engineer",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Dexter-Michigan-United-States-of-America/Principal-Process-Engineer_R75032-2"
+    },
     "Medtronic:R75046": {
       "alerted": false,
       "first_seen": "2026-08-19T20:47:05.780005+00:00",
@@ -69990,6 +70165,13 @@
       "title": "Senior IT Manager - Hyperautomation",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Senior-IT-Manager---Hyperautomation_R75090-2"
     },
+    "Medtronic:R75097": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.063356+00:00",
+      "location": "Juncos, Puerto Rico, United States of America",
+      "title": "Sr Quality Systems Supv.",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Juncos-Puerto-Rico-United-States-of-America/Sr-Quality-Systems-Supv_R75097"
+    },
     "Medtronic:R75099": {
       "alerted": false,
       "first_seen": "2026-08-25T07:24:00.251012+00:00",
@@ -70115,6 +70297,20 @@
       "location": "2 Locations",
       "title": "Vascular Principal Sales Representative - McAllen, TX",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/McAllen-Texas-United-States-of-America/Vascular-Principal-Sales-Representative---McAllen--TX_R75151-1"
+    },
+    "Medtronic:R75156": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.063675+00:00",
+      "location": "Villalba, Puerto Rico, United States of America",
+      "title": "Mfg. Maint Tech II",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Villalba-Puerto-Rico-United-States-of-America/Mfg-Maint-Tech-II_R75156-1"
+    },
+    "Medtronic:R75157": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.063647+00:00",
+      "location": "Villalba, Puerto Rico, United States of America",
+      "title": "Mfg Maint Tech II",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Villalba-Puerto-Rico-United-States-of-America/Mfg-Maint-Tech-II_R75157-1"
     },
     "Medtronic:R75163": {
       "alerted": false,
@@ -70249,6 +70445,13 @@
       "title": "ENT-Key Account Supervisor-Jinan",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Jinan-Luoyuan-Jinan-Luoyuan-China/ENT-Key-Account-Supervisor-Jinan_R75263-1"
     },
+    "Medtronic:R75277": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.063991+00:00",
+      "location": "San Isidro, Santo Domingo, Dominican Republic",
+      "title": "Assoc Buyer/Planner",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/San-Isidro-Santo-Domingo-Dominican-Republic/Assoc-Buyer-Planner_R75277-1"
+    },
     "Medtronic:R75278": {
       "alerted": false,
       "first_seen": "2026-08-20T14:39:42.256824+00:00",
@@ -70291,6 +70494,13 @@
       "title": "Calibration/Metrology Tech II.",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Humacao-Puerto-Rico-United-States-of-America/Calibration-Metrology-Tech-II_R75289-1"
     },
+    "Medtronic:R75290": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.064026+00:00",
+      "location": "2 Locations",
+      "title": "Sr. Medical Science & Education Manager",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Sr-Medical-Science---Education-Manager_R75290-2"
+    },
     "Medtronic:R75291": {
       "alerted": false,
       "first_seen": "2026-08-26T20:17:24.026240+00:00",
@@ -70332,6 +70542,13 @@
       "location": "4 Locations",
       "title": "AiBLE Strategic Sales Representative 3 - Washington DC: Virginia Beach/ Chesapeake, VA: Baltimore/ Annapolis MD",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Washington-District-of-Columbia-United-States-of-America/AiBLE-Strategic-Sales-Representative-3---Washington-DC--Virginia-Beach--Chesapeake--VA--Baltimore--Annapolis-MD_R75313-1"
+    },
+    "Medtronic:R75315": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.063460+00:00",
+      "location": "Mexico City, Distrito Federal, Mexico",
+      "title": "Clinical Specialist /Coronario",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mexico-City-Distrito-Federal-Mexico/Clinical-Specialist--Coronario_R75315-1"
     },
     "Medtronic:R75316": {
       "alerted": false,
@@ -70865,6 +71082,13 @@
       "title": "Clinical Specialist, Pelvic Health - Houston, TX",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Houston-Texas-United-States-of-America/Clinical-Specialist--Pelvic-Health---Houston--TX_R75719-1"
     },
+    "Medtronic:R75720": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.063855+00:00",
+      "location": "Plymouth, Minnesota, United States of America",
+      "title": "Production Coordinator III - Calibration- 1st Shift",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Plymouth-Minnesota-United-States-of-America/Production-Coordinator-III---Calibration--1st-Shift_R75720-1"
+    },
     "Medtronic:R75724": {
       "alerted": false,
       "first_seen": "2026-08-24T20:55:50.752589+00:00",
@@ -70892,6 +71116,20 @@
       "location": "Alajuela Coyol, Alajuela, Costa Rica",
       "title": "Operador de Maquina I.",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Alajuela-Coyol-Alajuela-Costa-Rica/Operador-de-Maquina-I_R75756-1"
+    },
+    "Medtronic:R75764": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.063567+00:00",
+      "location": "Fridley, Minnesota, United States of America",
+      "title": "Principal Process Engineer, Injection Molding - NMPH - Rice Creek/Fridley, MN (Onsite)",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Principal-Process-Engineer--Injection-Molding---NMPH---Rice-Creek-Fridley--MN--Onsite-_R75764-2"
+    },
+    "Medtronic:R75770": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.063620+00:00",
+      "location": "Villalba, Puerto Rico, United States of America",
+      "title": "Mfg. Maint Tech I",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Villalba-Puerto-Rico-United-States-of-America/Mfg-Maint-Tech-I_R75770-1"
     },
     "Medtronic:R75773": {
       "alerted": false,
@@ -71152,12 +71390,33 @@
       "title": "Sr Systems Engineer - Imaging",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Boxborough-Massachusetts-United-States-of-America/Sr-Systems-Engineer---Imaging_R75996-1"
     },
+    "Medtronic:R76008": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.063744+00:00",
+      "location": "Richmond, Virginia, United States of America",
+      "title": "Associate Clinical Specialist Pelvic Health- Richmond, VA",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Richmond-Virginia-United-States-of-America/Associate-Clinical-Specialist-Pelvic-Health--Richmond--VA_R76008-2"
+    },
     "Medtronic:R76017": {
       "alerted": false,
       "first_seen": "2026-08-26T23:40:14.646279+00:00",
       "location": "Columbus, Ohio, United States of America",
       "title": "Executive Clinical Specialist, Neurovascular - Columbus, OH",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Columbus-Ohio-United-States-of-America/Executive-Clinical-Specialist--Neurovascular---Columbus--OH_R76017-1"
+    },
+    "Medtronic:R76021": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.064078+00:00",
+      "location": "20 Locations",
+      "title": "Engineering Intern Summer 2027- Candidates Attending 2026 SWE National Conference\u202f",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021-1"
+    },
+    "Medtronic:R76028": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.063929+00:00",
+      "location": "Dexter, Michigan, United States of America",
+      "title": "Senior Process Engineer",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Dexter-Michigan-United-States-of-America/Senior-Process-Engineer_R76028-1"
     },
     "Medtronic:R76071": {
       "alerted": false,
@@ -71180,12 +71439,61 @@
       "title": "Clinical Specialist, Cranial & Spinal Technologies - Louisville, KY",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Louisville-Kentucky-United-States-of-America/Clinical-Specialist--Cranial---Spinal-Technologies---Louisville--KY_R76081-1"
     },
+    "Medtronic:R76087": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.063818+00:00",
+      "location": "Richmond, Virginia, United States of America",
+      "title": "Senior Clinical Specialist - Pelvic Health- Richmond, VA",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Richmond-Virginia-United-States-of-America/Senior-Clinical-Specialist---Pelvic-Health--Richmond--VA_R76087-1"
+    },
     "Medtronic:R76104": {
       "alerted": false,
       "first_seen": "2026-08-27T16:17:50.189312+00:00",
       "location": "Wenzhou, Zhejiang, China",
       "title": "Surgical-Senior Technical Sales Representative-Wenzhou",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Wenzhou-Zhejiang-China/Surgical-Senior-Technical-Sales-Representative-Wenzhou_R76104-1"
+    },
+    "Medtronic:R76165": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.063426+00:00",
+      "location": "Alajuela Coyol, Alajuela, Costa Rica",
+      "title": "Machinist l.",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Alajuela-Coyol-Alajuela-Costa-Rica/Machinist-l_R76165"
+    },
+    "Medtronic:R76170": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.063491+00:00",
+      "location": "Ciudad Juarez, Chihuahua, Mexico",
+      "title": "INGENIERO DE PROCESOS I",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Ciudad-Juarez-Chihuahua-Mexico/INGENIERO-DE-PROCESOS-I_R76170-1"
+    },
+    "Medtronic:R76172": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.063899+00:00",
+      "location": "S\u00e3o Sebasti\u00e3o do Para\u00edso, Minas Gerais, Brazil",
+      "title": "Estagi\u00e1rio de Meio Ambiente, Sa\u00fade e Seguran\u00e7a do Trabalho",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/So-Sebastio-do-Paraso-Minas-Gerais-Brazil/Estagirio-de-Meio-Ambiente--Sade-e-Segurana-do-Trabalho_R76172"
+    },
+    "Medtronic:R76173": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.063521+00:00",
+      "location": "Ciudad Juarez, Chihuahua, Mexico",
+      "title": "INGENIERO DE PROCESOS I",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Ciudad-Juarez-Chihuahua-Mexico/INGENIERO-DE-PROCESOS-I_R76173"
+    },
+    "Medtronic:R76217": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.063397+00:00",
+      "location": "Lafayette, Colorado, United States of America",
+      "title": "Quality Engineer II \u2013 CST \u2013 Lafayette, CO (Onsite)",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Quality-Engineer-II---CST---Lafayette--CO--Onsite-_R76217-1"
+    },
+    "Medtronic:R76222": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.063326+00:00",
+      "location": "Fridley, Minnesota, United States of America",
+      "title": "Principal PD Project Management Specialist - PH - Fridley/Rice Creek, MN (Onsite)",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Principal-PD-Project-Management-Specialist---PH---Fridley-Rice-Creek--MN--Onsite-_R76222-1"
     },
     "NVIDIA:JR1968313": {
       "alerted": true,
@@ -77164,6 +77472,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Senior Manager, NVentures",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--NVentures_JR2017280"
+    },
+    "NVIDIA:JR2017290": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.062856+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Compiler Engineer, Backend- New College Grad 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Backend--New-College-Grad-2026_JR2017290"
     },
     "NVIDIA:JR2017310": {
       "alerted": false,
@@ -87875,6 +88190,13 @@
       "title": "Technical Marketing Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Marketing-Engineer_JR2021469-1"
     },
+    "NVIDIA:JR2021470": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.062630+00:00",
+      "location": "2 Locations",
+      "title": "Senior Customer Technical Program Manager",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Customer-Technical-Program-Manager_JR2021470"
+    },
     "NVIDIA:JR2021473": {
       "alerted": false,
       "first_seen": "2026-07-28T01:03:53.210082+00:00",
@@ -88883,6 +89205,13 @@
       "title": "RTL Power Optimization Engineer \u2013 New College Grad 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/RTL-Power-Optimization-Engineer---New-College-Grad-2026_JR2021841"
     },
+    "NVIDIA:JR2021843": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.063196+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Principal Technical Program Manager, Relational Deep Learning Platform\u00a0",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Technical-Program-Manager--Relational-Deep-Learning-Platform-_JR2021843-1"
+    },
     "NVIDIA:JR2021844": {
       "alerted": false,
       "first_seen": "2026-07-22T21:53:51.717843+00:00",
@@ -89575,6 +89904,13 @@
       "location": "3 Locations",
       "title": "Principal System Power Management and Performance Architect",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-System-Power-Management-and-Performance-Architect_JR2022177"
+    },
+    "NVIDIA:JR2022179": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.062937+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Deep Reinforcement Learning Engineer - Autonomous Driving",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Deep-Reinforcement-Learning-Engineer---Autonomous-Driving_JR2022179"
     },
     "NVIDIA:JR2022180": {
       "alerted": false,
@@ -92887,6 +93223,13 @@
       "title": "Senior Product Manager, HPC and AI for Physics",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Product-Manager--HPC-and-AI-for-Physics_JR2023471"
     },
+    "NVIDIA:JR2023472": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.062819+00:00",
+      "location": "3 Locations",
+      "title": "Senior ASIC Verification Engineer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-NC-Durham/Senior-ASIC-Verification-Engineer_JR2023472"
+    },
     "NVIDIA:JR2023475": {
       "alerted": false,
       "first_seen": "2026-08-19T07:37:07.393147+00:00",
@@ -93881,6 +94224,13 @@
       "title": "Custom SOC IP Verification Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Custom-SOC-IP-Verification-Engineer_JR2024062"
     },
+    "NVIDIA:JR2024063": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.063051+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Business System Analyst, SAP Logistics Execution and Transportation",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Business-System-Analyst--SAP-Logistics-Execution-and-Transportation_JR2024063"
+    },
     "NVIDIA:JR2024064": {
       "alerted": false,
       "first_seen": "2026-08-24T22:02:57.498685+00:00",
@@ -93894,6 +94244,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Senior Staff Business Systems Analyst",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Staff-Business-Systems-Analyst_JR2024067"
+    },
+    "NVIDIA:JR2024068": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.063008+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Business Systems Analyst, SAP Services Manufacturing",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Business-Systems-Analyst--SAP-Services-Manufacturing_JR2024068"
     },
     "NVIDIA:JR2024071": {
       "alerted": false,
@@ -93915,6 +94272,20 @@
       "location": "UK, Remote",
       "title": "Strategy Analyst - UK",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Remote/Strategy-Analyst---UK_JR2024076"
+    },
+    "NVIDIA:JR2024079": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.062745+00:00",
+      "location": "3 Locations",
+      "title": "Senior High-Performance Storage Architect - NVIS",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-High-Performance-Storage-Architect---NVIS_JR2024079-1"
+    },
+    "NVIDIA:JR2024081": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.062787+00:00",
+      "location": "3 Locations",
+      "title": "High-Performance Storage Architect, NVIS",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/High-Performance-Storage-Architect--NVIS_JR2024081"
     },
     "NVIDIA:JR2024082": {
       "alerted": false,
@@ -94126,6 +94497,13 @@
       "title": "Senior Business Systems Analyst, FICO",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Business-Systems-Analyst--FICO_JR2024177"
     },
+    "NVIDIA:JR2024190": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.063082+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior SAP SD Business Analyst",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-SAP-SD-Business-Analyst_JR2024190-1"
+    },
     "NVIDIA:JR2024193": {
       "alerted": false,
       "first_seen": "2026-08-27T16:17:50.169013+00:00",
@@ -94146,6 +94524,13 @@
       "location": "2 Locations",
       "title": "Senior Technical Marketing Engineer - DSX AI Infrastructure Software",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Marketing-Engineer---DSX-AI-Infrastructure-Software_JR2024197"
+    },
+    "NVIDIA:JR2024203": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.063280+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Applied AI Innovation Engineer \u2014 Sales AI Applications",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-AI-Innovation-Engineer---Sales-AI-Applications_JR2024203-1"
     },
     "NVIDIA:JR2024205": {
       "alerted": false,
@@ -94273,6 +94658,27 @@
       "title": "Technical Program Manager -Local AI Agents",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Program-Manager--Local-AI-Agents_JR2024270"
     },
+    "NVIDIA:JR2024273": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.063152+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Software Engineer, AV Planner - Autonomous Vehicles",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--AV-Planner---Autonomous-Vehicles_JR2024273-1"
+    },
+    "NVIDIA:JR2024280": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.062970+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Manager, Storage Engineering",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--Storage-Engineering_JR2024280"
+    },
+    "NVIDIA:JR2024283": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.062596+00:00",
+      "location": "UK, Remote",
+      "title": "Project Technical Delivery Manager",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Remote/Project-Technical-Delivery-Manager_JR2024283"
+    },
     "NVIDIA:JR2024287": {
       "alerted": false,
       "first_seen": "2026-08-26T09:22:43.589889+00:00",
@@ -94342,6 +94748,20 @@
       "location": "3 Locations",
       "title": "Principal Software Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Software-Engineer_JR2024363"
+    },
+    "NVIDIA:JR2024365": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.062666+00:00",
+      "location": "6 Locations",
+      "title": "Senior Applied Research Scientist, Data Curation",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Applied-Research-Scientist--Data-Curation_JR2024365"
+    },
+    "NVIDIA:JR2024367": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.063236+00:00",
+      "location": "2 Locations",
+      "title": "Senior Solutions Architect, Robotics Foundation Model Training",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Solutions-Architect--Robotics-Foundation-Model-Training_JR2024367"
     },
     "NVIDIA:JR2024374": {
       "alerted": false,
@@ -94413,12 +94833,33 @@
       "title": "Senior Hypervisor and RTOS Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Hypervisor-and-RTOS-Engineer_JR2024462"
     },
+    "NVIDIA:JR2024482": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.062897+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Manager, Developer Relations - Higher Education and Research",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--Developer-Relations---Higher-Education-and-Research_JR2024482-1"
+    },
     "NVIDIA:JR2024527": {
       "alerted": false,
       "first_seen": "2026-08-27T05:00:56.302712+00:00",
       "location": "3 Locations",
       "title": "Senior Developer Relations Manager, Energy",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Remote/Senior-Developer-Relations-Manager--Energy_JR2024527"
+    },
+    "NVIDIA:JR2024547": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.062710+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Systems Software Engineer, Low Latency Streaming Technology - Automotive",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer--Low-Latency-Streaming-Technology---Automotive_JR2024547"
+    },
+    "NVIDIA:JR2024565": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.063114+00:00",
+      "location": "4 Locations",
+      "title": "Senior Software and System Architect",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-and-System-Architect_JR2024565"
     },
     "NVIDIA:JR2024570": {
       "alerted": false,
@@ -110198,6 +110639,13 @@
       "title": "Sales Representative - Miami  - Endoscopy",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Miami-Florida/Sales-Representative---Miami----Endoscopy_R569558"
     },
+    "Stryker:R569561": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.061949+00:00",
+      "location": "San Antonio de Belen, Costa Rica",
+      "title": "Accountant",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Antonio-de-Belen-Costa-Rica/Accountant_R569561"
+    },
     "Stryker:R569562": {
       "alerted": false,
       "first_seen": "2026-07-31T16:16:49.690046+00:00",
@@ -111009,6 +111457,13 @@
       "location": "Grecia, Costa Rica",
       "title": "Assembler I (Manufacturing Site, Grecia)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Grecia-Costa-Rica/Assembler-I--Manufacturing-Site--Grecia-_R569816"
+    },
+    "Stryker:R569820": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.062082+00:00",
+      "location": "2 Locations",
+      "title": "Associate Project Manager, Compliance",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Trenton-New-Jersey/Associate-Project-Manager--Compliance_R569820"
     },
     "Stryker:R569821": {
       "alerted": false,
@@ -112935,6 +113390,13 @@
       "title": "OnSite Specialist - San Antonio, TX",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Antonio-Texas/OnSite-Specialist---San-Antonio--TX_R570592"
     },
+    "Stryker:R570593": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.061871+00:00",
+      "location": "4 Locations",
+      "title": "Senior Manager, Communications (remote)",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Phoenix-Arizona/Senior-Manager--Communications--remote-_R570593-1"
+    },
     "Stryker:R570594": {
       "alerted": false,
       "first_seen": "2026-08-17T16:32:12.046231+00:00",
@@ -113200,6 +113662,13 @@
       "location": "2 Locations",
       "title": "Regional Sales Manager, Trauma - Minnesota",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Minneapolis-Minnesota/Regional-Sales-Manager--Trauma---Minnesota_R570711"
+    },
+    "Stryker:R570713": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.062013+00:00",
+      "location": "Grecia, Costa Rica",
+      "title": "Manufacturing Technician ll",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Grecia-Costa-Rica/Manufacturing-Technician-ll_R570713"
     },
     "Stryker:R570715": {
       "alerted": false,
@@ -113754,6 +114223,13 @@
       "title": "Project Manager, PMO (m/f/d)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Freiburg-Germany/Project-Manager--PMO--m-f-d-_R570958"
     },
+    "Stryker:R570961": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.062528+00:00",
+      "location": "5 Locations",
+      "title": "Associate Product Support Specialist - Robotic & Manual, South Wales & West Midlands",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Birmingham-United-Kingdom/Associate-Product-Support-Specialist---Robotic---Manual--South-Wales---West-Midlands_R570961"
+    },
     "Stryker:R570964": {
       "alerted": false,
       "first_seen": "2026-08-14T16:09:08.743456+00:00",
@@ -113809,6 +114285,13 @@
       "location": "Lansing, Michigan",
       "title": "OnSite Specialist - Lansing, MI",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Lansing-Michigan/OnSite-Specialist---Lansing--MI_R570979"
+    },
+    "Stryker:R570981": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.062481+00:00",
+      "location": "Portage, Michigan",
+      "title": "Material Handler I - 1st Shift - $20.75/hr",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Material-Handler-I---1st-Shift----2075-hr_R570981-1"
     },
     "Stryker:R570983": {
       "alerted": false,
@@ -114440,6 +114923,13 @@
       "title": "Supply Planner",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Limerick-Ireland/Supply-Planner_R571244"
     },
+    "Stryker:R571251": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.062564+00:00",
+      "location": "San Jose, California",
+      "title": "Senior Staff Product Owner, Voice Intelligence",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Jose-California/Senior-Staff-Product-Owner--Voice-Intelligence_R571251"
+    },
     "Stryker:R571254": {
       "alerted": false,
       "first_seen": "2026-08-26T14:25:59.842752+00:00",
@@ -114523,6 +115013,13 @@
       "location": "Los Angeles, California",
       "title": "Sales Representative - South LA - Emergency Care (Fire/EMS)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Los-Angeles-California/Sales-Representative---South-LA---Emergency-Care--Fire-EMS-_R571280"
+    },
+    "Stryker:R571285": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.062225+00:00",
+      "location": "Ontario, Waterdown 2 Medicorum Place",
+      "title": "Distribution Associate I",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Ontario-Waterdown-2-Medicorum-Place/Distribution-Associate-I_R571285"
     },
     "Stryker:R571291": {
       "alerted": false,
@@ -114790,6 +115287,13 @@
       "title": "R&D Engineer, Mechanical Engineer",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Waltham-Massachusetts/R-D-Engineer--Mechanical-Engineer_R571421-1"
     },
+    "Stryker:R571424": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.062297+00:00",
+      "location": "Portage, Michigan",
+      "title": "CAD Designer - 1st Shift",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/CAD-Designer---1st-Shift_R571424"
+    },
     "Stryker:R571427": {
       "alerted": false,
       "first_seen": "2026-08-21T13:24:51.434836+00:00",
@@ -114838,6 +115342,13 @@
       "location": "Chicago, Illinois",
       "title": "Sales Representative - Chicago, IL - Sports Medicine",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Chicago-Illinois/Sales-Representative---Chicago--IL---Sports-Medicine_R571444"
+    },
+    "Stryker:R571445": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.061920+00:00",
+      "location": "Florida, Jacksonville 7014 AC Skinner Pkwy",
+      "title": "Medical Device Driver - 2nd Shift - $22.10/hr + $1/hr shift premium",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Florida-Jacksonville-7014-AC-Skinner-Pkwy/Medical-Device-Driver---2nd-Shift----2210-hr----1-hr-shift-premium_R571445"
     },
     "Stryker:R571446": {
       "alerted": false,
@@ -114929,6 +115440,13 @@
       "location": "Portage, Michigan",
       "title": "Principal Mechanical Engineer, R&D",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Principal-Mechanical-Engineer--R-D_R571499-1"
+    },
+    "Stryker:R571501": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.062342+00:00",
+      "location": "Kalamazoo, Michigan",
+      "title": "Associate Machinist - 3rd Shift - $30.25/hr. plus $1.50 Shift Premium",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Kalamazoo-Michigan/Associate-Machinist---3rd-Shift----3025-hr-plus--150-Shift-Premium_R571501-1"
     },
     "Stryker:R571506": {
       "alerted": false,
@@ -115175,6 +115693,13 @@
       "title": "Associate Installation Technician - Chicago",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Chicago-Illinois/Associate-Installation-Technician---Chicago_R571637"
     },
+    "Stryker:R571640": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.062046+00:00",
+      "location": "Salt Lake City, Utah",
+      "title": "Senior Extrusion Technician, R&D",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Salt-Lake-City-Utah/Senior-Extrusion-Technician--R-D_R571640"
+    },
     "Stryker:R571642": {
       "alerted": false,
       "first_seen": "2026-08-24T14:21:12.321280+00:00",
@@ -115273,6 +115798,13 @@
       "title": "OnSite Specialist - Jackson, MS",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Jackson-Mississippi/OnSite-Specialist---Jackson--MS_R571709"
     },
+    "Stryker:R571711": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.062194+00:00",
+      "location": "Hamilton, Canada",
+      "title": "Distribution Associate I (12 Month Contract)",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Hamilton-Canada/Distribution-Associate-I--12-Month-Contract-_R571711"
+    },
     "Stryker:R571713": {
       "alerted": false,
       "first_seen": "2026-08-20T17:13:57.150529+00:00",
@@ -115286,6 +115818,13 @@
       "location": "Oklahoma City, Oklahoma",
       "title": "Foot & Ankle Sales Associate - Oklahoma, City, OK",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Oklahoma-City-Oklahoma/Foot---Ankle-Sales-Associate---Oklahoma--City--OK_R571714-1"
+    },
+    "Stryker:R571718": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.061981+00:00",
+      "location": "Ontario, Waterdown 2 Medicorum Place",
+      "title": "Distribution Associate I",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Ontario-Waterdown-2-Medicorum-Place/Distribution-Associate-I_R571718"
     },
     "Stryker:R571719": {
       "alerted": false,
@@ -115307,6 +115846,13 @@
       "location": "Macon, Georgia",
       "title": "Sales Representative - Central Georgia - Patient Care/Handling",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Macon-Georgia/Sales-Representative---Central-Georgia---Patient-Care-Handling_R571725"
+    },
+    "Stryker:R571742": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.062266+00:00",
+      "location": "Louisville, Kentucky",
+      "title": "Territory Sales Representative- Louisville, KY- Neurovascular",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Louisville-Kentucky/Territory-Sales-Representative--Louisville--KY--Neurovascular_R571742"
     },
     "Stryker:R571758": {
       "alerted": false,
@@ -115483,6 +116029,13 @@
       "title": "Associate Product Support Specialist - Robotic & Manual",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Birmingham-United-Kingdom/Associate-Product-Support-Specialist---Robotic---Manual_R571958"
     },
+    "Stryker:R571984": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.062445+00:00",
+      "location": "Fargo, North Dakota",
+      "title": "Service Associate - Fargo, ND",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Fargo-North-Dakota/Service-Associate---Fargo--ND_R571984"
+    },
     "Stryker:R572304": {
       "alerted": false,
       "first_seen": "2026-08-27T16:17:50.170253+00:00",
@@ -115496,6 +116049,13 @@
       "location": "San Jose, California",
       "title": "Senior Staff Electrical Engineer (Onsite San Jose, CA)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Jose-California/Senior-Staff-Electrical-Engineer--Onsite-San-Jose--CA-_R572313-1"
+    },
+    "Stryker:R572323": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.062122+00:00",
+      "location": "Richmond, Virginia",
+      "title": "Territory Sales Representative- Richmond, VA- Neurovascular",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Richmond-Virginia/Territory-Sales-Representative--Richmond--VA--Neurovascular_R572323"
     },
     "Stryker:R572327": {
       "alerted": false,
@@ -115518,12 +116078,33 @@
       "title": "Associate ProAssure Systems Specialist",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Erie-Pennsylvania/Associate-ProAssure-Systems-Specialist_R572381-1"
     },
+    "Stryker:R572395": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.062378+00:00",
+      "location": "Dallas, Texas",
+      "title": "Sales Associate - Dallas, TX - Endoscopy",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Dallas-Texas/Sales-Associate---Dallas--TX---Endoscopy_R572395"
+    },
+    "Stryker:R572408": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.062412+00:00",
+      "location": "District of Columbia, Washington",
+      "title": "OnSite Specialist- Falls Church, VA",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/District-of-Columbia-Washington/OnSite-Specialist--Falls-Church--VA_R572408"
+    },
     "Stryker:R572452": {
       "alerted": false,
       "first_seen": "2026-08-27T16:17:50.170168+00:00",
       "location": "San Antonio, Texas",
       "title": "OnSite Specialist- San Antonio, TX (Overnight)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Antonio-Texas/OnSite-Specialist--San-Antonio--TX--Overnight-_R572452"
+    },
+    "Stryker:R572538": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.062158+00:00",
+      "location": "Kalamazoo, Michigan",
+      "title": "Territory Manager- Western MI- Neurovascular",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Kalamazoo-Michigan/Territory-Manager--Western-MI--Neurovascular_R572538"
     },
     "Waymo:6367980": {
       "alerted": false,
@@ -120348,12 +120929,26 @@
       "title": "Legal Counsel - UK",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8157441"
     },
+    "Waymo:8157691": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.052655+00:00",
+      "location": "Mountain View, CA, USA",
+      "title": "Senior FP&A Analyst - Ops",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8157691"
+    },
     "Waymo:8157842": {
       "alerted": false,
       "first_seen": "2026-08-25T22:16:01.799492+00:00",
       "location": "Mountain View, CA, USA",
       "title": "Software Quality Ops Scenarios Specialist (DiscSim)",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8157842"
+    },
+    "Waymo:8160797": {
+      "alerted": false,
+      "first_seen": "2026-08-28T00:58:27.052310+00:00",
+      "location": "Mountain View, CA, US",
+      "title": "Program Manager, Extended Workforce Solution & Business Operations",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8160797"
     }
   }
 }
