@@ -1,10 +1,5 @@
 {
   "company_failures": {
-    "Agility Robotics": {
-      "count": 1,
-      "last_error": "Agility Robotics (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
-      "last_failed_at": "2026-09-03T21:54:27.047471+00:00"
-    },
     "Boston Dynamics": {
       "count": 6,
       "last_error": "Boston Dynamics (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/bostondynamics/jobs?content=true",
@@ -918,6 +913,13 @@
       "location": "Remote",
       "title": "Campus Program Recruiter",
       "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6178371004"
+    },
+    "Agility Robotics:6180281004": {
+      "alerted": false,
+      "first_seen": "2026-09-03T23:35:00.779850+00:00",
+      "location": "Hybrid- Fremont, CA",
+      "title": "Senior Systems Administrator, IT",
+      "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6180281004"
     },
     "Amazon:10378626": {
       "alerted": false,
@@ -12202,6 +12204,13 @@
       "location": "Costa Mesa, California, United States",
       "title": "Endpoint Systems Engineer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5084914007?gh_jid=5084914007"
+    },
+    "Anduril:5084937007": {
+      "alerted": false,
+      "first_seen": "2026-09-03T23:35:00.780496+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Enablement Manager",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5084937007?gh_jid=5084937007"
     },
     "Anduril:5084942007": {
       "alerted": false,
@@ -36724,6 +36733,13 @@
       "title": "Associate Facilities Manager",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5225948007?gh_jid=5225948007"
     },
+    "Anduril:5225971007": {
+      "alerted": false,
+      "first_seen": "2026-09-03T23:35:00.781623+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Information Security Analyst",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5225971007?gh_jid=5225971007"
+    },
     "Anduril:5226053007": {
       "alerted": false,
       "first_seen": "2026-08-31T18:07:30.783121+00:00",
@@ -37312,6 +37328,13 @@
       "title": "Senior Controls & Automation Engineer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5228104007?gh_jid=5228104007"
     },
+    "Anduril:5228143007": {
+      "alerted": false,
+      "first_seen": "2026-09-03T23:35:00.781104+00:00",
+      "location": "Sydney, New South Wales, Australia",
+      "title": "Field Operations Manager",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5228143007?gh_jid=5228143007"
+    },
     "Anduril:5228188007": {
       "alerted": false,
       "first_seen": "2026-09-02T05:44:20.469783+00:00",
@@ -37409,6 +37432,13 @@
       "location": "Costa Mesa, California, United States",
       "title": "Senior Digital Design Engineer, Air Dominance and Strike",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5228714007?gh_jid=5228714007"
+    },
+    "Anduril:5228862007": {
+      "alerted": false,
+      "first_seen": "2026-09-03T23:35:00.782211+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Manager, Configuration Management",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5228862007?gh_jid=5228862007"
     },
     "Anduril:5228865007": {
       "alerted": false,
@@ -37619,6 +37649,13 @@
       "location": "Costa Mesa, California, United States",
       "title": "Senior Marketing Manager, Global Trade Show Strategy",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5230637007?gh_jid=5230637007"
+    },
+    "Anduril:5230686007": {
+      "alerted": false,
+      "first_seen": "2026-09-03T23:35:00.782811+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Staff Product Manager, Oracle Cloud SCM",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5230686007?gh_jid=5230686007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -73936,6 +73973,13 @@
       "title": "Mfg. Maint Tech I",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Villalba-Puerto-Rico-United-States-of-America/Mfg-Maint-Tech-I_R75770-1"
     },
+    "Medtronic:R75772": {
+      "alerted": false,
+      "first_seen": "2026-09-03T23:35:00.783259+00:00",
+      "location": "2 Locations",
+      "title": "Area Sales Manager, Enabling Technologies (Neurosurgery) - Boise, ID / Salt Lake City, UT",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Boise-Idaho-United-States-of-America/Area-Sales-Manager--Enabling-Technologies--Neurosurgery----Boise--ID---Salt-Lake-City--UT_R75772-2"
+    },
     "Medtronic:R75773": {
       "alerted": false,
       "first_seen": "2026-08-25T16:04:29.794187+00:00",
@@ -74929,6 +74973,13 @@
       "location": "5 Locations",
       "title": "Regional Capital Manager, ENT - Central States (TX, IL, MN, MO, LA)",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Chicago-Illinois-United-States-of-America/Regional-Capital-Manager--ENT---Central-States--TX--IL--MN--MO--LA-_R76422-1"
+    },
+    "Medtronic:R76424": {
+      "alerted": false,
+      "first_seen": "2026-09-03T23:35:00.783304+00:00",
+      "location": "2 Locations",
+      "title": "Sr. Clinical Specialist, Superficial Venous Interventions (SVI) - Sacramento, CA/San Francisco, CA",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/San-Francisco-California-United-States-of-America/Sr-Clinical-Specialist--Superficial-Venous-Interventions--SVI----Sacramento--CA-San-Francisco--CA_R76424-1"
     },
     "Medtronic:R76429": {
       "alerted": false,
@@ -83238,6 +83289,13 @@
       "location": "Taiwan, Hsinchu",
       "title": "Manager, SMTA Engineering",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Manager--SMTA-Engineering_JR2018566"
+    },
+    "NVIDIA:JR2018568": {
+      "alerted": false,
+      "first_seen": "2026-09-03T23:35:00.782847+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Product Marketing Manager,  DSX OS",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Product-Marketing-Manager---DSX-OS_JR2018568"
     },
     "NVIDIA:JR2018569": {
       "alerted": false,
@@ -121438,6 +121496,13 @@
       "title": "Associate Territory Manager - Rockhampton",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Rockhampton-Australia/Associate-Territory-Manager---Rockhampton_R571672"
     },
+    "Stryker:R571675": {
+      "alerted": false,
+      "first_seen": "2026-09-03T23:35:00.782945+00:00",
+      "location": "Sydney, Australia",
+      "title": "Finance Analyst",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Sydney-Australia/Finance-Analyst_R571675-1"
+    },
     "Stryker:R571679": {
       "alerted": false,
       "first_seen": "2026-08-26T10:40:17.840335+00:00",
@@ -121823,6 +121888,13 @@
       "title": "Arterial Account Manager - Arizona/New Mexico - Peripheral Vascular",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Arizona-Virtual-Address/Arterial-Account-Manager---Arizona-New-Mexico---Peripheral-Vascular_R571898"
     },
+    "Stryker:R571900": {
+      "alerted": false,
+      "first_seen": "2026-09-03T23:35:00.783215+00:00",
+      "location": "6 Locations",
+      "title": "Arterial Account Manager - Pittsburgh - Peripheral Vascular",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Pittsburgh-Pennsylvania/Arterial-Account-Manager---Pittsburgh---Peripheral-Vascular_R571900-1"
+    },
     "Stryker:R571901": {
       "alerted": false,
       "first_seen": "2026-08-28T22:32:03.383979+00:00",
@@ -121865,6 +121937,13 @@
       "title": "Receiving Coordinator - 1st Shift - $35.30/hr",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Flower-Mound-Texas/Receiving-Coordinator---1st-Shift----3530-hr_R571910"
     },
+    "Stryker:R571913": {
+      "alerted": false,
+      "first_seen": "2026-09-03T23:35:00.783180+00:00",
+      "location": "2 Locations",
+      "title": "Arterial Account Manager - Buffalo - Peripheral Vascular",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Buffalo-New-York/Arterial-Account-Manager---Buffalo---Peripheral-Vascular_R571913"
+    },
     "Stryker:R571914": {
       "alerted": false,
       "first_seen": "2026-08-24T20:55:50.751720+00:00",
@@ -121892,6 +121971,27 @@
       "location": "Hamilton, Canada",
       "title": "Demo Technician",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Hamilton-Canada/Demo-Technician_R571923"
+    },
+    "Stryker:R571927": {
+      "alerted": false,
+      "first_seen": "2026-09-03T23:35:00.783071+00:00",
+      "location": "Irvine, California",
+      "title": "Staff Quality Compliance Engineer",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Irvine-California/Staff-Quality-Compliance-Engineer_R571927"
+    },
+    "Stryker:R571928": {
+      "alerted": false,
+      "first_seen": "2026-09-03T23:35:00.783106+00:00",
+      "location": "Irvine, California",
+      "title": "Staff Quality Engineer, Microbiology and Sterilization",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Irvine-California/Staff-Quality-Engineer--Microbiology-and-Sterilization_R571928"
+    },
+    "Stryker:R571932": {
+      "alerted": false,
+      "first_seen": "2026-09-03T23:35:00.783145+00:00",
+      "location": "5 Locations",
+      "title": "Arterial Account Manager - Philadelphia, PA - Peripheral Vascular",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Philadelphia-Pennsylvania/Arterial-Account-Manager---Philadelphia--PA---Peripheral-Vascular_R571932"
     },
     "Stryker:R571938": {
       "alerted": false,
@@ -122621,6 +122721,13 @@
       "title": "Clinical Specialist, Enabling Technologies (Louisville, KY)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Louisville-Kentucky/Clinical-Specialist--Enabling-Technologies--Louisville--KY-_R572419"
     },
+    "Stryker:R572421": {
+      "alerted": false,
+      "first_seen": "2026-09-03T23:35:00.783004+00:00",
+      "location": "Irvine, California",
+      "title": "Operations Supervisor, Manufacturing (2nd Shift)",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Irvine-California/Operations-Supervisor--Manufacturing--2nd-Shift-_R572421"
+    },
     "Stryker:R572425": {
       "alerted": false,
       "first_seen": "2026-09-02T09:54:51.755025+00:00",
@@ -122704,6 +122811,13 @@
       "location": "Seattle, Washington",
       "title": "Trauma Sales Representative, Seattle",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Seattle-Washington/Trauma-Sales-Representative--Seattle_R572488"
+    },
+    "Stryker:R572494": {
+      "alerted": false,
+      "first_seen": "2026-09-03T23:35:00.783041+00:00",
+      "location": "2 Locations",
+      "title": "Upper Extremities Sales Associate - Braselton/Athens, GA",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Braselton-Georgia/Upper-Extremities-Sales-Associate---Braselton-Athens--GA_R572494"
     },
     "Stryker:R572495": {
       "alerted": false,
@@ -122872,6 +122986,13 @@
       "location": "Mahwah, New Jersey",
       "title": "Summer 2027 Internship - Biomedical Engineering - New Jersey",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Mahwah-New-Jersey/Summer-2027-Internship---Biomedical-Engineering---New-Jersey_R572594-1"
+    },
+    "Stryker:R572598": {
+      "alerted": false,
+      "first_seen": "2026-09-03T23:35:00.782918+00:00",
+      "location": "Newbury, United Kingdom",
+      "title": "Field Service Engineer - South West",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Newbury-United-Kingdom/Field-Service-Engineer---South-West_R572598"
     },
     "Stryker:R572599": {
       "alerted": false,
@@ -123383,6 +123504,13 @@
       "location": "Tempe, Arizona",
       "title": "Summer 2027 Internship - Regulatory Affairs - Arizona",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tempe-Arizona/Summer-2027-Internship---Regulatory-Affairs---Arizona_R572939"
+    },
+    "Stryker:R572940": {
+      "alerted": false,
+      "first_seen": "2026-09-03T23:35:00.782883+00:00",
+      "location": "Tempe, Arizona",
+      "title": "Engineering Intern, Product Quality",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tempe-Arizona/Engineering-Intern--Product-Quality_R572940"
     },
     "Stryker:R572941": {
       "alerted": false,
