@@ -1,10 +1,5 @@
 {
   "company_failures": {
-    "Agility Robotics": {
-      "count": 1,
-      "last_error": "Agility Robotics (greenhouse): ReadTimeout: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)",
-      "last_failed_at": "2026-09-02T22:28:48.813727+00:00"
-    },
     "Boston Dynamics": {
       "count": 6,
       "last_error": "Boston Dynamics (greenhouse): HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/bostondynamics/jobs?content=true",
@@ -29864,6 +29859,13 @@
       "title": "Director, Business Development",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5192334007?gh_jid=5192334007"
     },
+    "Anduril:5192336007": {
+      "alerted": false,
+      "first_seen": "2026-09-03T00:29:54.618115+00:00",
+      "location": "Atlanta, Georgia, United States",
+      "title": "Environmental Health & Safety Manager",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5192336007?gh_jid=5192336007"
+    },
     "Anduril:5192396007": {
       "alerted": false,
       "first_seen": "2026-07-23T21:15:31.081298+00:00",
@@ -37340,12 +37342,40 @@
       "title": "Optical Systems Technical Lead, AR/VR Displays - EagleEye",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5229076007?gh_jid=5229076007"
     },
+    "Anduril:5229317007": {
+      "alerted": false,
+      "first_seen": "2026-09-03T00:29:54.617300+00:00",
+      "location": "Colorado Springs, Colorado, United States",
+      "title": "Associate Program Director, Connected Warfare",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5229317007?gh_jid=5229317007"
+    },
     "Anduril:5229336007": {
       "alerted": false,
       "first_seen": "2026-09-02T22:28:48.819709+00:00",
       "location": "Santa Ana, California, United States",
       "title": "Metrology Technician",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5229336007?gh_jid=5229336007"
+    },
+    "Anduril:5229411007": {
+      "alerted": false,
+      "first_seen": "2026-09-03T00:29:54.618790+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Hardware Engineer ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5229411007?gh_jid=5229411007"
+    },
+    "Anduril:5229412007": {
+      "alerted": false,
+      "first_seen": "2026-09-03T00:29:54.619443+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Hardware Engineer (Sensor Systems)",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5229412007?gh_jid=5229412007"
+    },
+    "Anduril:5229428007": {
+      "alerted": false,
+      "first_seen": "2026-09-03T00:29:54.620447+00:00",
+      "location": "Costa Mesa, California, United States",
+      "title": "Senior Product Designer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5229428007?gh_jid=5229428007"
     },
     "Apptronik:5572958004": {
       "alerted": false,
@@ -43065,6 +43095,13 @@
       "location": "Somerville, MA",
       "title": "Campus Recruiting Intern (Fall 2026)",
       "url": "https://careers.formlabs.com/job/8174619/apply/?gh_jid=8174619"
+    },
+    "Formlabs:8175423": {
+      "alerted": false,
+      "first_seen": "2026-09-03T00:29:54.615300+00:00",
+      "location": "Somerville, MA",
+      "title": "Campus Recruiter",
+      "url": "https://careers.formlabs.com/job/8175423/apply/?gh_jid=8175423"
     },
     "Medtronic:R26267": {
       "alerted": false,
@@ -68300,6 +68337,13 @@
       "location": "Shijiazhuang, Hebei, China",
       "title": "CRDN-Technical Sales Representative-Shijiazhuang",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Shijiazhuang-Hebei-China/CRDN-Technical-Sales-Representative-Shijiazhuang_R73644-1"
+    },
+    "Medtronic:R73646": {
+      "alerted": false,
+      "first_seen": "2026-09-03T00:29:54.620489+00:00",
+      "location": "Mexico City, Distrito Federal, Mexico",
+      "title": "Clinical Specialist",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mexico-City-Distrito-Federal-Mexico/Clinical-Specialist_R73646-1"
     },
     "Medtronic:R73647": {
       "alerted": false,
@@ -96287,6 +96331,13 @@
       "title": "Senior Technical Program Manager, DGX Cloud Software - Product and Services",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager--DGX-Cloud-Software---Product-and-Services_JR2023320"
     },
+    "NVIDIA:JR2023328": {
+      "alerted": false,
+      "first_seen": "2026-09-03T00:29:54.616371+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "OEM Account Manager",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/OEM-Account-Manager_JR2023328"
+    },
     "NVIDIA:JR2023334": {
       "alerted": false,
       "first_seen": "2026-08-26T23:40:14.646152+00:00",
@@ -96937,6 +96988,13 @@
       "location": "UK, Remote",
       "title": "Startups Partner Manager",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Remote/Startups-Partner-Manager_JR2023583"
+    },
+    "NVIDIA:JR2023584": {
+      "alerted": false,
+      "first_seen": "2026-09-03T00:29:54.616336+00:00",
+      "location": "US, CA, Santa Clara",
+      "title": "Senior Business Development Manager - Industrial Engineering and CAE",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Business-Development-Manager---Industrial-Engineering-and-CAE_JR2023584"
     },
     "NVIDIA:JR2023585": {
       "alerted": true,
@@ -97848,6 +97906,13 @@
       "title": "Software Engineer, Performance Lab and Tools",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Performance-Lab-and-Tools_JR2024097"
     },
+    "NVIDIA:JR2024098": {
+      "alerted": false,
+      "first_seen": "2026-09-03T00:29:54.616414+00:00",
+      "location": "4 Locations",
+      "title": "Manager, Software Engineering - DGX Cloud",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Remote/Manager--Software-Engineering---DGX-Cloud_JR2024098"
+    },
     "NVIDIA:JR2024103": {
       "alerted": false,
       "first_seen": "2026-08-29T03:49:44.421578+00:00",
@@ -98744,6 +98809,20 @@
       "title": "Field Operations Specialist - NVIS Professional Services",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Singapore-Singapore-Suntec-Tower/Field-Operations-Specialist---NVIS-Professional-Services_JR2024613-1"
     },
+    "NVIDIA:JR2024616": {
+      "alerted": false,
+      "first_seen": "2026-09-03T00:29:54.616461+00:00",
+      "location": "4 Locations",
+      "title": "Senior Systems Software Engineer, Containers and Kubernetes",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer--Containers-and-Kubernetes_JR2024616-1"
+    },
+    "NVIDIA:JR2024620": {
+      "alerted": false,
+      "first_seen": "2026-09-03T00:29:54.616287+00:00",
+      "location": "6 Locations",
+      "title": "Security Software Engineer, Vulnerability Operations",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Security-Software-Engineer--Vulnerability-Operations_JR2024620-1"
+    },
     "NVIDIA:JR2024639": {
       "alerted": false,
       "first_seen": "2026-08-31T22:46:15.852543+00:00",
@@ -99023,6 +99102,13 @@
       "location": "US, CA, Santa Clara",
       "title": "Senior Manager, Embedded Imaging Software",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--Embedded-Imaging-Software_JR2024977"
+    },
+    "NVIDIA:JR2024978": {
+      "alerted": false,
+      "first_seen": "2026-09-03T00:29:54.616510+00:00",
+      "location": "5 Locations",
+      "title": "Distinguished Engineer, Production Engineering, Data Center Automation",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Distinguished-Engineer--Production-Engineering--Data-Center-Automation_JR2024978"
     },
     "NVIDIA:JR2025008": {
       "alerted": false,
@@ -120283,6 +120369,13 @@
       "title": "Assembly Technician III - 1st Shift - $28.20/hr.",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Waltham-Massachusetts/Assembly-Technician-III---1st-Shift----2820-hr_R571644-1"
     },
+    "Stryker:R571646": {
+      "alerted": false,
+      "first_seen": "2026-09-03T00:29:54.616150+00:00",
+      "location": "San Diego, California",
+      "title": "Senior Manager - R&D",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Diego-California/Senior-Manager---R-D_R571646"
+    },
     "Stryker:R571651": {
       "alerted": false,
       "first_seen": "2026-08-28T22:32:03.383417+00:00",
@@ -120744,6 +120837,13 @@
       "location": "Hamilton, Canada",
       "title": "Demo Technician",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Hamilton-Canada/Demo-Technician_R571923"
+    },
+    "Stryker:R571942": {
+      "alerted": false,
+      "first_seen": "2026-09-03T00:29:54.616193+00:00",
+      "location": "St Leonards, Australia",
+      "title": "Demo Customer Service Representative",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/St-Leonards-Australia/Demo-Customer-Service-Representative_R571942"
     },
     "Stryker:R571943": {
       "alerted": false,
@@ -121326,6 +121426,13 @@
       "title": "Upper Extremities Sales Associate - Rhode Island and East Conneticut",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Providence-Rhode-Island/Upper-Extremities-Sales-Associate---Rhode-Island-and-East-Conneticut_R572378"
     },
+    "Stryker:R572380": {
+      "alerted": false,
+      "first_seen": "2026-09-03T00:29:54.615827+00:00",
+      "location": "3 Locations",
+      "title": "Medical Device Driver - 2nd Shift - $25.40/hr + $1/hr shift premium",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Federal-Way-Washington/Medical-Device-Driver---2nd-Shift----2540-hr----1-hr-shift-premium_R572380"
+    },
     "Stryker:R572381": {
       "alerted": false,
       "first_seen": "2026-08-26T20:17:24.025840+00:00",
@@ -121367,6 +121474,13 @@
       "location": "Hanover, Maryland",
       "title": "Field Operations Associate - 3rd Shift - $25.10/hr + $1 Shift Premium",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Hanover-Maryland/Field-Operations-Associate---3rd-Shift----2510-hr----1-Shift-Premium_R572401"
+    },
+    "Stryker:R572402": {
+      "alerted": false,
+      "first_seen": "2026-09-03T00:29:54.616240+00:00",
+      "location": "Hanover, Maryland",
+      "title": "Field Operations Associate - 1st Shift - $25.10/hr",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Hanover-Maryland/Field-Operations-Associate---1st-Shift----2510-hr_R572402"
     },
     "Stryker:R572408": {
       "alerted": false,
@@ -121816,6 +121930,13 @@
       "title": "Summer 2027 Internship - Market Development - Michigan",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Market-Development---Michigan_R572746-1"
     },
+    "Stryker:R572749": {
+      "alerted": false,
+      "first_seen": "2026-09-03T00:29:54.616112+00:00",
+      "location": "San Jose, California",
+      "title": "Manufacturing Engineering Intern",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Jose-California/Manufacturing-Engineering-Intern_R572749-1"
+    },
     "Stryker:R572758": {
       "alerted": false,
       "first_seen": "2026-08-31T18:07:30.779029+00:00",
@@ -121836,6 +121957,13 @@
       "location": "Weston, Florida",
       "title": "Summer 2027 Internship - Process Engineer - Florida",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Weston-Florida/Summer-2027-Internship---Process-Engineer---Florida_R572764"
+    },
+    "Stryker:R572768": {
+      "alerted": false,
+      "first_seen": "2026-09-03T00:29:54.616071+00:00",
+      "location": "Salt Lake City, Utah",
+      "title": "R&D Operations Intern",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Salt-Lake-City-Utah/R-D-Operations-Intern_R572768"
     },
     "Stryker:R572769": {
       "alerted": false,
@@ -121935,6 +122063,13 @@
       "title": "Summer 2027 Internship - Upper Extremities Sales - Omaha, Nebraska",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Omaha-Nebraska/Summer-2027-Internship---Upper-Extremities-Sales---Omaha--Nebraska_R572818"
     },
+    "Stryker:R572819": {
+      "alerted": false,
+      "first_seen": "2026-09-03T00:29:54.615962+00:00",
+      "location": "Redmond, Washington",
+      "title": "Human Factors Engineering Intern",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Redmond-Washington/Human-Factors-Engineering-Intern_R572819"
+    },
     "Stryker:R572824": {
       "alerted": false,
       "first_seen": "2026-09-01T21:21:49.686659+00:00",
@@ -121948,6 +122083,13 @@
       "location": "Florida, Virtual Address",
       "title": "Summer 2027 Internship - RA/QA - Post Market Regulatory Affairs - Virtual",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Florida-Virtual-Address/Summer-2027-Internship---RA-QA---Post-Market-Regulatory-Affairs---Virtual_R572836-1"
+    },
+    "Stryker:R572846": {
+      "alerted": false,
+      "first_seen": "2026-09-03T00:29:54.615871+00:00",
+      "location": "Redmond, Washington",
+      "title": "Manufacturing Engineering Intern",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Redmond-Washington/Manufacturing-Engineering-Intern_R572846"
     },
     "Stryker:R572855": {
       "alerted": false,
@@ -122173,6 +122315,13 @@
       "title": "Operario de Manufactura l (Visa y pasaporte al d\u00eda)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Grecia-Costa-Rica/Operario-de-Manufactura-l--Visa-y-pasaporte-al-da-_R573003"
     },
+    "Stryker:R573043": {
+      "alerted": false,
+      "first_seen": "2026-09-03T00:29:54.615920+00:00",
+      "location": "2 Locations",
+      "title": "Arterial Account Manager- Southeast GA- Peripheral Vascular",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Savannah-Georgia/Arterial-Account-Manager--Southeast-GA--Peripheral-Vascular_R573043"
+    },
     "Stryker:R573045": {
       "alerted": false,
       "first_seen": "2026-09-02T22:28:48.818233+00:00",
@@ -122186,6 +122335,13 @@
       "location": "3 Locations",
       "title": "Arterial Account Manager- Carolinas Region- Peripheral Vascular",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Charlotte-North-Carolina/Arterial-Account-Manager--Carolinas-Region--Peripheral-Vascular_R573046"
+    },
+    "Stryker:R573047": {
+      "alerted": false,
+      "first_seen": "2026-09-03T00:29:54.616029+00:00",
+      "location": "Orlando, Florida",
+      "title": "Arterial Account Manager- Orlando, FL- Peripheral Vascular",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Orlando-Florida/Arterial-Account-Manager--Orlando--FL--Peripheral-Vascular_R573047"
     },
     "Stryker:R573048": {
       "alerted": false,
@@ -127135,6 +127291,13 @@
       "location": "San Francisco, California, United States",
       "title": "2027 Summer Intern, MS/PhD, Data Science - Commercialization Testing",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8167323"
+    },
+    "Waymo:8168611": {
+      "alerted": false,
+      "first_seen": "2026-09-03T00:29:54.615765+00:00",
+      "location": "Mountain View, CA, USA",
+      "title": "Aftermarket Commercial Lead",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8168611"
     },
     "Waymo:8168620": {
       "alerted": false,
