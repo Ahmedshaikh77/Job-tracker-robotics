@@ -36208,6 +36208,13 @@
       "title": "Manufacturing Security Site Lead",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5222410007?gh_jid=5222410007"
     },
+    "Anduril:5222558007": {
+      "alerted": false,
+      "first_seen": "2026-09-07T16:00:43.717651+00:00",
+      "location": "London, England, United Kingdom",
+      "title": "Security Operations Analyst, UK",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5222558007?gh_jid=5222558007"
+    },
     "Anduril:5222624007": {
       "alerted": false,
       "first_seen": "2026-08-28T22:32:03.367775+00:00",
@@ -73238,6 +73245,13 @@
       "title": "Supply Chain Planning Manager",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Jacksonville-Florida-United-States-of-America/Supply-Chain-Planning-Manager_R75141-2"
     },
+    "Medtronic:R75142": {
+      "alerted": false,
+      "first_seen": "2026-09-07T16:00:43.717805+00:00",
+      "location": "Bucharest, Bucharest, Romania",
+      "title": "Regulatory Affairs Specialist",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Bucharest-Bucharest-Romania/Regulatory-Affairs-Specialist_R75142-1"
+    },
     "Medtronic:R75145": {
       "alerted": false,
       "first_seen": "2026-08-18T17:40:13.914714+00:00",
@@ -75296,6 +75310,13 @@
       "title": "Sales Representative II",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mollsfeld-Meerbusch-Germany/Sales-Representative-HNO--m-w-d--fr-Groraum-Berlin_R76257-1"
     },
+    "Medtronic:R76258": {
+      "alerted": false,
+      "first_seen": "2026-09-07T16:00:43.717690+00:00",
+      "location": "Belgrade, Belgrade, Serbia",
+      "title": "Neurovascular Sales Representative",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Belgrade-Belgrade-Serbia/Neurovascular-Sales-Representative_R76258-1"
+    },
     "Medtronic:R76263": {
       "alerted": false,
       "first_seen": "2026-09-03T21:54:27.053866+00:00",
@@ -76101,6 +76122,13 @@
       "title": "Sales Representative I , Spine -\tCharlotte, NC",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Charlotte-North-Carolina-United-States-of-America/Sales-Representative-I---Spine---Charlotte--NC_R76836-1"
     },
+    "Medtronic:R76837": {
+      "alerted": true,
+      "first_seen": "2026-09-07T16:00:43.717755+00:00",
+      "location": "North Haven, Connecticut, United States of America",
+      "title": "Manufacturing Engineer I",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/North-Haven-Connecticut-United-States-of-America/Manufacturing-Engineer-I_R76837-1"
+    },
     "Medtronic:R76841": {
       "alerted": false,
       "first_seen": "2026-09-04T23:25:47.540140+00:00",
@@ -76114,6 +76142,41 @@
       "location": "Charlottesville, Virginia, United States of America",
       "title": "Associate Clinical Specialist CRM - Charlottesville",
       "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Charlottesville-Virginia-United-States-of-America/Associate-Clinical-Specialist-CRM---Charlottesville_R76843-1"
+    },
+    "Medtronic:R76850": {
+      "alerted": true,
+      "first_seen": "2026-09-07T16:00:43.717724+00:00",
+      "location": "North Haven, Connecticut, United States of America",
+      "title": "Manufacturing Engineer II",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/North-Haven-Connecticut-United-States-of-America/Manufacturing-Engineer-II_R76850-1"
+    },
+    "Medtronic:R76881": {
+      "alerted": false,
+      "first_seen": "2026-09-07T16:00:43.717889+00:00",
+      "location": "Changzhou, Jiangsu, China",
+      "title": "CNC Intern-1",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Changzhou-Jiangsu-China/CNC-Intern-1_R76881-1"
+    },
+    "Medtronic:R76882": {
+      "alerted": false,
+      "first_seen": "2026-09-07T16:00:43.717917+00:00",
+      "location": "Changzhou, Jiangsu, China",
+      "title": "CNC Intern -2",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Changzhou-Jiangsu-China/CNC-Intern--2_R76882"
+    },
+    "Medtronic:R76883": {
+      "alerted": false,
+      "first_seen": "2026-09-07T16:00:43.717862+00:00",
+      "location": "Changzhou, Jiangsu, China",
+      "title": "Swiss Intern-1",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Changzhou-Jiangsu-China/Swiss-Intern-1_R76883-1"
+    },
+    "Medtronic:R76884": {
+      "alerted": false,
+      "first_seen": "2026-09-07T16:00:43.717835+00:00",
+      "location": "Changzhou, Jiangsu, China",
+      "title": "Swiss Intern-2",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Changzhou-Jiangsu-China/Swiss-Intern-2_R76884-1"
     },
     "NVIDIA:JR1968313": {
       "alerted": true,
@@ -119291,6 +119354,13 @@
       "title": "Project Engineer Product Transfer",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Gurugram-India/Project-Engineer-Product-Transfer_R570245"
     },
+    "Stryker:R570256": {
+      "alerted": false,
+      "first_seen": "2026-09-07T16:00:43.716998+00:00",
+      "location": "6 Locations",
+      "title": "Manager (m/f/d), Technical Service (ProCare), Northern Europe",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Duisburg-Germany/Manager--m-f-d---Technical-Service--ProCare---Northern-Europe_R570256"
+    },
     "Stryker:R570259": {
       "alerted": false,
       "first_seen": "2026-08-12T15:33:47.347022+00:00",
@@ -123960,6 +124030,13 @@
       "title": "Praktikum Clinical Data Analytics & eHealthcare Insights (m/w/d) \u2013 6 Monate | Start Fr\u00fchjahr 2027",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Freiburg-Germany/Praktikum-Clinical-Data-Analytics---eHealthcare-Insights--m-w-d----6-Monate---Start-Frhjahr-2027_R572248"
     },
+    "Stryker:R572250": {
+      "alerted": false,
+      "first_seen": "2026-09-07T16:00:43.716820+00:00",
+      "location": "Carrigtwohill, Ireland",
+      "title": "University Relations Co-op",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Carrigtwohill-Ireland/University-Relations-Co-op_R572250"
+    },
     "Stryker:R572257": {
       "alerted": false,
       "first_seen": "2026-09-02T17:30:09.476273+00:00",
@@ -124120,6 +124197,13 @@
       "location": "Gurugram, India",
       "title": "Staff Engineer",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Gurugram-India/Staff-Engineer_R572362-1"
+    },
+    "Stryker:R572370": {
+      "alerted": false,
+      "first_seen": "2026-09-07T16:00:43.716954+00:00",
+      "location": "Amsterdam, Netherlands",
+      "title": "EMEA Data Analyst",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Amsterdam-Netherlands/EMEA-Data-Analyst--maternity-cover-_R572370"
     },
     "Stryker:R572378": {
       "alerted": false,
@@ -124604,6 +124688,13 @@
       "title": "Summer 2027 Internship - Quality Engineering - Michigan",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Quality-Engineering---Michigan_R572613"
     },
+    "Stryker:R572616": {
+      "alerted": false,
+      "first_seen": "2026-09-07T16:00:43.716921+00:00",
+      "location": "Cork, Ireland",
+      "title": "Project Manager, R&D",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cork-Ireland/Project-Manager--R-D_R572616"
+    },
     "Stryker:R572628": {
       "alerted": false,
       "first_seen": "2026-08-31T18:07:30.779601+00:00",
@@ -124708,6 +124799,13 @@
       "location": "4 Locations",
       "title": "Sales Representative (m/w/d) Joint Replacement - West- und S\u00fcd\u00f6sterreich",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Salzburg-Austria/Sales-Representative--m-w-d--Joint-Replacement---West--und-Sdsterreich_R572688"
+    },
+    "Stryker:R572694": {
+      "alerted": false,
+      "first_seen": "2026-09-07T16:00:43.717078+00:00",
+      "location": "2 Locations",
+      "title": "Sales Representative, Joint Replacement - Limpopo",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Polokwane-South-Africa/Sales-Representative--Joint-Replacement---Limpopo_R572694"
     },
     "Stryker:R572702": {
       "alerted": false,
@@ -125304,6 +125402,13 @@
       "title": "Sales Representative \u2013 Jackson, MS - Infection Prevention",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Jackson-Mississippi/Sales-Representative---Jackson--MS---Infection-Prevention_R573060"
     },
+    "Stryker:R573094": {
+      "alerted": false,
+      "first_seen": "2026-09-07T16:00:43.717037+00:00",
+      "location": "Boston, Massachusetts",
+      "title": "Regional Sales Manager - New England - Sage",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Boston-Massachusetts/Regional-Sales-Manager---New-England---Sage_R573094-1"
+    },
     "Stryker:R573096": {
       "alerted": false,
       "first_seen": "2026-09-03T13:35:22.167155+00:00",
@@ -125471,6 +125576,13 @@
       "location": "5 Locations",
       "title": "Regional Sales Manager - Mid-Central - Interventional Spine (IVS)",
       "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Indianapolis-Indiana/Regional-Sales-Manager---Mid-Central---Interventional-Spine--IVS-_R573355-1"
+    },
+    "Stryker:R573376": {
+      "alerted": false,
+      "first_seen": "2026-09-07T16:00:43.716885+00:00",
+      "location": "9 Locations",
+      "title": "Product Specialist - Robotic & Manual, North-West",
+      "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Manchester-United-Kingdom/Product-Specialist---Robotic---Manual--North-West_R573376"
     },
     "Waymo:6367980": {
       "alerted": false,
