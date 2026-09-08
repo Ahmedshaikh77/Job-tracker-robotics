@@ -114,10 +114,27 @@ def test_fit_removes_internal_prefixes_and_deduplicates_labels(alert_item):
         ),
     )
     text = format_alert_entry(prefixed)
-    assert 'Fit: Python; Robotics; Mechanical Engineering' in text
+    assert 'Fit: Python; Robotics' in text
     assert 'skill:' not in text
     assert 'domain:' not in text
     assert 'degree:' not in text
+
+
+def test_fit_omits_degree_review_without_claiming_equivalency(alert_item):
+    review_group = replace(
+        alert_item,
+        match_reason=(
+            'robotics systems; '
+            'degree-review:computer science|technical degree|related experience'
+        ),
+    )
+    text = format_alert_entry(review_group)
+    assert 'Fit: robotics systems' in text
+    assert 'Degree requirement needs review' not in text
+    assert 'computer science' not in text
+    assert 'technical degree' not in text
+    assert 'related experience' not in text
+    assert 'degree-review:' not in text
 
 
 def test_chunks_preserve_jobs_and_order(alert_item):

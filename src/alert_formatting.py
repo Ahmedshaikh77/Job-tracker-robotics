@@ -205,8 +205,10 @@ def _clean_fit(value):
     for part in str(value or '').split(';'):
         part = part.strip()
         prefix, separator, remainder = part.partition(':')
-        if separator and prefix.casefold() in {'skill', 'domain', 'degree'}:
+        if separator and prefix.casefold() in {'skill', 'domain'}:
             part = remainder.strip()
+        elif separator and prefix.casefold() in {'degree', 'degree-review'}:
+            continue
         key = part.casefold()
         if part and key not in seen:
             cleaned.append(part)
