@@ -29,27 +29,21 @@ def classify_authorization(
         or re.search(r"\bno (?:u\.s\.?|us|united states) citizenship required\b", lower)
     )
 
-    support = re.search(
-        r"\b(?:visa|immigration) sponsorship (?:is |will be )?(?:available|offered|provided)\b|"
-        r"\bwe (?:offer|provide) (?:visa |immigration )?sponsorship\b",
-        lower,
-    )
-    if support:
-        return AuthorizationAssessment(
-            AuthorizationStatus.CONFIRMED_SUPPORT,
-            support.group(0),
-            FactSource.OFFICIAL_DETAIL,
-        )
-
     block_patterns = [
         r"\b(?:cannot|can't|do not|don't|unable to|will not) sponsor(?:ship)?(?: now or in the future)?\b",
         r"\b(?:visa|immigration )?sponsorship is not (?:available|offered|provided)(?: now or in the future)?\b",
+        r"\bwithout (?:visa |immigration )?sponsorship(?: now or in the future)?\b",
+        r"\bnot eligible for (?:visa|immigration) sponsorship\b",
+        r"\b(?:we|the company|the employer) (?:are |is )?(?:not able|unable) to (?:provide|offer) (?:visa |immigration )?sponsorship\b",
         r"\b(?:active|current) [a-z -]*clearance (?:is )?required\b",
         r"\b(?:security )?clearance (?:is )?required\b",
         r"\bmust (?:obtain|hold|maintain) (?:an? )?[a-z -]*clearance\b",
         r"\b(?:limited to|applicants? must be|must be) (?:a |an )?(?:u\.s\.?|us|united states) persons?\b",
         r"\bmust (?:qualify|be eligible) as (?:a |an )?(?:u\.s\.?|us|united states) persons?\b",
         r"\b(?:itar|export control)[^.]{0,100}\b(?:u\.s\.?|us|united states) persons?\b",
+        r"\b(?:lawful permanent residency|permanent resident status|permanent residency|green card) (?:is )?required\b",
+        r"\bmust (?:hold|possess|have) (?:a )?(?:valid )?green card\b",
+        r"\b(?:applicants?|candidates?) must be (?:lawful )?(?:u\.s\.? )?permanent residents?\b",
     ]
     if not citizenship_negated:
         block_patterns.append(
@@ -63,6 +57,18 @@ def classify_authorization(
                 match.group(0),
                 FactSource.OFFICIAL_DETAIL,
             )
+
+    support = re.search(
+        r"\b(?:visa|immigration) sponsorship (?:is |will be )?(?:available|offered|provided)\b|"
+        r"\bwe (?:offer|provide) (?:visa |immigration )?sponsorship\b",
+        lower,
+    )
+    if support:
+        return AuthorizationAssessment(
+            AuthorizationStatus.CONFIRMED_SUPPORT,
+            support.group(0),
+            FactSource.OFFICIAL_DETAIL,
+        )
 
     at_hire = re.search(
         r"\b(?:legally )?authorized(?: to work (?:in )?(?:the )?united states)? at (?:the )?(?:time of )?hire\b",

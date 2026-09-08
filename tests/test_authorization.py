@@ -46,6 +46,15 @@ def test_direct_sponsorship_offer_is_confirmed_support():
     assert result.source is FactSource.OFFICIAL_DETAIL
 
 
+def test_personal_restriction_takes_precedence_over_sponsorship_offer():
+    result = classify_authorization(
+        "Visa sponsorship is available. Applicants must be U.S. persons under ITAR.",
+        provenance=FactSource.OFFICIAL_DETAIL,
+    )
+    assert result.status is AuthorizationStatus.BLOCKED
+    assert result.source is FactSource.OFFICIAL_DETAIL
+
+
 def test_authorized_at_hire_supports_opt_inference_not_confirmed_sponsorship():
     result = classify_authorization(
         "Must be legally authorized to work in the United States at time of hire.",
@@ -86,8 +95,13 @@ def test_short_authorized_at_hire_wording_supports_candidate_specific_inference(
     "text",
     [
         "Visa sponsorship is not available now or in the future.",
+        "Candidates must be able to work without sponsorship now or in the future.",
+        "This position is not eligible for visa sponsorship.",
+        "We are not able to provide sponsorship for this role.",
         "Candidates must obtain a Secret clearance.",
         "Applicants must qualify as U.S. persons.",
+        "Permanent residency is required for this role.",
+        "Applicants must hold a green card.",
     ],
 )
 def test_common_direct_restriction_wording_is_blocked(text):
