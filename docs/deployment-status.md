@@ -2,6 +2,16 @@
 
 Activation and alert-repair work, September 8, 2026, New York time.
 
+## Telegram readability and qualification cleanup
+
+Commits `2996bbb` and `e586bd3` simplify future Telegram cards while preserving source provenance internally. Cards retain job IDs, exact titles, work arrangement/full-time status, salary, required/preferred years, sponsorship caveats, fit, the main gap, CV and application link. Internal role/CV-choice rows and raw qualification tokens no longer appear in the message. Existing Telegram messages are not edited or resent merely to change their formatting.
+
+Degree assessment now recognizes an explicit broad technical/engineering alternative supported by the documented engineering degree. Unconfirmed related-field or equivalent-experience paths remain review items and earn no automatic credit. Explicit mismatches, authorization restrictions, experience limits, full-time requirements and freshness rules remain enforced.
+
+All 591 tests passed locally. Independent review covered formatting, degree parsing, state compatibility, message chunking and receipt safety. A read-only live preview fetched 2,633 returned listings, assessed 178, and rendered five current Amazon cards without sending messages or changing the production state file. A final targeted check of Amazon requisition 10503216 confirmed that its degree warning was corrected, its card contained no internal degree token, and its new assessment did not trigger a repeat alert. Delivery history and state schema were not reset.
+
+[Live deployment verification run](https://github.com/Ahmedshaikh77/Job-tracker-robotics/actions/runs/34240343479) completed successfully on `e586bd3`, using normal live mode and `current_roundup=false`. All 591 tests also passed in GitHub Actions. The scan fetched 2,632 returned listings and assessed 177, then safely committed state in `217d007`. It found no new alertable revisions, so zero messages were sent. Both pending queues remain empty, all nine prior roundup receipts remain saved, and the total 252 receipts are preserved. The live-enable setting remains true. This verifies deployment and a successful normal live scan; it does not claim a new Telegram delivery when no job was eligible to send.
+
 ## Job-alert repair
 
 **Production verification:** [Roundup run 34237751963](https://github.com/Ahmedshaikh77/Job-tracker-robotics/actions/runs/34237751963) completed successfully on repair commit `5697b5a`. All 548 tests passed locally and in GitHub Actions. The live prepare phase fetched 5,150 returned listings, assessed 255, and queued nine current matches. Telegram accepted all nine listings in five messages between 10:23:57 and 10:24:02 AM New York time on September 8. The receipt-sync phase committed all nine delivery receipts in `624fa44`. Immediate and moderate queues are empty. The nine listings represent five Amazon requisitions, one Field AI role, one Pickle Robot role, and two Zoox roles, all labeled Moderate rather than overstated as strong fits.
