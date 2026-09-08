@@ -52,6 +52,7 @@ class DigestPolicy:
     timezone: str = "America/New_York"
     send_after: str = "19:30"
     persistent_health_warning_runs: int = 2
+    moderate_immediate: bool = False
 
 
 @dataclass(frozen=True, slots=True)
@@ -351,6 +352,7 @@ def load_config(path: str | Path) -> AppSettings:
         "timezone": "America/New_York",
         "send_after": "19:30",
         "persistent_health_warning_runs": 2,
+        "moderate_immediate": False,
     })
     telegram = _policy(raw, "telegram", {
         "max_attempts": 3,
@@ -392,6 +394,8 @@ def load_config(path: str | Path) -> AppSettings:
         raise ConfigError("timezone must be nonempty")
     if not isinstance(digest["send_after"], str) or len(digest["send_after"].split(":")) != 2:
         raise ConfigError("send_after must be HH:MM")
+    if not isinstance(digest["moderate_immediate"], bool):
+        raise ConfigError("moderate_immediate must be a boolean")
     digest_policy = DigestPolicy(
         timezone=digest["timezone"],
         send_after=digest["send_after"],
@@ -399,6 +403,7 @@ def load_config(path: str | Path) -> AppSettings:
             digest["persistent_health_warning_runs"],
             "persistent_health_warning_runs",
         ),
+        moderate_immediate=digest["moderate_immediate"],
     )
     telegram_policy = TelegramPolicy(
         max_attempts=_real_int(telegram["max_attempts"], "telegram.max_attempts"),

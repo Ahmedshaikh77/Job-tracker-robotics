@@ -136,6 +136,19 @@ def test_missing_adapter_identity_is_reported(tmp_path):
         load_config(_write_changed_config(tmp_path, change))
 
 
+@pytest.mark.parametrize("value", [True, False])
+def test_moderate_immediate_accepts_explicit_booleans(tmp_path, value):
+    path = _write_changed_config(tmp_path, lambda raw: raw["digest"].__setitem__("moderate_immediate", value))
+    assert load_config(path).digest.moderate_immediate is value
+
+
+@pytest.mark.parametrize("value", ["false", "true", 0, 1, None])
+def test_moderate_immediate_rejects_ambiguous_values(tmp_path, value):
+    path = _write_changed_config(tmp_path, lambda raw: raw["digest"].__setitem__("moderate_immediate", value))
+    with pytest.raises(ConfigError, match="moderate_immediate"):
+        load_config(path)
+
+
 def test_roster_drift_is_reported(tmp_path):
     def change(raw):
         raw["companies"].append(

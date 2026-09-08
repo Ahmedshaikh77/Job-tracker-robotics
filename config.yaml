@@ -31,6 +31,7 @@ digest:
   timezone: America/New_York
   send_after: "19:30"
   persistent_health_warning_runs: 2
+  moderate_immediate: true
 
 telegram:
   max_attempts: 3
