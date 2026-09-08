@@ -175,6 +175,7 @@ def assess_freshness(
     material_revision: MaterialRevision,
     now: datetime,
     freshness_days: int = 30,
+    current_roundup: bool = False,
 ) -> FreshnessAssessment:
     """Assess freshness by New York calendar date, never by update timestamp."""
     if now.tzinfo is None:
@@ -218,6 +219,19 @@ def assess_freshness(
             True,
             None,
             "Posted date unavailable; first discovered after seed",
+            FactSource.TRACKER_INFERENCE,
+        )
+    if (
+        current_roundup
+        and not job.posted_at
+        and job.provenance.get("description", FactSource.UNAVAILABLE)
+        is FactSource.OFFICIAL_DETAIL
+    ):
+        return FreshnessAssessment(
+            FreshnessStatus.CURRENT_OPENING,
+            True,
+            None,
+            "Posting date not published; current opening verified for initial roundup",
             FactSource.TRACKER_INFERENCE,
         )
     return FreshnessAssessment(

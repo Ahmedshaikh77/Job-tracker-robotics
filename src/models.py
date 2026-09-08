@@ -91,6 +91,7 @@ class FreshnessStatus(StrEnum):
     RECENT = "recent"
     MATERIAL_REVISION = "material-revision"
     UNKNOWN_DATE_POST_SEED = "unknown-date-post-seed"
+    CURRENT_OPENING = "current-opening"
     STALE = "stale"
 
 

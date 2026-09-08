@@ -71,7 +71,17 @@ def _job(make_job, **overrides):
     return make_job(**values)
 
 
-def _evaluate(tmp_path, profile, job, *, policy=None, now=NOW, seed=False, freshness_days=30):
+def _evaluate(
+    tmp_path,
+    profile,
+    job,
+    *,
+    policy=None,
+    now=NOW,
+    seed=False,
+    freshness_days=30,
+    current_roundup=False,
+):
     state, candidate_id, candidate = observe_for_evaluation(
         tmp_path, job, seed=seed, now=now
     )
@@ -83,6 +93,7 @@ def _evaluate(tmp_path, profile, job, *, policy=None, now=NOW, seed=False, fresh
         now,
         revision_policy=policy or RevisionPolicy(),
         freshness_days=freshness_days,
+        current_roundup=current_roundup,
     )
     return state, candidate, result
 
@@ -162,6 +173,40 @@ def test_old_role_is_withheld(tmp_path, profile, make_job):
     assert result.freshness.status is FreshnessStatus.STALE
     assert result.eligible is False
     assert result.recommendation is Recommendation.SKIP
+
+
+def test_initial_roundup_accepts_verified_seeded_opening_with_unknown_posted_date(
+    tmp_path, profile, make_job
+):
+    job = _job(make_job, posted_at=None)
+    _, _, result = _evaluate(
+        tmp_path,
+        profile,
+        job,
+        seed=True,
+        current_roundup=True,
+    )
+
+    assert result.freshness.status is FreshnessStatus.CURRENT_OPENING
+    assert result.freshness.eligible is True
+    assert result.score_breakdown.recency == 0
+    assert result.eligible is True
+
+
+def test_initial_roundup_still_rejects_seeded_opening_with_known_old_date(
+    tmp_path, profile, make_job
+):
+    job = _job(make_job, posted_at="2026-01-01")
+    _, _, result = _evaluate(
+        tmp_path,
+        profile,
+        job,
+        seed=True,
+        current_roundup=True,
+    )
+
+    assert result.freshness.status is FreshnessStatus.STALE
+    assert result.eligible is False
 
 
 def test_unresolved_full_time_is_withheld(tmp_path, profile, make_job):

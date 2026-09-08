@@ -46,6 +46,7 @@ def evaluate_job(
     *,
     revision_policy: RevisionPolicy,
     freshness_days: int = 30,
+    current_roundup: bool = False,
 ) -> JobAssessment:
     """Evaluate one observed, detail-enriched job without mutating identity or state."""
     decision = stage_one(job)
@@ -119,6 +120,7 @@ def evaluate_job(
         material_revision=material_revision,
         now=now,
         freshness_days=freshness_days,
+        current_roundup=current_roundup,
     )
     resume = ResumeRouter(profile.resume_routes).select(decision)
 

@@ -117,6 +117,107 @@ def test_unknown_date_is_eligible_only_when_discovered_after_seed(tmp_path, make
     assert seed_result.eligible is False
 
 
+def test_initial_roundup_can_accept_verified_current_seeded_opening_without_posted_date(
+    tmp_path, make_job
+):
+    manager = StateManager.load(tmp_path / "state.json")
+    job = make_job(
+        posted_at=None,
+        description="Current official job detail.",
+        provenance={"description": FactSource.OFFICIAL_DETAIL},
+    )
+    _, record = _observed(manager, job, seed=True)
+
+    result = assess_freshness(
+        job,
+        record,
+        material_revision=MaterialRevision((), None),
+        now=NOW,
+        current_roundup=True,
+    )
+
+    assert result.status is FreshnessStatus.CURRENT_OPENING
+    assert result.eligible is True
+    assert result.age_days is None
+    assert result.evidence == (
+        "Posting date not published; current opening verified for initial roundup"
+    )
+    assert result.source is FactSource.TRACKER_INFERENCE
+
+
+def test_initial_roundup_does_not_bypass_missing_official_detail(
+    tmp_path, make_job
+):
+    manager = StateManager.load(tmp_path / "state.json")
+    job = make_job(
+        posted_at=None,
+        description="Unverified listing text.",
+        provenance={"description": FactSource.STRUCTURED_FEED},
+    )
+    _, record = _observed(manager, job, seed=True)
+
+    result = assess_freshness(
+        job,
+        record,
+        material_revision=MaterialRevision((), None),
+        now=NOW,
+        current_roundup=True,
+    )
+
+    assert result.status is FreshnessStatus.STALE
+    assert result.eligible is False
+
+
+def test_initial_roundup_does_not_bypass_known_stale_posted_date(tmp_path, make_job):
+    manager = StateManager.load(tmp_path / "state.json")
+    job = make_job(
+        posted_at="2026-01-01",
+        description="Current official job detail.",
+        provenance={
+            "posted_at": FactSource.OFFICIAL_DETAIL,
+            "description": FactSource.OFFICIAL_DETAIL,
+        },
+    )
+    _, record = _observed(manager, job, seed=True)
+
+    result = assess_freshness(
+        job,
+        record,
+        material_revision=MaterialRevision((), None),
+        now=NOW,
+        current_roundup=True,
+    )
+
+    assert result.status is FreshnessStatus.STALE
+    assert result.eligible is False
+
+
+def test_initial_roundup_does_not_treat_malformed_official_date_as_unpublished(
+    tmp_path, make_job
+):
+    manager = StateManager.load(tmp_path / "state.json")
+    job = make_job(
+        posted_at="not-a-date",
+        description="Current official job detail.",
+        provenance={
+            "posted_at": FactSource.OFFICIAL_DETAIL,
+            "description": FactSource.OFFICIAL_DETAIL,
+        },
+    )
+    _, record = _observed(manager, job, seed=True)
+
+    result = assess_freshness(
+        job,
+        record,
+        material_revision=MaterialRevision((), None),
+        now=NOW,
+        current_roundup=True,
+    )
+
+    assert result.status is FreshnessStatus.STALE
+    assert result.eligible is False
+
+
 def test_updated_at_never_substitutes_for_posted_at(tmp_path, make_job):
     manager = StateManager.load(tmp_path / "state.json")
     job = make_job(
