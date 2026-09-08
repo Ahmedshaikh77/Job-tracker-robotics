@@ -211,6 +211,10 @@ class JobTracker:
                     required_failure |= source.required_for_validation
                     continue
                 if validation:
+                    samples = [job for job in result.jobs if stage_one(job).status is StageOneStatus.ENRICH]
+                    sample = next(iter(samples or result.jobs), None)
+                    if sample is not None:
+                        detail_tasks.append((source, source_unseeded, None, sample))
                     continue
                 for job in sorted(result.jobs, key=lambda job: job.job_id):
                     if stage_one(job).status is StageOneStatus.REJECT:
@@ -232,6 +236,12 @@ class JobTracker:
             details = [(task, pool.submit(detail, task)) for task in detail_tasks]
             for (source, unseeded, cid, job), future in details:
                 result = future.result()
+                if validation:
+                    completions.append(result.fetched_at)
+                    if result.status is not DetailStatus.HEALTHY:
+                        failures.append(job.source_key + ':detail')
+                        required_failure |= source.required_for_validation
+                    continue
                 state.apply_detail_result(cid, job.source_key, job.job_id, result, self.now())
                 completions.append(result.fetched_at)
                 if result.status is not DetailStatus.HEALTHY:

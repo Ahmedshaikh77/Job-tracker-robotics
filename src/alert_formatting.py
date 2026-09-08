@@ -6,7 +6,7 @@ from dataclasses import dataclass
 from datetime import datetime
 from urllib.parse import urlsplit
 
-from .models import AlertFact, AlertItem, EvidenceStatus, FactSource, WorkplaceType, CompensationStatus
+from .models import AlertFact, AlertItem, EvidenceStatus, FactSource, WorkplaceType, CompensationStatus, AuthorizationStatus
 
 
 @dataclass(frozen=True, slots=True)
@@ -48,6 +48,8 @@ def _aware(value):
 
 def project_alert_item(assessment, candidate_state, queued_at, queued_run_id, fetch_completed_at):
     job = assessment.job
+    if not assessment.eligible or assessment.authorization.status is AuthorizationStatus.BLOCKED:
+        raise ValueError('Ineligible assessments cannot become alerts')
     validate_identity(job.company, job.title, job.url)
     if not queued_run_id:
         raise ValueError('Alert run ID is required')
@@ -55,7 +57,9 @@ def project_alert_item(assessment, candidate_state, queued_at, queued_run_id, fe
         _aware(stamp)
 
     def fact(value, source, known=True):
-        return AlertFact(value or 'Unknown', EvidenceStatus.CONFIRMED if known else EvidenceStatus.NOT_PUBLISHED,
+        status = (EvidenceStatus.NOT_PUBLISHED if not known else EvidenceStatus.CONFIRMED
+                  if source in (FactSource.STRUCTURED_FEED, FactSource.OFFICIAL_DETAIL) else EvidenceStatus.UNRESOLVED)
+        return AlertFact(value or 'Unknown', status,
                          source if known else FactSource.UNAVAILABLE)
 
     aliases = candidate_state.get('identity_aliases', candidate_state.get('aliases', ()))
@@ -64,8 +68,8 @@ def project_alert_item(assessment, candidate_state, queued_at, queued_run_id, fe
         revision_id=assessment.revision_id, candidate_id=assessment.candidate_id,
         reopen_generation=assessment.reopen_generation, identity_aliases=aliases,
         source_key=job.source_key, company=job.company, title=job.title, application_url=job.url,
-        location=fact(job.location, job.provenance.get('location', FactSource.STRUCTURED_FEED), bool(job.location)),
-        work_arrangement=fact(job.workplace_type.value, job.provenance.get('workplace_type', FactSource.STRUCTURED_FEED),
+        location=fact(job.location, job.provenance.get('location', FactSource.UNAVAILABLE), bool(job.location)),
+        work_arrangement=fact(job.workplace_type.value, job.provenance.get('workplace_type', FactSource.UNAVAILABLE),
                               job.workplace_type is not WorkplaceType.UNKNOWN),
         posted_date=fact(job.posted_at, job.provenance.get('posted_at', FactSource.UNAVAILABLE), bool(job.posted_at)),
         first_seen_at=candidate_state['first_seen_at'],
@@ -78,10 +82,10 @@ def project_alert_item(assessment, candidate_state, queued_at, queued_run_id, fe
                         if assessment.experience.source is not FactSource.UNAVAILABLE else EvidenceStatus.NOT_PUBLISHED,
                         assessment.experience.source),
         authorization=AlertFact(assessment.authorization.evidence or 'Future sponsorship support uncertain',
-                                EvidenceStatus.UNRESOLVED if assessment.authorization.source is FactSource.TRACKER_INFERENCE
+                                EvidenceStatus.CONFIRMED if assessment.authorization.status is AuthorizationStatus.CONFIRMED_SUPPORT
                                 else EvidenceStatus.NOT_PUBLISHED if assessment.authorization.source is FactSource.UNAVAILABLE
-                                else EvidenceStatus.CONFIRMED, assessment.authorization.source),
-        full_time=fact(job.employment_type.value, job.provenance.get('employment_type', FactSource.STRUCTURED_FEED)),
+                                else EvidenceStatus.UNRESOLVED, assessment.authorization.source),
+        full_time=fact(job.employment_type.value, job.provenance.get('employment_type', FactSource.UNAVAILABLE)),
         score=assessment.score, recommendation=assessment.recommendation,
         match_reason=assessment.match_reason, important_gap=assessment.important_gap,
         resume_filename=assessment.resume_filename or 'No matching resume', role_family=assessment.role_family or 'Unknown',

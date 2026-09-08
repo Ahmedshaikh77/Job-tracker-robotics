@@ -3,7 +3,7 @@ from dataclasses import replace
 import pytest
 
 from src.models import AlertFact, AlertItem, EvidenceStatus, FactSource, Recommendation
-from src.alert_formatting import build_message_chunks, format_alert_entry, validate_identity
+from src.alert_formatting import build_message_chunks, format_alert_entry, validate_identity, project_alert_item
 
 
 @pytest.fixture
@@ -61,3 +61,20 @@ def test_mandatory_skeleton_quarantine(alert_item):
 def test_invalid_urls_rejected(url):
     with pytest.raises(ValueError):
         validate_identity('Company', 'Engineer', url)
+
+
+def test_projection_does_not_confirm_unknown_authorization_or_missing_provenance(make_job):
+    from tests.test_source_lifecycle import assessment
+    from src.models import AuthorizationAssessment, AuthorizationStatus
+    evaluated = assessment(make_job(), 'candidate')
+    evaluated = replace(evaluated, authorization=AuthorizationAssessment(AuthorizationStatus.UNKNOWN,
+                        'No decisive restriction published', FactSource.OFFICIAL_DETAIL))
+    item = project_alert_item(evaluated, {'first_seen_at':'2026-09-07T19:00:00Z','aliases':[]},
+                              '2026-09-07T20:00:00Z','run-1','2026-09-07T19:59:00Z')
+    assert item.authorization.status is EvidenceStatus.UNRESOLVED
+    assert item.location.provenance is FactSource.UNAVAILABLE
+    assert item.full_time.provenance is FactSource.UNAVAILABLE
+    text = format_alert_entry(item)
+    assert 'Authorization [Confirmed' not in text
+    assert 'Location [Confirmed' not in text
+    assert 'Employment [Confirmed' not in text

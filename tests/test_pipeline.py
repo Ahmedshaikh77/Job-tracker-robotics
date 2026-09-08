@@ -40,6 +40,8 @@ def pipeline(tmp_path, make_job, monkeypatch):
             return DetailResult(job,DetailStatus.HEALTHY,clock[0].isoformat())
 
     class Notifier:
+        def validate_credentials(self):
+            events.append('validate-telegram')
         def send_message(self, text):
             stored = json.loads(path.read_text())
             assert stored['delivery']['pending_immediate']
@@ -139,3 +141,13 @@ def test_recovery_is_exact_run_only_and_never_fetches(pipeline, make_job):
     assert report.exit_code == 0 and report.delivered == 1
     assert events == ['send']
     assert [item.queued_run_id for item in StateManager.load(path).pending_immediate()] == ['run-b']
+
+
+def test_validate_only_checks_detail_without_writing_or_sending(pipeline):
+    tracker,jobs,failures,events,clock,path = pipeline
+    report = tracker.run('validate-only')
+    assert report.exit_code == 0
+    assert 'validate-telegram' in events
+    assert 'detail:1' in events
+    assert 'send' not in events
+    assert not path.exists()
