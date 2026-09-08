@@ -1,0 +1,13 @@
+{
+  "uuid": "rip-1",
+  "createdOn": "2026-09-03T12:00:00Z",
+  "employmentType": {"id": "Full time", "label": "SALARIED_FT"},
+  "workLocations": [{"id": "sf", "label": "San Francisco, CA"}],
+  "description": {
+    "company": "Foundation Robotics",
+    "role": "Build and validate full-time robotic hardware."
+  },
+  "payRangeDetails": null,
+  "unlistedFromSearch": false,
+  "board": {"slug": "foundation-robotics"}
+}

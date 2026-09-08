@@ -1,145 +1,82 @@
-"""Main orchestrator: fetch all companies concurrently, filter, alert on new, save state."""
+"""Explicit job tracker modes. User-supplied message text stays in environment data."""
 from __future__ import annotations
+
 import argparse
-import logging
+import json
 import os
+from pathlib import Path
 import sys
-import time
-from concurrent.futures import ThreadPoolExecutor, as_completed
 
-import yaml
-
-from .alerts import TelegramNotifier
-from .fetchers import get_fetcher
-from .filters import JobFilter
-from .models import Job
-from .state import StateManager
-
-log = logging.getLogger(__name__)
-
-# After this many consecutive failures, auto-skip a company until it recovers
-# (resets on first success, or when you manually edit state.json).
-FAILURE_SKIP_THRESHOLD = 6
+from .orchestrator import JobTracker, RunMode, RunPhase, valid_run_id
+from .reporting import RunReport
 
 
-def setup_logging():
-    logging.basicConfig(
-        level=os.environ.get("LOG_LEVEL", "INFO"),
-        format="%(asctime)s [%(levelname)s] %(name)s: %(message)s",
-        datefmt="%H:%M:%S",
-    )
+def parse_args(argv=None):
+    parser = argparse.ArgumentParser(description='Fresh engineering jobs and reliable Telegram alerts')
+    parser.add_argument('--mode', choices=[m.value for m in RunMode], default='dry-run')
+    parser.add_argument('--phase', choices=[p.value for p in RunPhase])
+    parser.add_argument('--config', default='config.yaml')
+    parser.add_argument('--profile', default='profile.yaml')
+    parser.add_argument('--state', default='state.json')
+    parser.add_argument('--run-id')
+    parser.add_argument('--delta-json')
+    parser.add_argument('--report-json')
+    args = parser.parse_args(argv)
+    stateful = args.mode in ('live','seed','recover-delivery')
+    if (args.mode == 'live') != bool(args.phase):
+        parser.error('--phase is required only for live mode')
+    if stateful != bool(args.delta_json):
+        parser.error('--delta-json is required only for stateful modes')
+    if args.mode in ('live','seed') and not valid_run_id(args.run_id):
+        parser.error('stateful mode requires a valid --run-id')
+    if args.run_id and not valid_run_id(args.run_id):
+        parser.error('invalid --run-id')
+    if args.delta_json and args.report_json and Path(args.delta_json).resolve() == Path(args.report_json).resolve():
+        parser.error('delta and report paths must differ')
+    for output in (args.delta_json, args.report_json):
+        if output and Path(output).resolve() in {Path(args.state).resolve(), Path(args.config).resolve(), Path(args.profile).resolve()}:
+            parser.error('output path must not overwrite input')
+    return args
 
 
-def load_config(path: str) -> dict:
-    with open(path) as f:
-        return yaml.safe_load(f)
-
-
-def fetch_one(company: dict) -> tuple[dict, list[Job], str | None]:
-    """Fetch a single company. Returns (company, jobs, error_msg)."""
-    name = company.get("name", "?")
-    if not company.get("enabled", True):
-        return company, [], None
-    fetcher_name = company.get("fetcher")
-    if not fetcher_name:
-        return company, [], f"{name}: no fetcher specified"
+def main(argv=None):
+    argv = sys.argv[1:] if argv is None else argv
     try:
-        fetcher = get_fetcher(fetcher_name)
-        t0 = time.time()
-        jobs = fetcher.fetch(company)
-        dt = time.time() - t0
-        log.info("✓ %s: %d jobs (%.1fs)", name, len(jobs), dt)
-        return company, jobs, None
-    except Exception as e:
-        err = f"{name} ({fetcher_name}): {type(e).__name__}: {e}"
-        log.warning("✗ %s", err)
-        return company, [], err
+        args = parse_args(argv)
+    except SystemExit as exc:
+        if exc.code == 0:
+            return 0
+        # Argument errors still produce a safe report when a separate output was supplied.
+        probe = argparse.ArgumentParser(add_help=False)
+        probe.add_argument('--report-json'); probe.add_argument('--state', default='state.json')
+        probe.add_argument('--config', default='config.yaml'); probe.add_argument('--profile', default='profile.yaml')
+        known, _ = probe.parse_known_args(argv)
+        if known.report_json and Path(known.report_json).resolve() not in {
+                Path(known.state).resolve(), Path(known.config).resolve(), Path(known.profile).resolve()}:
+            from .state import atomic_write_json
+            atomic_write_json(Path(known.report_json), RunReport(mode='invalid', exit_code=2,
+                              phase_succeeded=False, delivery_error='invalid-arguments').to_dict())
+        return 2
+    try:
+        from .config import load_config
+        from .profile import load_profile
+        tracker = JobTracker(settings=load_config(args.config), profile=load_profile(args.profile),
+                             state_path=args.state, delta_path=args.delta_json)
+        report = tracker.run(args.mode, phase=args.phase, run_id=args.run_id,
+                             event=os.environ.get('GITHUB_EVENT_NAME', 'manual'))
+    except Exception as exc:
+        report = RunReport(mode=args.mode, phase=args.phase, run_id=args.run_id or '', exit_code=2,
+                           phase_succeeded=False, delivery_error='configuration-or-state-invalid:' + type(exc).__name__)
+    if args.report_json:
+        from .state import atomic_write_json
+        atomic_write_json(Path(args.report_json), report.to_dict())
+    print(json.dumps(report.to_dict(), sort_keys=True))
+    if args.mode == 'dry-run':
+        from .alert_formatting import format_alert_entry
+        for item in report.preview_items:
+            print(format_alert_entry(item))
+    return report.exit_code
 
 
-def run(config_path: str, state_path: str, dry_run: bool = False, seed: bool = False) -> int:
-    cfg = load_config(config_path)
-    companies = cfg.get("companies", [])
-    state = StateManager(state_path)
-
-    # Auto-skip companies with too many recent consecutive failures
-    skipped_for_failures = []
-    enabled = []
-    for c in companies:
-        if not c.get("enabled", True):
-            continue
-        fails = state.consecutive_failures(c["name"])
-        if fails >= FAILURE_SKIP_THRESHOLD:
-            skipped_for_failures.append((c["name"], fails))
-            continue
-        enabled.append(c)
-
-    log.info("Starting run: %d companies enabled, %d auto-skipped for repeated failures",
-             len(enabled), len(skipped_for_failures))
-    if skipped_for_failures:
-        for n, f in skipped_for_failures:
-            log.warning("  skipping %s (%d consecutive failures)", n, f)
-
-    job_filter = JobFilter(cfg)
-    max_workers = cfg.get("max_workers", 10)
-
-    all_jobs: list[Job] = []
-    errors: list[str] = []
-    with ThreadPoolExecutor(max_workers=max_workers) as pool:
-        futures = [pool.submit(fetch_one, c) for c in enabled]
-        for f in as_completed(futures):
-            company, jobs, err = f.result()
-            if err:
-                errors.append(err)
-                state.record_company_failure(company["name"], err)
-            else:
-                state.record_company_success(company["name"])
-            all_jobs.extend(jobs)
-
-    log.info("Fetched %d jobs total", len(all_jobs))
-
-    if seed:
-        log.info("SEED MODE: marking all %d jobs as seen without alerting", len(all_jobs))
-        state.seed_existing(all_jobs)
-        state.save()
-        return 0
-
-    new_jobs = state.filter_new(all_jobs)
-    log.info("%d new jobs (not previously seen)", len(new_jobs))
-
-    relevant: list[tuple[Job, int]] = []
-    for j in new_jobs:
-        passed, score, _bd = job_filter.passes(j)
-        state.mark_seen(j, alerted=passed)
-        if passed:
-            relevant.append((j, score))
-
-    relevant.sort(key=lambda x: (-x[1], x[0].company, x[0].title))
-    log.info("%d new jobs match filter", len(relevant))
-    for j, s in relevant[:50]:
-        log.info("  [%d] %s @ %s | %s", s, j.title, j.company, j.location)
-
-    sent = 0
-    if not dry_run and relevant:
-        notifier = TelegramNotifier()
-        sent = notifier.alert_batch(relevant)
-        log.info("Sent %d Telegram alerts", sent)
-
-    state.save()
-    return 0
-
-
-def main():
-    parser = argparse.ArgumentParser(description="Job tracker")
-    parser.add_argument("--config", default="config.yaml")
-    parser.add_argument("--state", default="state.json")
-    parser.add_argument("--dry-run", action="store_true", help="Don't send Telegram messages")
-    parser.add_argument("--seed", action="store_true",
-                        help="First-run: mark all existing jobs as seen without alerting")
-    args = parser.parse_args()
-
-    setup_logging()
-    sys.exit(run(args.config, args.state, dry_run=args.dry_run, seed=args.seed))
-
-
-if __name__ == "__main__":
-    main()
+if __name__ == '__main__':
+    raise SystemExit(main())

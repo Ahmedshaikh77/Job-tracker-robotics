@@ -1,0 +1,72 @@
+profile_version: 1
+candidate:
+  degree: MS Mechanical Engineering and Materials Science, Duke University
+  current_authorization: F-1 OPT
+  stem_opt_eligible: true
+  future_sponsorship_needed: true
+skills:
+  programming: [Python, C, C++, MATLAB]
+  robotics: [ROS 2, MoveIt 2]
+  platforms: [Linux, Git, ESP32, Jetson]
+  cad: [SolidWorks, Fusion 360]
+  sensing: [RealSense, IMU, load cell, encoder, camera]
+  actuation: [motor, actuator]
+domains:
+  - robotics systems
+  - electromechanical systems
+  - embedded systems
+  - mechanical design
+  - sensor integration
+  - test automation
+  - hardware validation
+  - system integration
+  - failure analysis
+skill_aliases:
+  Python: [python]
+  C: [c programming, embedded c]
+  C++: [c++, cpp]
+  MATLAB: [matlab]
+  ROS 2: [ros 2, ros2]
+  MoveIt 2: [moveit 2, moveit2]
+  Linux: [linux]
+  Git: [git]
+  SolidWorks: [solidworks]
+  Fusion 360: [fusion 360]
+  ESP32: [esp32]
+  Jetson: [jetson]
+  RealSense: [realsense]
+  IMU: [imu, inertial measurement unit]
+  load cell: [load cell]
+  encoder: [encoder]
+  camera: [camera, imaging sensor]
+  motor: [motor]
+  actuator: [actuator]
+scoring:
+  version: 1
+  preferred_experience_gap_penalty: 2
+  caps:
+    role_alignment: 25
+    technical_evidence: 15
+    experience_fit: 15
+    domain_alignment: 10
+    qualification_coverage: 10
+    authorization: 10
+    compensation: 10
+    recency: 5
+resume_routes:
+  - {family: camera_optical, filename: "Muhammad Ahmed Mechanical Engineer Camera Optical Zipline.pdf"}
+  - {family: mechanical_actuators, filename: "Muhammad Ahmed Mechanical Engineer Actuators.pdf"}
+  - {family: medical_robotics_software, filename: "Muhammad Ahmed Software Engineer Medical Robotics.pdf"}
+  - {family: robotics_ml_systems, filename: "Muhammad Ahmed Robotics ML Systems Engineer.pdf"}
+  - {family: junior_embedded, filename: "Muhammad Ahmed Junior Embedded Engineer.pdf"}
+  - {family: embedded_systems, filename: "Embedded_Software_Engineer.pdf"}
+  - {family: electronics_test, filename: "Muhammad Ahmed Electronics Test Engineer.pdf"}
+  - {family: optimus_validation, filename: "Mechatronics Engineer, Optimus Hardware Validation .pdf"}
+  - {family: robotics_test_validation, filename: "Mechatronics Engineer, Optimus Hardware Validation .pdf"}
+  - {family: humanoid_mechanical_test, filename: "Muhammad Ahmed Mechanical Test Engineer Figure.pdf"}
+  - {family: flight_mechanical_test, filename: "Muhammad Ahmed Mechanical Test Engineer Zipline.pdf"}
+  - {family: manufacturing_test, filename: "Muhammad Ahmed Manufacturing Test Engineer Tesla Optimus.pdf"}
+  - {family: hardware_test, filename: "Muhammad Ahmed Hardware Test Engineer.pdf"}
+  - {family: robotics_software, filename: "Muhammad Ahmed Robotics Software Engineer Fluidstack.pdf"}
+  - {family: robotics_systems_integration, filename: "Muhammad Ahmed Robotics Sensing Integration Engineer Tesla.pdf"}
+  - {family: robotics_hardware_mechanical, filename: "Muhammad Ahmed Mechanical Engineer Robotics Hardware.pdf"}

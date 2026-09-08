@@ -1,0 +1,14 @@
+{
+  "totalFound": 2,
+  "content": [
+    {
+      "id": "sr-2",
+      "name": "Mechatronics Engineer I",
+      "releasedDate": "2026-09-04T12:00:00Z",
+      "location": {"city": "Sunnyvale", "region": "CA", "country": "us"},
+      "typeOfEmployment": {"id": "FULL_TIME", "label": "Full-time"},
+      "experienceLevel": {"id": "ASSOCIATE", "label": "Associate"},
+      "ref": "https://api.smartrecruiters.com/v1/companies/Intuitive/postings/sr-2"
+    }
+  ]
+}

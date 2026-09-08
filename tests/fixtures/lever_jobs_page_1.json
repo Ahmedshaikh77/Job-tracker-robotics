@@ -1,0 +1,26 @@
+[
+  {
+    "id": "lever-1",
+    "text": "Autonomy System Test Engineer",
+    "hostedUrl": "https://jobs.lever.co/zoox/lever-1",
+    "applyUrl": "https://jobs.lever.co/zoox/lever-1/apply",
+    "descriptionPlain": "Full-time system test role requiring 2 years of experience.",
+    "createdAt": 1788789600000,
+    "country": "US",
+    "workplaceType": "onsite",
+    "salaryRange": {
+      "min": 120000,
+      "max": 170000,
+      "currency": "USD",
+      "interval": "per-year-salary"
+    },
+    "categories": {
+      "location": "Foster City, CA",
+      "allLocations": ["Foster City, CA"],
+      "commitment": "Full-time",
+      "team": "Systems Test"
+    },
+    "lists": [{"text": "Requirements", "content": "2 years of experience"}],
+    "additional": "Must be authorized to work at hire."
+  }
+]

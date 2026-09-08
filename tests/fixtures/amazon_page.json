@@ -1,0 +1,29 @@
+{
+  "hits": 2,
+  "jobs": [
+    {
+      "id_icims": "us-job",
+      "title": "Robotics Hardware Test Engineer",
+      "job_path": "/en/jobs/us-job/robotics-hardware-test-engineer",
+      "posted_date": "September 5, 2026",
+      "updated_time": "2026-09-06T12:00:00Z",
+      "description": "Validate robotic hardware.",
+      "basic_qualifications": "2 years of test experience.",
+      "preferred_qualifications": "Python experience.",
+      "location": "Sunnyvale, California, USA",
+      "normalized_location": {"city": "Sunnyvale", "region": "CA", "country_code": "USA"}
+    },
+    {
+      "id_icims": "lu-job",
+      "title": "Robotics Systems Engineer",
+      "job_path": "/en/jobs/lu-job/robotics-systems-engineer",
+      "posted_date": "September 4, 2026",
+      "updated_time": "2026-09-06T11:00:00Z",
+      "description": "Integrate robotic systems.",
+      "basic_qualifications": "2 years of systems experience.",
+      "preferred_qualifications": "ROS experience.",
+      "location": "Luxembourg, Luxembourg",
+      "normalized_location": {"city": "Luxembourg", "region": "Luxembourg", "country_code": "LUX"}
+    }
+  ]
+}

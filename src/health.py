@@ -1,84 +1,110 @@
-"""Show health of all enabled companies based on recent state.
-
-Usage:
-    python -m src.health
-"""
+"""Deterministic source-health reporting."""
 from __future__ import annotations
-import json
-import sys
-import yaml
+
+import argparse
+from collections.abc import Mapping
+from typing import Any
+
+from .config import (
+    AppSettings,
+    ConfigError,
+    build_health_policy,
+    build_revision_policy,
+    build_state_limits,
+    load_config,
+)
+from .fetchers import source_key
+from .state import StateCorruptionError, StateManager
 
 
-def main():
-    try:
-        with open("config.yaml") as f:
-            cfg = yaml.safe_load(f)
-    except FileNotFoundError:
-        print("config.yaml not found")
-        sys.exit(1)
+def _clean(value: object, default: str = "none") -> str:
+    if value is None or value == "":
+        return default
+    return " ".join(str(value).split())[:300]
 
-    try:
-        with open("state.json") as f:
-            state = json.load(f)
-    except FileNotFoundError:
-        state = {"company_failures": {}, "seen_jobs": {}}
 
-    failures = state.get("company_failures", {})
-    seen = state.get("seen_jobs", {})
-
-    enabled = [c for c in cfg["companies"] if c.get("enabled", True)]
-    disabled = [c for c in cfg["companies"] if not c.get("enabled", True)]
-
-    # Count jobs we've seen per company
-    seen_by_company = {}
-    for key in seen:
-        if ":" in key:
-            company = key.split(":", 1)[0]
-            seen_by_company[company] = seen_by_company.get(company, 0) + 1
-
-    print(f"=== Health Report ===")
-    print(f"Total companies in config: {len(cfg['companies'])}")
-    print(f"  Enabled: {len(enabled)}")
-    print(f"  Disabled: {len(disabled)}")
-    print(f"Total jobs ever seen: {len(seen)}")
-    print()
-
-    print("=== Enabled companies ===")
-    healthy = []
-    failing = []
-    new = []
-    for c in enabled:
-        name = c["name"]
-        fail_count = failures.get(name, {}).get("count", 0)
-        job_count = seen_by_company.get(name, 0)
-        if fail_count >= 6:
-            failing.append((name, fail_count, failures.get(name, {}).get("last_error", "")))
-        elif fail_count > 0:
-            new.append((name, fail_count, job_count))
+def build_health_report(
+    config: AppSettings, state: Mapping[str, Any]
+) -> tuple[str, bool]:
+    source_records = state.get("sources", {})
+    if not isinstance(source_records, Mapping):
+        raise StateCorruptionError("state sources must be an object")
+    monitored = [source for source in config.companies if source.enabled]
+    disabled = [source for source in config.companies if not source.enabled]
+    lines = [
+        "Job source health",
+        f"{len(monitored)} monitored, {len(disabled)} disabled",
+    ]
+    required_failure = False
+    for source in sorted(monitored, key=lambda item: item.name.casefold()):
+        key = source_key(source.as_fetcher_mapping())
+        record = source_records.get(key)
+        if not isinstance(record, Mapping):
+            health = "missing"
+            circuit = "unknown"
+            active_count = 0
+            last_complete = "never"
+            next_probe = "none"
+            warning = "no persisted source record"
         else:
-            healthy.append((name, job_count))
+            health = _clean(record.get("health"), "missing")
+            circuit = _clean(record.get("circuit"), "unknown")
+            active_ids = record.get("active_ids", [])
+            active_count = len(active_ids) if isinstance(active_ids, list) else 0
+            last_complete = _clean(record.get("last_complete_at"), "never")
+            next_probe = _clean(record.get("next_probe_at"))
+            warnings = record.get("warnings", [])
+            warning = (
+                _clean(warnings[-1])
+                if isinstance(warnings, list) and warnings
+                else "none"
+            )
+        required = "true" if source.required_for_validation else "false"
+        lines.append(
+            f"{source.name} | health={health} | circuit={circuit} | "
+            f"active={active_count} | last_complete={last_complete} | "
+            f"next_probe={next_probe} | required={required} | warning={warning}"
+        )
+        if source.required_for_validation and (
+            health not in {"healthy", "empty-valid"} or circuit != "closed"
+        ):
+            required_failure = True
+    for source in sorted(disabled, key=lambda item: item.name.casefold()):
+        lines.append(
+            f"{source.name} | disabled | reason={_clean(source.reason, 'not specified')}"
+        )
+    return "\n".join(lines), required_failure
 
-    print(f"\n  HEALTHY ({len(healthy)}):")
-    for n, jc in sorted(healthy, key=lambda x: -x[1]):
-        print(f"    ✓ {n:35s} {jc} jobs tracked")
 
-    if new:
-        print(f"\n  RECENTLY FAILING ({len(new)}) - will auto-skip if it hits 6 failures:")
-        for n, fc, jc in new:
-            print(f"    ⚠ {n:35s} {fc} failures, {jc} jobs tracked")
+def parse_args(
+    argv: list[str] | None = None,
+    *,
+    default_config: str = "config.yaml",
+    default_state: str = "state.json",
+):
+    parser = argparse.ArgumentParser(description="Job source health")
+    parser.add_argument("--config", default=default_config)
+    parser.add_argument("--state", default=default_state)
+    return parser.parse_args(argv)
 
-    if failing:
-        print(f"\n  AUTO-DISABLED ({len(failing)}) - hit failure threshold:")
-        for n, fc, err in failing:
-            print(f"    ✗ {n:35s} {fc} failures")
-            print(f"      last error: {err[:100]}")
-        print(f"\n  To re-try: edit state.json and remove these entries from 'company_failures',")
-        print(f"  or fix the config and let it recover.")
 
-    print(f"\n=== Disabled companies ({len(disabled)}) ===")
-    for c in disabled:
-        print(f"  - {c['name']} ({c['fetcher']})")
+def main(argv: list[str] | None = None) -> int:
+    args = parse_args(argv)
+    try:
+        settings = load_config(args.config)
+        state = StateManager.load(
+            args.state,
+            build_state_limits(settings),
+            health_policy=build_health_policy(settings),
+            revision_policy=build_revision_policy(settings),
+        )
+        report, has_required_failure = build_health_report(settings, state.state)
+    except (ConfigError, StateCorruptionError, OSError, ValueError) as exc:
+        print(f"Health configuration/state error: {_clean(exc)}")
+        return 2
+    print(report)
+    return 1 if has_required_failure else 0
 
 
 if __name__ == "__main__":
-    main()
+    raise SystemExit(main())

@@ -1,0 +1,21 @@
+{
+  "seen_jobs": {
+    "Figure:123": {
+      "first_seen": "2026-05-28T04:05:57+00:00",
+      "title": "Robotics Test Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://example.test/jobs/123",
+      "alerted": true
+    },
+    "Figure:999": {
+      "first_seen": "2026-05-28T04:06:00+00:00",
+      "title": "Senior Counsel",
+      "location": "Sunnyvale, CA",
+      "url": "https://example.test/jobs/999",
+      "alerted": false
+    }
+  },
+  "company_failures": {
+    "Figure": {"count": 6, "last_error": "old failure"}
+  }
+}

@@ -2,65 +2,141 @@ name: Check Jobs
 
 on:
   schedule:
-    - cron: '*/5 * * * *'    # every 5 minutes (GitHub Actions minimum)
-  workflow_dispatch:          # allow manual triggering from the Actions tab
+    - cron: '17,47 * * * *'
+  workflow_dispatch:
     inputs:
-      seed:
-        description: 'Seed mode: mark all current jobs as seen without alerting (use on first run)'
-        type: boolean
-        default: false
-      dry_run:
-        description: 'Dry run: do not send Telegram messages'
-        type: boolean
-        default: false
+      mode:
+        description: 'Tracker operation'
+        type: choice
+        options: [live, validate-only, dry-run, seed, smoke-test, recover-delivery]
+        default: dry-run
+      smoke_payload:
+        description: 'Exact approved Telegram test message'
+        type: string
+        required: false
+      recovery_run_id:
+        description: 'Exact original queued run ID for recovery'
+        type: string
+        required: false
+      recovery_confirmation:
+        description: 'For recovery only: SEND PENDING'
+        type: string
+        required: false
 
-# Required to commit the updated state.json back to the repo
 permissions:
   contents: write
+  actions: read
 
-# Cancel an in-flight run if a new one starts (avoids overlap during slow fetches)
 concurrency:
-  group: check-jobs
+  group: job-tracker-production
   cancel-in-progress: false
 
 jobs:
   check:
     runs-on: ubuntu-latest
-    timeout-minutes: 8
+    timeout-minutes: 25
+    env:
+      DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
+      JOB_TRACKER_LIVE_ENABLED: ${{ vars.JOB_TRACKER_LIVE_ENABLED }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 1
-
+          fetch-depth: 0
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
-          cache: 'pip'
-
+          python-version: '3.12'
+          cache: pip
       - name: Install dependencies
-        run: pip install -r requirements.txt
-
-      - name: Run job tracker
+        run: python -m pip install -r requirements.txt
+      - name: Offline test suite
+        id: tests
+        run: python -m pytest -q
+      - name: Guard production mode and activation
+        id: guard
         env:
+          REQUESTED_MODE: ${{ inputs.mode }}
+          JOB_TRACKER_RECOVERY_RUN_ID: ${{ inputs.recovery_run_id }}
+          JOB_TRACKER_RECOVERY_CONFIRMATION: ${{ inputs.recovery_confirmation }}
+        run: python -m src.workflow_tools guard
+      - name: Refresh persisted default-branch state before recovery
+        id: recovery_refresh
+        if: steps.guard.outputs.mode == 'recover-delivery'
+        run: python -m src.workflow_tools refresh
+      - name: Scan, validate, seed, or isolated manual operation
+        id: primary
+        if: steps.guard.outputs.active == 'true'
+        continue-on-error: true
+        env:
+          MODE: ${{ steps.guard.outputs.mode }}
+          RUN_ID: ${{ steps.guard.outputs.run_id }}
+          PHASE_SLOT: primary
+          INPUT_STATE: ${{ steps.guard.outputs.mode == 'recover-delivery' && steps.recovery_refresh.outputs.state_path || 'state.json' }}
+          TELEGRAM_BOT_TOKEN: ${{ steps.guard.outputs.mode != 'seed' && steps.guard.outputs.mode != 'dry-run' && secrets.TELEGRAM_BOT_TOKEN || '' }}
+          TELEGRAM_CHAT_ID: ${{ steps.guard.outputs.mode != 'seed' && steps.guard.outputs.mode != 'dry-run' && secrets.TELEGRAM_CHAT_ID || '' }}
+          JOB_TRACKER_SMOKE_PAYLOAD: ${{ inputs.smoke_payload }}
+          JOB_TRACKER_RECOVERY_RUN_ID: ${{ inputs.recovery_run_id }}
+          JOB_TRACKER_RECOVERY_CONFIRMATION: ${{ inputs.recovery_confirmation }}
+        run: python -m src.workflow_tools phase
+      - name: Validate and push queued work or seed state
+        id: queue_sync
+        if: always() && steps.primary.outputs.delta_ready == 'true' && steps.guard.outputs.mode != 'recover-delivery'
+        continue-on-error: true
+        env:
+          RUN_ID: ${{ steps.guard.outputs.run_id }}
+          DELTA_PATH: ${{ steps.primary.outputs.delta_path }}
+          REPORT_PATH: ${{ steps.primary.outputs.report_path }}
+          EXPECTED_DELTA_MODE: ${{ steps.guard.outputs.mode == 'seed' && 'seed' || 'live-prepare' }}
+        run: python -m src.workflow_tools sync
+      - name: Deliver only the committed queue
+        id: delivery
+        if: always() && steps.guard.outputs.mode == 'live' && steps.queue_sync.outputs.ready == 'true' && steps.queue_sync.outcome == 'success'
+        continue-on-error: true
+        env:
+          MODE: live
+          RUN_ID: ${{ steps.guard.outputs.run_id }}
+          PHASE_SLOT: delivery
+          INPUT_STATE: ${{ steps.queue_sync.outputs.state_path }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID:   ${{ secrets.TELEGRAM_CHAT_ID }}
-          LOG_LEVEL: INFO
-        run: |
-          ARGS=""
-          if [ "${{ inputs.seed }}" = "true" ]; then ARGS="$ARGS --seed"; fi
-          if [ "${{ inputs.dry_run }}" = "true" ]; then ARGS="$ARGS --dry-run"; fi
-          python -m src.main $ARGS
-
-      - name: Commit updated state
-        run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add state.json
-          if ! git diff --quiet --staged; then
-            git commit -m "chore: update state [skip ci]"
-            git push
-          else
-            echo "No state changes."
-          fi
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python -m src.workflow_tools phase
+      - name: Preserve successful receipts even after a later send fails
+        id: receipt_sync
+        if: always() && (steps.delivery.outputs.delta_ready == 'true' || (steps.guard.outputs.mode == 'recover-delivery' && steps.primary.outputs.delta_ready == 'true'))
+        continue-on-error: true
+        env:
+          RUN_ID: ${{ steps.guard.outputs.run_id }}
+          DELTA_PATH: ${{ steps.guard.outputs.mode == 'recover-delivery' && steps.primary.outputs.delta_path || steps.delivery.outputs.delta_path }}
+          REPORT_PATH: ${{ steps.guard.outputs.mode == 'recover-delivery' && steps.primary.outputs.report_path || steps.delivery.outputs.report_path }}
+          EXPECTED_DELTA_MODE: ${{ steps.guard.outputs.mode == 'recover-delivery' && 'recover-delivery' || 'live-deliver' }}
+        run: python -m src.workflow_tools sync
+      - name: Recalculate metrics from committed default-branch state
+        if: always() && steps.guard.outcome == 'success' && steps.guard.outputs.active == 'true'
+        env:
+          MODE: ${{ steps.guard.outputs.mode }}
+          RUN_ID: ${{ steps.guard.outputs.run_id }}
+        run: python -m src.workflow_tools summarize
+      - name: Read actual Actions timing
+        if: always() && steps.guard.outcome == 'success'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python -m src.workflow_tools timing
+      - name: Save sanitized reports and recovery deltas
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: tracker-reports-${{ github.run_id }}-${{ github.run_attempt }}
+          path: |
+            ${{ runner.temp }}/job-tracker-v2/*.report.json
+            ${{ runner.temp }}/job-tracker-v2/*.delta.json
+          if-no-files-found: ignore
+          retention-days: 14
+      - name: Preserve original phase failures
+        if: always()
+        env:
+          PRIMARY_OUTCOME: ${{ steps.primary.outcome }}
+          QUEUE_SYNC_OUTCOME: ${{ steps.queue_sync.outcome }}
+          DELIVERY_OUTCOME: ${{ steps.delivery.outcome }}
+          RECEIPT_SYNC_OUTCOME: ${{ steps.receipt_sync.outcome }}
+        run: python -m src.workflow_tools finish
