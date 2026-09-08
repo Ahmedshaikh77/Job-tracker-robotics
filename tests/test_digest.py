@@ -44,3 +44,18 @@ def test_empty_health_day_records_completion_without_send():
     settings = SimpleNamespace(companies=(), digest=SimpleNamespace(timezone='America/New_York', send_after='19:30', persistent_health_warning_runs=3))
     assert prepare_health_summary(state, settings, datetime(2026,9,8,0,tzinfo=timezone.utc)) is None
     assert state.events == [('health','2026-09-07')]
+
+
+def test_receipted_health_summary_repairs_missing_completion_without_resend(tmp_path):
+    from src.state import StateManager
+    from src.models import PendingHealthSummary
+    state = StateManager.load(tmp_path/'state.json')
+    item = PendingHealthSummary('health:2026-09-07:abc','2026-09-07','Source warning','2026-09-07T23:47:00Z')
+    state.queue_health_summary(item); state.save_atomic()
+    state.mark_health_summary_delivered(item.delivery_id,'2026-09-07T23:48:00Z',1)
+    state.save_atomic()
+    state = StateManager.load(tmp_path/'state.json')
+    settings = SimpleNamespace(companies=(),digest=SimpleNamespace(timezone='America/New_York',send_after='19:30',persistent_health_warning_runs=3))
+    assert prepare_health_summary(state,settings,datetime(2026,9,8,0,tzinfo=timezone.utc)) is None
+    assert state.state['digest']['last_health_summary_date'] == '2026-09-07'
+    assert state.pending_health_summaries() == ()

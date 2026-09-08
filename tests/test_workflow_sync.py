@@ -14,6 +14,7 @@ def git(cwd, *args):
 
 
 def test_real_git_delta_sync_migration_and_idempotence(tmp_path,monkeypatch):
+    config_path = Path('config.yaml').resolve()
     bare = tmp_path/'remote.git'; repo = tmp_path/'checkout'; output = tmp_path/'runner'
     bare.mkdir(); repo.mkdir(); output.mkdir()
     git(bare,'init','--bare','--initial-branch=main')
@@ -33,6 +34,7 @@ def test_real_git_delta_sync_migration_and_idempotence(tmp_path,monkeypatch):
                        'EXPECTED_DELTA_MODE':'seed','RUN_ID':'seed-test','DEFAULT_BRANCH':'main'}.items():
         monkeypatch.setenv(name,str(value))
     monkeypatch.chdir(repo)
+    monkeypatch.setenv('TRACKER_CONFIG',str(config_path))
     assert sync_delta() == 0
     head=git(bare,'rev-parse','main')
     assert json.loads(git(bare,'show','main:state.json')) == final

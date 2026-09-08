@@ -91,7 +91,10 @@ class JobTracker:
             return report
         from .state import atomic_write_json
         from .state_merge import build_delta, DeltaMode
-        delta = build_delta(base, state.state, report.run_id, DeltaMode(mode), self.now())
+        created_at = self.now()
+        state.prune(created_at)
+        state.save_atomic()
+        delta = build_delta(base, state.state, report.run_id, DeltaMode(mode), created_at, limits=state.limits)
         atomic_write_json(self.delta_path, delta.to_dict())
         return replace(report, delta_ready=True, delta_has_changes=delta.has_changes)
 
@@ -248,7 +251,12 @@ class JobTracker:
                 if candidate.get('migration_baseline_pending') and is_migration_equivalent(candidate, assessment):
                     state.record_migration_baseline(assessment, _iso(self.now()))
                     continue
-                item = project_alert_item(assessment, candidate, _iso(self.now()), report.run_id or 'preview', result.fetched_at)
+                try:
+                    item = project_alert_item(assessment, candidate, _iso(self.now()), report.run_id or 'preview', result.fetched_at)
+                except ValueError:
+                    failures.append(job.source_key + ':formatting')
+                    required_failure = True
+                    continue
                 formatted = build_message_chunks([item], heading='New strong matches', limit=self.settings.telegram.message_limit)
                 if formatted.quarantines:
                     failures.append(job.source_key + ':formatting')

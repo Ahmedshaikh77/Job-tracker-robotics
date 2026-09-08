@@ -73,6 +73,8 @@ def guard():
 
 def run_phase():
     mode = os.environ['MODE']; slot = os.environ.get('PHASE_SLOT','primary')
+    if mode == 'recover-delivery' and not os.environ.get('INPUT_STATE'):
+        raise ValueError('Recovery requires a freshly loaded default-branch state')
     folder = Path(os.environ['RUNNER_TEMP']) / 'job-tracker-v2'
     folder.mkdir(parents=True, exist_ok=True)
     state_path = folder / f'{slot}.state.json'
@@ -96,10 +98,26 @@ def run_phase():
     return result.returncode
 
 
+def refresh():
+    from .state import atomic_write_json, StateManager
+    branch = os.environ['DEFAULT_BRANCH']
+    _git('check-ref-format', f'refs/heads/{branch}')
+    _git('fetch','origin',f'refs/heads/{branch}')
+    raw = json.loads(_git('show','FETCH_HEAD:state.json'))
+    destination = Path(os.environ['RUNNER_TEMP'])/'job-tracker-v2'/'recovery-input.state.json'
+    atomic_write_json(destination,raw)
+    state = StateManager.load(destination)
+    if not state.is_persisted():
+        raise ValueError('Recovery state must already use the current schema')
+    _outputs(state_path=destination)
+
+
 def sync_delta():
     """Replay one immutable delta atop fresh remote state with three normal pushes."""
     from .state_merge import StateDelta, apply_delta
     from .state import atomic_write_json
+    from .config import load_config, build_state_limits
+    limits = build_state_limits(load_config(os.environ.get('TRACKER_CONFIG','config.yaml')))
     delta_payload = json.loads(Path(os.environ['DELTA_PATH']).read_text())
     report = json.loads(Path(os.environ['REPORT_PATH']).read_text())
     delta = StateDelta.from_dict(delta_payload)
@@ -119,7 +137,7 @@ def sync_delta():
         _git('fetch','origin',f'refs/heads/{branch}')
         remote_commit = _git('rev-parse','FETCH_HEAD').decode().strip()
         remote = json.loads(_git('show',f'{remote_commit}:state.json'))
-        merged = apply_delta(remote, delta)
+        merged = apply_delta(remote, delta, limits=limits)
         if merged == remote:
             atomic_write_json(destination, merged)
             _outputs(ready=True, state_path=destination, status=0)
@@ -191,9 +209,9 @@ def finish():
 
 def main(argv=None):
     parser = argparse.ArgumentParser(description='Guarded tracker workflow operations')
-    parser.add_argument('command', choices=['guard','phase','sync','summarize','timing','finish'])
+    parser.add_argument('command', choices=['guard','phase','refresh','sync','summarize','timing','finish'])
     args = parser.parse_args(argv)
-    actions = {'guard':guard,'phase':run_phase,'sync':sync_delta,'summarize':summarize,'timing':timing,'finish':finish}
+    actions = {'guard':guard,'phase':run_phase,'refresh':refresh,'sync':sync_delta,'summarize':summarize,'timing':timing,'finish':finish}
     try:
         return actions[args.command]() or 0
     except Exception as exc:

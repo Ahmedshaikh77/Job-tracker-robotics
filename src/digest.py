@@ -65,6 +65,10 @@ def run_moderate_digest(state, notifier, now, *, policy=None, message_limit=3900
 
 
 def prepare_health_summary(state, settings, now):
+    # Recover the receipt/completion crash window without resending the message.
+    receipts = state.state['digest'].get('delivered_health_summaries', {}).values()
+    for receipt in sorted(receipts, key=lambda value: (value['local_date'], value['delivered_at'])):
+        state.complete_health_summary(receipt['local_date'], receipt['delivered_at'])
     if state.pending_health_summaries():
         return None
     day = health_summary_due(now, state.state['digest'].get('last_health_summary_date'),

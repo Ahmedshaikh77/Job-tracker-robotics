@@ -6,7 +6,7 @@ from dataclasses import dataclass
 from datetime import datetime
 from urllib.parse import urlsplit
 
-from .models import AlertFact, AlertItem, EvidenceStatus, FactSource, WorkplaceType
+from .models import AlertFact, AlertItem, EvidenceStatus, FactSource, WorkplaceType, CompensationStatus
 
 
 @dataclass(frozen=True, slots=True)
@@ -69,11 +69,17 @@ def project_alert_item(assessment, candidate_state, queued_at, queued_run_id, fe
                               job.workplace_type is not WorkplaceType.UNKNOWN),
         posted_date=fact(job.posted_at, job.provenance.get('posted_at', FactSource.UNAVAILABLE), bool(job.posted_at)),
         first_seen_at=candidate_state['first_seen_at'],
-        salary=fact(assessment.compensation.label, assessment.compensation.source, assessment.compensation.salary is not None),
-        experience=fact(assessment.experience.evidence, assessment.experience.source,
-                        assessment.experience.source is not FactSource.UNAVAILABLE),
+        salary=AlertFact(assessment.compensation.label, EvidenceStatus.UNRESOLVED
+                        if assessment.compensation.status is CompensationStatus.UNRESOLVED
+                        else EvidenceStatus.CONFIRMED if assessment.compensation.salary is not None
+                        else EvidenceStatus.NOT_PUBLISHED, assessment.compensation.source),
+        experience=AlertFact(assessment.experience.evidence or 'Unknown', EvidenceStatus.UNRESOLVED
+                        if assessment.experience.unresolved else EvidenceStatus.CONFIRMED
+                        if assessment.experience.source is not FactSource.UNAVAILABLE else EvidenceStatus.NOT_PUBLISHED,
+                        assessment.experience.source),
         authorization=AlertFact(assessment.authorization.evidence or 'Future sponsorship support uncertain',
                                 EvidenceStatus.UNRESOLVED if assessment.authorization.source is FactSource.TRACKER_INFERENCE
+                                else EvidenceStatus.NOT_PUBLISHED if assessment.authorization.source is FactSource.UNAVAILABLE
                                 else EvidenceStatus.CONFIRMED, assessment.authorization.source),
         full_time=fact(job.employment_type.value, job.provenance.get('employment_type', FactSource.STRUCTURED_FEED)),
         score=assessment.score, recommendation=assessment.recommendation,
