@@ -20,6 +20,16 @@ def test_valid_live_arguments():
     assert args.run_id == 'gha:1:1'
 
 
+def test_current_roundup_can_preview_or_prepare_but_not_deliver():
+    assert parse_args(['--current-roundup']).current_roundup is True
+    args = ['--mode', 'live', '--run-id', 'gha:1:1', '--delta-json', 'd', '--current-roundup']
+    assert parse_args(args + ['--phase', 'prepare']).current_roundup is True
+    with pytest.raises(SystemExit):
+        parse_args(args + ['--phase', 'deliver'])
+    with pytest.raises(SystemExit):
+        parse_args(['--mode', 'smoke-test', '--current-roundup'])
+
+
 def test_argument_failure_writes_sanitized_report(tmp_path):
     output = tmp_path/'report.json'
     assert main(['--mode','live','--report-json',str(output)]) == 2

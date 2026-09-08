@@ -213,6 +213,57 @@ def _amazon_row(index: int) -> dict:
     }
 
 
+@pytest.mark.parametrize(
+    ("raw_posted_date", "expected"),
+    [
+        ("September  3, 2026", "2026-09-03"),
+        ("August 16, 2026", "2026-08-16"),
+        ("April 16, 2026", "2026-04-16"),
+    ],
+)
+def test_amazon_normalizes_official_human_posted_dates(
+    fetch_context, raw_posted_date, expected
+):
+    row = _amazon_row(1)
+    row["posted_date"] = raw_posted_date
+
+    result = AmazonFetcher(FakeHttp([{"hits": 1, "jobs": [row]}])).fetch(
+        AMAZON_COMPANY, fetch_context
+    )
+
+    assert result.complete is True
+    assert result.jobs[0].posted_at == expected
+    assert result.jobs[0].provenance["posted_at"] is FactSource.STRUCTURED_FEED
+
+
+def test_amazon_invalid_posted_date_fails_closed_instead_of_inventing_today(
+    fetch_context,
+):
+    row = _amazon_row(1)
+    row["posted_date"] = "recently posted"
+
+    result = AmazonFetcher(FakeHttp([{"hits": 1, "jobs": [row]}])).fetch(
+        AMAZON_COMPANY, fetch_context
+    )
+
+    assert result.complete is False
+    assert result.jobs == ()
+    assert result.error == "Amazon posting schema mismatch"
+
+
+def test_amazon_missing_posted_date_remains_unknown(fetch_context):
+    row = _amazon_row(1)
+    row.pop("posted_date")
+
+    result = AmazonFetcher(FakeHttp([{"hits": 1, "jobs": [row]}])).fetch(
+        AMAZON_COMPANY, fetch_context
+    )
+
+    assert result.complete is True
+    assert result.jobs[0].posted_at is None
+    assert "posted_at" not in result.jobs[0].provenance
+
+
 def test_amazon_paginates_beyond_one_hundred(fetch_context):
     rows = [_amazon_row(index) for index in range(205)]
     http = FakeHttp(

@@ -46,6 +46,23 @@ def _aware(value):
         raise ValueError('Alert timestamps must be timezone-aware')
 
 
+def _salary_text(compensation):
+    salary = compensation.salary
+    if salary is None or (salary.minimum is None and salary.maximum is None):
+        return compensation.label
+    currency = salary.currency or 'Currency unknown'
+    period = salary.period.value if salary.period.value != 'unknown' else 'period unknown'
+    if salary.minimum is None:
+        published = f'up to {currency} {salary.maximum:,f}/{period}'
+    elif salary.maximum is None:
+        published = f'from {currency} {salary.minimum:,f}/{period}'
+    elif salary.minimum == salary.maximum:
+        published = f'{currency} {salary.minimum:,f}/{period}'
+    else:
+        published = f'{currency} {salary.minimum:,f} to {salary.maximum:,f}/{period}'
+    return f'{published}; {compensation.label}'
+
+
 def project_alert_item(assessment, candidate_state, queued_at, queued_run_id, fetch_completed_at):
     job = assessment.job
     if not assessment.eligible or assessment.authorization.status is AuthorizationStatus.BLOCKED:
@@ -73,7 +90,7 @@ def project_alert_item(assessment, candidate_state, queued_at, queued_run_id, fe
                               job.workplace_type is not WorkplaceType.UNKNOWN),
         posted_date=fact(job.posted_at, job.provenance.get('posted_at', FactSource.UNAVAILABLE), bool(job.posted_at)),
         first_seen_at=candidate_state['first_seen_at'],
-        salary=AlertFact(assessment.compensation.label, EvidenceStatus.UNRESOLVED
+        salary=AlertFact(_salary_text(assessment.compensation), EvidenceStatus.UNRESOLVED
                         if assessment.compensation.status is CompensationStatus.UNRESOLVED
                         else EvidenceStatus.CONFIRMED if assessment.compensation.salary is not None
                         else EvidenceStatus.NOT_PUBLISHED, assessment.compensation.source),

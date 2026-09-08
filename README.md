@@ -6,9 +6,9 @@ Deployment status: the upgrade is installed, the initial baseline is saved, and 
 
 ## How alerts work
 
-- Requested scans: **every hour at minutes 17 and 47**, through GitHub Actions.
+- Requested scans: **every 15 minutes, at minutes 7, 22, 37, and 52**, through GitHub Actions.
 - **Apply Now (85+) and Strong (75–84)**: sent after a successful scan verifies the official job details.
-- **Moderate (55–74)**: collected for the first successful run after **7:30 PM America/New_York**. This normally means the requested 7:47 PM run; daylight saving changes are handled automatically.
+- **Moderate (55–74)**: collected for the first successful run after **7:30 PM America/New_York**. This normally means the requested 7:37 PM run; daylight saving changes are handled automatically.
 - **Skip (below 55 or any hard eligibility failure)**: no alert.
 - No new qualifying role means no routine message. Persistent problems with high-priority sources get a separate daily health summary.
 
@@ -23,6 +23,8 @@ The experience target is 0–3 years. A role above that range is withheld unless
 Published USD compensation at or above $100,000 ranks highest. A range crossing that target is labeled as possible rather than guaranteed. Unpublished compensation remains explicitly unknown. Salary is never invented or converted from an unknown pay period.
 
 Recent official posting dates are preferred, with a 30-day freshness window. An unknown posting date is shown as unknown alongside the tracker's first-seen date. Old roles are not called newly posted merely because the tracker first encounters them. During the first complete scan of each source, existing listings form a baseline without flooding Telegram. Later genuinely new listings and qualifying material changes can alert.
+
+To receive useful jobs immediately after setup, manually enable **current_roundup** with a dry-run preview, then a live scan. This freshly verifies the official listings and queues at most **10 unsent current matches**, ranked by fit, for immediate delivery. It includes eligible Moderate matches without waiting for the evening digest. A seeded listing with no published posting date may qualify for this explicit roundup only, with no recency bonus and no claim that it is newly posted. Known old posting dates, incompatible authorization, unresolved employment, and excessive required experience are still withheld. Existing delivery history is preserved. The option defaults to false and is never enabled by the automatic schedule. Selecting it again may send another batch of still-unsent matches, not resend recorded deliveries.
 
 Every alert includes the company, exact title, location/work arrangement, posting date or first seen, salary, experience, employment status, work-authorization evidence, fit score, main gap, recommended CV, and official application link. Published facts are labeled with their source; fit and CV selection are tracker assessments. Sponsorship that is not explicitly supported by the posting remains uncertain. **Visa sponsorship does not imply green-card support.** Confirm that separately with the employer.
 
@@ -77,6 +79,8 @@ Safe activation order: leave live disabled, pass tests, validate, seed all requi
 
 GitHub may disable scheduled workflows after 60 days of repository inactivity. Re-enable **Check Jobs** on its Actions page, run validation, and confirm the activation variable. The workflow operates in GitHub's hosted environment; the laptop and browser do not need to remain open.
 
+The owner's Codex task also has a **Keep job alerts scanning** backup check every 30 minutes. It requests a normal GitHub live scan only when actual committed source-scan state is over 45 minutes old and no scan is already active. It respects disabled live alerts and never reseeds, sends test messages, or enables current_roundup. This additional backup depends on the local Codex host and authenticated GitHub access being available; it is not a cloud uptime guarantee. Normal successful scans stay quiet in Codex because job alerts arrive in Telegram.
+
 ## Local development
 
 ```sh
@@ -84,6 +88,7 @@ python -m venv .venv
 .venv/bin/python -m pip install -r requirements.txt
 .venv/bin/python -m pytest -q
 .venv/bin/python -m src.main --mode dry-run --state state.json
+.venv/bin/python -m src.main --mode dry-run --current-roundup --state state.json
 .venv/bin/python -m src.health --state state.json
 ```
 

@@ -78,3 +78,23 @@ def test_projection_does_not_confirm_unknown_authorization_or_missing_provenance
     assert 'Authorization [Confirmed' not in text
     assert 'Location [Confirmed' not in text
     assert 'Employment [Confirmed' not in text
+
+
+@pytest.mark.parametrize('minimum,maximum,period,expected', [
+    ('100000', '199999', 'year', 'USD 100,000 to 199,999/year'),
+    ('50', '60', 'hour', 'USD 50 to 60/hour'),
+    ('120000', None, 'year', 'from USD 120,000/year'),
+    (None, '170000', 'year', 'up to USD 170,000/year'),
+])
+def test_projection_includes_published_pay_range_and_original_period(
+        make_job, minimum, maximum, period, expected):
+    from decimal import Decimal
+    from src.models import SalaryRange, PayPeriod
+    from tests.test_source_lifecycle import assessment
+    evaluated = assessment(make_job(), 'candidate')
+    salary = SalaryRange(Decimal(minimum) if minimum else None, Decimal(maximum) if maximum else None,
+                         'USD', PayPeriod(period), FactSource.STRUCTURED_FEED)
+    evaluated = replace(evaluated, compensation=replace(evaluated.compensation, salary=salary))
+    item = project_alert_item(evaluated, {'first_seen_at': '2026-09-07T19:00:00Z', 'aliases': []},
+                              '2026-09-07T20:00:00Z', 'run-1', '2026-09-07T19:59:00Z')
+    assert expected in item.salary.value

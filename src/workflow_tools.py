@@ -12,7 +12,7 @@ import sys
 import tempfile
 
 
-def validate_guard(*, mode, event, branch, default_branch, live):
+def validate_guard(*, mode, event, branch, default_branch, live, current_roundup=False):
     if mode not in ('live','seed','dry-run','validate-only','smoke-test','recover-delivery'):
         raise ValueError('Invalid mode')
     if mode in ('live','seed','smoke-test','recover-delivery') and branch != default_branch:
@@ -21,6 +21,9 @@ def validate_guard(*, mode, event, branch, default_branch, live):
         raise ValueError('This mode requires manual dispatch')
     if mode == 'recover-delivery' and live != 'false':
         raise ValueError('Recovery requires disabled live delivery')
+    if not isinstance(current_roundup, bool) or (current_roundup and
+            (event != 'workflow_dispatch' or mode not in ('live', 'dry-run'))):
+        raise ValueError('Current roundup requires an explicit manual scan')
     return mode != 'live' or live == 'true'
 
 
@@ -30,12 +33,12 @@ def _date(value):
 
 def schedule_timing(current, prior):
     created = _date(current['created_at']); started = _date(current['run_started_at'])
-    slots = [created.replace(minute=minute, second=0, microsecond=0) for minute in (17,47)]
+    slots = [created.replace(minute=minute, second=0, microsecond=0) for minute in (7,22,37,52)]
     slots += [slot - timedelta(hours=1) for slot in slots]
     latest = max(slot for slot in slots if slot <= created)
     return {'actions_queue_lag_seconds': (started-created).total_seconds(),
             'estimated_slot_offset_seconds': (created-latest).total_seconds() if current['event']=='schedule' else None,
-            'missed_slot_gap_count': max(0, int((created-_date(prior['created_at'])).total_seconds()//1800)-1)
+            'estimated_missed_slot_gap_count': max(0, int((created-_date(prior['created_at'])).total_seconds()//900)-1)
                                     if prior and current['event']=='schedule' else None}
 
 
@@ -60,15 +63,20 @@ def _git(*args, input=None, env=None):
 def guard():
     event = os.environ['GITHUB_EVENT_NAME']
     mode = 'live' if event == 'schedule' else os.environ.get('REQUESTED_MODE','dry-run')
+    roundup_input = os.environ.get('REQUESTED_CURRENT_ROUNDUP', '')
+    if roundup_input not in ('', 'false', 'true'):
+        raise ValueError('Invalid roundup option')
+    current_roundup = roundup_input == 'true'
     active = validate_guard(mode=mode, event=event, branch=os.environ['GITHUB_REF_NAME'],
-             default_branch=os.environ['DEFAULT_BRANCH'], live=os.environ.get('JOB_TRACKER_LIVE_ENABLED',''))
+             default_branch=os.environ['DEFAULT_BRANCH'], live=os.environ.get('JOB_TRACKER_LIVE_ENABLED',''),
+             current_roundup=current_roundup)
     run_id = f"gha:{os.environ['GITHUB_RUN_ID']}:{os.environ.get('GITHUB_RUN_ATTEMPT','1')}"
     if mode == 'recover-delivery':
         from .orchestrator import valid_run_id
         run_id = os.environ.get('JOB_TRACKER_RECOVERY_RUN_ID','')
         if not valid_run_id(run_id) or os.environ.get('JOB_TRACKER_RECOVERY_CONFIRMATION') != 'SEND PENDING':
             raise ValueError('Recovery needs an exact run ID and confirmation')
-    _outputs(mode=mode, active=active, run_id=run_id)
+    _outputs(mode=mode, active=active, run_id=run_id, current_roundup=current_roundup)
 
 
 def run_phase():
@@ -86,6 +94,8 @@ def run_phase():
     command = [sys.executable,'-m','src.main','--mode',mode,'--state',str(state_path),'--report-json',str(report_path)]
     if mode == 'live':
         command += ['--phase','deliver' if slot == 'delivery' else 'prepare']
+    if slot == 'primary' and os.environ.get('CURRENT_ROUNDUP') == 'true':
+        command += ['--current-roundup']
     if mode in ('live','seed'):
         command += ['--run-id',os.environ['RUN_ID']]
     if mode in ('live','seed','recover-delivery'):
@@ -194,7 +204,7 @@ def timing():
     result = schedule_timing(current, prior[0] if prior else None)
     result.update(event=current['event'], head_branch=current['head_branch'])
     with open(os.environ['GITHUB_STEP_SUMMARY'],'a',encoding='utf-8') as stream:
-        stream.write('\n## Schedule timing\n\nSlot offset is an estimate, separate from exact Actions queue lag.\n\n```json\n'
+        stream.write('\n## Schedule timing\n\nSlot offset and missed-slot gaps are estimates using the current schedule, separate from exact Actions queue lag. Gaps spanning a schedule change are not comparable.\n\n```json\n'
                      +json.dumps(result,indent=2)+'\n```\n')
 
 

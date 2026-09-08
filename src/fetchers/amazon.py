@@ -5,7 +5,7 @@ import hashlib
 import json
 import re
 from dataclasses import replace
-from datetime import datetime, timezone
+from datetime import date, datetime, timezone
 from html.parser import HTMLParser
 from typing import Callable
 from urllib.parse import urljoin, urlsplit
@@ -184,6 +184,20 @@ def _parse_datetime(value: object) -> datetime | None:
     return parsed.astimezone(timezone.utc)
 
 
+def _normalize_posted_date(value: object) -> str | None:
+    if not isinstance(value, str) or not value.strip():
+        return None
+    normalized = " ".join(value.split())
+    try:
+        return date.fromisoformat(normalized).isoformat()
+    except ValueError:
+        pass
+    try:
+        return datetime.strptime(normalized, "%B %d, %Y").date().isoformat()
+    except ValueError:
+        return None
+
+
 def _parse_row(company: dict, row: dict) -> Job:
     job_id = str(row.get("id_icims", "")).strip()
     title = row.get("title")
@@ -231,6 +245,10 @@ def _parse_row(company: dict, row: dict) -> Job:
     application_url = urljoin("https://www.amazon.jobs", job_path)
     if not valid_https_url(application_url):
         raise ValueError("Amazon posting URL is invalid")
+    raw_posted_at = row.get("posted_date")
+    posted_at = _normalize_posted_date(raw_posted_at)
+    if raw_posted_at and posted_at is None:
+        raise ValueError("Amazon posted date schema mismatch")
     provenance = {
         "title": FactSource.STRUCTURED_FEED,
         "url": FactSource.STRUCTURED_FEED,
@@ -238,7 +256,7 @@ def _parse_row(company: dict, row: dict) -> Job:
         "location": FactSource.STRUCTURED_FEED,
         "country_code": FactSource.STRUCTURED_FEED,
     }
-    if row.get("posted_date"):
+    if posted_at:
         provenance["posted_at"] = FactSource.STRUCTURED_FEED
     if row.get("updated_time"):
         provenance["updated_at"] = FactSource.STRUCTURED_FEED
@@ -255,7 +273,7 @@ def _parse_row(company: dict, row: dict) -> Job:
         country_code=country,
         url=application_url,
         description="\n\n".join(description_parts),
-        posted_at=row.get("posted_date") or None,
+        posted_at=posted_at,
         updated_at=row.get("updated_time") or None,
         metadata={"job_path": job_path},
         provenance=provenance,

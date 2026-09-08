@@ -21,10 +21,14 @@ def parse_args(argv=None):
     parser.add_argument('--run-id')
     parser.add_argument('--delta-json')
     parser.add_argument('--report-json')
+    parser.add_argument('--current-roundup', action='store_true',
+                        help='Manually preview or queue up to 10 unsent current matches after fresh verification')
     args = parser.parse_args(argv)
     stateful = args.mode in ('live','seed','recover-delivery')
     if (args.mode == 'live') != bool(args.phase):
         parser.error('--phase is required only for live mode')
+    if args.current_roundup and not (args.mode == 'dry-run' or (args.mode == 'live' and args.phase == 'prepare')):
+        parser.error('--current-roundup requires dry-run or live prepare')
     if stateful != bool(args.delta_json):
         parser.error('--delta-json is required only for stateful modes')
     if args.mode in ('live','seed') and not valid_run_id(args.run_id):
@@ -63,7 +67,8 @@ def main(argv=None):
         tracker = JobTracker(settings=load_config(args.config), profile=load_profile(args.profile),
                              state_path=args.state, delta_path=args.delta_json)
         report = tracker.run(args.mode, phase=args.phase, run_id=args.run_id,
-                             event=os.environ.get('GITHUB_EVENT_NAME', 'manual'))
+                             event=os.environ.get('GITHUB_EVENT_NAME', 'manual'),
+                             current_roundup=args.current_roundup)
     except Exception as exc:
         report = RunReport(mode=args.mode, phase=args.phase, run_id=args.run_id or '', exit_code=2,
                            phase_succeeded=False, delivery_error='configuration-or-state-invalid:' + type(exc).__name__)

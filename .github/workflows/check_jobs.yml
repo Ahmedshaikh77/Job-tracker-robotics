@@ -2,7 +2,7 @@ name: Check Jobs
 
 on:
   schedule:
-    - cron: '17,47 * * * *'
+    - cron: '7,22,37,52 * * * *'
   workflow_dispatch:
     inputs:
       mode:
@@ -10,6 +10,11 @@ on:
         type: choice
         options: [live, validate-only, dry-run, seed, smoke-test, recover-delivery]
         default: dry-run
+      current_roundup:
+        description: 'Include up to 10 unsent current matches (freshly verified, not necessarily newly posted)'
+        type: boolean
+        required: false
+        default: false
       smoke_payload:
         description: 'Exact approved Telegram test message'
         type: string
@@ -57,6 +62,7 @@ jobs:
         id: guard
         env:
           REQUESTED_MODE: ${{ inputs.mode }}
+          REQUESTED_CURRENT_ROUNDUP: ${{ inputs.current_roundup }}
           JOB_TRACKER_RECOVERY_RUN_ID: ${{ inputs.recovery_run_id }}
           JOB_TRACKER_RECOVERY_CONFIRMATION: ${{ inputs.recovery_confirmation }}
         run: python -m src.workflow_tools guard
@@ -72,6 +78,7 @@ jobs:
           MODE: ${{ steps.guard.outputs.mode }}
           RUN_ID: ${{ steps.guard.outputs.run_id }}
           PHASE_SLOT: primary
+          CURRENT_ROUNDUP: ${{ steps.guard.outputs.current_roundup }}
           INPUT_STATE: ${{ steps.guard.outputs.mode == 'recover-delivery' && steps.recovery_refresh.outputs.state_path || 'state.json' }}
           TELEGRAM_BOT_TOKEN: ${{ steps.guard.outputs.mode != 'seed' && steps.guard.outputs.mode != 'dry-run' && secrets.TELEGRAM_BOT_TOKEN || '' }}
           TELEGRAM_CHAT_ID: ${{ steps.guard.outputs.mode != 'seed' && steps.guard.outputs.mode != 'dry-run' && secrets.TELEGRAM_CHAT_ID || '' }}

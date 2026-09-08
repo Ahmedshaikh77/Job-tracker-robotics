@@ -57,6 +57,42 @@ def test_parser_ignores_dates_voltages_and_product_versions():
     assert result.preferred_minimum is None
 
 
+@pytest.mark.parametrize(
+    "age_requirement",
+    [
+        "Are 18 years of age or older.",
+        "Applicants must be at least 18 years of age.",
+        "Candidates must be 18 years old.",
+    ],
+)
+def test_explicit_legal_age_requirement_is_not_work_experience(age_requirement):
+    result = _parse(f"Basic Qualifications: {age_requirement}")
+    assert result.stated_required_minimum is None
+    assert result.unresolved is True
+    assert result.early_career_supported is False
+
+
+def test_legal_age_and_work_experience_in_same_requirement_preserves_experience():
+    result = _parse(
+        "Basic Qualifications: Applicants must be at least 18 years of age and "
+        "have 2 years of engineering experience."
+    )
+    assert result.stated_required_minimum == 2
+    assert result.unresolved is False
+
+
+def test_actual_eighteen_year_experience_requirement_remains_strict():
+    result = _parse("Basic Qualifications: 18 years of engineering experience.")
+    assert result.stated_required_minimum == 18
+    assert result.unresolved is False
+
+
+def test_ambiguous_unqualified_eighteen_years_remains_numeric_requirement():
+    result = _parse("Basic Qualifications: 18 years.")
+    assert result.stated_required_minimum == 18
+    assert result.unresolved is False
+
+
 def test_degree_substitution_reduces_effective_requirement():
     result = _parse(
         "Minimum qualifications: 4 years with a bachelor's degree, "

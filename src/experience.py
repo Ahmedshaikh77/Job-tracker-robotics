@@ -17,6 +17,11 @@ _MINIMUM_RE = re.compile(
     r"\bminimum(?:\s+of)?\s+(\d+(?:\.\d+)?)\s*years?\b", re.IGNORECASE
 )
 _PLAIN_RE = re.compile(r"\b(\d+(?:\.\d+)?)\s*years?\b", re.IGNORECASE)
+_LEGAL_AGE_RE = re.compile(
+    r"\b(?:(?:must\s+be|are|be)\s+)?(?:at\s+least\s+)?"
+    r"\d+(?:\.\d+)?\s*years?\s*(?:of\s+age(?:\s+or\s+older)?|old(?:er)?)\b",
+    re.IGNORECASE,
+)
 _EARLY_TITLE_RE = re.compile(
     r"\b(?:junior|associate|entry[ -]level|early[ -]career|new grad(?:uate)?)\b|"
     r"\bengineer\s+(?:i|ii|1|2)\b",
@@ -43,7 +48,12 @@ def _number(value: str) -> float:
     return int(parsed) if parsed.is_integer() else parsed
 
 
+def _without_legal_age(sentence: str) -> str:
+    return _LEGAL_AGE_RE.sub(" ", sentence)
+
+
 def _bounds(sentence: str) -> tuple[float | None, float | None]:
+    sentence = _without_legal_age(sentence)
     if match := _RANGE_RE.search(sentence):
         return _number(match.group(1)), _number(match.group(2))
     if match := _PLUS_RE.search(sentence):
@@ -69,7 +79,7 @@ def _strictest_numeric(
 
 
 def _degree_substitution(sentence: str) -> tuple[float | None, str]:
-    lower = sentence.casefold()
+    lower = _without_legal_age(sentence).casefold()
     bachelor = re.search(
         r"(\d+(?:\.\d+)?)\s*years?[^\d.;]{0,80}?bachelor(?:'s)?\s+degree", lower
     )

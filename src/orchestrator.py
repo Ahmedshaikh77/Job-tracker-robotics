@@ -98,7 +98,7 @@ class JobTracker:
         atomic_write_json(self.delta_path, delta.to_dict())
         return replace(report, delta_ready=True, delta_has_changes=delta.has_changes)
 
-    def run(self, mode, *, phase=None, event='manual', run_id=None):
+    def run(self, mode, *, phase=None, event='manual', run_id=None, current_roundup=False):
         mode = RunMode(mode)
         phase = RunPhase(phase) if phase else None
         report = RunReport(mode=mode.value, phase=phase.value if phase else None, run_id=run_id or '')
@@ -106,6 +106,15 @@ class JobTracker:
         def failure(code):
             return replace(report, exit_code=2, phase_succeeded=False, delivery_error=code)
 
+        if type(current_roundup) is not bool:
+            return failure('invalid-current-roundup')
+        roundup_allowed = (
+            event in ('manual', 'workflow_dispatch')
+            and ((mode is RunMode.DRY_RUN and phase is None)
+                 or (mode is RunMode.LIVE and phase is RunPhase.PREPARE))
+        )
+        if current_roundup and not roundup_allowed:
+            return failure('invalid-current-roundup')
         if (mode is RunMode.LIVE) != (phase is not None):
             return failure('invalid-mode-phase')
         if mode in (RunMode.LIVE, RunMode.SEED) and not valid_run_id(run_id):
@@ -144,9 +153,10 @@ class JobTracker:
                     self.notifier_factory().validate_credentials()
                 with tempfile.TemporaryDirectory(prefix='job-tracker-preview-') as folder:
                     state.path = Path(folder) / 'state.json'
-                    return self._prepare(state, report, mode, validation=mode is RunMode.VALIDATE_ONLY)
+                    return self._prepare(state, report, mode, validation=mode is RunMode.VALIDATE_ONLY,
+                                         current_roundup=current_roundup)
             if mode is RunMode.SEED or (mode is RunMode.LIVE and phase is RunPhase.PREPARE):
-                report = self._prepare(state, report, mode)
+                report = self._prepare(state, report, mode, current_roundup=current_roundup)
                 state.prune(self.now())
                 state.save_atomic()
                 return self._emit_delta(base, state, report, 'seed' if mode is RunMode.SEED else 'live-prepare')
@@ -169,18 +179,18 @@ class JobTracker:
                 return failure(exc.safe_code)
             return failure('tracker-phase-failed:' + type(exc).__name__)
 
-    def _prepare(self, state, report, mode, validation=False):
+    def _prepare(self, state, report, mode, validation=False, current_roundup=False):
         from .fetchers.base import source_key
         from .models import FetchResult, FetchHealth, FetchContext, DetailResult, DetailStatus, Recommendation, QueueInvalidationReason
         from .eligibility import stage_one, StageOneStatus
         from .evaluation import evaluate_job
-        from .lifecycle import should_alert_revision, is_migration_equivalent
+        from .lifecycle import should_alert_revision, is_migration_equivalent, max_delivered_generation
         from .alert_formatting import project_alert_item, build_message_chunks
         from .digest import prepare_health_summary
 
         sources = sorted((s for s in self.settings.companies if s.enabled), key=lambda s: source_key(s.as_fetcher_mapping()))
         scans, failures, required_failure, detail_tasks = [], [], False, []
-        immediate_ids, previews = [], []
+        immediate_ids, previews, roundup_options = [], [], []
         fetched = assessed = qi = qm = 0
         completions = []
 
@@ -196,7 +206,8 @@ class JobTracker:
                 key = source_key(source.as_fetcher_mapping())
                 if not validation and not state.begin_fetch(key, self.now()):
                     continue
-                context = FetchContext() if validation else state.fetch_context(key, self.now())
+                context = (FetchContext() if validation else FetchContext(force_full=True)
+                           if current_roundup else state.fetch_context(key, self.now()))
                 scans.append((source, pool.submit(fetch, source, context)))
             for source, future in scans:
                 key = source_key(source.as_fetcher_mapping())
@@ -254,7 +265,8 @@ class JobTracker:
                 candidate = deepcopy(state.candidate(cid))
                 assessment = evaluate_job(result.job, cid, candidate, self.profile, self.now(),
                                            revision_policy=state.revision_policy,
-                                           freshness_days=self.settings.matching_policy.freshness_days)
+                                           freshness_days=self.settings.matching_policy.freshness_days,
+                                           current_roundup=current_roundup)
                 alertable = should_alert_revision(candidate, assessment, self.now(), policy=state.revision_policy)
                 state.record_assessment(assessment, _iso(self.now()))
                 assessed += 1
@@ -270,10 +282,31 @@ class JobTracker:
                     failures.append(job.source_key + ':formatting')
                     required_failure = True
                     continue
-                formatted = build_message_chunks([item], heading='New strong matches', limit=self.settings.telegram.message_limit)
+                formatted = build_message_chunks([item], heading='Verified job matches', limit=self.settings.telegram.message_limit)
                 if formatted.quarantines:
                     failures.append(job.source_key + ':formatting')
                     required_failure = True
+                    continue
+                if current_roundup:
+                    no_delivered_equivalent = max_delivered_generation(
+                        candidate.get('aliases', ()),
+                        state.state['delivery']['delivered'],
+                    ) < 0
+                    unsent = (
+                        candidate.get('last_alert_basis') is None
+                        and candidate.get('last_queued_revision_id') is None
+                        and not candidate.get('migration_baseline_pending')
+                        and no_delivered_equivalent
+                    )
+                    origin_allowed = (
+                        candidate.get('discovered_during_seed') is True
+                        and candidate.get('seed_baseline') is not None
+                    ) or (
+                        candidate.get('discovered_during_seed') is not True
+                        and alertable
+                    )
+                    if unsent and origin_allowed:
+                        roundup_options.append((assessment, item))
                     continue
                 if mode is RunMode.DRY_RUN:
                     previews.append(item)
@@ -288,6 +321,40 @@ class JobTracker:
                     queued = state.queue_moderate(item)
                     qm += int(queued)
                 if queued:
+                    state.record_alert_basis(assessment, item.queued_at)
+
+        if current_roundup:
+            ordered = sorted(
+                roundup_options,
+                key=lambda option: (
+                    -option[0].score,
+                    option[1].candidate_id,
+                    option[1].revision_id,
+                ),
+            )
+            selected, selected_candidates = [], set()
+            for option in ordered:
+                candidate_id = option[1].candidate_id
+                if candidate_id in selected_candidates:
+                    continue
+                selected.append(option)
+                selected_candidates.add(candidate_id)
+                if len(selected) == 10:
+                    break
+            for assessment, item in selected:
+                item = replace(
+                    item,
+                    match_reason=(
+                        'Current openings roundup (not necessarily newly posted). '
+                        + item.match_reason
+                    ),
+                )
+                if mode is RunMode.DRY_RUN:
+                    previews.append(item)
+                    continue
+                if state.queue_immediate(item):
+                    qi += 1
+                    immediate_ids.append(item.revision_id)
                     state.record_alert_basis(assessment, item.queued_at)
 
         if not validation:
@@ -310,7 +377,7 @@ class JobTracker:
         from .delivery import deliver_pending
         from .digest import run_moderate_digest, deliver_health_summary
         notifier = self.notifier_factory()
-        delivery = deliver_pending(heading='New strong matches', queue_kind='immediate', notifier=notifier,
+        delivery = deliver_pending(heading='Verified job matches', queue_kind='immediate', notifier=notifier,
                     state=state, now=self.now(), revision_ids=recovery_ids, message_limit=self.settings.telegram.message_limit)
         delivered = len(delivery.delivered_revision_ids)
         if delivery.failed:
