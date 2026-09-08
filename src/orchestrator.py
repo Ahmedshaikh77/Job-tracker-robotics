@@ -82,15 +82,15 @@ class JobTracker:
         return bool(self.environ.get('TELEGRAM_BOT_TOKEN') and self.environ.get('TELEGRAM_CHAT_ID'))
 
     def _seed_ready(self, state):
-        from .fetchers import source_key
+        from .fetchers.base import source_key
         return all(state.state['sources'].get(source_key(s.as_fetcher_mapping()), {}).get('seeded_at')
                    for s in self.settings.companies if s.enabled and s.required_for_validation)
 
     def _emit_delta(self, base, state, report, mode):
-        from .state import atomic_write_json
-        from .state_merge import build_delta, DeltaMode
         if self.delta_path is None:
             return report
+        from .state import atomic_write_json
+        from .state_merge import build_delta, DeltaMode
         delta = build_delta(base, state.state, report.run_id, DeltaMode(mode), self.now())
         atomic_write_json(self.delta_path, delta.to_dict())
         return replace(report, delta_ready=True, delta_has_changes=delta.has_changes)
@@ -160,11 +160,11 @@ class JobTracker:
             state = self._load_state()
             report = replace(report, **metrics_from_state(state.state, report.run_id, self.now()))
             return self._emit_delta(base, state, report, mode_name)
-        except Exception:
-            return failure('tracker-phase-failed')
+        except Exception as exc:
+            return failure('tracker-phase-failed:' + type(exc).__name__)
 
     def _prepare(self, state, report, mode, validation=False):
-        from .fetchers import source_key
+        from .fetchers.base import source_key
         from .models import FetchResult, FetchHealth, FetchContext, DetailResult, DetailStatus, Recommendation, QueueInvalidationReason
         from .eligibility import stage_one, StageOneStatus
         from .evaluation import evaluate_job

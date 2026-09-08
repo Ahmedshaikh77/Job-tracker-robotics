@@ -75,7 +75,7 @@ def prepare_health_summary(state, settings, now):
     for source in settings.companies:
         if not source.enabled or source.priority != 'high':
             continue
-        from .fetchers import source_key
+        from .fetchers.base import source_key
         key = source_key(source.as_fetcher_mapping())
         record = state.state['sources'].get(key, {})
         circuit = record.get('circuit', record.get('circuit_state', 'closed'))
