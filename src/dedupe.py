@@ -186,7 +186,10 @@ def resolve_candidate_id(
             record, legacy_alias
         ):
             return candidate_id
-    return canonical_job_key(job)
+    # With a candidate index, a URL that belongs only to a closed record must
+    # not be reused as the new record's key. The source-scoped alias is stable
+    # and cannot collide with that closed repost.
+    return source_alias
 
 
 def canonical_job_key(

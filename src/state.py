@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 from collections.abc import Mapping, Sequence
+from copy import deepcopy
 from dataclasses import dataclass
 from datetime import date, datetime, timedelta, timezone
 import hashlib
@@ -13,11 +14,23 @@ import tempfile
 from typing import Any
 
 from .dedupe import (
+    candidate_aliases,
     candidate_aliases_from_legacy,
     canonical_candidate_id,
+    durable_identity_aliases,
     durable_identity_aliases_from_legacy,
+    find_candidate_snapshot,
     normalize_official_url,
     normalize_text,
+    resolve_candidate_id,
+)
+from .lifecycle import (
+    RevisionPolicy,
+    SourceTransition,
+    is_migration_equivalent,
+    material_detail_hash,
+    max_delivered_generation,
+    reconcile_inventory,
 )
 from .models import (
     AlertFact,
@@ -25,10 +38,19 @@ from .models import (
     EvidenceStatus,
     FactSource,
     FetchContext,
+    FetchHealth,
+    FetchResult,
+    CircuitState,
+    DetailResult,
+    DetailStatus,
+    EmploymentType,
+    Job,
+    JobAssessment,
     PendingHealthSummary,
     QueueInvalidationReason,
     Recommendation,
 )
+from .source_health import SourceHealthPolicy, classify_snapshot, should_probe
 
 
 class StateCorruptionError(RuntimeError):
@@ -532,21 +554,167 @@ def atomic_write_json(path: Path, state: Mapping[str, Any]) -> None:
                 pass
 
 
+def _new_source_record(record_updated_at: str | None = None) -> dict[str, Any]:
+    return {
+        "health": None,
+        "circuit": CircuitState.CLOSED.value,
+        "consecutive_failures": 0,
+        "next_probe_at": None,
+        "active_ids": [],
+        "etag": None,
+        "fingerprint": None,
+        "source_total": None,
+        "total_is_authoritative": False,
+        "warnings": [],
+        "health_events": [],
+        "seeded_at": None,
+        "detail_retry_ids": {},
+        "last_complete_at": None,
+        "record_updated_at": record_updated_at,
+    }
+
+
+def _sanitize_warning(value: str) -> str:
+    text = " ".join(str(value).split())
+    return text[:300]
+
+
+def _set_changed_fields(record: dict[str, Any], fields: Mapping[str, Any]) -> bool:
+    changed = False
+    for key, value in fields.items():
+        if record.get(key) != value:
+            record[key] = value
+            changed = True
+    return changed
+
+
+def compact_assessment_snapshot(
+    assessment: JobAssessment, assessed_at: str
+) -> dict[str, Any]:
+    parse_utc(assessed_at)
+    salary = assessment.compensation.salary
+    return {
+        "eligible": assessment.eligible,
+        "recommendation": assessment.recommendation.value,
+        "title": assessment.job.title,
+        "employment_type": assessment.job.employment_type.value,
+        "required_experience": {
+            "stated_minimum": assessment.experience.stated_required_minimum,
+            "stated_maximum": assessment.experience.stated_required_maximum,
+            "effective_minimum": assessment.experience.effective_required_minimum,
+            "effective_maximum": assessment.experience.effective_required_maximum,
+            "preferred_minimum": assessment.experience.preferred_minimum,
+            "preferred_maximum": assessment.experience.preferred_maximum,
+            "flexible": assessment.experience.flexible,
+            "unresolved": assessment.experience.unresolved,
+        },
+        "authorization": assessment.authorization.status.value,
+        "location": {
+            "raw": assessment.job.location,
+            "city": assessment.job.city,
+            "region": assessment.job.region,
+            "country_code": assessment.job.country_code,
+        },
+        "salary": None
+        if salary is None
+        else {
+            "minimum": str(salary.annual_minimum)
+            if salary.annual_minimum is not None
+            else None,
+            "maximum": str(salary.annual_maximum)
+            if salary.annual_maximum is not None
+            else None,
+            "currency": salary.currency,
+        },
+        "compensation_status": assessment.compensation.status.value,
+        "score": assessment.score,
+        "reopen_generation": assessment.reopen_generation,
+        "assessed_at": assessed_at,
+    }
+
+
+def _semantic_assessment(snapshot: Mapping[str, Any] | None) -> dict[str, Any] | None:
+    if snapshot is None:
+        return None
+    return {key: value for key, value in snapshot.items() if key != "assessed_at"}
+
+
+def _new_candidate_record(
+    job: Job,
+    now_iso: str,
+    *,
+    discovered_during_seed: bool,
+    reopen_generation: int,
+) -> dict[str, Any]:
+    ref_key = f"{job.source_key}|{job.job_id}"
+    return {
+        "first_seen_at": now_iso,
+        "last_seen_at": now_iso,
+        "last_verified_open_at": None,
+        "closed_at": None,
+        "last_closed_at": None,
+        "reopened_at": None,
+        "reopen_generation": reopen_generation,
+        "discovered_during_seed": discovered_during_seed,
+        "migration_baseline_pending": False,
+        "migration_snapshot": None,
+        "aliases": list(candidate_aliases(job)),
+        "source_refs": {
+            ref_key: {
+                "source_key": job.source_key,
+                "posting_id": job.job_id,
+                "missing_count": 0,
+                "closed_at": None,
+                "last_detail_hash": None,
+                "record_updated_at": now_iso,
+            }
+        },
+        "last_content_hash": job.content_hash,
+        "last_evaluation": None,
+        "seed_baseline": None,
+        "last_alert_basis": None,
+        "last_queued_revision_id": None,
+        "last_queue_invalidation": None,
+        "record_updated_at": now_iso,
+    }
+
+
 class StateManager:
-    def __init__(self, path: str | Path, state: dict[str, Any], limits: StateLimits):
+    def __init__(
+        self,
+        path: str | Path,
+        state: dict[str, Any],
+        limits: StateLimits,
+        *,
+        health_policy: SourceHealthPolicy = SourceHealthPolicy(),
+        revision_policy: RevisionPolicy = RevisionPolicy(),
+    ):
         self.path = Path(path)
         self.state = state
         self.limits = limits
+        self.health_policy = health_policy
+        self.revision_policy = revision_policy
         self.dirty = False
         self._persisted_fingerprint = canonical_state_hash(state)
 
     @classmethod
     def load(
-        cls, path: str | Path, limits: StateLimits = StateLimits()
+        cls,
+        path: str | Path,
+        limits: StateLimits = StateLimits(),
+        *,
+        health_policy: SourceHealthPolicy = SourceHealthPolicy(),
+        revision_policy: RevisionPolicy = RevisionPolicy(),
     ) -> "StateManager":
         state_path = Path(path)
         if not state_path.exists():
-            manager = cls(state_path, empty_state(), limits)
+            manager = cls(
+                state_path,
+                empty_state(),
+                limits,
+                health_policy=health_policy,
+                revision_policy=revision_policy,
+            )
             manager.dirty = True
             manager._persisted_fingerprint = "missing"
             return manager
@@ -564,7 +732,13 @@ class StateManager:
         if raw.get("schema_version") != 2:
             raise StateCorruptionError("unsupported state schema")
         validate_v2(raw)
-        manager = cls(state_path, raw, limits)
+        manager = cls(
+            state_path,
+            raw,
+            limits,
+            health_policy=health_policy,
+            revision_policy=revision_policy,
+        )
         manager._persisted_fingerprint = canonical_state_hash(raw)
         manager.dirty = migrated
         return manager
@@ -584,6 +758,404 @@ class StateManager:
             detail_retry_ids=due_ids,
             force_full=bool(due_ids),
         )
+
+    def source(self, source_key: str) -> dict[str, Any]:
+        return self.state["sources"][source_key]
+
+    def candidate(self, candidate_id: str) -> dict[str, Any]:
+        return self.state["candidates"][candidate_id]
+
+    def should_fetch(self, source_key: str, now: datetime) -> bool:
+        require_aware_utc(now)
+        source = self.state["sources"].get(source_key)
+        return source is None or should_probe(source, now, self.health_policy)
+
+    def begin_fetch(self, source_key: str, now: datetime) -> bool:
+        require_aware_utc(now)
+        source = self.state["sources"].get(source_key)
+        if source is None:
+            return True
+        if not should_probe(source, now, self.health_policy):
+            return False
+        if source.get("circuit") == CircuitState.OPEN.value:
+            source["circuit"] = CircuitState.HALF_OPEN.value
+            source["record_updated_at"] = utc_iso(now)
+            self.dirty = True
+        return True
+
+    def apply_fetch_result(
+        self, source_key: str, result: FetchResult, now: datetime
+    ) -> SourceTransition:
+        require_aware_utc(now)
+        if any(job.source_key != source_key for job in result.jobs):
+            raise ValueError("fetch result contains a job from another source_key")
+        if result.complete and not result.unchanged:
+            job_ids = [job.job_id for job in result.jobs]
+            if len(job_ids) != len(set(job_ids)):
+                raise ValueError("complete fetch result contains duplicate job IDs")
+
+        source = self.state["sources"].get(source_key)
+        if source is None:
+            source = _new_source_record()
+            self.state["sources"][source_key] = source
+            self.dirty = True
+        previous_health_raw = source.get("health")
+        previous_health = (
+            FetchHealth(previous_health_raw) if previous_health_raw is not None else None
+        )
+        previous_circuit = CircuitState(
+            source.get("circuit", CircuitState.CLOSED.value)
+        )
+        previous_active_ids = tuple(source.get("active_ids", ()))
+        classified = classify_snapshot(
+            previous_active_ids, result, self.health_policy
+        )
+        warnings = tuple(_sanitize_warning(item) for item in result.warnings)
+        now_iso = utc_iso(now)
+
+        if classified in {FetchHealth.PARTIAL, FetchHealth.FAILED}:
+            failures = int(source.get("consecutive_failures", 0)) + 1
+            fields: dict[str, Any] = {
+                "health": classified.value,
+                "consecutive_failures": failures,
+                "warnings": list(warnings),
+            }
+            if failures >= self.health_policy.failure_threshold:
+                fields["circuit"] = CircuitState.OPEN.value
+                fields["next_probe_at"] = utc_iso(
+                    now + self.health_policy.probe_interval
+                )
+            changed = _set_changed_fields(source, fields)
+            if changed:
+                event = {
+                    "at": now_iso,
+                    "health": classified.value,
+                    "circuit": source.get("circuit", CircuitState.CLOSED.value),
+                    "warnings": list(warnings),
+                    "error": _sanitize_warning(result.error or "") or None,
+                }
+                source.setdefault("health_events", []).append(event)
+                source["health_events"] = source["health_events"][
+                    -self.limits.health_event_limit :
+                ]
+                source["record_updated_at"] = now_iso
+                self.dirty = True
+            return SourceTransition(
+                source_key,
+                previous_health,
+                classified,
+                previous_circuit,
+                CircuitState(source.get("circuit", CircuitState.CLOSED.value)),
+                (),
+                warnings,
+            )
+
+        if result.unchanged:
+            effective_active_ids = list(source.get("active_ids", []))
+            effective_etag = result.etag if result.etag is not None else source.get("etag")
+            effective_fingerprint = (
+                result.fingerprint
+                if result.fingerprint is not None
+                else source.get("fingerprint")
+            )
+            effective_source_total = source.get("source_total")
+            effective_total_is_authoritative = source.get(
+                "total_is_authoritative", False
+            )
+        else:
+            effective_active_ids = sorted(result.active_ids)
+            effective_etag = result.etag
+            effective_fingerprint = result.fingerprint
+            effective_source_total = result.source_total
+            effective_total_is_authoritative = result.total_is_authoritative
+
+        fields = {
+            "consecutive_failures": 0,
+            "circuit": CircuitState.CLOSED.value,
+            "next_probe_at": None,
+            "health": classified.value,
+            "active_ids": effective_active_ids,
+            "etag": effective_etag,
+            "fingerprint": effective_fingerprint,
+            "source_total": effective_source_total,
+            "total_is_authoritative": effective_total_is_authoritative,
+            "warnings": list(warnings),
+        }
+        changed = _set_changed_fields(source, fields)
+        closed_job_keys: tuple[str, ...] = ()
+        if not result.unchanged:
+            closed_job_keys = reconcile_inventory(
+                self, source_key, result.active_ids, now
+            )
+        if changed or closed_job_keys:
+            source["last_complete_at"] = result.fetched_at
+            source["record_updated_at"] = now_iso
+            self.dirty = True
+        return SourceTransition(
+            source_key,
+            previous_health,
+            classified,
+            previous_circuit,
+            CircuitState(source["circuit"]),
+            closed_job_keys,
+            warnings,
+        )
+
+    def mark_source_seeded(self, source_key: str, seeded_at: str) -> bool:
+        parse_utc(seeded_at)
+        source = self.state["sources"].get(source_key)
+        if source is None or source.get("last_complete_at") is None:
+            raise ValueError("source cannot be seeded before an accepted complete result")
+        if source.get("seeded_at") is not None:
+            return False
+        source["seeded_at"] = seeded_at
+        source["record_updated_at"] = seeded_at
+        self.dirty = True
+        return True
+
+    def observe_candidate(
+        self,
+        job: Job,
+        now: datetime,
+        *,
+        discovered_during_seed: bool,
+    ) -> tuple[str, dict[str, Any] | None, dict[str, Any]]:
+        require_aware_utc(now)
+        now_iso = utc_iso(now)
+        previous = find_candidate_snapshot(job, self.state["candidates"])
+        candidate_id = resolve_candidate_id(job, self.state["candidates"])
+        previous_copy = deepcopy(previous) if previous is not None else None
+        if previous is None:
+            prior_generation = max_delivered_generation(
+                durable_identity_aliases(job), self.state["delivery"]["delivered"]
+            )
+            record = _new_candidate_record(
+                job,
+                now_iso,
+                discovered_during_seed=discovered_during_seed,
+                reopen_generation=prior_generation + 1,
+            )
+            self.state["candidates"][candidate_id] = record
+            self.state["sources"].setdefault(job.source_key, _new_source_record())
+            self.dirty = True
+            return candidate_id, None, deepcopy(record)
+
+        record = self.state["candidates"][candidate_id]
+        changed = False
+        old_aliases = set(record.get("aliases", ()))
+        new_aliases = set(candidate_aliases(job))
+        merged_aliases = sorted(old_aliases.union(new_aliases))
+        if merged_aliases != record.get("aliases", []):
+            record["aliases"] = merged_aliases
+            changed = True
+
+        ref_key = f"{job.source_key}|{job.job_id}"
+        reference = record.setdefault("source_refs", {}).get(ref_key)
+        if reference is None:
+            record["source_refs"][ref_key] = {
+                "source_key": job.source_key,
+                "posting_id": job.job_id,
+                "missing_count": 0,
+                "closed_at": None,
+                "last_detail_hash": None,
+                "record_updated_at": now_iso,
+            }
+            changed = True
+        else:
+            if reference.get("missing_count", 0) or reference.get("closed_at"):
+                reference["missing_count"] = 0
+                reference["closed_at"] = None
+                reference["record_updated_at"] = now_iso
+                changed = True
+
+        if record.get("closed_at") is not None:
+            closed_at = parse_utc(record["closed_at"])
+            incoming_durable = set(durable_identity_aliases(job))
+            new_durable_alias = bool(incoming_durable - old_aliases)
+            if new_durable_alias or now - closed_at >= timedelta(
+                days=self.revision_policy.same_id_reopen_days
+            ):
+                record["reopen_generation"] = int(
+                    record.get("reopen_generation", 0)
+                ) + 1
+            record["last_closed_at"] = record["closed_at"]
+            record["closed_at"] = None
+            record["reopened_at"] = now_iso
+            changed = True
+
+        if record.get("last_content_hash") != job.content_hash:
+            record["last_content_hash"] = job.content_hash
+            changed = True
+        if changed:
+            record["last_seen_at"] = now_iso
+            record["record_updated_at"] = now_iso
+            self.state["sources"].setdefault(job.source_key, _new_source_record())
+            self.dirty = True
+        return candidate_id, previous_copy, deepcopy(record)
+
+    def record_assessment(
+        self, assessment: JobAssessment, assessed_at: str
+    ) -> None:
+        record = self.state["candidates"][assessment.candidate_id]
+        snapshot = compact_assessment_snapshot(assessment, assessed_at)
+        changed = False
+        if _semantic_assessment(record.get("last_evaluation")) != _semantic_assessment(
+            snapshot
+        ):
+            record["last_evaluation"] = snapshot
+            changed = True
+        if record.get("discovered_during_seed") and record.get("seed_baseline") is None:
+            record["seed_baseline"] = deepcopy(snapshot)
+            changed = True
+        if changed:
+            record["record_updated_at"] = assessed_at
+            self.dirty = True
+
+    def record_migration_baseline(
+        self, assessment: JobAssessment, assessed_at: str
+    ) -> None:
+        record = self.state["candidates"][assessment.candidate_id]
+        if not record.get("migration_baseline_pending"):
+            raise ValueError("candidate has no pending migration baseline")
+        if not is_migration_equivalent(record, assessment):
+            raise ValueError("assessment differs from migrated identity baseline")
+        aliases = {
+            alias
+            for alias in record.get("aliases", ())
+            if not alias.startswith("legacy-local:")
+        }
+        aliases.update(candidate_aliases(assessment.job))
+        record["aliases"] = sorted(aliases)
+        record["migration_baseline_pending"] = False
+        record["migration_snapshot"] = None
+        record["last_alert_basis"] = compact_assessment_snapshot(
+            assessment, assessed_at
+        )
+        record["record_updated_at"] = assessed_at
+        self.dirty = True
+
+    def record_alert_basis(
+        self, assessment: JobAssessment, queued_at: str
+    ) -> None:
+        record = self.state["candidates"][assessment.candidate_id]
+        snapshot = compact_assessment_snapshot(assessment, queued_at)
+        changed = False
+        if _semantic_assessment(record.get("last_alert_basis")) != _semantic_assessment(
+            snapshot
+        ):
+            record["last_alert_basis"] = snapshot
+            changed = True
+        if record.get("last_queued_revision_id") != assessment.revision_id:
+            record["last_queued_revision_id"] = assessment.revision_id
+            changed = True
+        invalidation = record.get("last_queue_invalidation") or {}
+        invalidated_ids = list(invalidation.get("revision_ids", ()))
+        remaining = sorted(set(invalidated_ids) - {assessment.revision_id})
+        if len(remaining) != len(invalidated_ids):
+            record["last_queue_invalidation"] = (
+                {**invalidation, "revision_ids": remaining} if remaining else None
+            )
+            changed = True
+        if changed:
+            record["record_updated_at"] = queued_at
+            self.dirty = True
+
+    def cancel_detail_retry(
+        self, source_key: str, posting_id: str, now: datetime
+    ) -> bool:
+        require_aware_utc(now)
+        source = self.state["sources"][source_key]
+        removed = source.setdefault("detail_retry_ids", {}).pop(posting_id, None)
+        if removed is None:
+            return False
+        source["record_updated_at"] = utc_iso(now)
+        self.dirty = True
+        return True
+
+    def apply_detail_result(
+        self,
+        candidate_id: str,
+        source_key: str,
+        posting_id: str,
+        result: DetailResult,
+        now: datetime,
+    ) -> None:
+        require_aware_utc(now)
+        candidate = self.state["candidates"].get(candidate_id)
+        if candidate is None:
+            raise KeyError(candidate_id)
+        ref_key = f"{source_key}|{posting_id}"
+        reference = candidate.get("source_refs", {}).get(ref_key)
+        if reference is None:
+            raise ValueError("detail result does not match a candidate source reference")
+        if result.status is DetailStatus.HEALTHY:
+            assert result.job is not None
+            if (
+                result.job.source_key != source_key
+                or result.job.job_id != posting_id
+            ):
+                raise ValueError("detail result identity does not match its request")
+        source = self.state["sources"].get(source_key)
+        if source is None:
+            raise KeyError(source_key)
+        now_iso = utc_iso(now)
+
+        if result.status is DetailStatus.FAILED:
+            retries = source.setdefault("detail_retry_ids", {})
+            existing = retries.get(posting_id)
+            due_at = now_iso
+            if existing is not None and parse_utc(existing) < now:
+                due_at = existing
+            if existing != due_at:
+                retries[posting_id] = due_at
+                source["record_updated_at"] = now_iso
+                self.dirty = True
+            return
+
+        retry_cleared = self.cancel_detail_retry(source_key, posting_id, now)
+        if result.status is DetailStatus.CLOSED:
+            changed = False
+            if reference.get("closed_at") is None:
+                reference["closed_at"] = now_iso
+                reference["record_updated_at"] = now_iso
+                changed = True
+            self.invalidate_candidate_queue(
+                candidate_id,
+                QueueInvalidationReason.OFFICIAL_DETAIL_CLOSED,
+                now,
+                source_key=source_key,
+            )
+            references = candidate.get("source_refs", {}).values()
+            if references and all(ref.get("closed_at") is not None for ref in references):
+                if candidate.get("closed_at") is None:
+                    candidate["closed_at"] = now_iso
+                    candidate["last_closed_at"] = now_iso
+                    changed = True
+                self.invalidate_candidate_queue(
+                    candidate_id,
+                    QueueInvalidationReason.OFFICIAL_DETAIL_CLOSED,
+                    now,
+                )
+            if changed:
+                candidate["record_updated_at"] = now_iso
+                self.dirty = True
+            return
+
+        assert result.job is not None
+        detail_hash = material_detail_hash(result.job)
+        changed = retry_cleared
+        if reference.get("closed_at") is not None:
+            reference["closed_at"] = None
+            reference["missing_count"] = 0
+            changed = True
+        if reference.get("last_detail_hash") != detail_hash:
+            reference["last_detail_hash"] = detail_hash
+            changed = True
+        if changed:
+            reference["record_updated_at"] = now_iso
+            candidate["last_verified_open_at"] = now_iso
+            candidate["record_updated_at"] = now_iso
+            self.dirty = True
 
     def queue_immediate(self, item: AlertItem) -> bool:
         return self._queue(item, destination="pending_immediate")
