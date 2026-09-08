@@ -5,6 +5,7 @@ from datetime import datetime, timezone
 import pytest
 
 from src.delivery import deliver_pending, chunk_id_for
+from src.alert_formatting import format_alert_entry
 from src.alerts import TelegramReceipt, TelegramTransientError
 from tests.test_alert_formatting import alert_item
 
@@ -75,7 +76,10 @@ def test_dirty_queue_never_sends(alert_item):
 def test_each_receipt_is_saved_before_next_send(alert_item):
     items = [replace(alert_item, revision_id=str(i), candidate_id=str(i)) for i in range(5)]
     state = State(items); notifier = Notifier(state)
-    report = deliver_pending(heading='Matches', queue_kind='immediate', notifier=notifier, state=state, now=NOW, message_limit=1600)
+    # Constrain this transport test to one complete card per message, regardless
+    # of copy length. Assertions below verify send/checkpoint order, not wording.
+    one_card_limit = len('<b>Matches</b>\n\n') + len(format_alert_entry(alert_item))
+    report = deliver_pending(heading='Matches', queue_kind='immediate', notifier=notifier, state=state, now=NOW, message_limit=one_card_limit)
     assert not report.failed
     assert report.delivered_revision_ids == tuple(str(i) for i in range(5))
     assert state.events == ['send', 'save'] * 5
@@ -84,7 +88,8 @@ def test_each_receipt_is_saved_before_next_send(alert_item):
 def test_partial_failure_keeps_later_jobs_pending(alert_item):
     items = [replace(alert_item, revision_id=str(i), candidate_id=str(i)) for i in range(3)]
     state = State(items); notifier = Notifier(state, fail_at=1)
-    report = deliver_pending(heading='Matches', queue_kind='immediate', notifier=notifier, state=state, now=NOW, message_limit=1600)
+    one_card_limit = len('<b>Matches</b>\n\n') + len(format_alert_entry(alert_item))
+    report = deliver_pending(heading='Matches', queue_kind='immediate', notifier=notifier, state=state, now=NOW, message_limit=one_card_limit)
     assert report.failed
     assert report.delivered_revision_ids == ('0',)
     assert tuple(state.items) == ('1', '2')

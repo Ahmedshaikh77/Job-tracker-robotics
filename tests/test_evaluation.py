@@ -444,3 +444,64 @@ def test_evaluate_job_threads_configured_freshness_window(
     )
     assert result.freshness.status is FreshnessStatus.STALE
     assert result.eligible is False
+
+
+@pytest.mark.parametrize(
+    "degree_requirement",
+    [
+        "Bachelor’s or Master’s degree in computer science, electrical engineering, or equivalent experience",
+        "Bachelor's or Master's degree in Electrical and Computer Engineering, Robotics, Computer Science or equivalent experience",
+        "Bachelor's degree in Computer Science or a related field.",
+    ],
+)
+def test_unconfirmed_degree_alternative_reports_human_review(
+    tmp_path, profile, make_job, degree_requirement
+):
+    job = _job(
+        make_job,
+        description=f"Minimum qualifications: {degree_requirement}. 2 years of experience. Python.",
+    )
+    _, _, result = _evaluate(tmp_path, profile, job)
+    assert "review" in result.important_gap.lower()
+    assert "degree" in result.important_gap.lower()
+    assert "missing required" not in result.important_gap.lower()
+    assert "degree:" not in result.important_gap
+    assert "degree-review:" not in result.important_gap
+    assert result.qualification.missing_required_groups == ()
+    assert result.qualification.points == 5
+
+
+def test_strict_degree_mismatch_remains_a_readable_warning(tmp_path, profile, make_job):
+    job = _job(
+        make_job,
+        description="Minimum qualifications: Degree in Computer Science. 2 years of experience.",
+    )
+    _, _, result = _evaluate(tmp_path, profile, job)
+    assert "Missing required qualification" in result.important_gap
+    assert "computer science" in result.important_gap.lower()
+    assert "degree:" not in result.important_gap
+
+
+@pytest.mark.parametrize(
+    "restriction, posted_at, reason",
+    [
+        ("Applicants must be U.S. persons under ITAR.", "2026-09-05", "authorization"),
+        ("4+ years of experience required.", "2026-09-05", "experience exceeds"),
+        ("2 years of experience required.", "2026-01-01", "freshness"),
+    ],
+)
+def test_degree_review_does_not_relax_hard_gates(
+    tmp_path, profile, make_job, restriction, posted_at, reason
+):
+    job = _job(
+        make_job,
+        posted_at=posted_at,
+        description=(
+            "Minimum qualifications: Degree in Computer Science or equivalent experience. "
+            f"{restriction}"
+        ),
+    )
+    _, _, result = _evaluate(tmp_path, profile, job)
+    assert result.eligible is False
+    assert result.recommendation is Recommendation.SKIP
+    assert any(reason in block.lower() for block in result.hard_blocks)

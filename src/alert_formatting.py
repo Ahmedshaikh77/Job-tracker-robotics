@@ -63,6 +63,39 @@ def _salary_text(compensation):
     return f'{published}; {compensation.label}'
 
 
+def _number_text(value):
+    return f'{value:g}'
+
+
+def _year_range(minimum, maximum):
+    if minimum is None:
+        return f'up to {_number_text(maximum)} years' if maximum is not None else ''
+    if maximum is None:
+        return f'{_number_text(minimum)}+ years'
+    if minimum == maximum:
+        return f'{_number_text(minimum)} years'
+    return f'{_number_text(minimum)}–{_number_text(maximum)} years'
+
+
+def _experience_text(requirement):
+    stated = _year_range(
+        requirement.stated_required_minimum,
+        requirement.stated_required_maximum,
+    )
+    preferred = _year_range(requirement.preferred_minimum, requirement.preferred_maximum)
+    parts = [f'Required: {stated}' if stated else 'Required years not published']
+    if preferred:
+        parts.append(f'preferred: {preferred}')
+    effective = requirement.effective_required_minimum
+    if (
+        effective is not None
+        and requirement.stated_required_minimum is not None
+        and effective != requirement.stated_required_minimum
+    ):
+        parts.append(f'effective minimum: {_number_text(effective)} years')
+    return '; '.join(parts)
+
+
 def project_alert_item(assessment, candidate_state, queued_at, queued_run_id, fetch_completed_at):
     job = assessment.job
     if not assessment.eligible or assessment.authorization.status is AuthorizationStatus.BLOCKED:
@@ -94,11 +127,14 @@ def project_alert_item(assessment, candidate_state, queued_at, queued_run_id, fe
                         if assessment.compensation.status is CompensationStatus.UNRESOLVED
                         else EvidenceStatus.CONFIRMED if assessment.compensation.salary is not None
                         else EvidenceStatus.NOT_PUBLISHED, assessment.compensation.source),
-        experience=AlertFact(assessment.experience.evidence or 'Unknown', EvidenceStatus.UNRESOLVED
+        experience=AlertFact(_experience_text(assessment.experience), EvidenceStatus.UNRESOLVED
                         if assessment.experience.unresolved else EvidenceStatus.CONFIRMED
                         if assessment.experience.source is not FactSource.UNAVAILABLE else EvidenceStatus.NOT_PUBLISHED,
                         assessment.experience.source),
-        authorization=AlertFact(assessment.authorization.evidence or 'Future sponsorship support uncertain',
+        authorization=AlertFact(
+                                'Future sponsorship support not confirmed; ask the recruiter'
+                                if assessment.authorization.status is AuthorizationStatus.UNKNOWN
+                                else assessment.authorization.evidence or 'Future sponsorship support uncertain',
                                 EvidenceStatus.CONFIRMED if assessment.authorization.status is AuthorizationStatus.CONFIRMED_SUPPORT
                                 else EvidenceStatus.NOT_PUBLISHED if assessment.authorization.source is FactSource.UNAVAILABLE
                                 else EvidenceStatus.UNRESOLVED, assessment.authorization.source),
@@ -112,24 +148,76 @@ def project_alert_item(assessment, candidate_state, queued_at, queued_run_id, fe
 
 def _short(value, maximum):
     value = str(value or '')
-    return value if len(value) <= maximum else value[:max(0, maximum - 1)] + '…'
+    maximum = max(0, maximum)
+    if not maximum:
+        return ''
+    return value if len(value) <= maximum else value[:maximum - 1] + '…'
 
 
-def _fact_line(label, fact, maximum):
-    if fact.provenance is FactSource.TRACKER_INFERENCE:
-        provenance = 'Tracker inference'
-    elif fact.status is EvidenceStatus.NOT_PUBLISHED:
-        provenance = fact.status.value
-    elif fact.provenance is FactSource.UNAVAILABLE:
-        provenance = fact.status.value
+def _fact_text(fact, maximum, *, experience=False):
+    value = str(fact.value or 'Unknown')
+    if experience and len(value) > min(120, max(0, maximum)):
+        value = ('See official posting for full experience requirements'
+                 if fact.status is EvidenceStatus.CONFIRMED
+                 else 'Required experience is unclear; see official posting')
     else:
-        provenance = f'{fact.status.value}: {fact.provenance.value}'
-    return f'{label} [{provenance}]: {html_escape(_short(fact.value, maximum))}'
+        value = _short(value, maximum)
+    if fact.provenance is FactSource.TRACKER_INFERENCE:
+        suffix = 'tracker inference'
+    elif fact.status is EvidenceStatus.CONFIRMED:
+        suffix = 'confirmed'
+    elif fact.status is EvidenceStatus.NOT_PUBLISHED:
+        suffix = 'not published'
+    elif fact.status is EvidenceStatus.TRACKER_ASSESSMENT:
+        suffix = 'tracker assessment'
+    else:
+        suffix = 'unclear'
+    if fact.status is EvidenceStatus.NOT_PUBLISHED and value.casefold() in {
+        '', 'unknown', 'not published'
+    }:
+        return 'Not published'
+    return f'{value} ({suffix})'
+
+
+def _fact_line(label, fact, maximum, *, experience=False):
+    return f'{label}: {html_escape(_fact_text(fact, maximum, experience=experience))}'
+
+
+def _job_id(item):
+    for alias in item.identity_aliases:
+        parts = alias.split(':', 2)
+        if len(parts) == 3 and parts[0] == 'req' and parts[2]:
+            return parts[2]
+    source_prefix = f'source:{item.source_key}:'
+    for alias in item.identity_aliases:
+        if alias.startswith(source_prefix) and alias != source_prefix:
+            return alias[len(source_prefix):]
+    for alias in item.identity_aliases:
+        parts = alias.split(':', 2)
+        if len(parts) == 3 and parts[0] == 'legacy-local' and parts[2]:
+            return parts[2]
+    return 'Unavailable'
+
+
+def _clean_fit(value):
+    cleaned = []
+    seen = set()
+    for part in str(value or '').split(';'):
+        part = part.strip()
+        prefix, separator, remainder = part.partition(':')
+        if separator and prefix.casefold() in {'skill', 'domain', 'degree'}:
+            part = remainder.strip()
+        key = part.casefold()
+        if part and key not in seen:
+            cleaned.append(part)
+            seen.add(key)
+    return '; '.join(cleaned)
 
 
 def _skeleton(item):
-    return (f'<b>{html_escape(item.recommendation.value)} | {item.score}/100</b>\n'
-            f'<b>{html_escape(item.company)}: {html_escape(item.title)}</b>')
+    return (f'<b>{html_escape(item.recommendation.value)} · Tracker fit {item.score}/100</b>\n'
+            f'<b>{html_escape(item.title)}</b>\n'
+            f'{html_escape(item.company)} · Job ID: {html_escape(_job_id(item))}')
 
 
 def _link(item):
@@ -138,21 +226,35 @@ def _link(item):
 
 def format_alert_entry(item, *, optional_limit=500, compact=False):
     validate_identity(item.company, item.title, item.application_url)
-    cap = min(300, optional_limit)
+    cap = min(300, max(0, optional_limit))
     lines = [_skeleton(item)]
     if compact:
         return '\n'.join(lines + [_link(item)])
-    for label, fact in [('Location', item.location), ('Work arrangement', item.work_arrangement),
-                        ('Posted date', item.posted_date)]:
-        lines.append(_fact_line(label, fact, cap))
-    lines.append(f'First seen: {html_escape(item.first_seen_at[:10])}')
-    for label, fact in [('Salary', item.salary), ('Experience', item.experience),
-                        ('Authorization', item.authorization), ('Employment', item.full_time)]:
-        lines.append(_fact_line(label, fact, cap))
-    for label, value, limit in [('Fit', item.match_reason, optional_limit), ('Gap', item.important_gap, optional_limit),
-                                 ('CV', item.resume_filename, cap), ('CV choice', item.resume_reason, cap),
-                                 ('Role family', item.role_family, cap)]:
-        lines.append(f'{label} [Tracker assessment]: {html_escape(_short(value, limit))}')
+    lines.append(_fact_line('Location', item.location, cap))
+    lines.append(
+        f'Work: {html_escape(_fact_text(item.work_arrangement, cap))}'
+        f' · {html_escape(_fact_text(item.full_time, cap))}'
+    )
+    lines.append(_fact_line('Salary', item.salary, cap))
+    lines.append(_fact_line('Experience', item.experience, cap, experience=True))
+    lines.append(_fact_line('Sponsorship', item.authorization, cap))
+
+    roundup_prefix = 'Current openings roundup (not necessarily newly posted). '
+    match_reason = str(item.match_reason or '')
+    if match_reason.startswith(roundup_prefix):
+        lines.append('Note: Current roundup; not necessarily newly posted.')
+        match_reason = match_reason[len(roundup_prefix):]
+    lines.append(f'Fit: {html_escape(_short(_clean_fit(match_reason), optional_limit))}')
+    lines.append(f'Watch-out: {html_escape(_short(item.important_gap, optional_limit))}')
+    lines.append(f'CV: {html_escape(_short(item.resume_filename, cap))}')
+
+    posted = item.posted_date
+    if posted.status is EvidenceStatus.CONFIRMED and len(posted.value) >= 10:
+        posted = AlertFact(posted.value[:10], posted.status, posted.provenance)
+    lines.append(
+        f'Posted: {html_escape(_fact_text(posted, cap))}'
+        f' · first seen {html_escape(item.first_seen_at[:10])}'
+    )
     lines.append(_link(item))
     return '\n'.join(lines)
 

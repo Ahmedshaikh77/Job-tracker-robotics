@@ -28,6 +28,7 @@ from .qualifications import (
     assess_qualifications,
     extract_qualification_groups,
     match_qualification_groups,
+    qualification_gap,
 )
 from .resumes import ResumeRouter
 from .scoring import score_job_v1
@@ -159,9 +160,9 @@ def evaluate_job(
         hard_blocks=hard_block_tuple,
     )
 
-    gap = ""
-    if qualification.missing_required_groups:
-        gap = f"Missing required qualification: {qualification.missing_required_groups[0]}"
+    degree_or_qualification_gap = qualification_gap(qualification)
+    if degree_or_qualification_gap:
+        gap = degree_or_qualification_gap
     elif (
         experience.stated_required_minimum is not None
         and experience.stated_required_minimum > 3
