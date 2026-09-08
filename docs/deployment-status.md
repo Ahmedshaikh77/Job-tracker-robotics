@@ -1,6 +1,6 @@
 # Deployment status
 
-Verified September 8, 2026 UTC (September 7 in New York).
+Activation verified September 8, 2026, New York time.
 
 ## Completed
 
@@ -12,18 +12,21 @@ Verified September 8, 2026 UTC (September 7 in New York).
 - Amazon's initial detail-failure category represented 63 pages with multiple U.S. locations. The verified parser fix preserves every official U.S. location without relaxing country/provenance rules. The [final GitHub baseline verification](https://github.com/Ahmedshaikh77/Job-tracker-robotics/actions/runs/34183736040) succeeded and cleared all 63 Amazon detail retries. Only Tesla remains in the source-failure report. Immediate and moderate alert queues remain empty.
 - Telegram secrets remain in GitHub's encrypted secret storage. No token or chat ID was exposed in logs or reports.
 
-## Remaining activation step
+## Activation
 
-[Connection validation](https://github.com/Ahmedshaikh77/Job-tracker-robotics/actions/runs/34183322368) failed before fetching or sending. Telegram's getMe operation returned HTTP/API 404. This identifies the saved bot connection as invalid or malformed; it does not establish whether the destination chat is valid.
+The previous saved bot token failed validation. The owner supplied its replacement, which was saved directly to GitHub's encrypted Actions secret without putting it in source files or command arguments.
 
-The owner must replace `TELEGRAM_BOT_TOKEN` with the correct token from Telegram's verified BotFather in [GitHub's secure secret editor](https://github.com/Ahmedshaikh77/Job-tracker-robotics/settings/secrets/actions/TELEGRAM_BOT_TOKEN). Enter only the token, not a URL or a `bot` prefix. Do not paste it into a public issue, source file, or chat transcript.
+- [Connection and source validation](https://github.com/Ahmedshaikh77/Job-tracker-robotics/actions/runs/34230706283) succeeded. Telegram getMe/getChat passed, 5,151 source listings were fetched read-only, and all required sources passed. Only best-effort Tesla was unavailable.
+- [Isolated Telegram delivery test](https://github.com/Ahmedshaikh77/Job-tracker-robotics/actions/runs/34230854985) succeeded at 9:15 AM New York time: one test message delivered, no job scan, no state mutation, and no job application submitted.
+- `JOB_TRACKER_LIVE_ENABLED=true` is confirmed through GitHub's API, and the Check Jobs workflow is active.
+- A dispatch started before the setting was saved safely skipped live work. The [first enabled live scan](https://github.com/Ahmedshaikh77/Job-tracker-robotics/actions/runs/34231068487) succeeded after the saved value was verified. It fetched 3,251 returned listings, completed 191 assessments, and queued no new immediate or moderate alerts. Unchanged inventories remained cached. State was committed as `93e7eb5`, and the delivery and receipt-sync phases succeeded with no backlog.
 
-Then rerun `validate-only`. If it passes, approve the isolated test message, verify delivery, and set `JOB_TRACKER_LIVE_ENABLED` to `true`. The proposed test payload is pending owner confirmation: "Job tracker test: Telegram is connected. No job application has been submitted."
+Before activation, the persisted schema-2 state passed validation, all 40 required sources were seeded, and the immediate, moderate, and health queues were empty. The full offline suite passed 508 tests locally and in GitHub.
 
-The workflow itself is enabled, but `JOB_TRACKER_LIVE_ENABLED=false` prevents live scanning and delivery. No alert arrival time can be promised until activation succeeds.
+For future token replacement, use [GitHub's secure secret editor](https://github.com/Ahmedshaikh77/Job-tracker-robotics/settings/secrets/actions/TELEGRAM_BOT_TOKEN). Enter only the token, not a URL or a `bot` prefix. Do not put it in a public issue or source file. Rotating the token in BotFather also requires updating this GitHub secret.
 
 ## After activation
 
 GitHub requests a scan at minutes 17 and 47 of every hour. Strong matches are sent after verification; moderate matches are grouped on the first successful run after 7:30 PM New York time. GitHub can delay scheduled runs, so these are requested times rather than guaranteed delivery times. The laptop and browser can be closed.
 
-Actual live-delivery latency and a nonzero newly eligible scheduled run remain unverified until activation and a real new match. A zero-denominator run must be reported as N/A, never as a successful delivery-rate test.
+Actual job-alert latency for a nonzero newly eligible scheduled run remains unverified until a real new match. A zero-denominator run must be reported as N/A, never as a successful delivery-rate test.

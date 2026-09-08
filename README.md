@@ -2,7 +2,7 @@
 
 Official-career-source monitoring for Muhammad Ahmed Nazir Shaikh's early-career US engineering search. The tracker sends useful matches to Telegram, with the appropriate role-specific CV. It does not apply to jobs, contact employers, or invent experience.
 
-Deployment status: the upgrade is installed and the initial baseline is saved. Live delivery is currently disabled because Telegram rejected the saved bot connection. See [deployment status and remaining activation step](docs/deployment-status.md).
+Deployment status: the upgrade is installed, the initial baseline is saved, and Telegram live alerts are enabled. Connection validation and an isolated delivery test passed. See [deployment status and verification evidence](docs/deployment-status.md).
 
 ## How alerts work
 
