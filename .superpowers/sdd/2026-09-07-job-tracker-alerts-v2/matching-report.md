@@ -19,7 +19,8 @@
 - Edge-case red: 10 regressions failed for United States location variants, structured location components, authorization phrases, configurable salary caps, profile-derived degree matching, non-USD material revisions, and empty resume evidence. The focused green run passed 146 tests.
 - Authorization precedence red: 6 regressions failed for mixed positive sponsorship and personal restrictions plus common sponsorship, permanent-residency, and green-card blockers. The focused green run passed 26 tests.
 - Final eligibility audit red: 14 regressions failed for additional authorization restrictions, common qualification headings, multiple required-year statements, disallowed title levels, negated full-time text, and employee-benefit boilerplate. The focused green run passed 126 tests.
-- Final owned matching suite: 246 tests passed.
+- Final authorization probes red: the must-be-green-card-holder form failed independently, then 7 exact negative sponsorship and clearance forms failed in the expanded probe run. The authorization suite finished with 40 passing tests.
+- Final owned matching suite: 255 tests passed.
 
 ```text
 .venv/bin/python -m pytest tests/test_stage_one.py tests/test_parsing.py tests/test_experience.py tests/test_authorization.py tests/test_freshness.py tests/test_compensation.py tests/test_profile.py tests/test_qualifications.py tests/test_scoring.py tests/test_resume_routing.py tests/test_evaluation.py -q
