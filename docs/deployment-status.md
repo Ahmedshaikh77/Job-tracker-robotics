@@ -4,6 +4,10 @@ Activation and alert-repair work, September 8, 2026, New York time.
 
 ## Job-alert repair
 
+**Production verification:** [Roundup run 34237751963](https://github.com/Ahmedshaikh77/Job-tracker-robotics/actions/runs/34237751963) completed successfully on repair commit `5697b5a`. All 548 tests passed locally and in GitHub Actions. The live prepare phase fetched 5,150 returned listings, assessed 255, and queued nine current matches. Telegram accepted all nine listings in five messages between 10:23:57 and 10:24:02 AM New York time on September 8. The receipt-sync phase committed all nine delivery receipts in `624fa44`. Immediate and moderate queues are empty. The nine listings represent five Amazon requisitions, one Field AI role, one Pickle Robot role, and two Zoox roles, all labeled Moderate rather than overstated as strong fits.
+
+This proves real job delivery and durable receipt saving for the manual roundup. It does not prove guaranteed future scan timing. Persisted source health is 41 healthy sources and one unavailable source, Tesla. There were no new source-fetch failures in this run because Tesla was already paused until its scheduled recovery probe.
+
 The owner confirmed receipt of the 9:15 AM connection test, but no job listings. Inspection found separate causes: existing listings were intentionally baselined; unknown posting dates on those seeded listings were rejected as stale; Amazon's human-readable posting dates were not normalized for the strict freshness parser; and some legal-age requirements were being read as years of work experience. GitHub also skipped multiple requested schedule slots.
 
 The repair adds an explicit manual current-openings roundup, limited to ten unsent, freshly verified matches. Unknown dates remain unknown and receive no recency credit; known old dates and all other hard eligibility restrictions remain enforced. Amazon dates are normalized without substituting update dates, and explicit legal-age language is not counted as employment experience. Published salary ranges now appear in the messages, not just the $100k-target label.
@@ -39,4 +43,4 @@ For future token replacement, use [GitHub's secure secret editor](https://github
 
 GitHub requests a scan at minutes 7, 22, 37, and 52 of every hour. Strong matches are sent after verification; moderate matches are grouped on the first successful run after 7:30 PM New York time, except when explicitly included in a manual current roundup. GitHub can delay scheduled runs, so these are requested times rather than guaranteed delivery times. Cloud scans do not require the laptop or browser to remain open; the additional Codex backup does require its local host to be available.
 
-Actual job-alert latency for a nonzero newly eligible scheduled run remains unverified until a real new match. A zero-denominator run must be reported as N/A, never as a successful delivery-rate test.
+Manual-roundup delivery is verified above. Actual job-alert latency for a nonzero newly eligible scheduled run remains unverified until a real new match. A zero-denominator run must be reported as N/A, never as a successful delivery-rate test.
