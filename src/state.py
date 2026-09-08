@@ -507,7 +507,7 @@ def prune_state(state: dict[str, Any], now: datetime, limits: StateLimits) -> bo
             key
             for key, _ in sorted(
                 delivered.items(),
-                key=lambda pair: pair[1].get("delivered_at") or "",
+                key=lambda pair: (pair[1].get("delivered_at") or "", pair[0]),
                 reverse=True,
             )[: limits.delivered_limit]
         }
