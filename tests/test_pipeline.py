@@ -151,3 +151,15 @@ def test_validate_only_checks_detail_without_writing_or_sending(pipeline):
     assert 'detail:1' in events
     assert 'send' not in events
     assert not path.exists()
+
+
+def test_validate_only_preserves_safe_telegram_diagnostic(pipeline):
+    from tests.test_telegram import notifier, success
+    tracker, _, _, _, _, path = pipeline
+    transport, _, _ = notifier([success(), (400, {'ok':False, 'error_code':400,
+                                'description':'Bad Request: chat not found'})])
+    tracker.notifier_factory = lambda: transport
+    report = tracker.run('validate-only')
+    assert report.exit_code == 2
+    assert report.delivery_error == 'telegram-getChat-http400-api400-chat-not-found'
+    assert not path.exists()

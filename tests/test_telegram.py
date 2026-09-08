@@ -100,3 +100,13 @@ def test_missing_receipt_fails_closed():
     obj, _, _ = notifier([(200, {'ok': True, 'result': {}})])
     with pytest.raises(TelegramPermanentError):
         obj.send_message('hello')
+
+
+def test_validation_failure_has_safe_diagnostic_without_response_content():
+    obj, _, _ = notifier([success(), (400, {'ok': False, 'error_code': 400,
+                            'description': 'Bad Request: chat not found private-chat secret-token'})])
+    with pytest.raises(TelegramPermanentError) as caught:
+        obj.validate_credentials()
+    assert caught.value.safe_code == 'telegram-getChat-http400-api400-chat-not-found'
+    assert 'secret-token' not in str(caught.value)
+    assert 'private-chat' not in str(caught.value)

@@ -164,6 +164,9 @@ class JobTracker:
             report = replace(report, **metrics_from_state(state.state, report.run_id, self.now()))
             return self._emit_delta(base, state, report, mode_name)
         except Exception as exc:
+            from .alerts import TelegramPermanentError
+            if isinstance(exc, TelegramPermanentError) and exc.safe_code:
+                return failure(exc.safe_code)
             return failure('tracker-phase-failed:' + type(exc).__name__)
 
     def _prepare(self, state, report, mode, validation=False):

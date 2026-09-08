@@ -20,7 +20,9 @@ class TelegramTransientError(RuntimeError):
 
 
 class TelegramPermanentError(RuntimeError):
-    pass
+    def __init__(self, message, *, safe_code=None):
+        super().__init__(message)
+        self.safe_code = safe_code
 
 
 class TelegramAuthError(TelegramPermanentError):
@@ -86,11 +88,11 @@ class TelegramNotifier:
                     body = None
                 status = response.status_code
                 if status in (401, 403):
-                    raise TelegramAuthError('Telegram authorization failed')
+                    raise self._rejection(method, status, body, TelegramAuthError)
                 transient = status in (429, 500, 502, 503, 504)
                 if not transient:
                     if status != 200 or not isinstance(body, dict) or body.get('ok') is not True:
-                        raise TelegramPermanentError('Telegram rejected the request')
+                        raise self._rejection(method, status, body)
                     if not isinstance(body.get('result'), dict):
                         raise TelegramPermanentError('Telegram returned an invalid result')
                     return body['result']
@@ -103,6 +105,24 @@ class TelegramNotifier:
                     raise TelegramTransientError('Telegram unavailable after bounded retries') from None
                 self.sleep(self._retry_delay(response, body, attempt))
         raise TelegramTransientError('Telegram retry limit exhausted')
+
+    @staticmethod
+    def _rejection(method, status, body, error_type=TelegramPermanentError):
+        # Emit only an allowlisted method, numeric codes, and a fixed reason label.
+        # Never include response descriptions, request URLs, tokens, or chat IDs.
+        method = method if method in ('getMe', 'getChat', 'sendMessage') else 'request'
+        status = status if isinstance(status, int) and 100 <= status <= 599 else 0
+        code = body.get('error_code', 0) if isinstance(body, dict) else 0
+        code = code if isinstance(code, int) and not isinstance(code, bool) and 100 <= code <= 599 else 0
+        description = str(body.get('description', '')).casefold() if isinstance(body, dict) else ''
+        reason = next((label for phrase, label in (
+            ('chat not found', 'chat-not-found'),
+            ('bot was blocked', 'bot-blocked'),
+            ('unauthorized', 'unauthorized'),
+            ('not found', 'not-found'),
+        ) if phrase in description), 'rejected')
+        safe_code = f'telegram-{method}-http{status}-api{code}-{reason}'
+        return error_type('Telegram request rejected: ' + safe_code, safe_code=safe_code)
 
     def validate_credentials(self):
         self._request('getMe', {})
