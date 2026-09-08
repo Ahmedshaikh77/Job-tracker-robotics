@@ -40,6 +40,17 @@ def test_preferred_years_do_not_become_required_years():
     assert result.preferred_minimum == 5
 
 
+def test_strictest_numeric_minimum_wins_across_required_qualifications():
+    result = _parse(
+        "Basic Qualifications: 2 years of Python. "
+        "5+ years of engineering experience."
+    )
+    assert result.stated_required_minimum == 5
+    assert result.stated_required_maximum is None
+    assert result.evidence == "5+ years of engineering experience."
+    assert result.unresolved is False
+
+
 def test_parser_ignores_dates_voltages_and_product_versions():
     result = _parse("Launched in 2026. Validate 24 V hardware running ROS 2.")
     assert result.stated_required_minimum is None

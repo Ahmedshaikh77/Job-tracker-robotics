@@ -18,7 +18,8 @@
 - Evaluation red: test collection failed because `src.evaluation` did not exist. Its green run passed 19 tests.
 - Edge-case red: 10 regressions failed for United States location variants, structured location components, authorization phrases, configurable salary caps, profile-derived degree matching, non-USD material revisions, and empty resume evidence. The focused green run passed 146 tests.
 - Authorization precedence red: 6 regressions failed for mixed positive sponsorship and personal restrictions plus common sponsorship, permanent-residency, and green-card blockers. The focused green run passed 26 tests.
-- Final owned matching suite: 232 tests passed.
+- Final eligibility audit red: 14 regressions failed for additional authorization restrictions, common qualification headings, multiple required-year statements, disallowed title levels, negated full-time text, and employee-benefit boilerplate. The focused green run passed 126 tests.
+- Final owned matching suite: 246 tests passed.
 
 ```text
 .venv/bin/python -m pytest tests/test_stage_one.py tests/test_parsing.py tests/test_experience.py tests/test_authorization.py tests/test_freshness.py tests/test_compensation.py tests/test_profile.py tests/test_qualifications.py tests/test_scoring.py tests/test_resume_routing.py tests/test_evaluation.py -q
@@ -29,6 +30,8 @@
 - Employer facts are read only from structured-feed or official-detail provenance. Tracker inference remains explicit, and an untagged description cannot establish employment, experience, authorization, compensation, or qualification facts.
 - Eligibility requires an approved non-senior title, confirmed United States location, authoritative full-time employment, a permissible zero-to-three-year requirement or approved early-career unresolved case, no authorization block, a fresh or material revision, and an exact resume route.
 - Personal citizenship, clearance, U.S.-person, ITAR, green-card, permanent-residency, and incompatible sponsorship restrictions take precedence over generic positive sponsorship language in the same posting.
+- `Basic Qualifications` and plain `Qualifications` are mandatory sections. When multiple mandatory numeric experience statements are published, the strictest minimum controls eligibility rather than the first number encountered.
+- Engineer III, Engineer IV, Engineer 3, Engineer 4, and mid-level titles are rejected at Stage 1. Official prose confirms full-time status only through a direct job-type statement; negation is rejected and employee-benefit boilerplate remains unresolved.
 - `RevisionPolicy` is injected into `assess_material_revision` and `evaluate_job`; compensation revision thresholds are not duplicated in the profile. `freshness_days` is separately injected into `evaluate_job` from runtime matching policy.
 - Required qualification matching is derived from typed candidate profile evidence. Missing required groups reduce the score and are surfaced as the important gap.
 - The evaluator preserves the observed candidate identity and reopen generation supplied by state and performs no persistence or delivery side effects.

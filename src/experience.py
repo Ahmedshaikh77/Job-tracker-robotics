@@ -55,14 +55,17 @@ def _bounds(sentence: str) -> tuple[float | None, float | None]:
     return None, None
 
 
-def _first_numeric(
+def _strictest_numeric(
     sentences: tuple[str, ...],
 ) -> tuple[float | None, float | None, str]:
+    strictest: tuple[float, float | None, str] | None = None
     for sentence in sentences:
         minimum, maximum = _bounds(sentence)
-        if minimum is not None:
-            return minimum, maximum, sentence
-    return None, None, ""
+        if minimum is not None and (
+            strictest is None or minimum > strictest[0]
+        ):
+            strictest = (minimum, maximum, sentence)
+    return strictest if strictest is not None else (None, None, "")
 
 
 def _degree_substitution(sentence: str) -> tuple[float | None, str]:
@@ -108,8 +111,10 @@ def parse_experience(
     required_evidence = ""
     preferred_evidence = ""
     if official:
-        stated_min, stated_max, required_evidence = _first_numeric(sections.required)
-        preferred_min, preferred_max, preferred_evidence = _first_numeric(
+        stated_min, stated_max, required_evidence = _strictest_numeric(
+            sections.required
+        )
+        preferred_min, preferred_max, preferred_evidence = _strictest_numeric(
             sections.preferred
         )
 

@@ -32,3 +32,14 @@ def test_unheaded_text_is_other_and_full_text_is_normalized():
     sections = split_job_sections("  Build   robotic systems.\nTest hardware.  ")
     assert sections.other == ("Build robotic systems.", "Test hardware.")
     assert sections.full_text == "Build robotic systems. Test hardware."
+
+
+def test_basic_and_plain_qualification_headings_are_required_context():
+    sections = split_job_sections(
+        "Basic Qualifications: 2 years of Python. "
+        "Qualifications: 5+ years of engineering experience."
+    )
+    assert sections.required == (
+        "2 years of Python.",
+        "5+ years of engineering experience.",
+    )

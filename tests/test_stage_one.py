@@ -61,6 +61,22 @@ def test_senior_title_is_rejected(level, make_job):
 @pytest.mark.parametrize(
     "title",
     [
+        "Robotics Test Engineer III",
+        "Robotics Test Engineer IV",
+        "Robotics Test Engineer 3",
+        "Robotics Test Engineer 4",
+        "Mid-Level Robotics Test Engineer",
+    ],
+)
+def test_disallowed_numeric_or_midlevel_title_is_rejected(title, make_job):
+    decision = stage_one(make_job(title=title))
+    assert decision.status is StageOneStatus.REJECT
+    assert any("seniority" in reason.lower() for reason in decision.reasons)
+
+
+@pytest.mark.parametrize(
+    "title",
+    [
         "Robotics Test Engineer I",
         "Robotics Test Engineer II",
         "Associate Robotics Test Engineer",
@@ -142,6 +158,32 @@ def test_official_detail_can_confirm_full_time(make_job):
     assert decision.employment_type is EmploymentType.FULL_TIME
     assert decision.employment_source is FactSource.OFFICIAL_DETAIL
     assert decision.full_time_confirmed is True
+
+
+def test_official_full_time_negation_is_not_positive_evidence(make_job):
+    decision = stage_one(
+        make_job(
+            employment_type=EmploymentType.UNKNOWN,
+            description="This is not a full-time position.",
+            provenance={"description": FactSource.OFFICIAL_DETAIL},
+        )
+    )
+    assert decision.status is StageOneStatus.REJECT
+    assert decision.employment_type is not EmploymentType.FULL_TIME
+    assert decision.full_time_confirmed is False
+
+
+def test_full_time_employee_benefit_boilerplate_does_not_confirm_job_type(make_job):
+    decision = stage_one(
+        make_job(
+            employment_type=EmploymentType.UNKNOWN,
+            description="Full-time employees receive medical and dental benefits.",
+            provenance={"description": FactSource.OFFICIAL_DETAIL},
+        )
+    )
+    assert decision.status is StageOneStatus.ENRICH
+    assert decision.employment_type is EmploymentType.UNKNOWN
+    assert decision.full_time_confirmed is False
 
 
 def test_untagged_description_cannot_confirm_full_time(make_job):

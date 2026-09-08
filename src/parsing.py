@@ -16,8 +16,10 @@ class JobSections:
 
 
 _HEADING_KIND = {
+    "basic qualifications": "required",
     "minimum qualifications": "required",
     "required qualifications": "required",
+    "qualifications": "required",
     "requirements": "required",
     "responsibilities": "responsibilities",
     "what you will do": "responsibilities",

@@ -96,12 +96,17 @@ def test_short_authorized_at_hire_wording_supports_candidate_specific_inference(
     [
         "Visa sponsorship is not available now or in the future.",
         "Candidates must be able to work without sponsorship now or in the future.",
+        "Candidates must not require sponsorship now or in the future.",
         "This position is not eligible for visa sponsorship.",
         "We are not able to provide sponsorship for this role.",
         "Candidates must obtain a Secret clearance.",
+        "Candidates must be eligible to obtain and maintain a Secret clearance.",
         "Applicants must qualify as U.S. persons.",
+        "Candidates must be a citizen of the United States.",
+        "U.S. citizen",
         "Permanent residency is required for this role.",
         "Applicants must hold a green card.",
+        "Green card holders",
     ],
 )
 def test_common_direct_restriction_wording_is_blocked(text):

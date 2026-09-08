@@ -111,7 +111,8 @@ TITLE_SIGNALS: dict[str, tuple[str, ...]] = {
 
 _TITLE_FAMILY_ORDER = tuple(TITLE_SIGNALS)
 _SENIORITY = re.compile(
-    r"\b(?:senior|sr|staff|principal|lead|manager|director|head|chief|fellow|executive)\b",
+    r"\b(?:senior|sr|staff|principal|lead|manager|director|head|chief|fellow|executive|mid[ -]?level)\b|"
+    r"\bengineer\s+(?:iii|iv|3|4)\b",
     re.IGNORECASE,
 )
 _STATE_ABBREVIATIONS = frozenset(
@@ -310,16 +311,35 @@ def resolve_employment(job: Job) -> tuple[EmploymentType, FactSource]:
     if not description:
         return EmploymentType.UNKNOWN, FactSource.UNAVAILABLE
 
+    if re.search(
+        r"\bnot (?:a )?full time (?:position|role|job)\b",
+        description,
+    ):
+        return EmploymentType.OTHER, FactSource.OFFICIAL_DETAIL
+
     patterns = (
         (EmploymentType.PART_TIME, ("part time",)),
         (EmploymentType.CONTRACT, ("contract position", "contract role", "contractor")),
         (EmploymentType.TEMPORARY, ("temporary position", "seasonal position")),
         (EmploymentType.INTERNSHIP, ("internship", "intern position", "co op")),
-        (EmploymentType.FULL_TIME, ("full time",)),
+        (
+            EmploymentType.FULL_TIME,
+            (
+                "full time position",
+                "full time role",
+                "full time job",
+                "position is full time",
+                "role is full time",
+                "employment type full time",
+                "regular full time",
+            ),
+        ),
     )
     for employment_type, phrases in patterns:
         if any(_contains_phrase(description, phrase) for phrase in phrases):
             return employment_type, FactSource.OFFICIAL_DETAIL
+    if description == "full time":
+        return EmploymentType.FULL_TIME, FactSource.OFFICIAL_DETAIL
     return EmploymentType.UNKNOWN, FactSource.UNAVAILABLE
 
 

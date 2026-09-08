@@ -32,23 +32,28 @@ def classify_authorization(
     block_patterns = [
         r"\b(?:cannot|can't|do not|don't|unable to|will not) sponsor(?:ship)?(?: now or in the future)?\b",
         r"\b(?:visa|immigration )?sponsorship is not (?:available|offered|provided)(?: now or in the future)?\b",
+        r"\bmust not require (?:visa |immigration )?sponsorship(?: now or in the future)?\b",
         r"\bwithout (?:visa |immigration )?sponsorship(?: now or in the future)?\b",
         r"\bnot eligible for (?:visa|immigration) sponsorship\b",
         r"\b(?:we|the company|the employer) (?:are |is )?(?:not able|unable) to (?:provide|offer) (?:visa |immigration )?sponsorship\b",
         r"\b(?:active|current) [a-z -]*clearance (?:is )?required\b",
         r"\b(?:security )?clearance (?:is )?required\b",
         r"\bmust (?:obtain|hold|maintain) (?:an? )?[a-z -]*clearance\b",
+        r"\bmust be eligible to (?:obtain|hold)(?: and (?:obtain|hold|maintain))? (?:an? )?[a-z -]*clearance\b",
         r"\b(?:limited to|applicants? must be|must be) (?:a |an )?(?:u\.s\.?|us|united states) persons?\b",
         r"\bmust (?:qualify|be eligible) as (?:a |an )?(?:u\.s\.?|us|united states) persons?\b",
         r"\b(?:itar|export control)[^.]{0,100}\b(?:u\.s\.?|us|united states) persons?\b",
         r"\b(?:lawful permanent residency|permanent resident status|permanent residency|green card) (?:is )?required\b",
         r"\bmust (?:hold|possess|have) (?:a )?(?:valid )?green card\b",
         r"\b(?:applicants?|candidates?) must be (?:lawful )?(?:u\.s\.? )?permanent residents?\b",
+        r"(?:^|[.;:]\s*)green card holders?(?:[.;]|$)",
     ]
     if not citizenship_negated:
         block_patterns.append(
             r"\b(?:must be|requires?|required)[^.]{0,50}(?:u\.s\.?|us|united states) citizens?\b|"
-            r"\b(?:u\.s\.?|us|united states) citizenship (?:is )?required\b"
+            r"\b(?:u\.s\.?|us|united states) citizenship (?:is )?required\b|"
+            r"\bmust be (?:an? )?citizens? of (?:the )?(?:u\.s\.?|us|united states)\b|"
+            r"(?:^|[.;:]\s*)(?:u\.s\.?|us|united states) citizens?(?:[.;]|$)"
         )
     for pattern in block_patterns:
         if match := re.search(pattern, lower):
