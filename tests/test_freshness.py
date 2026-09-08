@@ -244,6 +244,57 @@ def test_nondefault_revision_policy_controls_compensation_materiality(
     assert revision.changed_fields == ("compensation",)
 
 
+def test_non_usd_range_does_not_cross_a_usd_threshold(tmp_path, make_job):
+    manager = StateManager.load(tmp_path / "state.json")
+    job = make_job()
+    candidate_id, _ = _observed(manager, job, seed=True)
+    old = _compensation("90000", "94000")
+    new = _compensation("90000", "96000")
+    old = CompensationAssessment(
+        CompensationStatus.UNRESOLVED,
+        "unresolved",
+        3,
+        SalaryRange(
+            old.salary.minimum,
+            old.salary.maximum,
+            "EUR",
+            PayPeriod.YEAR,
+            FactSource.STRUCTURED_FEED,
+        ),
+        "EUR range",
+        FactSource.STRUCTURED_FEED,
+    )
+    new = CompensationAssessment(
+        CompensationStatus.UNRESOLVED,
+        "unresolved",
+        3,
+        SalaryRange(
+            new.salary.minimum,
+            new.salary.maximum,
+            "EUR",
+            PayPeriod.YEAR,
+            FactSource.STRUCTURED_FEED,
+        ),
+        "EUR range",
+        FactSource.STRUCTURED_FEED,
+    )
+    manager.state["candidates"][candidate_id]["seed_baseline"] = _basis(
+        job, compensation=old
+    )
+    revision = assess_material_revision(
+        job,
+        _experience(),
+        _authorization(),
+        new,
+        manager.candidate(candidate_id),
+        policy=RevisionPolicy(
+            compensation_material_change_ratio=Decimal("0.25"),
+            compensation_threshold=Decimal("95000"),
+        ),
+    )
+    assert revision.changed_fields == ()
+
+
 def test_freshness_window_is_configurable(tmp_path, make_job):
     manager = StateManager.load(tmp_path / "state.json")
     job = make_job(

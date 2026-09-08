@@ -100,6 +100,22 @@ def test_degree_does_not_match_unrelated_field(group, profile):
     assert match_qualification_groups((group,), profile) == ()
 
 
+def test_degree_matching_uses_loaded_candidate_evidence_not_a_hidden_constant(
+    tmp_path
+):
+    from tests.test_profile import _write_profile, valid_profile_dict
+
+    payload = valid_profile_dict()
+    payload["candidate"]["degree"] = "MS Electrical Engineering, Test University"
+    changed_profile = load_profile(_write_profile(tmp_path, payload))
+    assert match_qualification_groups(
+        ("degree:mechanical engineering",), changed_profile
+    ) == ()
+    assert match_qualification_groups(
+        ("degree:electrical engineering",), changed_profile
+    ) == ("degree:electrical engineering",)
+
+
 def test_qualification_coverage_uses_literal_required_ratio():
     assessment = assess_qualifications(
         ("skill:Python", "skill:C++", "skill:Rust"),

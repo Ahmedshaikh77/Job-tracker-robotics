@@ -18,9 +18,6 @@ _DEGREE_FIELDS = (
     "computer engineering",
     "aerospace engineering",
 )
-_CANDIDATE_DEGREE_FIELDS = frozenset({"mechanical engineering", "materials science"})
-
-
 def _normalise(value: str) -> str:
     return re.sub(r"\s+", " ", value).strip().casefold()
 
@@ -68,6 +65,11 @@ def match_qualification_groups(
         skill for values in profile.skills.values() for skill in values
     }
     domains = set(profile.domains)
+    candidate_degree_fields = {
+        field
+        for field in _DEGREE_FIELDS
+        if _contains(profile.candidate.degree, field)
+    }
     matched: list[str] = []
     for group in dict.fromkeys(required_groups):
         kind, separator, value = group.partition(":")
@@ -79,7 +81,7 @@ def match_qualification_groups(
             matched.append(group)
         elif kind == "degree":
             alternatives = {_normalise(item) for item in value.split("|")}
-            if alternatives.intersection(_CANDIDATE_DEGREE_FIELDS):
+            if alternatives.intersection(candidate_degree_fields):
                 matched.append(group)
     return tuple(matched)
 

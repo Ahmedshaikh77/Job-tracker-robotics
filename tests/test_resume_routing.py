@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+from dataclasses import replace
 from pathlib import Path
 
 import pytest
@@ -80,3 +81,11 @@ def test_factory_context_routes_automation_to_manufacturing(router, make_job):
         )
     )
     assert router.select(decision).role_family == "manufacturing_test"
+
+
+def test_mapped_role_without_exact_evidence_is_rejected(router, make_job):
+    decision = replace(
+        stage_one(make_job(title="Robotics Test Engineer")), role_evidence=()
+    )
+    with pytest.raises(ValueError, match="evidence"):
+        router.select(decision)

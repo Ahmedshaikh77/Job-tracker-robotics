@@ -104,9 +104,10 @@ def _compensation_material(
         return True
     if str(previous.get("currency", "")).upper() != current.get("currency"):
         return True
-    if _target_relation(previous, policy.compensation_threshold) != _target_relation(
-        current, policy.compensation_threshold
-    ):
+    currency = str(current.get("currency", "")).upper()
+    if currency == "USD" and _target_relation(
+        previous, policy.compensation_threshold
+    ) != _target_relation(current, policy.compensation_threshold):
         return True
     for field in ("minimum", "maximum"):
         old = _decimal(previous.get(field))

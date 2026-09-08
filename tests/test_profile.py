@@ -171,3 +171,10 @@ def test_profile_validation_rejects_wrong_scoring_cap(tmp_path):
     payload["scoring"]["caps"]["role_alignment"] = 24
     with pytest.raises(ProfileValidationError, match="caps"):
         load_profile(_write_profile(tmp_path, payload))
+
+
+def test_profile_validation_rejects_numerically_equal_float_cap(tmp_path):
+    payload = valid_profile_dict()
+    payload["scoring"]["caps"]["role_alignment"] = 25.0
+    with pytest.raises(ProfileValidationError, match="caps"):
+        load_profile(_write_profile(tmp_path, payload))

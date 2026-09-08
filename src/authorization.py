@@ -43,9 +43,12 @@ def classify_authorization(
 
     block_patterns = [
         r"\b(?:cannot|can't|do not|don't|unable to|will not) sponsor(?:ship)?(?: now or in the future)?\b",
+        r"\b(?:visa|immigration )?sponsorship is not (?:available|offered|provided)(?: now or in the future)?\b",
         r"\b(?:active|current) [a-z -]*clearance (?:is )?required\b",
         r"\b(?:security )?clearance (?:is )?required\b",
+        r"\bmust (?:obtain|hold|maintain) (?:an? )?[a-z -]*clearance\b",
         r"\b(?:limited to|applicants? must be|must be) (?:a |an )?(?:u\.s\.?|us|united states) persons?\b",
+        r"\bmust (?:qualify|be eligible) as (?:a |an )?(?:u\.s\.?|us|united states) persons?\b",
         r"\b(?:itar|export control)[^.]{0,100}\b(?:u\.s\.?|us|united states) persons?\b",
     ]
     if not citizenship_negated:
@@ -62,7 +65,7 @@ def classify_authorization(
             )
 
     at_hire = re.search(
-        r"\blegally authorized to work (?:in )?(?:the )?united states at (?:the )?time of hire\b",
+        r"\b(?:legally )?authorized(?: to work (?:in )?(?:the )?united states)? at (?:the )?(?:time of )?hire\b",
         lower,
     )
     if at_hire and candidate_authorization:

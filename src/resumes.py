@@ -33,6 +33,8 @@ class ResumeRouter:
             return None
         for route in self._routes:
             if route.family == decision.role_family:
+                if not decision.role_evidence:
+                    raise ValueError("mapped role requires exact Stage-1 evidence")
                 return ResumeRecommendation(
                     filename=route.filename,
                     role_family=route.family,

@@ -68,6 +68,34 @@ def test_authorized_at_hire_without_candidate_context_stays_unknown():
     assert result.status is AuthorizationStatus.UNKNOWN
 
 
+def test_short_authorized_at_hire_wording_supports_candidate_specific_inference():
+    result = classify_authorization(
+        "Must be authorized at hire.",
+        provenance=FactSource.OFFICIAL_DETAIL,
+        candidate_authorization={
+            "current_authorization": "F-1 OPT",
+            "stem_opt_eligible": True,
+            "future_sponsorship_needed": True,
+        },
+    )
+    assert result.status is AuthorizationStatus.OPT_COMPATIBLE_UNCERTAIN
+    assert result.source is FactSource.TRACKER_INFERENCE
+
+
+@pytest.mark.parametrize(
+    "text",
+    [
+        "Visa sponsorship is not available now or in the future.",
+        "Candidates must obtain a Secret clearance.",
+        "Applicants must qualify as U.S. persons.",
+    ],
+)
+def test_common_direct_restriction_wording_is_blocked(text):
+    assert classify_authorization(
+        text, provenance=FactSource.OFFICIAL_DETAIL
+    ).status is AuthorizationStatus.BLOCKED
+
+
 @pytest.mark.parametrize(
     "text",
     [

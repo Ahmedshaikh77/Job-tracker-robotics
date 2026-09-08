@@ -206,7 +206,11 @@ def load_profile(path: str | Path) -> MatchProfile:
     if type(penalty) is not int or penalty < 0:
         raise ProfileValidationError("preferred experience penalty must be non-negative")
     caps_raw = _mapping(scoring_raw["caps"], "scoring caps", set(_CAP_VALUES))
-    if dict(caps_raw) != _CAP_VALUES or sum(caps_raw.values()) != 100:
+    if (
+        any(type(value) is not int for value in caps_raw.values())
+        or dict(caps_raw) != _CAP_VALUES
+        or sum(caps_raw.values()) != 100
+    ):
         raise ProfileValidationError("scoring caps must match the version-one 100-point scale")
     caps = ScoringCaps(**dict(caps_raw))
 

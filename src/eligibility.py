@@ -281,7 +281,7 @@ def is_us_location(job: Job) -> bool:
         return False
 
     normalised = _normalise_phrase(location)
-    if re.search(r"\b(?:united states|u s a|u s)\b", normalised):
+    if re.search(r"\b(?:united states|usa|u s a|u s)\b", normalised):
         return True
     if normalised in {"remote", "worldwide remote", "remote worldwide", "global"}:
         return False
@@ -289,6 +289,12 @@ def is_us_location(job: Job) -> bool:
         return True
     comma_parts = [part.strip().upper() for part in location.split(",")]
     if any(part in _STATE_ABBREVIATIONS for part in comma_parts[1:]):
+        return True
+    region = (job.region or "").strip()
+    if job.city and (
+        region.upper() in _STATE_ABBREVIATIONS
+        or any(_contains_phrase(_normalise_phrase(region), state) for state in _STATE_NAMES)
+    ):
         return True
     return False
 

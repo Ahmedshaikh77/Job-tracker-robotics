@@ -102,6 +102,22 @@ def test_explicit_us_remote_is_accepted(make_job):
     assert stage_one(job).status is StageOneStatus.ENRICH
 
 
+@pytest.mark.parametrize("location", ["Remote, USA", "Remote, U.S."])
+def test_explicit_us_abbreviations_are_accepted(make_job, location):
+    job = make_job(location=location, country_code="")
+    assert is_us_location(job) is True
+
+
+def test_structured_city_and_region_are_accepted_without_display_suffix(make_job):
+    job = make_job(
+        location="Sunnyvale",
+        city="Sunnyvale",
+        region="CA",
+        country_code="",
+    )
+    assert is_us_location(job) is True
+
+
 def test_city_and_state_location_is_us_without_country_code(make_job):
     assert is_us_location(make_job(location="Austin, TX", country_code="")) is True
 
