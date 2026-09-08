@@ -2,6 +2,14 @@
 
 Activation and alert-repair work, September 8, 2026, New York time.
 
+## Immediate Moderate alerts
+
+The owner approved sending qualifying Moderate matches after each scan instead of waiting for the evening digest. Commit `b8697af` enables `digest.moderate_immediate: true`, bypassing only the evening and once-daily delivery gates. Existing queued Moderate entries use the same persisted queue, stale-item checks, per-message receipts, and duplicate protection. Job filters, baseline history, credentials, and daily health-summary timing were not changed.
+
+[Live verification run 34273221857](https://github.com/Ahmedshaikh77/Job-tracker-robotics/actions/runs/34273221857) ran that commit successfully with normal live mode and `current_roundup=false`. All 604 tests passed locally and in GitHub Actions. Preparation fetched 2,384 returned listings and assessed 173. Delivery sent the previously queued Skydio **Systems Integration and Test Engineer** alert; Telegram accepted it at **4:11:49 PM New York time on September 8**, message ID 10. Receipt-sync commit `27dc2ba` preserves its original queued run identity and records the successful delivery. Both job queues are empty, all 252 prior receipt records are unchanged, and the new receipt brings the total to 253. This confirms Telegram acceptance, not whether the user has read the message.
+
+The implementation was independently reviewed. Tests cover existing-queue release before evening, another qualifying match later the same day, replay without duplicate sends, receipt-delta merge/replay, delivery failure retention, dirty-state rejection, unchanged job filters and health timing, and opting back into the evening digest. Known separate issues remain: GitHub's best-effort scan timing, Tesla's blocked automated source, and the employment parser's handling of "non-internship" qualification wording. These were not changed as part of this delivery-timing request.
+
 ## Telegram readability and qualification cleanup
 
 Commits `2996bbb` and `e586bd3` simplify future Telegram cards while preserving source provenance internally. Cards retain job IDs, exact titles, work arrangement/full-time status, salary, required/preferred years, sponsorship caveats, fit, the main gap, CV and application link. Internal role/CV-choice rows and raw qualification tokens no longer appear in the message. Existing Telegram messages are not edited or resent merely to change their formatting.
@@ -51,6 +59,6 @@ For future token replacement, use [GitHub's secure secret editor](https://github
 
 ## After activation
 
-GitHub requests a scan at minutes 7, 22, 37, and 52 of every hour. Strong matches are sent after verification; moderate matches are grouped on the first successful run after 7:30 PM New York time, except when explicitly included in a manual current roundup. GitHub can delay scheduled runs, so these are requested times rather than guaranteed delivery times. Cloud scans do not require the laptop or browser to remain open; the additional Codex backup does require its local host to be available.
+GitHub requests a scan at minutes 7, 22, 37, and 52 of every hour. Qualifying Apply Now, Strong, and Moderate matches are sent after verification, with no evening wait under the current production setting. Daily health summaries retain the 7:30 PM New York schedule. GitHub can delay scheduled runs, so these are requested times rather than guaranteed delivery times. Cloud scans do not require the laptop or browser to remain open; the additional Codex backup does require its local host to be available.
 
 Manual-roundup delivery is verified above. Actual job-alert latency for a nonzero newly eligible scheduled run remains unverified until a real new match. A zero-denominator run must be reported as N/A, never as a successful delivery-rate test.
