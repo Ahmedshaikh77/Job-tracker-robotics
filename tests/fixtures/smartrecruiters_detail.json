@@ -1,0 +1,15 @@
+{
+  "id": "sr-1",
+  "name": "Robotics Systems Engineer I",
+  "applyUrl": "https://jobs.smartrecruiters.com/Intuitive/sr-1/apply",
+  "postingUrl": "https://jobs.smartrecruiters.com/Intuitive/sr-1",
+  "releasedDate": "2026-09-05T12:00:00Z",
+  "location": {"city": "Sunnyvale", "region": "CA", "country": "us"},
+  "typeOfEmployment": {"id": "FULL_TIME", "label": "Full-time"},
+  "jobAd": {
+    "sections": {
+      "jobDescription": {"text": "Full-time robotics validation role."},
+      "qualifications": {"text": "Two years of hardware integration experience."}
+    }
+  }
+}

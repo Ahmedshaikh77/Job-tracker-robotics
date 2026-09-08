@@ -1,0 +1,26 @@
+{
+  "jobs": [
+    {
+      "id": "ashby-1",
+      "title": "Hardware Integration Engineer",
+      "location": "Mountain View, CA",
+      "jobUrl": "https://jobs.ashbyhq.com/applied/ashby-1",
+      "descriptionPlain": "Full-time integration and validation.",
+      "publishedAt": "2026-09-07T14:00:00.000Z",
+      "employmentType": "FullTime",
+      "workplaceType": "OnSite",
+      "compensation": {
+        "summaryComponents": [
+          {
+            "compensationType": "Salary",
+            "minValue": 120000,
+            "maxValue": 180000,
+            "currencyCode": "USD",
+            "interval": "1 YEAR"
+          }
+        ],
+        "compensationTiers": []
+      }
+    }
+  ]
+}

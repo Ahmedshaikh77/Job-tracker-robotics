@@ -1,0 +1,14 @@
+{
+  "totalFound": 2,
+  "content": [
+    {
+      "id": "sr-1",
+      "name": "Robotics Systems Engineer I",
+      "releasedDate": "2026-09-05T12:00:00Z",
+      "location": {"city": "Sunnyvale", "region": "CA", "country": "us"},
+      "typeOfEmployment": {"id": "FULL_TIME", "label": "Full-time"},
+      "experienceLevel": {"id": "ENTRY_LEVEL", "label": "Entry level"},
+      "ref": "https://api.smartrecruiters.com/v1/companies/Intuitive/postings/sr-1"
+    }
+  ]
+}

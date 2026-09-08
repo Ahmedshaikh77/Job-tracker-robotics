@@ -1,0 +1,20 @@
+{
+  "hits": 1,
+  "jobs": [
+    {
+      "id_icims": "alias-job",
+      "title": "Advanced Manufacturing Engineer",
+      "job_path": "/en/jobs/alias-job/advanced-manufacturing-engineer",
+      "posted_date": "September 7, 2026",
+      "updated_time": "2026-09-07T12:00:00Z",
+      "description": "Build and validate automated manufacturing systems.",
+      "basic_qualifications": "Two years of engineering experience.",
+      "preferred_qualifications": "Robotics experience.",
+      "location": "US, MA, Westborough",
+      "normalized_location": "Westborough, Massachusetts, USA",
+      "city": "Westborough",
+      "state": "Massachusetts",
+      "country_code": "USA"
+    }
+  ]
+}

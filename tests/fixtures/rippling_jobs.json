@@ -1,0 +1,9 @@
+[
+  {
+    "uuid": "rip-1",
+    "name": "Robotics Hardware Engineer",
+    "department": {"id": "hardware", "label": "Hardware"},
+    "url": "https://ats.rippling.com/foundation-robotics/jobs/rip-1",
+    "workLocation": {"id": "sf", "label": "San Francisco, CA"}
+  }
+]

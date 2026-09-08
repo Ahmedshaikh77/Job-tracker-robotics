@@ -1,0 +1,16 @@
+{
+  "id": "gem-1",
+  "internal_job_id": "CHEF-101",
+  "title": "Robotics Hardware Test Engineer",
+  "content": "<p>Validate robotic systems.</p>",
+  "content_plain": "Validate robotic systems.",
+  "location": {"name": "San Francisco, CA"},
+  "location_type": "On-site",
+  "employment_type": "Full-time",
+  "created_at": "2026-09-04T12:00:00Z",
+  "first_published_at": "2026-09-05T12:00:00Z",
+  "updated_at": "2026-09-07T12:00:00Z",
+  "departments": [{"name": "Hardware"}],
+  "offices": [{"name": "San Francisco"}],
+  "absolute_url": "https://jobs.gem.com/chef-robotics/gem-1"
+}
