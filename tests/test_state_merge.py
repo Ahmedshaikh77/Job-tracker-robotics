@@ -184,6 +184,52 @@ def test_all_retention_tombstones_round_trip_exactly():
     assert apply_delta(base, delta) == final
 
 
+def test_custom_limits_drive_delta_retention_and_replay():
+    old = "2026-09-01T00:00:00Z"
+    limits = StateLimits(pending_max_age_days=5)
+    base = empty_state()
+    base["candidates"]["candidate"] = candidate(old)
+    base["delivery"]["pending_immediate"]["old-pending"] = queue_item(
+        revision="old-pending", at=old
+    )
+    final = deepcopy(base)
+    prune_state(final, NOW, limits)
+
+    delta = build_delta(
+        base,
+        final,
+        "run-custom-limits",
+        DeltaMode.LIVE_PREPARE,
+        NOW,
+        limits=limits,
+    )
+
+    assert delta.pending_removals["immediate:old-pending"]["reason"] == "expired"
+    assert apply_delta(base, delta, limits=limits) == final
+
+
+def test_apply_delta_preserves_records_retained_by_custom_limits():
+    old = "2026-08-01T00:00:00Z"
+    limits = StateLimits(pending_max_age_days=60)
+    state = empty_state()
+    state["candidates"]["candidate"] = candidate(old)
+    state["delivery"]["pending_immediate"]["retained"] = queue_item(
+        revision="retained", at=old
+    )
+    delta = build_delta(
+        state,
+        state,
+        "run-custom-limits",
+        DeltaMode.LIVE_PREPARE,
+        NOW,
+        limits=limits,
+    )
+
+    assert "retained" in apply_delta(state, delta, limits=limits)["delivery"][
+        "pending_immediate"
+    ]
+
+
 def test_run_ids_union_and_newer_remote_source_inventory_wins():
     base = empty_state()
     base["sources"]["source"] = {
@@ -217,3 +263,46 @@ def test_run_ids_union_and_newer_remote_source_inventory_wins():
     assert merged["sources"]["source"]["active_ids"] == ["1", "2"]
     assert merged["sources"]["source"]["etag"] == "remote"
     assert merged["runs"]["run"]["eligible_immediate_revision_ids"] == ["a", "b", "c"]
+
+
+def test_cli_uses_configured_state_limits(tmp_path):
+    old = "2026-08-01T00:00:00Z"
+    state = empty_state()
+    state["candidates"]["candidate"] = candidate(old)
+    state["delivery"]["pending_immediate"]["retained"] = queue_item(
+        revision="retained", at=old
+    )
+    state_path = tmp_path / "state.json"
+    state_path.write_text(json.dumps(state), encoding="utf-8")
+    config_path = tmp_path / "config.yaml"
+    config_path.write_text(
+        Path("config.yaml")
+        .read_text(encoding="utf-8")
+        .replace("pending_max_age_days: 30", "pending_max_age_days: 60"),
+        encoding="utf-8",
+    )
+    output_path = tmp_path / "merged.json"
+
+    completed = subprocess.run(
+        [
+            sys.executable,
+            "-m",
+            "src.state_merge",
+            "--state",
+            str(state_path),
+            "--delta",
+            str(FIXTURES / "noop_state_delta_v2.json"),
+            "--output",
+            str(output_path),
+            "--config",
+            str(config_path),
+        ],
+        capture_output=True,
+        text=True,
+        check=False,
+    )
+
+    assert completed.returncode == 0, completed.stderr
+    assert "retained" in json.loads(output_path.read_text())["delivery"][
+        "pending_immediate"
+    ]

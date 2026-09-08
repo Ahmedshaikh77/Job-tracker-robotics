@@ -412,6 +412,8 @@ def build_delta(
     run_id: str,
     mode: DeltaMode,
     created_at: datetime,
+    *,
+    limits: StateLimits = StateLimits(),
 ) -> StateDelta:
     """Build an exact, replayable semantic delta between valid snapshots."""
     validate_v2(base)
@@ -421,7 +423,6 @@ def build_delta(
     mode = DeltaMode(mode)
     created_z = _utc_z(created_at)
     pruned_base = deepcopy(base)
-    limits = StateLimits()
     prune_state(pruned_base, created_at.astimezone(timezone.utc), limits)
 
     removed_sources = set(base["sources"]) - set(final["sources"])
@@ -691,7 +692,10 @@ def _remote_to_v2(remote: Mapping[str, Any]) -> dict[str, Any]:
 
 
 def apply_delta(
-    remote: Mapping[str, Any], delta: StateDelta | Mapping[str, Any]
+    remote: Mapping[str, Any],
+    delta: StateDelta | Mapping[str, Any],
+    *,
+    limits: StateLimits = StateLimits(),
 ) -> dict[str, Any]:
     """Apply a delta without mutating the supplied remote snapshot."""
     if not isinstance(delta, StateDelta):
@@ -773,7 +777,7 @@ def apply_delta(
             completed_at=completion["completed_at"],
         )
 
-    prune_state(merged, parse_utc(delta.created_at), StateLimits())
+    prune_state(merged, parse_utc(delta.created_at), limits)
     validate_v2(merged)
     return merged
 
@@ -787,14 +791,18 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--state", required=True)
     parser.add_argument("--delta", required=True)
     parser.add_argument("--output", required=True)
+    parser.add_argument("--config", default="config.yaml")
     args = parser.parse_args(argv)
     output = Path(args.output)
     try:
         state_path = Path(args.state)
         delta_path = Path(args.delta)
+        from .config import build_state_limits, load_config
+
+        limits = build_state_limits(load_config(args.config))
         raw_state = _load_json(state_path)
         delta = StateDelta.from_dict(_load_json(delta_path))
-        merged = apply_delta(raw_state, delta)
+        merged = apply_delta(raw_state, delta, limits=limits)
         changed = (
             "schema_version" not in raw_state
             or canonical_state_hash(raw_state) != canonical_state_hash(merged)
