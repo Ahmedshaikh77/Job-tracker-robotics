@@ -5,10 +5,11 @@ Verified September 8, 2026 UTC (September 7 in New York).
 ## Completed
 
 - [Upgrade PR #1](https://github.com/Ahmedshaikh77/Job-tracker-robotics/pull/1) merged into main. Subsequent safe connection diagnostics are also on main.
-- 506 automated tests passed both locally and in GitHub Actions.
+- 508 automated tests passed both locally and in GitHub Actions.
 - [Initial baseline run](https://github.com/Ahmedshaikh77/Job-tracker-robotics/actions/runs/34183189667) succeeded: 5,154 source listings fetched, 193 assessments completed, zero alerts queued or delivered.
 - State schema 2 is committed. All 40 required sources and Foundation have baseline markers. Existing alert history was migrated, not reset.
-- All 40 required source inventories are healthy in persisted state. Tesla's automated endpoint is unavailable and is not represented as working. Apple is explicitly disabled. One Amazon detail failed verification and was withheld.
+- All 40 required source inventories are healthy in persisted state. Tesla's automated endpoint is unavailable and is not represented as working. Apple is explicitly disabled.
+- Amazon's initial detail-failure category represented 63 pages with multiple U.S. locations. The verified parser fix preserves every official U.S. location without relaxing country/provenance rules. The [final GitHub baseline verification](https://github.com/Ahmedshaikh77/Job-tracker-robotics/actions/runs/34183736040) succeeded and cleared all 63 Amazon detail retries. Only Tesla remains in the source-failure report. Immediate and moderate alert queues remain empty.
 - Telegram secrets remain in GitHub's encrypted secret storage. No token or chat ID was exposed in logs or reports.
 
 ## Remaining activation step
