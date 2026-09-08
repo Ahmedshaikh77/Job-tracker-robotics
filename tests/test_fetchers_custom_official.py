@@ -110,6 +110,67 @@ def test_amazon_accepts_captured_semantic_detail_page(fetch_context):
     )
 
 
+def test_amazon_accepts_captured_multiple_us_detail_locations(make_job):
+    listed = make_job(
+        source_type="amazon",
+        source_key="amazon:robotics-us",
+        company="Amazon Robotics",
+        job_id="10445359",
+        title="Electrical Test Engineer II, Hardware Test Engineering",
+        location="North Reading, Massachusetts, USA",
+        city="North Reading",
+        region="Massachusetts",
+        country_code="US",
+        url=(
+            "https://www.amazon.jobs/en/jobs/10445359/"
+            "electrical-test-engineer-ii-hardware-test-engineering"
+        ),
+    )
+    fetcher = AmazonFetcher(
+        FakeHttp(
+            [
+                TextResponse(
+                    load_text_fixture("amazon_detail_semantic_multi_location.html"),
+                    200,
+                    None,
+                    False,
+                )
+            ]
+        )
+    )
+
+    detail = fetcher.fetch_detail(AMAZON_COMPANY, listed)
+
+    assert detail.status is DetailStatus.HEALTHY
+    assert detail.job is not None
+    assert detail.job.location == "North Reading, MA, US; Westboro, MA, US"
+    assert detail.job.city == "North Reading"
+    assert detail.job.region == "MA"
+    assert detail.job.country_code == "US"
+    assert detail.job.metadata["official_locations"] == (
+        "North Reading, MA, US",
+        "Westboro, MA, US",
+    )
+    assert detail.job.provenance["location"] is FactSource.OFFICIAL_DETAIL
+
+
+def test_amazon_multiple_detail_locations_fail_closed_if_country_is_mixed(make_job):
+    listed = make_job(
+        source_type="amazon",
+        source_key="amazon:robotics-us",
+        job_id="10445359",
+    )
+    html = load_text_fixture("amazon_detail_semantic_multi_location.html").replace(
+        "USA, MA, Westboro", "Canada, ON, Toronto"
+    )
+
+    detail = AmazonFetcher(
+        FakeHttp([TextResponse(html, 200, None, False)])
+    ).fetch_detail(AMAZON_COMPANY, listed)
+
+    assert detail.status is DetailStatus.FAILED
+
+
 @pytest.mark.parametrize(
     "old,new",
     [

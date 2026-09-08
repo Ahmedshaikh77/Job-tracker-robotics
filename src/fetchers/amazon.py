@@ -282,19 +282,28 @@ def _parse_semantic_detail(parser: _AmazonPageParser, job: Job) -> Job:
         or len(parser.sections) != len(required_headings)
         or set(sections) != required_headings
         or any(not sections[heading] for heading in required_headings)
-        or len(parser.locations) != 1
+        or not parser.locations
     ):
         raise ValueError("Amazon semantic detail schema mismatch")
-    location_parts = [
-        part.strip() for part in parser.locations[0].split(",") if part.strip()
-    ]
-    if len(location_parts) < 3:
-        raise ValueError("Amazon semantic detail location is ambiguous")
-    country = normalize_country_code(location_parts[0])
-    region = location_parts[1]
-    city = ", ".join(location_parts[2:])
-    if not country or not region or not city:
-        raise ValueError("Amazon semantic detail location is ambiguous")
+    locations: list[tuple[str, str, str]] = []
+    normalized_locations: list[str] = []
+    for raw_location in parser.locations:
+        location_parts = [
+            part.strip() for part in raw_location.split(",") if part.strip()
+        ]
+        if len(location_parts) < 3:
+            raise ValueError("Amazon semantic detail location is ambiguous")
+        country = normalize_country_code(location_parts[0])
+        region = location_parts[1]
+        city = ", ".join(location_parts[2:])
+        if country != "US" or not region or not city:
+            raise ValueError("Amazon semantic detail location is ambiguous")
+        normalized = ", ".join((city, region, country))
+        if normalized in normalized_locations:
+            raise ValueError("Amazon semantic detail location is ambiguous")
+        locations.append((city, region, country))
+        normalized_locations.append(normalized)
+    city, region, country = locations[0]
     application_url = urljoin("https://www.amazon.jobs", enabled_links[0])
     parsed_url = urlsplit(application_url)
     expected_path = f"/applicant/jobs/{job.job_id}/apply"
@@ -315,15 +324,18 @@ def _parse_semantic_detail(parser: _AmazonPageParser, job: Job) -> Job:
     provenance = dict(job.provenance)
     for field_name in ("title", "description", "location", "country_code", "url"):
         provenance[field_name] = FactSource.OFFICIAL_DETAIL
+    metadata = dict(job.metadata)
+    metadata["official_locations"] = normalized_locations
     return replace(
         job,
         title=parser.title,
-        location=", ".join((city, region, country)),
+        location="; ".join(normalized_locations),
         city=city,
         region=region,
         country_code=country,
         url=application_url,
         description=description,
+        metadata=metadata,
         provenance=provenance,
     )
 
