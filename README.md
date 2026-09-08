@@ -1,212 +1,110 @@
-# Job Tracker (Robotics / Mechanical / Medical-Device edition)
+# Engineering job tracker
 
-Polls 50+ company career pages every 5 minutes, filters new postings against robotics/mechanical/mechatronics/controls/embedded and medical-device R&D criteria (new grad / early career / 2026 / 2027, US-based), and pings you on Telegram the moment a match appears.
+Official-career-source monitoring for Muhammad Ahmed Nazir Shaikh's early-career US engineering search. The tracker sends useful matches to Telegram, with the appropriate role-specific CV. It does not apply to jobs, contact employers, or invent experience.
 
-Includes an international-student safety filter that auto-drops roles requiring US citizenship, security clearance, or ITAR compliance (see `hard_exclude_anywhere` in config.yaml).
+## How alerts work
 
-Runs entirely on free-tier GitHub Actions. No server. No cost.
+- Requested scans: **every hour at minutes 17 and 47**, through GitHub Actions.
+- **Apply Now (85+) and Strong (75–84)**: sent after a successful scan verifies the official job details.
+- **Moderate (55–74)**: collected for the first successful run after **7:30 PM America/New_York**. This normally means the requested 7:47 PM run; daylight saving changes are handled automatically.
+- **Skip (below 55 or any hard eligibility failure)**: no alert.
+- No new qualifying role means no routine message. Persistent problems with high-priority sources get a separate daily health summary.
 
----
+GitHub schedules are best effort. They may start late or skip a slot, so these are requested check times, not guaranteed arrival times. A roughly 15–45 minute discovery-to-alert interval is an operating target, not a promise. The Actions summary separates exact Actions queue lag, estimated cron-slot offset, missed-slot gaps, and fetch-to-delivery time. A run with no newly eligible strong jobs has an N/A delivery-rate result, not a fabricated success.
 
-## How it works
+## What qualifies
 
-```
-GitHub Actions cron (every 5 min)
-        │
-        ▼
-   src/main.py
-        │
-        ├──► fetchers/ ──► Greenhouse, Lever, Ashby, Workday, SmartRecruiters,
-        │                  Oracle Cloud, Amazon, Google, Microsoft, Apple,
-        │                  Meta, IBM, Bloomberg, Deloitte, Accenture
-        │
-        ▼
-   filters.py  (score-based: keywords + level signals + location)
-        │
-        ▼
-   state.json  (dedupe: only fires once per job)
-        │
-        ▼
-   Telegram bot ──► your phone
-```
+The role must be in the United States, confirmed full-time, and relevant to the configured engineering families. Internships, disallowed senior titles, incompatible citizenship/clearance/export-control requirements, and explicit refusal of needed future sponsorship are excluded.
 
-State is committed back to the repo after each run so it survives across runs.
+The experience target is 0–3 years. A role above that range is withheld unless its published requirements are clearly flexible and the non-experience fit is unusually strong; any qualifying exception is capped at Moderate. Missing or ambiguous requirements are not treated as proven matches.
 
----
+Published USD compensation at or above $100,000 ranks highest. A range crossing that target is labeled as possible rather than guaranteed. Unpublished compensation remains explicitly unknown. Salary is never invented or converted from an unknown pay period.
 
-## Setup (one-time, ~15 min)
+Recent official posting dates are preferred, with a 30-day freshness window. An unknown posting date is shown as unknown alongside the tracker's first-seen date. Old roles are not called newly posted merely because the tracker first encounters them. During the first complete scan of each source, existing listings form a baseline without flooding Telegram. Later genuinely new listings and qualifying material changes can alert.
 
-### 1. Create a Telegram bot
+Every alert includes the company, exact title, location/work arrangement, posting date or first seen, salary, experience, employment status, work-authorization evidence, fit score, main gap, recommended CV, and official application link. Published facts are labeled with their source; fit and CV selection are tracker assessments. Sponsorship that is not explicitly supported by the posting remains uncertain. **Visa sponsorship does not imply green-card support.** Confirm that separately with the employer.
 
-1. On Telegram, search for **@BotFather** and start a chat.
-2. Send `/newbot`, follow the prompts, get a **bot token** that looks like `1234567890:AAH...`.
-3. Send any message to your new bot (you must initiate the chat or it can't message you).
-4. Open this URL in a browser (replace `<TOKEN>`):
-   `https://api.telegram.org/bot<TOKEN>/getUpdates`
-5. Find your **chat_id** in the JSON response — it's the `"id"` field under `"chat"`. Looks like a 9–10 digit number.
+## Sources
 
-Save the bot token and chat_id — you'll paste them into GitHub Secrets in step 4.
+The configured roster contains 42 enabled sources:
 
-### 2. Push this repo to GitHub
+| Platform | Companies |
+| --- | --- |
+| Greenhouse | Figure, Apptronik, Nimble, Neuralink, Kodiak, Agility Robotics, Waymo, Formlabs, Torc Robotics, May Mobility, Nuro, Zipline, Diligent Robotics, Viam, Path Robotics, Carbon Robotics |
+| Ashby | Applied Intuition, 1X, Matic, Fab2, Persona AI, Skydio, Aurora, Standard Bots, Cobot, Gecko Robotics, Bedrock Robotics, Physical Intelligence, Serve Robotics, Generalist |
+| Lever | Zoox, Shield AI, Pickle Robot, Robust AI, Field AI, Dexterity |
+| Other official sources | Intuitive, Chef Robotics, Boston Dynamics, Foundation, Amazon Robotics US, Tesla |
 
-```bash
-cd job-tracker
-git init
-git add .
-git commit -m "initial commit"
-gh repo create job-tracker --public --source=. --push
-```
+Foundation is provisional. Tesla is best effort because the careers interface can change or reject automated requests. Both remain visible in health reporting but do not block initial activation. Apple is explicitly disabled, not silently represented as working. A configured source is not a guarantee of current coverage: inspect the latest source-health report for the actual result.
 
-Or via the GitHub UI: create a **public** repo (needed for free unlimited Actions minutes), then push.
+CV routing lives in `profile.yaml`. It retains separate resume filenames for embedded software, electronics/hardware test, robotics hardware, sensing integration, manufacturing test, mechanical test, camera/optical work, and the other supported families. A job without a valid role-to-CV route is withheld.
 
-### 3. Enable Actions write permissions
+## Reliability and privacy
 
-In the new repo: **Settings → Actions → General → Workflow permissions** → select **"Read and write permissions"** → Save.
+1. **Prepare:** fetch complete inventories, verify shortlisted details, assess eligibility, and create a durable queue. No Telegram messages are sent.
+2. **Commit:** validate an immutable state delta and merge it onto the latest default-branch state with a normal Git push.
+3. **Deliver:** reload that committed queue, remove stale items, send job-boundary-safe message chunks, and save a receipt after each chunk.
+4. **Sync receipts:** preserve earlier successes even if a later message fails. Retries do not intentionally resend recorded receipts.
 
-This lets the workflow commit the updated `state.json` back to the repo.
+Delivery is at least once. A crash after Telegram accepts a message but before its receipt is durably saved may duplicate that chunk. The tracker favors recoverability over silently losing later messages.
 
-### 4. Add Telegram secrets
+Incomplete or anomalously shrunken feeds cannot close jobs. Two complete omissions, or an official closed/404/410 detail result, can close a listing. After three consecutive source failures the circuit pauses normal fetching and tries a daily recovery probe; it is not permanently disabled.
 
-**Settings → Secrets and variables → Actions → New repository secret**, add two:
+State schema 2 keeps compact identities, facts needed for comparison, queues, and receipts. It does not store full job descriptions. Closed candidates are retained for 90 days, undelivered entries for 30 days, receipts for 365 days subject to a 10,000-record cap, and run ledgers for 14 days. Schema-1 migration preserves previously alerted identities while discarding old bulk nonmatching records. Credentials stay in GitHub Actions secrets, never in the repository or recovery artifacts.
 
-- `TELEGRAM_BOT_TOKEN` — the bot token from step 1
-- `TELEGRAM_CHAT_ID` — your chat_id from step 1
+## GitHub setup and controls
 
-### 5. Seed the state (first run, no spam)
+Repository **Settings → Secrets and variables → Actions**:
 
-On first run there are thousands of existing jobs. Without seeding you'd get a massive flood. Seed mode marks every current job as "already seen" without alerting:
+- Secret `TELEGRAM_BOT_TOKEN`: the bot token from Telegram BotFather.
+- Secret `TELEGRAM_CHAT_ID`: the destination chat. Start the bot in Telegram first.
+- Variable `JOB_TRACKER_LIVE_ENABLED`: exactly `false` during setup; exactly `true` enables live operation.
 
-**Actions tab → Check Jobs → Run workflow** → toggle **seed** to `true` → **Run workflow**.
+The **Actions → Check Jobs → Run workflow** menu offers:
 
-Wait for it to complete (~30 sec). After this, only *brand-new* postings will trigger alerts.
+| Mode | Purpose | Sends messages? |
+| --- | --- | --- |
+| `validate-only` | Validate config/source schemas and Telegram `getMe`/`getChat` | No |
+| `dry-run` | Preview assessments without changing production state | No |
+| `seed` | Migrate state and baseline existing listings | No |
+| `smoke-test` | Send the exact supplied test payload without scanning or changing state | One |
+| `live` | Prepare, commit, deliver, and sync | Only queued eligible alerts/digests |
+| `recover-delivery` | Retry one explicitly identified persisted immediate queue while live is disabled | Only that run's remaining jobs |
 
-### 6. You're done
+Safe activation order: leave live disabled, pass tests, validate, seed all required sources, approve and send the isolated test message, then enable live. Live refuses to start when required source seed markers are missing. Production writes and sends must use the repository's default branch. One non-cancelling concurrency group prevents overlapping production runs.
 
-The cron now runs every 5 min. New matching jobs land in Telegram within ~5 min of being posted.
+GitHub may disable scheduled workflows after 60 days of repository inactivity. Re-enable **Check Jobs** on its Actions page, run validation, and confirm the activation variable. The workflow operates in GitHub's hosted environment; the laptop and browser do not need to remain open.
 
----
+## Local development
 
-## Verifying Workday & Oracle Cloud companies
-
-Many companies in `config.yaml` are marked `enabled: false` because their Workday tenant/site values need verification. To enable one:
-
-1. Visit the company's careers page (e.g. `https://goldmansachs.wd1.myworkdayjobs.com/...`).
-2. The URL pattern is `https://{host}/en-US/{site}` — copy the `host` and `site`.
-3. Open Chrome DevTools → Network tab → reload the page → find the request to `wday/cxs/{tenant}/{site}/jobs`.
-4. Update the entry in `config.yaml` and set `enabled: true`.
-5. Test locally: `python -m src.main --dry-run` (filters but doesn't send Telegram).
-
-Same idea for Oracle Cloud companies (JPMorgan, Oracle) — look for `siteNumber` in the network tab.
-
----
-
-## Tuning the filter
-
-Edit `config.yaml` under `filter:`.
-
-- **`include_keywords`** — keywords that boost relevance (add domain terms you care about)
-- **`exclude_keywords`** — title words that disqualify outright (seniority, wrong job families)
-- **`level_signals_positive`** — phrases that signal early-career fit (boost score)
-- **`locations`** — substrings allowed in the location field
-- **`min_score`** — minimum score to alert (default 3, raise to be stricter)
-
-The scoring:
-- +3 per include keyword in title
-- +1 per include keyword in description
-- +2 per level signal anywhere
-- −5 per exclude keyword in title (usually disqualifies on its own)
-
-Run `python test_filter.py` to validate changes against the test cases.
-
----
-
-## Adding more companies
-
-```yaml
-- name: SomeCompany
-  fetcher: greenhouse   # or lever / ashby / workday / smartrecruiters / oracle_cloud
-  slug: somecompany     # for greenhouse/lever/ashby/smartrecruiters
-  enabled: true
+```sh
+python -m venv .venv
+.venv/bin/python -m pip install -r requirements.txt
+.venv/bin/python -m pytest -q
+.venv/bin/python -m src.main --mode dry-run --state state.json
+.venv/bin/python -m src.health --state state.json
 ```
 
-How to figure out the ATS:
-- URL contains `boards.greenhouse.io/{slug}` → `greenhouse`, slug after the path
-- URL contains `jobs.lever.co/{slug}` → `lever`
-- URL contains `jobs.ashbyhq.com/{slug}` → `ashby`
-- URL contains `myworkdayjobs.com` → `workday` (need host + tenant + site, see above)
-- URL contains `jobs.smartrecruiters.com/{slug}` → `smartrecruiters`
-- URL contains `oraclecloud.com` → `oracle_cloud` (need host + site_number)
+Tests forbid unmocked network requests. `dry-run` is a live read-only source check, not an offline test. Stateful CLI modes require a run ID and delta output:
 
-For sites that use none of these (totally bespoke), add a new fetcher in `src/fetchers/custom.py`.
-
----
-
-## Local testing
-
-```bash
-pip install -r requirements.txt
-export TELEGRAM_BOT_TOKEN=...
-export TELEGRAM_CHAT_ID=...
-
-# Dry run - fetch + filter, log what would be sent, don't actually message
-python -m src.main --dry-run
-
-# Real run
-python -m src.main
-
-# Seed (mark all current jobs seen, don't alert)
-python -m src.main --seed
-
-# Test a single company in isolation (great for fixing a Workday config)
-python -m src.verify "Anthropic"
-python -m src.verify "Bank of America" --show 20
-
-# See which companies are healthy / failing / auto-disabled
-python -m src.health
+```sh
+python -m src.main --mode seed --state /tmp/tracker-state.json --run-id local-seed --delta-json /tmp/seed.delta.json --report-json /tmp/seed.report.json
+python -m src.main --mode live --phase prepare --state /tmp/tracker-state.json --run-id local-1 --delta-json /tmp/queue.delta.json
+python -m src.reporting summarize --state state.json --run-id gha:RUN:ATTEMPT --output /tmp/tracker-report.json
 ```
 
----
+Do not use a temporary local state file as the production merge base. The workflow helpers replay deltas against the newest committed default branch without refetching jobs or resending messages during a push retry.
 
-## Self-healing: auto-disable on repeated failures
+## Recovery and rollback
 
-If a company's fetcher errors out **6 runs in a row** (≈30 minutes), the orchestrator stops calling that company until you fix the config. This keeps the run fast and clean even if a company changes their careers site. State is in `state.json` under `company_failures`. To re-enable after fixing config: delete that company's entry under `company_failures`, or just push a successful config — the counter resets on the first success.
+For queue-sync failure, leave live disabled, download the sanitized delta artifact, and apply it to a fresh default-branch checkout:
 
-Run `python -m src.health` to see what's healthy vs failing.
-
----
-
-## Troubleshooting
-
-- **No alerts ever** → check Actions tab for run logs. Common cause: forgot to seed (step 5) so state was already populated, or no companies matched filter yet. Try `--dry-run` to see scoring. Run `python -m src.health` to see fetch health per company.
-- **Spammed with old jobs on first run** → you skipped seeding. Quick fix: delete `state.json` content (replace with `{"seen_jobs":{},"company_failures":{}}`), then run with seed=true.
-- **Telegram silent** → verify `TELEGRAM_BOT_TOKEN` + `TELEGRAM_CHAT_ID` secrets are set, and that you've sent your bot at least one message to initiate the chat.
-- **A company errors every run** → it'll be auto-disabled after 6 consecutive failures (shows up in `health` output). Then check the workflow logs to see the actual error, fix the Workday `host`/`tenant`/`site` (use `python -m src.verify "Company Name"` to test), and the counter resets on first success.
-- **Actions stops running after ~60 days of repo inactivity** → GitHub disables scheduled workflows in dormant repos. Push any commit to wake it up.
-
----
-
-## Files
-
+```sh
+python -m src.state_merge --state state.json --delta /path/to/queue.delta.json --output /tmp/recovered-state.json
 ```
-job-tracker/
-├── .github/workflows/check_jobs.yml   # cron + workflow
-├── config.yaml                         # all companies + filter rules
-├── state.json                          # jobs already seen (auto-updated)
-├── requirements.txt
-├── test_filter.py                      # sanity test for filter logic
-└── src/
-    ├── main.py                         # orchestrator
-    ├── models.py                       # Job dataclass
-    ├── filters.py                      # filter / scoring
-    ├── state.py                        # state management
-    ├── alerts.py                       # Telegram sender
-    └── fetchers/                       # per-ATS fetchers
-        ├── base.py
-        ├── greenhouse.py
-        ├── lever.py
-        ├── ashby.py
-        ├── workday.py
-        ├── smartrecruiters.py
-        ├── oracle_cloud.py
-        └── custom.py                   # Amazon, Google, MS, Apple, Meta, IBM, Bloomberg, Deloitte, Accenture
-```
+
+Inspect the validated state diff, copy the result into `state.json`, and make a normal non-force push. Only then, after confirming the exact original queued run ID, manually select `recover-delivery`, supply that run ID, and enter `SEND PENDING`. Recovery performs no scan, evaluation, moderate digest, or health-summary send.
+
+For receipt-sync failure, replay and commit the receipt delta **before** retrying delivery. If that records all successful receipts, no recovery send is needed. Never apply an unverified or mismatched delta. Artifacts expire after 14 days.
+
+For rollback, set live to `false`, restore the last known-good workflow and state together through a reviewed Git commit, and validate again before reactivation. Do not force-push or erase current receipt history without reconciling it.
