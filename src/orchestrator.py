@@ -298,15 +298,23 @@ class JobTracker:
                         and not candidate.get('migration_baseline_pending')
                         and no_delivered_equivalent
                     )
-                    origin_allowed = (
+                    seeded_origin = (
                         candidate.get('discovered_during_seed') is True
                         and candidate.get('seed_baseline') is not None
-                    ) or (
-                        candidate.get('discovered_during_seed') is not True
-                        and alertable
                     )
-                    if unsent and origin_allowed:
-                        roundup_options.append((assessment, item))
+                    post_seed_origin = candidate.get('discovered_during_seed') is not True
+                    pending_moderate = state.state['digest']['pending_moderate'].get(item.revision_id)
+                    promotable = (
+                        isinstance(pending_moderate, dict)
+                        and pending_moderate.get('candidate_id') == item.candidate_id
+                        and item.revision_id not in state.state['delivery']['pending_immediate']
+                        and state.queue_item_is_current(item)
+                        and no_delivered_equivalent
+                        and not candidate.get('migration_baseline_pending')
+                        and (seeded_origin or post_seed_origin)
+                    )
+                    if (unsent and (seeded_origin or (post_seed_origin and alertable))) or promotable:
+                        roundup_options.append((assessment, item, promotable))
                     continue
                 if mode is RunMode.DRY_RUN:
                     previews.append(item)
@@ -341,7 +349,7 @@ class JobTracker:
                 selected_candidates.add(candidate_id)
                 if len(selected) == 10:
                     break
-            for assessment, item in selected:
+            for assessment, item, promotable in selected:
                 item = replace(
                     item,
                     match_reason=(
@@ -354,8 +362,9 @@ class JobTracker:
                     continue
                 if state.queue_immediate(item):
                     qi += 1
-                    immediate_ids.append(item.revision_id)
-                    state.record_alert_basis(assessment, item.queued_at)
+                    if not promotable:
+                        immediate_ids.append(item.revision_id)
+                        state.record_alert_basis(assessment, item.queued_at)
 
         if not validation:
             for source, future in scans:

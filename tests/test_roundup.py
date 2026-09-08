@@ -558,6 +558,48 @@ def test_unselected_new_candidate_remains_alertable_after_roundup_cap(
     }
 
 
+def test_current_roundup_promotes_a_reverified_pending_moderate_without_reattribution(
+    roundup_harness,
+):
+    harness = roundup_harness
+    harness.seed()
+    job = harness.add_job("pending-moderate")
+
+    normal = harness.tracker.run(
+        "live",
+        phase="prepare",
+        event="schedule",
+        run_id="original-moderate-run",
+    )
+    assert normal.queued_moderate == 1
+    manager = StateManager.load(harness.path)
+    original = manager.pending_moderate()[0]
+    assert manager.pending_immediate() == ()
+
+    before = harness.path.read_bytes()
+    harness.detail_calls.clear()
+    preview = harness.tracker.run("dry-run", current_roundup=True)
+    assert [item.revision_id for item in preview.preview_items] == [original.revision_id]
+    assert harness.identity(job) in harness.detail_calls
+    assert harness.path.read_bytes() == before
+
+    promoted = harness.tracker.run(
+        "live",
+        phase="prepare",
+        run_id="roundup-promotion-run",
+        current_roundup=True,
+    )
+
+    assert promoted.queued_immediate == 1
+    manager = StateManager.load(harness.path)
+    assert manager.pending_moderate() == ()
+    assert len(manager.pending_immediate()) == 1
+    item = manager.pending_immediate()[0]
+    assert item.revision_id == original.revision_id
+    assert item.queued_run_id == "original-moderate-run"
+    assert "roundup-promotion-run" not in manager.state["runs"]
+
+
 def test_roundup_delivery_uses_a_generic_verified_matches_heading(roundup_harness):
     harness = roundup_harness
     harness.add_job("heading")
